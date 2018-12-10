@@ -1,0 +1,56 @@
+permalink: /:title:output_ext
+
+topnav_title: Anarchism and Science Fiction - A Reading and Viewing List
+# this appears on the top navigation bar next to the home button
+
+site_title: Anarchism and Science Fiction
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+host: 127.0.0.1
+# the preview server used. Leave as is.
+
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+
+google_analytics:
+
+# extlinks:
+#   attributes: {target: _blank, onclick: "linkclick(event, this)"}
+# This tells the extlinks plugin which attribute to add to links
+
+plugins:
+  # - algoliasearch-jekyll
+
+# algolia:
+#   application_id: "1ITT6KY19C"
+#   index_name: "dev_BASE"
+# #values for the Algolia plugin
+
+
+github: [metadata]
+#needed so that Github APIs don't throw a fit
+
+exclude:
+  - .idea/
+  - .gitignore
+# these are the files and directories that jekyll will exclude from the build
+
+highlighter: rouge
+# library used for syntax highlighting
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+ smart_quotes: ["apos", "apos", "quot", "quot"]
+
+# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
+
+description: "Anarchism and science fiction - A reading and viewing list"
+# the description is used in the feed.xml file
+
+
+url:
+# needed for sitemap.xml file only
