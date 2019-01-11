@@ -172,10 +172,10 @@ a {
     border: 2px solid #00baba;
     border-radius: 10px;
     background-color: #080c13;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.71;
-    color: #4a4a4a;
-    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: #a89e8a;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     padding-left: 15px;
     width: 45%;
   }
