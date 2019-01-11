@@ -181,10 +181,11 @@ a {
   }
 
   .glowbox::before {
-    content: "\f06e";
+    content: "\f135";
     color: #00baba;
     font-family: "FontAwesome";
     font-size: 18px;
+    font-style: normal;
     font-weight: 900;
     margin-right: 5px;
     position: relative;
