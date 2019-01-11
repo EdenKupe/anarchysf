@@ -1,39 +1,140 @@
 /*CSS Grid Begins */
 
+* {
+  margin: 0;
+}
+
+html {
+  font-family: 'Montserrat',Arial,sans-serif;
+}
+
+a {
+  color: #00BABA;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 700;
+}
+
 @supports (display: grid) {
 
   #homewrapper {
     width: 100%;
     height: 100%;
     display: grid;
-    grid-template-rows: 300px 670px 250px 250px 250px 50px;
+    grid-template-rows: 120px 670px 250px 250px 250px 50px;
+    grid-template-columns: 4fr 8fr;
   }
 
   #homeheader {
     display: flex;
     width: 100%;
     grid-row: 1 / 2;
+    grid-column: 1 / span 3;
     align-items: center;
     justify-content: center;
+    background-color: #090809;
+    border-bottom: 1px solid #29303d;
+    box-shadow: 0 1rem 5rem -0.5rem #000;
+    position: sticky;
+    top: 0;
+  }
+
+  #homeheader > div {
+    flex: 1;
   }
 
   #homeheader #hometitle {
-    font-size: 40px;
-    font-family: "Roboto Slab", "Roboto", Helvetica, sans-serif;
+    font-size: 18px;
+
     text-align: center;
+    margin-right: 100px;
+    color: #F97373;
+  }
+
+  #homeheader #hometitle span {
+    font-family: 'Montserrat',Arial,sans-serif;
+  }
+
+  #homeheader #aa-search-input {
+    margin-right: 50px;
+  }
+
+  #headerbuttons {
+    display: flex;
+  }
+
+  #headerbuttons .headerbutton a {
+    text-decoration: none;
+    color: #F97373;
+  }
+
+  #headerbuttons #contribute {
+    margin-right: 10px;
+  }
+
+  #sidebar {
+    display: flex;
+    grid-column: 1 / span 1;
+    grid-row: 2 / span 4;
+    box-shadow: inset -9rem 0 9rem -9rem #000;
+    border-right: 1px solid #29303d;
+    background-color: #090809;
+  }
+
+  #sidebar #articlelist {
+    top: 150px;
+    position: fixed;
+  }
+
+  .sidebararticles {
+    position: relative;
+    display: none;
+  }
+
+  #sidebar ul li {
+    list-style: none;
+    font-family: 'Montserrat',Arial,sans-serif;
+    font-size: 16px;
+    color: #F4998D;
+    font-weight: bold;
+    margin-right: 150px;
   }
 
   #homehero {
     width: 100%;
-    grid-row: 2 / 3;
+    grid-row: 2 / 6;
+    grid-column: 2 / span 1;
     display: flex;
     flex-direction: column;
     padding-top: 20px;
-    align-items: center;
+    font-family: 'Montserrat',Arial,sans-serif;
+    background-color: #090809;
+
+  }
+
+  #homehero h1 {
+    color: #F97373;
     font-size: 40px;
-    font-family: "Roboto Slab", "Roboto", Helvetica, sans-serif;
-    background-color: #5879DA;
-    color: #fff;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 50px;
+  }
+
+  #homehero h2 {
+    color: #F4998D;
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+  }
+
+  #homehero p {
+    color: #a89e8a;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 50%;
+    line-height: 1.5em;
   }
 
   .articlerow {
@@ -54,9 +155,9 @@
     align-items: center;
     justify-content: center;
     font-size: 30px;
-    font-family: "Roboto", "Open Sans", Helvetica, sans-serif;
+    font-family: 'Montserrat',Arial,sans-serif;
     background-color: #162036;
-    color: #fff;
+    color: #F4998D;
   }
 
   .homepanel:nth-child(4) {
@@ -66,8 +167,8 @@
     align-items: center;
     justify-content: center;
     font-size: 30px;
-    font-family: "Roboto", "Open Sans", Helvetica, sans-serif;
-    background-color: #fff;
+    font-family: 'Montserrat',Arial,sans-serif;
+    background-color: #F4998D;
   }
 
   .homepanel:nth-child(5) {
@@ -77,9 +178,9 @@
     align-items: center;
     justify-content: center;
     font-size: 30px;
-    font-family: "Roboto", "Open Sans", Helvetica, sans-serif;
+    font-family: 'Montserrat',Arial,sans-serif;
     background-color: #162036;
-    color: #fff;
+    color: #F4998D;
   }
 
   #homefooter {

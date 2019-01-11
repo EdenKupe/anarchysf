@@ -5,29 +5,54 @@
 </head>
 <body>
   <div id="homewrapper">
-  <div id="homeheader"><div id="hometitle"><span>{{ site.topnav_title }}<span></div></div>
-  <div id="homehero">
-    <span>Choose an Article Below</span>
-    <div class="articlerow">
-      {% assign sortedPages = site.pages | sort: 'title' %}
-      {% for page in site.pages %}
-      {% if page.title %}
-      <a class="articleitem" href="{{ page.url }}"><span class="articlebox">{{ page.title }}</span></a>
-      {% endif %}
-      {% endfor %}
+  <div id="homeheader">
+    <div id="hometitle"><span>{{ site.topnav_title }}<span></div>
+    <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" />
+    <div id="headerbuttons">
+      <div id="contribute" class="headerbutton"><a href="">Contribute!</a></div>
+      <div id="about" class="headerbutton"><a href="">About AnarchySF</a></div>
     </div>
   </div>
-  <div class="homepanel"><span>I am a panel</span></div>
-  <div class="homepanel"><span>I am a panel</span></div>
-  <div class="homepanel"><span>I am a panel</span></div>
+  <div id="sidebar">
+    <ul id="articlelist">
+      <li id="sidebararticleitem">
+        <span class="sidebararticleitemtitle canOpen">A</span>
+        <ul class="sidebararticles getsOpened">
+          {% assign sortedPages = site.pages | sort: 'author' %}
+          {% for page in site.pages %}
+          {% if page.category == 'a' %}
+          <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
+    </li>
+    <li id="sidebararticleitem">
+      <span class="sidebararticleitemtitle canOpen">B</span>
+      <ul class="sidebararticles getsOpened">
+        {% assign sortedPages = site.pages | sort: 'author' %}
+        {% for page in site.pages %}
+        {% if page.category == 'b' %}
+        <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+  </li>
+      <li id="sidebararticleitem">C</li>
+      <li id="sidebararticleitem">D</li>
+      <li id="sidebararticleitem">E</li>
+      <li id="sidebararticleitem">F</li>
+    </ul>
+  </div>
+  <div id="homehero">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </div>
   <div id="homefooter">
-    <span>LivePerson Inc 2018 | <a href="https://www.liveperson.com/policies/copyright">Copyright Control</a>
-    </span>
+    Anarchy is good and also cool
   </div>
 </div>
-<script type="text/javascript">
-
-</script>
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}
