@@ -10,7 +10,7 @@
     <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" />
     <div id="headerbuttons">
       <div id="contribute" class="headerbutton"><a href="">Contribute!</a></div>
-      <div id="about" class="headerbutton"><a href="">About AnarchySF</a></div>
+      <div id="about" class="headerbutton"><a href="about.html">About AnarchySF</a></div>
     </div>
   </div>
   <div id="sidebar">
@@ -39,10 +39,294 @@
       </ul>
     </li>
   </li>
-      <li id="sidebararticleitem">C</li>
-      <li id="sidebararticleitem">D</li>
-      <li id="sidebararticleitem">E</li>
-      <li id="sidebararticleitem">F</li>
+  <li id="sidebararticleitem">
+    <span class="sidebararticleitemtitle canOpen">C</span>
+    <ul class="sidebararticles getsOpened">
+      {% assign sortedPages = site.pages | sort: 'author' %}
+      {% for page in site.pages %}
+      {% if page.category == 'c' %}
+      <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">D</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'd' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">E</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'e' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">F</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'F' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">G</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'g' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">H</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'h' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">I</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'i' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">J</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'j' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">K</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'k' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">L</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'l' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">M</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'm' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">N</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'n' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">O</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'o' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">P</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'p' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">Q</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'q' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">R</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'r' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">S</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 's' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">T</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 't' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">U</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'u' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">V</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'v' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">W</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'w' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">X</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 'x' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">Y</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 't' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
+<li id="sidebararticleitem">
+  <span class="sidebararticleitemtitle canOpen">Z</span>
+  <ul class="sidebararticles getsOpened">
+    {% assign sortedPages = site.pages | sort: 'author' %}
+    {% for page in site.pages %}
+    {% if page.category == 't' %}
+    <li class="articleitem"><a href="{{ page.url }}"><span class="articlebox">{{ page.author }}</span></a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</li>
+</li>
     </ul>
   </div>
   <div id="homehero">

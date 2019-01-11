@@ -79,11 +79,15 @@ a {
     box-shadow: inset -9rem 0 9rem -9rem #000;
     border-right: 1px solid #29303d;
     background-color: #090809;
+    justify-content: flex-end;
   }
 
   #sidebar #articlelist {
     top: 150px;
     position: fixed;
+    width: 20%;
+    height: 769px;
+    overflow-y: auto;
   }
 
   .sidebararticles {
@@ -98,7 +102,21 @@ a {
     color: #F4998D;
     font-weight: bold;
     margin-right: 150px;
+    width: 100%;
   }
+
+#articlelist::-webkit-scrollbar-track {
+	background-color: #090809;
+}
+
+#articlelist::-webkit-scrollbar{
+	width: 10px;
+	background-color: #3d4558;
+}
+
+#articlelist::-webkit-scrollbar-thumb {
+	background-color: #53576E;
+}
 
   #homehero {
     width: 100%;
@@ -148,39 +166,33 @@ a {
     font-size: 19px;
   }
 
-  .homepanel:nth-child(3) {
-    width: 100%;
-    grid-row: 3 / 4;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    font-family: 'Montserrat',Arial,sans-serif;
-    background-color: #162036;
-    color: #F4998D;
+  .glowbox {
+    padding: 12px 24px 12px 30px;
+    margin: 2em 0 2em 50px;
+    border: 2px solid #00baba;
+    border-radius: 10px;
+    background-color: #080c13;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #4a4a4a;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+    width: 45%;
   }
 
-  .homepanel:nth-child(4) {
-    width: 100%;
-    grid-row: 4 / 5;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    font-family: 'Montserrat',Arial,sans-serif;
-    background-color: #F4998D;
+  .glowbox::before {
+    content: "\f06e";
+    color: #00baba;
+    font-family: "FontAwesome";
+    font-size: 18px;
+    font-weight: 900;
+    margin-right: 5px;
+    position: relative;
+    top: 1px;
   }
 
-  .homepanel:nth-child(5) {
-    width: 100%;
-    grid-row: 5 / 6;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    font-family: 'Montserrat',Arial,sans-serif;
-    background-color: #162036;
-    color: #F4998D;
+  .glowbox p:not(:first-child) {
+    margin-left: -25px;
   }
 
   #homefooter {
