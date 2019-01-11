@@ -10,4 +10,4 @@ This archive was first collected and organized by [Ben Beck](http://benbeck.co.u
 
 There is, too, a natural tendency to view space, and space exploration, as a metaphor for the freedom so dear to anarchists. But this is not to say that science fiction is in itself quintessentially anarchist. This website seeks only to explore such science fiction as has been created by anarchists or anarchist sympathizers, has been subject to notice by anarchist critics, or indeed has been attacked by anarchist critics. Just an anarchist take on science fiction, if you like."
 
-<div class="glowbox"> Let's get started! Choose a letter from the sidebar on the left to view its entries, <a href="https://github.com/EdenKupe/anarchysf">contribute your own entries via GitHub</a> or read our a little bit more <a href="about.html">about us</a>!</div>
+<div class="glowbox"> Let's get started! Choose a letter from the sidebar on the left to view its entries, <a href="https://github.com/EdenKupe/anarchysf">contribute your own entries via GitHub</a> or read a little bit more <a href="about.html">about us</a>!</div>
