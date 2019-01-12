@@ -17,8 +17,14 @@
         <ul class="sidebararticles getsOpened">
           {% assign sortedPages = site.pages | sort: 'title' %}
           {% for page in sortedPages %}
+          {% if page.format == "book" %}
           {% if page.category == letter.lettername %}
           <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.author }}</span></a>
+          {% endif %}
+          {% elsif page.format == "film" %}
+          {% if page.category == letter.lettername %}
+          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.title }}</span></a>
+          {% endif %}
           {% endif %}
           {% endfor %}
         </ul>
@@ -32,7 +38,8 @@
     {{ content }}
     {% for letter in site.data.documents %}
     <h2 class="lettertitle">{{ letter.lettername }}</h2>
-    {% for page in site.pages %}
+    {% assign sortedPages = site.pages | sort: 'title' %}
+    {% for page in sortedPages %}
     {% if page.category == letter.lettername %}
     <div class="titlecontainer">
     <h3 class="pagetitle">{{ page.author }} // {{ page.title }}</h3>
