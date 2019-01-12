@@ -14,7 +14,7 @@ function sideBarClick () {
 		var nextGetsOpened = $(this).next(".getsOpened");
 		var childCanOpen = nextGetsOpened.find(".canOpen");
 		if (hasExpanded) {
-			$(this).removeClass("activeitem");
+			$(this).removeClass("openitem");
 			childCanOpen.removeClass("activeitem");
 			$(this).data("expanded", "false");
 			nextGetsOpened.slideUp(500);
@@ -22,7 +22,7 @@ function sideBarClick () {
 			childCanOpen.data("expanded", "false");
 		} else {
 			$(".itemdetails").removeClass("activeitem");
-			$(this).addClass("activeitem")
+			$(this).addClass("openitem")
 			$(this).data("expanded", "true");
 			$(this).next(".getsOpened").slideDown(500);
 	};

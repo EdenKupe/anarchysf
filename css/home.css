@@ -85,9 +85,11 @@ a {
   #sidebar #articlelist {
     top: 150px;
     position: fixed;
-    width: 20%;
     height: 769px;
     overflow-y: auto;
+    text-align: right;
+    padding-right: 25px;
+
   }
 
   .sidebararticles {
@@ -213,6 +215,18 @@ a {
   .sidebararticleitemtitle {
     cursor: pointer;
     text-transform: uppercase;
+    -webkit-transition: padding-right 0.15s ease-out;
+    -moz-transition: padding-right 0.15s ease-out;
+    -o-transition: padding-right 0.15s ease-out;
+    transition: padding-right 0.15s ease-out;
+  }
+
+  .sidebararticleitemtitle.openitem {
+    padding-right: 115px;
+    -webkit-transition: padding-right 0.15s ease-out;
+    -moz-transition: padding-right 0.15s ease-out;
+    -o-transition: padding-right 0.15s ease-out;
+    transition: padding-right 0.15s ease-out;
   }
 
   .glowbox {
