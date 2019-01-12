@@ -1,5 +1,10 @@
 $(document).ready(function () {
   sideBarClick ();
+  anchors.options = {
+  truncate: '400',
+};
+  anchors.add('h3');
+  var scroll = new SmoothScroll('a[href*="#"]', { offset: 140});
 })
 
 

@@ -21,7 +21,7 @@ a {
     width: 100%;
     height: 100%;
     display: grid;
-    grid-template-rows: 120px 670px 250px 250px 250px 50px;
+    grid-template-rows: 120px auto 250px 250px 250px 50px;
     grid-template-columns: 4fr 8fr;
   }
 
@@ -37,15 +37,15 @@ a {
     box-shadow: 0 1rem 5rem -0.5rem #000;
     position: sticky;
     top: 0;
+    z-index: 1;
   }
 
   #homeheader > div {
     flex: 1;
   }
 
-  #homeheader #hometitle {
+  #homeheader #hometitle a {
     font-size: 18px;
-
     text-align: center;
     margin-right: 100px;
     color: #F97373;
@@ -136,6 +136,7 @@ a {
     margin-bottom: 25px;
     margin-top: 25px;
     margin-left: 50px;
+    width: 40%;
   }
 
   #homehero h2 {
@@ -143,9 +144,11 @@ a {
     font-size: 30px;
     margin-bottom: 25px;
     margin-left: 50px;
+    width: 40%;
   }
 
-  #homehero p {
+
+  #homehero > p {
     color: #a89e8a;
     font-size: 16px;
     margin: 0;
@@ -153,6 +156,47 @@ a {
     margin-left: 50px;
     width: 50%;
     line-height: 1.5em;
+  }
+
+  #homehero .lettertitle {
+    width: 10%;
+  }
+
+  #homehero .pagecontent {
+    width: 50%;
+  }
+
+  .pagecontent p {
+    width: 100%;
+    color: #a89e8a;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    line-height: 1.5em;
+  }
+
+  .titlecontainer {
+    margin-bottom: 25px;
+    margin-left: 50px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titlecontainer .pagetitle {
+    font-weight: bold;
+    color: #f4998d;
+    font-size: 20px;
+  }
+
+  .datereleased {
+    color: grey;
+    font-size: 12px;
+  }
+
+  #homehero .pagehr {
+    width: 70%
   }
 
   .articlerow {
@@ -166,6 +210,11 @@ a {
     font-size: 19px;
   }
 
+  .sidebararticleitemtitle {
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+
   .glowbox {
     padding: 12px 24px 12px 30px;
     margin: 2em 0 2em 50px;
@@ -177,7 +226,7 @@ a {
     color: #a89e8a;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     padding-left: 15px;
-    width: 45%;
+    width: 50%;
   }
 
   .glowbox::before {
@@ -190,6 +239,7 @@ a {
     margin-right: 5px;
     position: relative;
     top: 1px;
+    z-index: 0;
   }
 
   .glowbox p:not(:first-child) {
