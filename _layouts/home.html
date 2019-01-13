@@ -12,7 +12,7 @@
   <div id="sidebar">
     <ul id="articlelist">
       {% for letter in site.data.documents %}
-      <li id="sidebararticleitem">
+      <li class="sidebararticleitem">
         <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }}</span>
         <ul class="sidebararticles getsOpened">
           {% assign sortedPages = site.pages | sort: 'title' %}
@@ -34,6 +34,7 @@
     </ul>
   </div>
   <div id="homehero">
+    <div id="pagecontent">
     <h1>{{ page.title }}</h1>
     {{ content }}
     {% for letter in site.data.documents %}
@@ -45,13 +46,14 @@
     <h3 class="pagetitle">{{ page.author }} // {{ page.title }}</h3>
     <div class="datereleased">({{ page.yearReleased}})</div>
     </div>
-    <div class="pagecontent">{{ page.content }}</div>
+    <div class="lowerpagecontent">{{ page.content }}</div>
     {% if forloop.last %}
     <hr class="pagehr" />
     {% endif %}
     {% endif %}
     {% endfor %}
     {% endfor %}
+  </div>
   </div>
   <div id="homefooter">
     Anarchy is good and also cool

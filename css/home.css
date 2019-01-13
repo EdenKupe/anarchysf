@@ -22,7 +22,7 @@ a {
     height: 100%;
     display: grid;
     grid-template-rows: 120px auto 250px 250px 250px 50px;
-    grid-template-columns: 4fr 8fr;
+    grid-template-columns: 8fr 4fr;
   }
 
   #homeheader {
@@ -41,7 +41,7 @@ a {
   }
 
   #homeheader > div {
-    flex: 1;
+  
   }
 
   #homeheader #hometitle a {
@@ -74,22 +74,21 @@ a {
 
   #sidebar {
     display: flex;
-    grid-column: 1 / span 1;
+    grid-column: 2 / span 1;
     grid-row: 2 / span 4;
     box-shadow: inset -9rem 0 9rem -9rem #000;
-    border-right: 1px solid #29303d;
+    border-left: 1px solid #29303d;
     background-color: #090809;
-    justify-content: flex-end;
+    justify-content: flex-start;
   }
 
   #sidebar #articlelist {
-    top: 150px;
+    top: 170px;
     position: fixed;
     height: 769px;
     overflow-y: auto;
-    text-align: right;
-    padding-right: 25px;
-
+    padding-inline-start: 0;
+    padding-left: 25px;
   }
 
   .sidebararticles {
@@ -100,11 +99,13 @@ a {
   #sidebar ul li {
     list-style: none;
     font-family: 'Montserrat',Arial,sans-serif;
-    font-size: 16px;
     color: #F4998D;
     font-weight: bold;
-    margin-right: 150px;
     width: 100%;
+  }
+
+  #sidebar ul li.sidebararticleitem {
+    font-size: 22px;
   }
 
 #articlelist::-webkit-scrollbar-track {
@@ -123,13 +124,18 @@ a {
   #homehero {
     width: 100%;
     grid-row: 2 / 6;
-    grid-column: 2 / span 1;
-    display: flex;
-    flex-direction: column;
+    grid-column: 1 / span 1;
+    display: grid;
+    grid-template-columns: 2fr 4fr 1fr;
     padding-top: 20px;
     font-family: 'Montserrat',Arial,sans-serif;
     background-color: #090809;
+  }
 
+  #pagecontent {
+    display: flex;
+    flex-direction: column;
+    grid-column: 2 / span 1;
   }
 
   #homehero h1 {
@@ -138,7 +144,6 @@ a {
     margin-bottom: 25px;
     margin-top: 25px;
     margin-left: 50px;
-    width: 40%;
   }
 
   #homehero h2 {
@@ -146,17 +151,15 @@ a {
     font-size: 30px;
     margin-bottom: 25px;
     margin-left: 50px;
-    width: 40%;
   }
 
 
-  #homehero > p {
+  #pagecontent > p {
     color: #a89e8a;
     font-size: 16px;
     margin: 0;
     margin-bottom: 20px;
     margin-left: 50px;
-    width: 50%;
     line-height: 1.5em;
   }
 
@@ -164,11 +167,11 @@ a {
     width: 10%;
   }
 
-  #homehero .pagecontent {
-    width: 50%;
+  #homehero .lowerpagecontent {
+    width: 100%;
   }
 
-  .pagecontent p {
+  .lowerpagecontent p {
     width: 100%;
     color: #a89e8a;
     font-size: 16px;
@@ -181,7 +184,6 @@ a {
   .titlecontainer {
     margin-bottom: 25px;
     margin-left: 50px;
-    width: 40%;
     display: flex;
     flex-direction: column;
   }
@@ -208,7 +210,7 @@ a {
   }
 
   .articleitem {
-    margin-right: 10px;
+    margin-left: -20px;
     font-size: 19px;
   }
 
@@ -240,7 +242,6 @@ a {
     color: #a89e8a;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     padding-left: 15px;
-    width: 50%;
   }
 
   .glowbox::before {
