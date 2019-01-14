@@ -44,22 +44,6 @@
     <div id="pagecontent">
     <h1>{{ page.title }}</h1>
     {{ content }}
-    {% for letter in site.data.documents %}
-    <h2 class="lettertitle">{{ letter.lettername }}</h2>
-    {% assign sortedPages = site.pages | sort: 'title' %}
-    {% for page in sortedPages %}
-    {% if page.category == letter.lettername %}
-    <div class="titlecontainer">
-    <h3 class="pagetitle">{{ page.author }} // {{ page.title }}</h3>
-    <div class="datereleased">({{ page.yearReleased}})</div>
-    </div>
-    <div class="lowerpagecontent">{{ page.content }}</div>
-    {% if forloop.last %}
-    <hr class="pagehr" />
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
   </div>
   </div>
   <div id="homefooter">
