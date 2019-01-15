@@ -5,7 +5,7 @@ $(document).ready(function () {
 };
   anchors.add('h3');
   linkload();
-  var scroll = new SmoothScroll('a[href*="#"]', { offset: 140});
+  var scroll = new SmoothScroll('a[href*="#"]', { offset: 170});
 })
 
 

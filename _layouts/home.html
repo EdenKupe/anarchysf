@@ -19,8 +19,7 @@
       <li class="sidebararticleitem">
         <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }}</span>
         <ul class="sidebararticles getsOpened">
-          {% assign sortedPages = site.pages | sort: 'title' %}
-          {% for page in sortedPages %}
+          {% for page in site.pages %}
           {% if page.format == "book" %}
           {% if page.category == letter.lettername %}
           <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.author }}</span></a>
