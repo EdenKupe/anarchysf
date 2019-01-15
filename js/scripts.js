@@ -103,7 +103,7 @@ function celestialToggle() {
 		$(".fa-moon").addClass("far");
     $('#celestialbuttons i').css("color", "black");
     $('.fa-sun').addClass("shining");
-	} else if (selectedCelestialMode == 'dark') {
+	} else if (selectedCelestialMode == 'dark' || selectedCelestialMode == null) {
 		$("#homewrapper").addClass("darken");
 		$(".fa-moon").removeClass("far");
 		$(".fa-moon").addClass("fas");
