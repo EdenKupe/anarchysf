@@ -5,9 +5,9 @@ $(document).ready(function () {
 };
   anchors.add('h3');
   linkload();
+  celestialToggle();
   var scroll = new SmoothScroll('a[href*="#"]', { offset: 170});
-})
-
+});
 
 function navigateContent(url) {
 	//call ajax with the target url
@@ -93,3 +93,41 @@ function sideBarClick () {
 	return false;
 });
 };
+
+function celestialToggle() {
+  //simple code for removing and adding the darken and lighten classes + localStorage to remember the user's choice
+	var selectedCelestialMode = localStorage.getItem('selectedMode');
+	if (selectedCelestialMode == 'light') {
+		$("#homewrapper").removeClass("darken");
+		$(".fa-moon").removeClass("fas");
+		$(".fa-moon").addClass("far");
+    $('#celestialbuttons i').css("color", "black");
+    $('.fa-sun').addClass("shining");
+	} else if (selectedCelestialMode == 'dark') {
+		$("#homewrapper").addClass("darken");
+		$(".fa-moon").removeClass("far");
+		$(".fa-moon").addClass("fas");
+    $('#celestialbuttons i').css("color", "#fff");
+    $('.fa-moon').addClass("shining");
+	}
+	$('.fa-sun').click(function () {
+		if ($("#homewrapper").hasClass("darken")) {
+			$(".fa-moon").removeClass("fas");
+			$(".fa-moon").addClass("far");
+			$("#homewrapper").removeClass("darken");
+      $('#celestialbuttons i').css("color", "black");
+      $('i').removeClass("shining");
+      $(this).addClass("shining");
+			localStorage.setItem('selectedMode', 'light');
+		}
+  });
+    $('.fa-moon').click(function () {
+			$(".fa-moon").removeClass("far");
+			$(".fa-moon").addClass("fas");
+			$("#homewrapper").addClass("darken");
+      $('#celestialbuttons i').css("color", "#fff");
+      $('i').removeClass("shining");
+      $(this).addClass("shining");
+			localStorage.setItem('selectedMode', 'dark');
+		});
+	 };

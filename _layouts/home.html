@@ -4,7 +4,7 @@
     {% include head.html %}
 </head>
 <body>
-  <div id="homewrapper">
+  <div id="homewrapper" class="darken">
   <div id="homeheader">
     <div id="hometitle">
         <a onclick="linkclick(event,this)" href="/about.html">About us</a>
@@ -39,6 +39,10 @@
   <div id="homehero">
     <div id="astronaut">
       <img src="img/astronautnotext.png" />
+      <div id="celestialbuttons">
+        <i class="fas fa-sun "></i>
+        <i class="fas fa-moon celestialbutton"></i>
+      </div>
     </div>
     <div id="pagecontent">
     <h1>{{ page.title }}</h1>
