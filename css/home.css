@@ -45,7 +45,7 @@ a {
     grid-column: 1 / span 3;
     align-items: center;
     justify-content: center;
-    background-color: #f8f8f8;
+    background-color: #EEE2DC;
     border-bottom: 1px solid #29303d;
     box-shadow: 0 1rem 5rem -0.5rem #000;
     position: sticky;
