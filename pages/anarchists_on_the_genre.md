@@ -1,13 +1,13 @@
 ---
 category: ""
-title: "Anarchists on the genre of sf"
+title: "Anarchists on the Genre of Science Fiction"
 permalink: anarchists-on-sf.html
 layout: innerpage
 ---
 
-Although this web page is new in 2018, most of the content hasn't been updated for many years. It's mainly a compilation of old research notes.
+What follows below is a collection of quotes and references to anarchist theorists and writers writing about the genre of science fiction. It was first collected by [Ben Beck](benbeck.co.uk), the original archiver and curator of the site. Although this web page is new as of 2018, most of the content hasn't been updated for many years. It's mainly a compilation of old research notes. If you'd like to help update it or add to it, please see our [Contribution Guide](/contribute.html).
 
-For fuller citations, see the [Bibliography](anarchysf/../biblio.htm).
+For fuller citations, see the [Bibliography](/bibliography.html).
 
 ## Max Nettlau
 
@@ -25,7 +25,7 @@ La littérature spéciale aux Utopies ou sociétés imaginaires est plus consid�
 
 ## Herbert Read
 
-"To pass to more sophisticated types of Fantasy, written as deliberate artifices, it is easy to quote many quasi-fantastical compositions, but very few have the purity of traditional fairy tales. A 'Utopia', or description of a fantastical country and its civilization, might well exhibit all the characteristics of pure Fantasy, but rarely does so because the writer has some ulterior satirical or moral aim, which aim directs his composition, fixes it in space and time, gives it a basis of subjective intolerance. Such objections apply to _Utopia_ itself, to _News from Nowhere_ and _The Dream of John Ball_, to _Erewhon_ and _A Crystal Age_. They do not apply to some of the fantasies of H.G. Wells, who comes as near as any modern writer to a sense of pure Fantasy. He errs, as in _The Time Machine_, by imparting to his fantasies a pseudo-scientific logicality; it is as though having conceived one arbitrary fantasy he were compelled by the habits of his scientific training to work out the consequences of this fantasy. Real fantasy is bolder than this; it dispenses with all logic and habit, and relies on the force of wonder alone."
+"To pass to more sophisticated types of Fantasy, written as deliberate artifices, it is easy to quote many quasi-fantastical compositions, but very few have the purity of traditional fairy tales. A 'Utopia',_ or description of a fantastical country and its civilization, might well exhibit all the characteristics of pure Fantasy, but rarely does so because the writer has some ulterior satirical or moral aim, which aim directs his composition, fixes it in space and time, gives it a basis of subjective intolerance. Such objections apply to _Utopia_ itself, to _News from Nowhere_ and _The Dream of John Ball_, to _Erewhon_ and _A Crystal Age_. They do not apply to some of the fantasies of H.G. Wells, who comes as near as any modern writer to a sense of pure Fantasy. He errs, as in _The Time Machine_, by imparting to his fantasies a pseudo-scientific logicality; it is as though having conceived one arbitrary fantasy he were compelled by the habits of his scientific training to work out the consequences of this fantasy. Real fantasy is bolder than this; it dispenses with all logic and habit, and relies on the force of wonder alone."
 
 (_English Prose Style_, 1928)
 
@@ -37,47 +37,47 @@ La littérature spéciale aux Utopies ou sociétés imaginaires est plus consid�
 
 (_Anarchy and Order_, 1954)
 
-## **Alex Comfort**
+## Alex Comfort
 
 "I do not decry fantasy as a genre, only fantasy which is made an excuse for irresponsibility or non-responsibility, a failure to grasp the real world, and an easy escape into an arbitrary one. That is not the fantasy of writers like Kafka, who went through purgatory in writing it, or fantasy like Read's _Green Child_, or _Alice in Wonderland_, or, on another level, _Candide_, nor the fantasy of a talented psychopath like de Sade."
 
 (_The Novel and Our Time_, 1948)
 
-. . . "the most frightening risk is that the fantastic-realistic genre of the future will go on being written in actual events, not ink, by deranged people who are enacting fantasy, instead of discharging it in literature.
+"the most frightening risk is that the fantastic-realistic genre of the future will go on being written in actual events, not ink, by deranged people who are enacting fantasy, instead of discharging it in literature.
 
 "The characteristically modern genre of fantastic is, I suppose, science fiction. This was originally no more than an imaginative forecast of the possibilities of science, but it has been captured by its literary ancestors in the same manner as the non-scientific romance, the erotic comic. At one extreme, it is not very different from that, with jargon playing the part of magic in pre-industrial fantasy, space travel as an exotic setting, and the mad scientist, who is a compound of Prometheus and Faust, playing the part of the wizard: one, that is, etymologically, contemptible for his addition to knowledge, as a drunkard is one contemptible for his addiction to drink, or a sluggard to sleep. At the other, it has become the vehicle through which more than one scientist who is not mad has tried to draw attention to the social activities of non-scientists who are.
 
-"There is no room here to pursue the ancestry of Utopias and of science fantasy turned satire \[ . . . \], but it stands in the same relation to comic-book science as Candide does to comic-book romance: both owe their sting to the convergence between fantasy and history. Just as Mirbeau and Kafka now sound unpleasantly factual, it is hard to tell whether some of the fantasies of science fiction are paranoiac or merely satirical" . . . .
+"There is no room here to pursue the ancestry of Utopias and of science fantasy turned satire \[ \], but it stands in the same relation to comic-book science as Candide does to comic-book romance: both owe their sting to the convergence between fantasy and history. Just as Mirbeau and Kafka now sound unpleasantly factual, it is hard to tell whether some of the fantasies of science fiction are paranoiac or merely satirical"
 
 (_Darwin and the Naked Lady,_ 1961)
 
 ## George Woodcock
 
-. . . "the resurgence of revivalist religion and the vast popularity of the otherworldly fantasies of science fiction writers are phenomena which suggest that men like Wells and Koestler are the intellectual spokesmen of a widespread feeling that, for man as he is, progress has come to an end and only the realm of miracles can offer a solution to his dilemmas."
+"the resurgence of revivalist religion and the vast popularity of the otherworldly fantasies of science fiction writers are phenomena which suggest that men like Wells and Koestler are the intellectual spokesmen of a widespread feeling that, for man as he is, progress has come to an end and only the realm of miracles can offer a solution to his dilemmas."
 
-('Five Who Fear the Future,' 1956)
+(_'Five Who Fear the Future',_ 1956)
 
 "The future worlds of so much Science Fiction are repellent largely because they are so total in their invention, so entirely unlike anything we know, that it is impossible for us to relate effectively to them or their inhabitants."
 
-('The Equilibrations of Freedom,' 1976)
+(_'The Equilibrations of Freedom',_ 1976)
 
 ## Paul and Percival Goodman
 
-"And if we believe the writers of science fiction, as how can we not" . . . .
+"And if we believe the writers of science fiction, as how can we not"
 
-## _(Communitas_, 1947, 1960)
+(_Communitas_, 1947, 1960)
 
 ## Paul Goodman
 
-. . . "the sensational technologism of Bellamy, Sant'Elia and science fiction: that is to say, visions of vaster and more marvelous achievements in the technical and managerial style that we are already used to. But this is soon admixed with the antiutopianism of _Brave New World—_the suspicion that more such advancements will settle us for good."
+"the sensational technologism of Bellamy, Sant'Elia and science fiction: that is to say, visions of vaster and more marvelous achievements in the technical and managerial style that we are already used to. But this is soon admixed with the antiutopianism of _Brave New World—_ the suspicion that more such advancements will settle us for good."
 
-('Utopian thinking,' 1961)
+(_'Utopian thinking',_ 1961)
 
 ## Arthur Uloth
 
 "It is tempting to say that science fiction resembles Christianity, in that it has died with its founder. Certainly, judging by this book, there are few who come up to Wells' standard. Few indeed who are likely to be remembered and read as long as he.
 
-"Mr. Amis includes "1984" and "The Lord of the Flies" as science fiction, but it is difficult to see on what grounds, unless it is a desire to raise the general standard. A science fiction story must surely revolve around some discovery or invention, some unprecedented change in nature, or at least take place on, or bear a direct relation to some other planet, or some world other than ours. Otherwise almost any book should be counted as science fiction. \[ . . . \] One cannot escape a feeling that these stores are included as "makeweights". Most of the rest is pretty light-weight stuff."
+"Mr. Amis includes "1984" and "The Lord of the Flies" as science fiction, but it is difficult to see on what grounds, unless it is a desire to raise the general standard. A science fiction story must surely revolve around some discovery or invention, some unprecedented change in nature, or at least take place on, or bear a direct relation to some other planet, or some world other than ours. Otherwise almost any book should be counted as science fiction. \[ \] One cannot escape a feeling that these stores are included as "makeweights". Most of the rest is pretty light-weight stuff."
 
 "The trouble is that science fiction is a form of specialised addict-literature. It is on the same level as the Western and the detective story. Wells could give it that universal appeal, which raises a story above the level of addict-literature, but his successors do not, in the main, succeed in doing this.
 
@@ -89,7 +89,7 @@ La littérature spéciale aux Utopies ou sociétés imaginaires est plus consid�
 
 Although the usual moral of these stories is that the individual must fight against all efforts to crush him, and that freedom is the desirable goal, there is very little real radical thought. We are not told how to improve conditions, only how to resist tyranny. This is inadequate. It is curious that people who are able to imagine the most fantastic worlds, creatures, machines, spaceships, flaws in the structure of the cosmos itself, are unable to conceive of social and sexual changes. No doubt this is partly due to the fact that the writers hope to have their work published without too much trouble! After all, science fiction, like many other things, is a commercial enterprise, not an effort to reform the world. But it may also be that the kind of person who is attracted to this kind of literature is the kind who is not disposed to think about the problems of sexual relations, and so forth. I wonder."
 
-('A Science Fiction Survey,' 1961)
+(_'A Science Fiction Survey',__ 1961)
 
 ## John Pilgrim
 
@@ -99,13 +99,13 @@ Although the usual moral of these stories is that the individual must fight agai
 
 "An article printed in FREEDOM is preaching to the converted. If anarchist writers are anxious to spread anarchist ideas among the general public, if they are anxious to DO something other than sink pints of bitter in the "Marquis of Granby" and deplore public apathy, then may I suggest they turn to the science fiction field. When people have assimilated anarchist ideas in their light reading they will be much more likely to listen to the next anarchist speaker they hear, or read the next anarchist writer they come across. The idea of a really free society will no longer seem so alien."
 
-. . . "the fact that many writers and readers of science fiction have ideas on these subjects that would not be despised by anarchists seems to show that the thinking is to some purpose. I believe that the world is a slightly better place, the prospect before us just as slightly more hopeful, and a free society a fraction nearer, because of it.
+"the fact that many writers and readers of science fiction have ideas on these subjects that would not be despised by anarchists seems to show that the thinking is to some purpose. I believe that the world is a slightly better place, the prospect before us just as slightly more hopeful, and a free society a fraction nearer, because of it.
 
-('The Anarchism in Science Fiction,' 1960)
+(_'The Anarchism in Science Fiction',_ 1960)
 
 "I would therefore only claim that the conclusions I reached, and the overwhelmingly libertarian tendency that I observed in science fiction is valid up to that date \[1960\]."
 
-. . . "I realised there was already in existence a literary form, which was, if not anarchist, at least consistently liberal and anti-authoritarian in its social views, and that was science fiction."
+"I realised there was already in existence a literary form, which was, if not anarchist, at least consistently liberal and anti-authoritarian in its social views, and that was science fiction."
 
 "As late as 1960 most of the anarchists I met felt that science fiction was beneath their notice.  The general picture of the medium seemed to be that of a half naked nubile young woman seized in the claws of a flying dinosaur while the Errol Flynn of the spaceways attempted simultaneously to rescue her and fight off a colony of giant intelligent ants. Now this picture of science fiction bears as much relation to the bulk of the medium as does the Chestertonian vision of the anarchist as a cloaked and bearded figure carrying spherical "bomb" does to the editor of this periodical. In neither case does the public image bear much relationship to the reality."
 
@@ -119,7 +119,7 @@ Although the usual moral of these stories is that the individual must fight agai
 
 "Thus although science fiction stories on the simplest lever of appreciation can be regarded as fairy tales they differ from conventional fairy tales, (to paraphrase the doyen of the genre Edmund Crispin) in carrying a massive load of religious, political, ethical and sociological implication and so provide intellectual stimulation of a kind not met with in contemporary fiction. The critical examination of humanity and its institutions that plays so large a part in the medium could be considered destructive in that dilemmas and problems are pointed out far more often than solutions are suggested, but writers are not social engineers, and it is enough that, as the stupidities and crudities of human governments and their pernicious effect on individuality are presented, science fiction gives to many people their first glimpse of what is wrong with our society. This is what really matters: in an age when all the pressure is on non-thinking conformity, science fiction enlivens and provokes the intellect, and strikes a blow for free creative thought at the cultural necrophiliacs who have dominated our culture and stultified our universities since the Renaissance started the educational vogue for feeding on the decaying corpses and doubtful virtues of dead cultures."
 
-('Science Fiction and Anarchism,' 1963)
+(_'Science Fiction and Anarchism',_ 1963)
 
 ## Geoffrey Ostergaard
 
@@ -135,13 +135,13 @@ Although the usual moral of these stories is that the individual must fight agai
 
 "All in all, science fiction is a very profitable field for study."
 
-('The World of Tomorrow', 1969)
+(_'The World of Tomorrow',_ 1969)
 
 ## Lyman Tower Sargent
 
 "One of the most interesting things that an anarchist today with some literary talent could undertake would be the development of a utopian novel that presents an anarchist society. In the past such novels have gained widespread popularity and they are, or can be, major instruments of propaganda. The anarchist must still deal with the inability of people to see the possibility of a society without government, and the presentation of such a society in a well-written novel could be an effective way of presenting answers to the beliefs of the opponents of anarchism. If such a novel is not forthcoming, it is then important to look at the anarchist utopias of the past even though in some ways they are outmoded and seem a bit naive."
 
-('An Anarchist Utopia,' 1969)
+(_'An Anarchist Utopia',_ 1969)
 
 ## D.P.
 
@@ -149,7 +149,7 @@ Although the usual moral of these stories is that the individual must fight agai
 
 "The more inwardly looking "new Wave" is, perhaps, closer to our point of view. It depends on your attitude to vague bohemianism, self-realisation is not necessarily the same as self-indulgence."
 
-('The Dispossessed', 1976)
+(_'The Dispossessed',_ 1976)
 
 ## Vittorio Curtoni
 
@@ -163,13 +163,13 @@ Although the usual moral of these stories is that the individual must fight agai
 
 "Io credo, ne sono certo, che proprio il '68 abbia rappresentato lo spartiacque per la fantascienza contemporanea. Gli scrittori che oggi lavorano nel campo hanno assorbito, in buona parte, i temi della cultura europea, compresa la necessità di radicalizzare le scelte politiche, di non viaggiare più all'insegna di un umanitarismo generico."
 
-('Su Marte c'é un Compagno,' 1978)
+(_'Su Marte c'é un Compagno',_ 1978)
 
 ## Gabriele P.
 
 L'anarchia è un'utopia "reale". Proprio in questo contrasto sta la sua vitalità. È pericolo voler cercare od identificare una letteratura o una cultura anarchica, fantascientifica o meno, perché sarebbe come dire che gli anarchici e l'anarchismo sono un elemento del sistema sociale, mentre non è vero, il sistema sociale che gli anarchici progettano e perseguono non esiste ancora. Diciamo che non c'è riflesso nella fantascienza dell'anarchia a meno che non sia un riflesso espresso da un singolo individuo come è del resto. La mia paura è che qualcuno creda che ci sia riflesso della fantascienza nell'anarchia.
 
-('Gli alieni . . . anarchici', 1978)
+(_'Gli alieni anarchici',_ 1978)
 
 ## Lessa, Takver and Alyx
 
@@ -181,13 +181,13 @@ L'anarchia è un'utopia "reale". Proprio in questo contrasto sta la sua vitalit�
 
 "There isn't enough historical detail in science fiction to connect us from here to there. But, when all is read and done, it is our future we're working on. Imagination at the very least reminds us of our goals."
 
-('Daily Life in Revolutionary Utopia: Feminism, Anarchism and Science Fiction', 1978)
+(_'Daily Life in Revolutionary Utopia: Feminism, Anarchism and Science Fiction',_ 1978)
 
 ## Michael Moorcock
 
 "Utopian fiction has been predominantly reactionary in one form or another (as well as being predominantly dull) since it began."
 
-"Writers, when they are writing, can only be judged on the substance of their work. The majority of the sf writers most popular with radicals are by and large crypto-fascists to a man and woman! There is Lovecraft, the misogynistic racist; there is Heinlein, the authoritarian militarist; there is Ayn Rand, the rabid opponent of trade unionism and the left, who, like many a reactionary before her, sees the problems of the world as a failure by capitalists to assume the responsibilities of 'good leadership'; there is Tolkein and that group of middle-class Christian fantasists who constantly sing the praises of bourgeois virtues and whose villains are thinly disguised working class agitators -- fear of the Mob permeates their rural romances. To all these and more the working class is a mindless beast which must be controlled or it will savage the world (i.e. bourgeois security) -- the answer is always leadership, 'decency', paternalism (Heinlein in particularly strong on this), Christian values...
+"Writers, when they are writing, can only be judged on the substance of their work. The majority of the sf writers most popular with radicals are by and large crypto-fascists to a man and woman! There is Lovecraft, the misogynistic racist; there is Heinlein, the authoritarian militarist; there is Ayn Rand, the rabid opponent of trade unionism and the left, who, like many a reactionary before her, sees the problems of the world as a failure by capitalists to assume the responsibilities of 'good leadership'; there is Tolkein and that group of middle-class Christian fantasists who constantly sing the praises of bourgeois virtues and whose villains are thinly disguised working class agitators -- fear of the Mob permeates their rural romances. To all these and more the working class is a mindless beast which must be controlled or it will savage the world (i.e. bourgeois security) -- the answer is always leadership, 'decency',_ paternalism (Heinlein in particularly strong on this), Christian values
 
 "What can this stuff have in common with radicals of any persuasion? The simple answer is, perhaps, Romance. The dividing line between rightist Romance (Nazi insignia and myth etc.) and leftist Romance (insurgent cavalry etc.) is not always easy to determine. A stirring image is a stirring image and can be ,employed to raise all sorts of atavistic or infantile emotions in us. Escapist or 'genre' fiction appeals to these emotions. It does us no harm to escape from time to time but it can be dangerous to confuse simplified fiction with reality and that, of course, is what propaganda does."
 
@@ -199,44 +199,18 @@ L'anarchia è un'utopia "reale". Proprio in questo contrasto sta la sua vitalit�
 
 "Next time you pick up a Heinlein book think of the author as looking a bit like General Eisenhower or, if that image isn't immediate enough, some chap in early middle age, good-looking in a slightly soft way, with silver at the temples, a blue tie, a sober three-pieced suit, telling you with a quiet smile that Margaret Thatcher cares for individualism and opportunity above all things, as passionately in her way as you do in yours. And then you might have some idea of what you're actually about to read."
 
-('Starship Stormtroopers,' 1978)
+(_'Starship Stormtroopers',_ 1978)
 
 ## Robert Shea
 
 "Naturally, anarchists would like to see more anarchist science fiction: everybody would like to see their favourite kind of fiction reflect their favorite political ideas. There are many kinds of anarchism; at least one novel could be written about each sort. Anarchist ideas raise a great many problems to which a variety of solutions can be offered, all of which could be examined in a speculative way in fiction. Nearly every anarchist I know is also a science fiction fan, and science fiction fans always want to write the stuff themselves, so there should be enough writers to care of all the available science fiction ideas."
 
-. . . "anarchist science fiction can be a most effective device for bringing the vision of freedom to concrete life. Those fans, critics, editors and writers to whom the ideal of freedom is congenial can, by each working a little harder at his or her own thing, make more room in science fiction for anarchist ideas."
+"anarchist science fiction can be a most effective device for bringing the vision of freedom to concrete life. Those fans, critics, editors and writers to whom the ideal of freedom is congenial can, by each working a little harder at his or her own thing, make more room in science fiction for anarchist ideas."
 
-('Worlds without Government,' 1980)
+(_'Worlds without Government',_ 1980)
 
 ## Leona
 
 "The problem with utopias is that they are plans. Most anarchists understand that plans for situations we haven't been in are too limited and/or short sighted to be helpful. But the good thing about plans is that committing to them _in our imagination_ encourages us to flesh out what we really want, what we think is possible: this imagining can be a challenge for our daily lives. Science fiction gives us leeway to be as imaginative as possible, utopias encourage us to commit to how we really want to live."
 
-('DIY utopia: hope not required,' 2015 \[in _the BASTARD chronicles_\])
-
-
-
-See my [hotlist](hotlist.htm), for for items particularly recommended by me.
-
-Authors by surname, films by title: 0 [A](anarchysf/../a.htm) [B](anarchysf/../b.htm) [C](anarchysf/../c.htm) [D](anarchysf/../d.htm) [E](anarchysf/../e.htm) [F](anarchysf/../f.htm) [G](anarchysf/../g.htm) [H](anarchysf/../h.htm) [I](i.htm) [J](anarchysf/../j.htm) [K](anarchysf/../k.htm) [L](anarchysf/../l.htm) [M](anarchysf/../m.htm) [N](anarchysf/../n.htm) [O](anarchysf/../o.htm) [P](anarchysf/../p.htm) [Q](q.htm) [R](anarchysf/../r.htm) [S](anarchysf/../s.htm) [T](anarchysf/../t.htm) [U](u.htm) [V](anarchysf/../v.htm) [W](anarchysf/../w.htm) [X](x.htm) [Y](anarchysf/../y.htm) [Z](anarchysf/../z.htm) [Possibles](possibles.htm)
-
-
-
-[Bibliography](anarchysf/../biblio.htm)
-
-
-
-[@sf home](anarchysf/../main.htm), [Ben Beck's website home](../index.html)
-
-
-
-
-
-This page was created on 2018-04-06.
-
-© Benjamin S. Beck 2018
-
-var sc\_project=6421852; var sc\_invisible=1; var sc\_security="4159c844";
-
-[![joomla site stats](http://c.statcounter.com/6421852/0/4159c844/1/)](http://statcounter.com/joomla/ "joomla site stats")
+(_'DIY utopia: hope not required',_ 2015 \[in _the BASTARD chronicles_\])

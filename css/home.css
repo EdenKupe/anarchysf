@@ -120,6 +120,16 @@ a {
     width: 100%;
   }
 
+  #homewrapper.darken #sidebar ul li p {
+    color: #a89e8a;
+  }
+
+  #sidebar ul li p {
+    color: #243C69;
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+
   #sidebar ul li.sidebararticleitem {
     font-size: 22px;
   }
@@ -186,6 +196,20 @@ a {
     text-shadow: 0px 0px 20px silver;
   }
 
+  #morelinks {
+    margin-top: 40px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-style: italic;
+    }
+  }
+
+  #morelinks a {
+    margin-bottom: 10px;
+  }
+
   #homehero {
     width: 100%;
     grid-row: 2 / 6;
@@ -201,6 +225,32 @@ a {
     display: flex;
     flex-direction: column;
     grid-column: 2 / span 1;
+  }
+
+  #pagecontent ul {
+    list-style: none;
+    line-height: 2.8;
+    margin-left: 10px;
+  }
+
+  #pagecontent ul li {
+    display: flex;
+    align-items: center;
+  }
+
+  #pagecontent ul li::before {
+    content: "\f135";
+    color: #00baba;
+    font-family: "FontAwesome";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    margin-right: 10px;
+  }
+
+  #pagecontent ul li p {
+    display: flex;
+    align-items: center;
   }
 
   #homewrapper.darken h1 {
