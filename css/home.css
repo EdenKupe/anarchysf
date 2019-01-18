@@ -231,6 +231,7 @@ a {
     list-style: none;
     line-height: 2.8;
     margin-left: 10px;
+    margin-bottom: 20px;
   }
 
   #pagecontent ul li {
@@ -248,9 +249,22 @@ a {
     margin-right: 10px;
   }
 
+  #homewrapper.darken ul li p {
+    color: #a89e8a;
+  }
+
   #pagecontent ul li p {
     display: flex;
     align-items: center;
+    color: #243C69;
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.5em;
+  }
+
+  ul li p a {
+    margin-right: 10px;
+    margin-left: 10px;
   }
 
   #homewrapper.darken h1 {
