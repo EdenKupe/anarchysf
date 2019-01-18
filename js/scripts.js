@@ -27,6 +27,7 @@ function navigateContent(url) {
 			var scroll = new SmoothScroll('a[href*="#"]');
 			//jump to top when page loads
 			window.scrollTo(0, 0);
+       $('#articlelist').css("display", "none");
 		})
     .fail(function () {
       url = "/404.html";

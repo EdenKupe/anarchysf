@@ -8,8 +8,12 @@ html {
   font-family: 'Montserrat',Arial,sans-serif;
 }
 
-a {
+#homewrapper.darken a {
   color: #00BABA;
+}
+
+a {
+  color: #3c1414;
   text-decoration: none;
   cursor: pointer;
   font-weight: 700;
@@ -23,6 +27,7 @@ a {
     display: grid;
     grid-template-rows: 150px auto 250px 250px 250px 50px;
     grid-template-columns: 8fr 4fr;
+    background-color: #EEE2DC;
   }
 
   #homewrapper.darken {
@@ -103,10 +108,14 @@ a {
     display: none;
   }
 
+  #homewrapper.darken #sidebar ul li {
+    color: #F4998D;
+  }
+
   #sidebar ul li {
     list-style: none;
     font-family: 'Montserrat',Arial,sans-serif;
-    color: #F4998D;
+    color: #AC3B61;
     font-weight: bold;
     width: 100%;
   }
@@ -166,7 +175,7 @@ a {
   }
 
   #celestialbuttons i:first-child.shining {
-    text-shadow: 4px 4px 4px gold;
+    color: #FFDE2E !important;
   }
 
   #celestialbuttons i {
@@ -174,7 +183,7 @@ a {
   }
 
   #celestialbuttons i.shining {
-    text-shadow: 4px 4px 4px silver;
+    text-shadow: 0px 0px 20px silver;
   }
 
   #homehero {
@@ -194,24 +203,36 @@ a {
     grid-column: 2 / span 1;
   }
 
-  #homehero h1 {
+  #homewrapper.darken h1 {
     color: #F97373;
+  }
+
+  #homehero h1 {
+    color: #AC3B61;
     font-size: 40px;
     margin-bottom: 25px;
     margin-top: 25px;
     margin-left: 50px;
   }
 
-  #homehero h2 {
+  #homewrapper.darken h2 {
     color: #F4998D;
+  }
+
+  #homehero h2 {
+    color: #6E263E;
     font-size: 30px;
     margin-bottom: 25px;
     margin-left: 50px;
   }
 
 
-  #pagecontent > p {
+  #homewrapper.darken #pagecontent > p {
     color: #a89e8a;
+  }
+
+  #pagecontent > p {
+    color: #243C69;
     font-size: 16px;
     margin: 0;
     margin-bottom: 20px;
@@ -227,9 +248,13 @@ a {
     width: 100%;
   }
 
+  #homewrapper.darken .lowerpagecontent p {
+    color: #a89e8a;
+  }
+
   .lowerpagecontent p {
     width: 100%;
-    color: #a89e8a;
+    color: #243C69;
     font-size: 16px;
     margin: 0;
     margin-bottom: 20px;
@@ -244,9 +269,13 @@ a {
     flex-direction: column;
   }
 
+  #homewrapper.darken .titlecontainer .pagetitle {
+    color: #f4998d;
+  }
+
   .titlecontainer .pagetitle {
     font-weight: bold;
-    color: #f4998d;
+    color: #6E263E;
     font-size: 20px;
   }
 
@@ -291,22 +320,32 @@ a {
 
   }
 
+  #homewrapper.darken .glowbox {
+    background-color: #080c13;
+    color: #a89e8a;
+    border: 2px solid #00baba;
+  }
+
+  #homewrapper.darken .glowbox::before {
+    color: #00baba;
+  }
+
   .glowbox {
     padding: 12px 24px 12px 30px;
     margin: 2em 0 2em 50px;
-    border: 2px solid #00baba;
+    border: 2px solid #fff;
     border-radius: 10px;
-    background-color: #080c13;
+    background-color: #C3B9B5;
     font-size: 16px;
     line-height: 1.71;
-    color: #a89e8a;
+    color: #243C69;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     padding-left: 15px;
   }
 
   .glowbox::before {
     content: "\f135";
-    color: #00baba;
+    color: #243C69;
     font-family: "FontAwesome";
     font-size: 18px;
     font-style: normal;

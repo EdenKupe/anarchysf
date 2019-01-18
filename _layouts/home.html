@@ -8,7 +8,7 @@
   <div id="homeheader">
     <div id="hometitle">
         <a onclick="linkclick(event,this)" href="/about.html">About us</a>
-        <a onclick="linkclick(event,this)" href="https://edenkupe.github.io/anarchysf/"><img src="img/astrologo.png" /></a>
+        <a href="index.html"><img src="img/astrologo.png" /></a>
         <a onclick="linkclick(event,this)" href="/contribute.html">Contribute</a>
     </div>
     <!-- <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" /> -->
@@ -22,11 +22,11 @@
           {% for page in site.pages %}
           {% if page.format == "book" %}
           {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.author }}</span></a>
+          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify: "raw" | replace: "'", "" }}"><span class="articlebox">{{ page.author }}</span></a>
           {% endif %}
           {% elsif page.format == "film" %}
           {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.title }}</span></a>
+          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify: "raw" | replace: "'", "" }}"><span class="articlebox">{{ page.title }}</span></a>
           {% endif %}
           {% endif %}
           {% endfor %}
@@ -49,8 +49,7 @@
     {{ content }}
     {% for letter in site.data.documents %}
     <h2 class="lettertitle">{{ letter.lettername }}</h2>
-    {% assign sortedPages = site.pages | sort: 'title' %}
-    {% for page in sortedPages %}
+    {% for page in site.pages %}
     {% if page.category == letter.lettername %}
     <div class="titlecontainer">
     <h3 class="pagetitle">{{ page.author }} // {{ page.title }}</h3>

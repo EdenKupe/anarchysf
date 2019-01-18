@@ -8,38 +8,22 @@
   <div id="homeheader">
     <div id="hometitle">
         <a onclick="linkclick(event,this)" href="/about.html">About us</a>
-        <a onclick="linkclick(event,this)" href="https://edenkupe.github.io/anarchysf/"><img src="img/astrologo.png" /></a>
+        <a href="/index.html"><img src="img/astrologo.png" /></a>
         <a onclick="linkclick(event,this)" href="/contribute.html">Contribute</a>
     </div>
     <!-- <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" /> -->
   </div>
   <div id="sidebar">
     <ul id="articlelist">
-      {% for letter in site.data.documents %}
-      <li class="sidebararticleitem">
-        <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }}</span>
-        <ul class="sidebararticles getsOpened">
-          {% assign sortedPages = site.pages | sort: 'title' %}
-          {% for page in sortedPages %}
-          {% if page.format == "book" %}
-          {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.author }}</span></a>
-          {% endif %}
-          {% elsif page.format == "film" %}
-          {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify}}"><span class="articlebox">{{ page.title }}</span></a>
-          {% endif %}
-          {% endif %}
-          {% endfor %}
-        </ul>
-      </li>
-    </li>
-    {% endfor %}
     </ul>
   </div>
   <div id="homehero">
     <div id="astronaut">
       <img src="img/astronautnotext.png" />
+      <div id="celestialbuttons">
+        <i class="fas fa-sun "></i>
+        <i class="fas fa-moon celestialbutton"></i>
+      </div>
     </div>
     <div id="pagecontent">
     <h1>{{ page.title }}</h1>
