@@ -1,0 +1,8 @@
+#homehero {
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-column: 1 / span 2;
+}
+
+#pagecontent {
+  grid-column: 2 / span 2;
+}

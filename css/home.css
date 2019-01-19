@@ -305,6 +305,51 @@ a {
     line-height: 1.5em;
   }
 
+  #pagecontent table {
+    width:90%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: transparent;
+    table-layout: fixed;
+    margin-bottom: 50px;
+  }
+
+  #pagecontent table thead tr {
+    color: #a89e8a;
+    height: 50px;
+    border-bottom: 3px solid #00baba;
+    font-size: 20px;
+  }
+
+  #pagecontent table tbody tr {
+    color: #a89e8a;
+    height: 50px;
+  }
+
+  #pagecontent table thead tr th {
+    padding: 10px 20px 10px 20px;
+    border-right: 1px solid #00baba;
+  }
+
+  #pagecontent table thead tr th:last-child {
+    border-right: 0;
+  }
+
+  #pagecontent table tbody tr td {
+    padding: 10px 20px 10px 20px;
+    word-wrap: break-word;
+    border-right: 1px solid #00baba;
+    border-bottom: 1px solid #00baba;
+  }
+
+  #pagecontent table tbody tr td:last-child {
+    border-right: 0;
+  }
+
+  #pagecontent table tbody tr:last-child td {
+    border-bottom: 0;
+  }
+
   #homehero .lettertitle {
     width: 10%;
   }
