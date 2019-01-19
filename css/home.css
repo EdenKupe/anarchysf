@@ -483,4 +483,29 @@ a {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     border-top: 1px solid #29303d;
   }
+
+  /* Media queries start */
+
+@media only screen and (max-width:1440px) {
+
+  #pagecontent > p {
+    width: 110%;
+  }
+
+  .lowerpagecontent > p {
+    width: 110%;
+  }
+
+  #astronaut {
+    width: 14%;
+    margin-left: 20px;
+  }
+
+  .fa-moon {
+    margin-left: 20px;
+  }
+
+  .glowbox {
+    width: 103%;
+  }
 }

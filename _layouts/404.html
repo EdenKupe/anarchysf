@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ "css/404.css" }}">
+</head>
+<body>
+  <div id="homewrapper" class="darken">
+  <div id="homeheader">
+    <div id="hometitle">
+        <a onclick="linkclick(event,this)" href="about.html">About us</a>
+        <a href="index.html"><img src="img/astrologo.png" /></a>
+        <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
+    </div>
+    <!-- <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" /> -->
+  </div>
+  <div id="homehero">
+    <div id="astronaut">
+      <img src="img/astronautnotext.png" />
+      <div id="celestialbuttons">
+        <i class="fas fa-sun "></i>
+        <i class="fas fa-moon celestialbutton"></i>
+      </div>
+      <div id="morelinks">
+        {% include astronautlinks.html %}
+      </div>
+    </div>
+    <div id="pagecontent">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </div>
+  </div>
+  <div id="homefooter">
+    {% include footer.html %}
+  </div>
+</div>
+</body>
+{% if site.google_analytics %}
+{% include google_analytics.html %}
+{% endif %}
+</html>
