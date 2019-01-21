@@ -3,6 +3,7 @@ title: Works for Consideration
 layout: worksforconsideration
 permalink: worksforconsideration.html
 ---
+
 | Author/Director | Title | Comments and/or web links |
 | --- | --- | --- |
 | Shale Aaron | Virtual Death | <a href="http://www.librarything.com/work/749026/book/26911595">www.librarything.com/work/749026/book/26911595</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author</a> |

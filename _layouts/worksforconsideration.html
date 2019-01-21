@@ -26,9 +26,10 @@
       </div>
     </div>
     <div id="pagecontent">
-    <h1>{{ page.title }}</h1>
+    <h1 style="margin-top: -10px;">{{ page.title }}</h1>
     {{ content }}
   </div>
+  <a id="backtotop" style="grid-row: 1 /span 1; margin-right: 20px;" href="#"><i class="fas fa-arrow-up"></i></a>
   </div>
   <div id="homefooter">
     {% include footer.html %}

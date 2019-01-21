@@ -483,6 +483,23 @@ a {
     border-top: 1px solid #29303d;
   }
 
+  #backtotop {
+    position: sticky;
+    color: #AC3B61;
+    font-family: FontAwesome;
+    font-size: 22px;
+    grid-column: 3 /span 1;
+    display: flex;
+    justify-content: flex-end;
+    height: 23px;
+    top: 96vh;
+    margin-right: 10px;
+  }
+
+  #homewrapper.darken #backtotop {
+    color: #F97373;
+  }
+
   /* Media queries start */
 
 @media only screen and (max-width:1440px) {
