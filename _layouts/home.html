@@ -68,6 +68,7 @@
     <div id="pagecontent">
     <h1>{{ page.title }}</h1>
     {{ content }}
+    {% if page.title == "Welcome to anarchySF!" %}
     {% for letter in site.data.documents %}
     <h2 class="lettertitle">{{ letter.lettername }}</h2>
     {% for page in site.pages %}
@@ -83,6 +84,7 @@
     {% endif %}
     {% endfor %}
     {% endfor %}
+    {% endif %}
   </div>
   <a id="backtotop" href="#"><i class="fas fa-arrow-up"></i></a>
   </div>

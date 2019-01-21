@@ -1,6 +1,6 @@
 ---
 title: About AnarchySF
-layout: home
+layout: innerpage
 permalink: about.html
 ---
 
@@ -28,6 +28,6 @@ However, it is definitely true that science fiction "objectively" lends itself w
 
 ## Who Are We?
 
-* Eden Kupermintz. [Twitter](https://twitter.com/tallesteden), [blog](https://ledaber.wordpress.com/), Editor in Chief @ [Heavy Blog is Heavy](http://www.heavyblogisheavy.com/) (a mostly metal focused music blog).
+**Eden Kupermintz**. Eden is best reached on [Twitter](https://twitter.com/tallesteden). You can find his fictional writing over at his [blog](https://ledaber.wordpress.com/). He's also the Editor in Chief for [Heavy Blog is Heavy](http://www.heavyblogisheavy.com/) (a mostly metal focused music blog).
 
-* Yanai Sened.
+**Yanai Sened**, who chooses to remain mysterious.
