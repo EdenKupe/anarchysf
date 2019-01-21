@@ -1,6 +1,6 @@
 ---
 title: About AnarchySF
-layout: innerpage
+layout: home
 permalink: about.html
 ---
 

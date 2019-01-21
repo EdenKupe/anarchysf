@@ -1,6 +1,6 @@
 ---
 title: Contributor Covenant Code of Conduct
-layout: innerpage
+layout: home
 permalink: contribute.html
 ---
 

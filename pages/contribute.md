@@ -1,6 +1,6 @@
 ---
 title: Contribution Guide
-layout: innerpage
+layout: home
 permalink: contribute.html
 ---
 

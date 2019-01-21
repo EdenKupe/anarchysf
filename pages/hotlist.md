@@ -2,7 +2,7 @@
 category: ""
 title: "Ben's Recommendations"
 permalink: recommended.html
-layout: innerpage
+layout: home
 ---
 
 Below is a list of specifically recommended entries by [Ben Beck](benbeck.co.uk), the original archiver and curator of the site.

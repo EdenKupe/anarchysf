@@ -2,7 +2,7 @@
 category: ""
 title: "Anarchists on the Genre of Science Fiction"
 permalink: anarchists-on-sf.html
-layout: innerpage
+layout: home
 ---
 
 What follows below is a collection of quotes and references to anarchist theorists and writers writing about the genre of science fiction. It was first collected by [Ben Beck](benbeck.co.uk), the original archiver and curator of the site. Although this web page is new as of 2018, most of the content hasn't been updated for many years. It's mainly a compilation of old research notes. If you'd like to help update it or add to it, please see our [Contribution Guide](/contribute.html).

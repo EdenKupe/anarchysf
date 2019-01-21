@@ -1,4 +1,10 @@
 $(document).ready(function () {
+  var url = window.location.href;
+  if (url.indexOf('index') != -1) {
+    console.log("Welcome to anarchySF!");
+  } else {
+    $('#sidebar').css("display", "none");
+  };
   sideBarClick ();
   anchors.options = {
   truncate: '400',
@@ -6,6 +12,7 @@ $(document).ready(function () {
   anchors.add('h3');
   linkload();
   celestialToggle();
+  mobileHamburger();
   var scroll = new SmoothScroll('a[href*="#"]', { offset: 170});
 });
 
@@ -27,7 +34,7 @@ function navigateContent(url) {
 			var scroll = new SmoothScroll('a[href*="#"]');
 			//jump to top when page loads
 			window.scrollTo(0, 0);
-       $('#articlelist').css("display", "none");
+       $('#sidebar').css("display", "none");
 		})
     .fail(function () {
       url = "/404.html";
@@ -96,39 +103,57 @@ function sideBarClick () {
 };
 
 function celestialToggle() {
-  //simple code for removing and adding the darken and lighten classes + localStorage to remember the user's choice
+  //simple code for removing and adding the lighten class + localStorage to remember the user's choice
 	var selectedCelestialMode = localStorage.getItem('selectedMode');
 	if (selectedCelestialMode == 'light') {
-		$("#homewrapper").removeClass("darken");
+		$("#homewrapper").addClass("lighten");
 		$(".fa-moon").removeClass("fas");
 		$(".fa-moon").addClass("far");
     $('#celestialbuttons i').css("color", "black");
     $('.fa-sun').addClass("shining");
 	} else if (selectedCelestialMode == 'dark' || selectedCelestialMode == null) {
-		$("#homewrapper").addClass("darken");
+		$("#homewrapper").removeClass("lighten");
 		$(".fa-moon").removeClass("far");
 		$(".fa-moon").addClass("fas");
     $('#celestialbuttons i').css("color", "#fff");
     $('.fa-moon').addClass("shining");
 	}
 	$('.fa-sun').click(function () {
-		if ($("#homewrapper").hasClass("darken")) {
 			$(".fa-moon").removeClass("fas");
 			$(".fa-moon").addClass("far");
-			$("#homewrapper").removeClass("darken");
+			$("#homewrapper").addClass("lighten");
       $('#celestialbuttons i').css("color", "black");
       $('i').removeClass("shining");
       $(this).addClass("shining");
 			localStorage.setItem('selectedMode', 'light');
-		}
   });
     $('.fa-moon').click(function () {
 			$(".fa-moon").removeClass("far");
 			$(".fa-moon").addClass("fas");
-			$("#homewrapper").addClass("darken");
+			$("#homewrapper").removeClass("lighten");
       $('#celestialbuttons i').css("color", "#fff");
       $('i').removeClass("shining");
       $(this).addClass("shining");
 			localStorage.setItem('selectedMode', 'dark');
 		});
 	 };
+
+   //a function to control a click on the mobile hamburger button
+   function mobileHamburger() {
+   	var $hamburger = $('.hamburger');
+   	var sidebar = $('#sidebar');
+   	//on click, set data to control the toggle behavior.
+   	$hamburger.on('click', function (e) {
+   		$hamburger.toggleClass('is-active');
+   		var hasExpanded = $(sidebar).data("expanded") == "true";
+   		if (hasExpanded) {
+   			//if clicked, slide up and set data to unclicked.
+   			$(sidebar).slideUp(400);
+   			$(sidebar).data("expanded", "false");
+   		} else {
+   			//if unclicked, slide down and set data to clicked.
+   			$(sidebar).slideDown(400);
+   			$(sidebar).data("expanded", "true");
+   		}
+   	});
+   }
