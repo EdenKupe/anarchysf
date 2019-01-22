@@ -603,6 +603,11 @@ a {
     z-index: 1;
   }
 
+  #homeheadermobile a {
+    flex: 1;
+    order: 2;
+  }
+
   #homeheadermobile a img {
     width: 220px;
     margin-top: 10px;
@@ -611,17 +616,37 @@ a {
   #mobilerighthand {
     display: flex;
     flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+    order: 1;
+    margin-right: -20px;
+    align-items: center;
+    margin-top: 16px;
+  }
+
+  #mobilerighthand .hamburger {
+    margin-top: 15px;
   }
 
   #mobilelinks {
     display: flex;
     flex-direction: column;
-    margin-left: 30px;
+    margin-right: 0px;
+    flex: 1;
+    order: 3;
   }
 
   #homeheadermobile #celestialbuttons {
     width: 34%;
-    margin-top: 0px;
+    margin-top: 10px;
+  }
+
+  #celestialbuttons i:first-child {
+    margin-left: 0;
+  }
+
+  #celestialbuttons i {
+    margin-right: 0;
   }
 
   #homehero h1 {
@@ -653,10 +678,6 @@ a {
   #backtotop {
     margin-right: 0;
     font-size: 20px;
-  }
-
-  .hamburger {
-    width: 20%;
   }
 
   .hamburger:focus {
