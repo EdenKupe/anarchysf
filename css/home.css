@@ -325,14 +325,26 @@ a {
     font-size: 20px;
   }
 
+  #homewrapper.lighten #pagecontent table thead tr {
+    border-bottom: 3px solid #3c1414;
+  }
+
   #pagecontent table tbody tr {
     color: #a89e8a;
     height: 50px;
   }
 
+  #homewrapper.lighten #pagecontent table tbody tr {
+    color: #243C69;
+  }
+
   #pagecontent table thead tr th {
     padding: 10px 20px 10px 20px;
     border-right: 1px solid #00baba;
+  }
+
+  #homewrapper.lighten #pagecontent table thead tr th {
+    border-right: 1px solid #3c1414;
   }
 
   #pagecontent table thead tr th:last-child {
@@ -344,6 +356,11 @@ a {
     word-wrap: break-word;
     border-right: 1px solid #00baba;
     border-bottom: 1px solid #00baba;
+  }
+
+  #homewrapper.lighten #pagecontent table tbody tr td {
+    border-right: 1px solid #3c1414;
+    border-bottom: 1px solid #3c1414;
   }
 
   #pagecontent table tbody tr td:last-child {
