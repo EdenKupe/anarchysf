@@ -1,6 +1,7 @@
 $(document).ready(function () {
   var url = window.location.href;
-  if (url.indexOf('index') != -1) {
+  var $title = document.getElementById('h1');
+  if ($title.indexOf('Welcome to anarchySF!') != -1) {
     console.log("Welcome to anarchySF!");
   } else {
     $('#sidebar').css("display", "none");
