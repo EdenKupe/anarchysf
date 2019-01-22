@@ -1,6 +1,5 @@
 $(document).ready(function () {
-  var url = window.location.href;
-  var $title = document.getElementById('h1');
+  var $title = $('#maintitle').text();
   if ($title.indexOf('Welcome to anarchySF!') != -1) {
     console.log("Welcome to anarchySF!");
   } else {
