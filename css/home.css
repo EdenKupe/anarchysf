@@ -240,8 +240,14 @@ a {
   }
 
   #pagecontent ul li {
+    color: #a89e8a;
+    line-height: 1.5;
     display: flex;
-    align-items: center;
+    margin-bottom: 30px;
+  }
+
+  #homewrapper.lighten ul li {
+    color: #243C69;
   }
 
   #pagecontent ul li::before {
@@ -259,12 +265,11 @@ a {
   }
 
   #pagecontent ul li p {
-    display: flex;
-    align-items: center;
     color: #a89e8a;
     font-size: 16px;
     margin: 0;
     line-height: 1.5em;
+    display: inline-block;
   }
 
   ul li p a {

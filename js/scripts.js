@@ -23,8 +23,10 @@ function navigateContent(url) {
 			//grab the various parts of the target page
 			var $newData = $(content);
 			var $content = $('#pagecontent');
+      var $title = $('#maintitle');
 			//exchange the content of those parts with the new parts loaded via ajax
 			$content.html($newData.find('#pagecontent').html());
+      $title.html($newData.find('#maintitle').html());
 			//add anchor links to all h3 titles. See respective functions below for what they do.
       anchors.options = {
       truncate: '400',
@@ -34,7 +36,12 @@ function navigateContent(url) {
 			var scroll = new SmoothScroll('a[href*="#"]');
 			//jump to top when page loads
 			window.scrollTo(0, 0);
-       $('#sidebar').css("display", "none");
+      var titletext = $('#maintitle').text();
+       if (titletext.indexOf('Welcome to anarchySF!') != -1) {
+         $('#sidebar').css("display", "flex");
+       } else {
+         $('#sidebar').css("display", "none");
+       }
 		})
     .fail(function () {
       url = "/404.html";
