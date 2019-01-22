@@ -14,18 +14,7 @@ port: 4000
 
 google_analytics:
 
-# extlinks:
-#   attributes: {target: _blank, onclick: "linkclick(event, this)"}
-# This tells the extlinks plugin which attribute to add to links
-
 plugins:
-  # - algoliasearch-jekyll
-
-# algolia:
-#   application_id: "1ITT6KY19C"
-#   index_name: "dev_BASE"
-# #values for the Algolia plugin
-
 
 github: [metadata]
 #needed so that Github APIs don't throw a fit
