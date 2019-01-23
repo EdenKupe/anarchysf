@@ -384,14 +384,13 @@ a {
     width: 100%;
   }
 
-  #homewrapper.lighten .lowerpagecontent p {
+  #homewrapper.lighten .lowerpagecontent {
     color: #243C69;
   }
 
-  .lowerpagecontent p {
+  .lowerpagecontent {
     color: #a89e8a;
     width: 100%;
-
     font-size: 16px;
     margin: 0;
     margin-bottom: 20px;

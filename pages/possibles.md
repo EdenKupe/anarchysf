@@ -86,7 +86,6 @@ permalink: worksforconsideration.html
 | William S. Burroughs | The Ticket that Exploded |  |
 | Octavia E. Butler | Survivor | mentioned in a mailing to anarchysf |
 | Beatrice May Butt aka W.H. Alhusen (pub. as "by the author of Miss Molly") | The Laws of Leflo | Included in<a href="k.htm#Killjoy">Killjoy</a>'slist of stories that explore anarchist societies. |
-| Monica Byrne | The Girl in the Road | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | CABU, François Cavanna, & Bernard Clavel | Il y a 40 ans: Hiroshima | tagged as sf in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Augustín Cadena | 'Murillo Park' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Bill Campbell & Edwin Austin Hall, eds | Mothership: Tales from Afrofuturism and Beyond | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
