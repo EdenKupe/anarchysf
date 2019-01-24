@@ -623,3 +623,5 @@ permalink: worksforconsideration.html
 | Roger Zelazny | Damnation Alley | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | Liu Wen Zhuang | 'The Metamorphosis Bud' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Stanley Chase | Colossus: The Forbin Project | [Wikipedia](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project), based on [Colossus](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project) by [Dennis Feltham Jones](https://en.wikipedia.org/wiki/Dennis_Feltham_Jones) |
+| Su Sokol| Cycling to Asylum | [Publisher site](https://www.deuxvoilierspublishing.com/cycling-to-asylum)|
+| Leonard Richardson | Constellation Games | [Goodsreads](https://www.goodreads.com/book/show/13063050-constellation-games) |

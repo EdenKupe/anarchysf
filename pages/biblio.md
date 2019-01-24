@@ -184,6 +184,9 @@ layout: worksforconsideration
 | Robinson, Jack | 1976-03-06 | 'The Iron Heel',Freedom45.1:5 |
 | ____ | 1977-12-24 | 'Do Anarchists Like Detective Stories?',Freedom38.25:12–14 |
 | Rothbard, Murray N. | 1973 | For a New Liberty.New York: Macmillan |
+| Rumpala, Yannick | 2012 | ["Artificial intelligences and political organization: an exploration
+based on the science fiction work of Iain M. Banks,"](https://www.sciencedirect.com/science/article/pii/S0160791X11000728) | in Technology in 
+Society, vol. 34, n° 1 |
 | Rush | 1959 | review of Young:The Rise of the Meritocracy,Freedom |
 | S., P. (probably Philip Sansom) | 1978 | review of Harrison:Bill, the Galactic Hero.Cienfuegos Press Anarchist Review4:44 |
 | S., P. (Philip Sansom) | 1983-12-17 | '1984 and the Big Brothers are waiting',Freedom25.44: 1 |
