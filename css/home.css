@@ -204,14 +204,14 @@ a {
   }
 
   #morelinks {
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 12px;
     display: flex;
     flex-direction: column;
     text-align: center;
     font-style: italic;
     position: sticky;
-    top: 370px;
+    top: 350px;
   }
 
   #morelinks a {
