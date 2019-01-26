@@ -153,18 +153,18 @@ a {
 }
 
   #astronaut {
-    position: fixed;
-    top: 180px;
+    position: sticky;
     grid-column: 1 / span 1;
-    width: 13%;
-    height: 10%;
+    width: 100%;
+    grid-row: 1 /span 1;
   }
 
   #astronaut img {
     width: 100%;
-    height: 100%;
     filter: grayscale(100%);
     opacity: 0.2;
+    position: sticky;
+    top: 170px;
   }
 
   #astronaut {
@@ -176,6 +176,8 @@ a {
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
+    position: sticky;
+    top: 310px;
   }
 
   #celestialbuttons i {
@@ -208,7 +210,8 @@ a {
     flex-direction: column;
     text-align: center;
     font-style: italic;
-    }
+    position: sticky;
+    top: 370px;
   }
 
   #morelinks a {
