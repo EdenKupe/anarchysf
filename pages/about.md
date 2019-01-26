@@ -6,7 +6,7 @@ permalink: about.html
 
 AnarchySF is an online archive of the intersection between anarchy and science fiction. This archive is an open-source repository of anarchist or anarchy-adjacent science fiction. Featured on the site are books, movies, and other media which are either anarchist in their politics or of interest to anarchists.
 
-This archive was first collected and organized by [Ben Beck](http://benbeck.co.uk), who gathered and maintained it for the better part of three decades (!) As of 2019, it was redesigned and re-built by Eden Kupermintz and Yanai Sened as a collaborative effort.
+This archive was first collected and organized by [Ben Beck](http://benbeck.co.uk), who gathered and maintained it for the better part of three decades (!) As of 2019, it was redesigned and re-built by Eden Kupermintz and Yanai Sened as a collaborative effort (follow us on <a href="https://twitter.com/anarchy_sf">Twitter</a>!).
 
 Even though the archive was revamped, the basic mission of the archive has stayed much the same as it has been for the last three decades. In Ben's own words, the original curator of the archive: *"Science fiction is inescapably the most suitable genre for speculation about an anarchist or libertarian (left or right) future, and utopian fiction is itself sometimes seen as a sub-genre of science fiction. As such, science fiction has long been attractive to anarchist readers.
 
