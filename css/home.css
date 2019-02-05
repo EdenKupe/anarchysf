@@ -250,6 +250,17 @@ a {
     margin-bottom: 30px;
   }
 
+  #pagecontent .lowerpagecontent ul {
+    margin-bottom: -40px;
+    line-height: 1.4;
+    margin-left: 0;
+    padding: 0;
+  }
+
+  #pagecontent .lowerpagecontent ul li {
+    margin-bottom: 0;
+  }
+
   #homewrapper.lighten ul li {
     color: #243C69;
   }
