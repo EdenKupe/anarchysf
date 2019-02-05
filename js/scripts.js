@@ -14,7 +14,19 @@ $(document).ready(function () {
   celestialToggle();
   mobileHamburger();
   var scroll = new SmoothScroll('a[href*="#"]', { offset: 170});
-});
+  var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+     if (window.location.hash && isChrome) {
+         setTimeout(function () {
+             var hash = window.location.hash;
+             var target = $('a[href*="' + hash + '"]');
+             var secondTarget = $(target[1]);
+             if (secondTarget) {
+               var targetLocation = secondTarget.offset().top - 170;
+               window.scrollTo(0, targetLocation);
+             };
+           }, 300);
+         };
+       });
 
 function navigateContent(url) {
 	//call ajax with the target url

@@ -40,11 +40,11 @@
           {% for page in site.pages %}
           {% if page.format == "book" %}
           {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | slugify: "default" | replace: "-s-", "s-" | replace: "ss", "s-s" }}"><span class="articlebox">{{ page.author }}</span></a>
+          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.author }}</span></a>
           {% endif %}
           {% elsif page.format == "film" %}
           {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | slugify: "default" | replace: "-s-", "s-" | replace: "ss", "s-s" }}"><span class="articlebox">{{ page.title }}</span></a>
+          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a>
           {% endif %}
           {% endif %}
           {% endfor %}
