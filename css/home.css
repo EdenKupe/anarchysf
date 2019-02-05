@@ -24,6 +24,7 @@ a {
   #homewrapper {
     width: 100%;
     height: 100%;
+    min-height: 100vh;
     display: grid;
     grid-template-rows: 150px auto 250px 250px 250px 50px;
     grid-template-columns: 8fr 4fr;
@@ -541,11 +542,6 @@ a {
 
   .lowerpagecontent > p {
     width: 110%;
-  }
-
-  #astronaut {
-    width: 14%;
-    margin-left: 20px;
   }
 
   .fa-moon {
