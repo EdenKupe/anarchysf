@@ -74,7 +74,11 @@
     {% for page in site.pages %}
     {% if page.category == letter.lettername %}
     <div class="titlecontainer">
+    {% if page.title and page.author %}
     <h3 class="pagetitle">{{ page.author }} // {{ page.title }}</h3>
+    {% else %}
+    <h3 class="pagetitle">{{ page.title }}</h3>
+    {% endif %}
     <div class="datereleased">({{ page.yearReleased}})</div>
     </div>
     <div class="lowerpagecontent">{{ page.content | newline_to_br }}</div>
