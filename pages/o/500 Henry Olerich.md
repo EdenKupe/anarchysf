@@ -1,0 +1,9 @@
+---
+title: "A Cityless and Countryless World. An  Outline of Practical Co-operative Individualism"
+format: "book"
+category: "o"
+yearReleased: "1893"
+author: "Henry Olerich"
+---
+A Martian (but here called 'Marsian' or 'Marsite')  traveller to earth is encouraged to describe at length the utopian society of  his native planet. Explicitly influenced by Herbert Spencer, the novel projects  a surprisingly open and free society, with no government and no organised  religion, and equal rights for men, women and children, but with a strong sense  of order and self-regulation. Though the word is never used by Olerich, it is  explicitly treated as an anarchist sf utopia by Brigitte Koenig in her essay in  Davis and Kinna's Anarchism and Utopianism, included in Nettlau's '<a href="biblio.htm#Nettlau">Utopies  libertaires</a>', and referred to in Cohn's  Underground Passages. It's also noted by Bob Black for Olerich's advocacy of  a 2-hour working day [Black 2015: 223].
+   
