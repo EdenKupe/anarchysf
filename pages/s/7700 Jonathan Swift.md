@@ -1,0 +1,11 @@
+---
+title: "Gulliver's Travels  (1726/1735); 'A Modest  Proposal'"
+format: "book"
+category: "s"
+yearReleased: "1729"
+author: "Jonathan Swift"
+---
+ Gulliver's Travels has the eponymous hero marooned amid various alien  societies, for satirical ends. It has been suggested that some of Godwin's  thinking originates here, especially in relation to the society of the  Houyhnhnms, which can be seen as anarchistic (Woodcock 1962, Preu: 372, 382). A  quotation from Gulliver's Houyhnhnm master will serve as an example of the  similarity to Godwin's thinking: the Houyhnhnm, commenting on British society,  expressed the opinion "That our institutions of government and law were plainly  owing to our gross defects in reason, and by consequence, in virtue; because  reason alone is sufficient to govern a rational creature . . ." (Pt IV, c. VII).  Godwin certainly admired Swift, whom he described as a man who "appears to have  had a more profound insight into the true principles of political justice than  any preceding or contemporary author." (Godwin 1798) "For the stern and  inflexible integrity of his principles, and the profound sagacity of his  speculation, he will be honoured by a distant posterity." (Godwin 1798: 443) Of  Gulliver's Travels itself Godwin wrote that "It was unfortunate that a work  of such inestimable wisdom failed at the period of its publication from the mere  playfulness of its form, in communicating adequate instruction to mankind."  Interestingly, Godwin's diaries record that he was reading Gulliver's Travels while he was writing Political Justice in just  the same way as his daughter's diary records that she was reading  Political Justice while writing Frankenstein (Preu: 372). An  extract from the Voyage to the Houyhnhnms was printed in  La Révolte in 1893. Preu claims that if Godwin is the father of  anarchism, Swift, through his influence on Godwin, is certainly its grandfather.  (Preu: Dean 69)
+ 
+The famous Modest Proposal is  that starvation in Ireland could be cured by consuming the children of the poor.  An extract was printed in La Révolte in 1893.
+ 

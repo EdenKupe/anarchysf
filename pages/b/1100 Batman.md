@@ -1,0 +1,10 @@
+---
+title: "Batman"
+format: "film"
+category: "b"
+yearReleased: "1989"
+author: "Tim Burton"
+---
+Batman is widely believed to be an urban legend until he  takes on a rising criminal mastermind known as the Joker.
+ 
+Dan Clore posted Robert Anton Wilson's film review "Have  You Ever Danced With the Devil in the Pale Moonlight?" to the anarchy-sf mailing  list in 2005; Wilson considered Batman "an anarcho-surrealist attack on  the conventions of mass market melodrama".

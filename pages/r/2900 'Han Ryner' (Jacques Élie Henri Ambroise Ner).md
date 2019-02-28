@@ -1,0 +1,10 @@
+---
+title: "Les Pacifiques"
+format: "book"
+category: "r"
+yearReleased: "1914"
+author: "'Han Ryner' (Jacques Élie Henri Ambroise Ner)"
+---
+. . . "the tale of an  anti-civilization, pacifist anarchist utopia" (Killjoy, 2009) on an uncharted island, written by a French  individualist-anarchist. See  <a href="http://hanryner.over-blog.fr/article-20471578.html"> Granier</a> (in French). Referenced in the 2014 Bottled Wasp Pocket Diary.  Also see Cohn: 180-1.
+ 
+ 

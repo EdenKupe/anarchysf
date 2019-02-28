@@ -1,0 +1,19 @@
+---
+title: "The Matrix"
+format: "film"
+category: "m"
+yearReleased: "1999"
+author: "the Wachowskis"
+---
+Set in a dystopian future in which reality as  generally perceived is actually a simulated reality called 'the  Matrix', created by a global machine intelligence to subdue the  human population while their bioelectricity is used as an energy  source. Neo, a hacker, learns this truth and joins a group of rebels  fighting to free the harvested humans. Strongly influenced by  cyberpunk and the work of Philip K. Dick.
+ 
+  Freedom reviewer Chris Hurt wrote, in 2003:
+ 
+Is The Matrix really  bad? Actually it helped me understand the cryptic comments of the  poststructuralists. For instance, Guy Debord's enormously  inaccessible Society of the Spectacle has always been a  struggle for me to get through. But after seeing the film, it all  makes perfect sense. [ . . . ] In this sense, The Matrix is  precisely what it advertises itself to be, a matrix. It's the  product of a particular organisation of the relations of production  pushing us into a state of passivity. It's founded on the separation  of ourselves from our culture, regurgitated back at us at dizzying  speed. Yet the film also provokes such critical thoughts as these.  So I give it both a one and a ten out of ten.
+The movie, and its sequels, was much discussed  on the anarchysf mailing list during its active period, and still  crops up from time to time on Facebook pages such as 'Solarpunk  Anarchists' and the 'Anarchism and Science Fiction Forum', where in  November 2016 three contributors listed it among their contenders  for 'best sci-fi ever committed to film'. A discussion on the  Anarchism <a href="https://www.reddit.com/r/Anarchism/comments/2a2r93/can_we_compile_a_list_of_the_top_films_advocating/"> SubReddit</a> began with using The Matrix as the benchmark  for identifying films advocating anti-capitalism. Jesse Cohn noted  that "some contemporary anarchists have critically endorsed" the  film (<a href="biblio.htm#Cohn 1999">Cohn 1999</a>, citing Sanda  Jeppeson, 'The Matrix; Revolution or Simulacrum in  Hollywood?', Social Anarchism 36 (Spring 2004). Thomas  Michaud, in his <a href="https://books.google.co.uk/books?id=-8iD6iuO-iAC&amp;pg=PA73&amp;lpg=PA73&amp;dq=why+are+anarchists+attracted+to+science+fiction&amp;source=bl&amp;ots=NejthZ5DRg&amp;sig=FUp9INPFjgzR6RyZElmMVISZ33Q&amp;hl=en&amp;sa=X&amp;ved=0CFcQ6AEwCWoVChMIwdOJwdPzxgIVi27bCh1hdwle#v=onepage&amp;q=why are a"> essay</a> on 'Science Fiction and Politics', locating The Matrix  firmly within the field of cyberpunk, cites it is an example  of anarchist denunciation of the use of technology to control  people. 
+ 
+The film is discussed at some length in Taylor  Andrew Loy's 'Anarchy in Critical Dystopias: An Anatomy of  Rebellion' (in <a href="Shea,%20Robert">Shantz</a>). Loy says "Neo  may begin The Matrix as 'just' a cyberpunk, but by the end he  has also become a self-governed Anarchist.' [p205] He sees Neo's  final voice-over as addressing both the AI and the movie audience  itself — 
+ 
+. . . I'm going to show them a world . . .  without you. A world without rules and controls. Without borders or  boundaries. A world where everything is possible. Where we go from  there is a choice I leave to you.
+— and concludes that "Not only does this  statement clearly refer to an Anarchistic world, it is also a useful  general description of the telos of Anarchistic rebellion: the  perpetual generation of change and revolution without constraints."  [p215]
+ 
