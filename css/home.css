@@ -103,7 +103,7 @@ a {
   #sidebar #articlelist {
     top: 170px;
     position: fixed;
-    height: 740px;
+    height: 77vh;
     width: 31%;
     overflow-y: auto;
     padding-left: 25px;
