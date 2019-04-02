@@ -157,7 +157,7 @@ a {
     position: sticky;
     grid-column: 1 / span 1;
     width: 100%;
-    grid-row: 1 /span 1;
+    grid-row: 1 /span 2;
   }
 
   #astronaut img {
