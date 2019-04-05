@@ -28,6 +28,7 @@ const searchInstance = autocomplete(
           }
           let initialText = suggestion.author + "-" + suggestion.title;
           let linkText = slugify(initialText);
+          suggestion.permalink = linkText;
           return (
             '<span class="searchtitlecontainer">' +
             '<a href="#' + linkText + '" + class="searchtitle" href="' +
@@ -82,7 +83,9 @@ searchInstance.on({
     $(diamond).css("visibility", "hidden");
   },
   "autocomplete:selected": function(event, suggestion, dataset, context) {
-
+    var updatedLink = suggestion.permalink
+    window.location = "#" + updatedLink;
+    console.log(updatedLink);
   },
   "autocomplete:updated": function() {
     if (this.value != "") {
