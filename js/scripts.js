@@ -7,7 +7,7 @@ $(document).ready(function() {
   }
   sideBarClick();
   anchors.options = {
-    truncate: "400"
+    truncate: "600"
   };
   anchors.add("h3");
   linkload();

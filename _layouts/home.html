@@ -25,8 +25,9 @@
 </div>
   <div id="homeheader">
     <div id="hometitle">
-        <a onclick="linkclick(event,this)" href="about.html">About us</a>
         <a onclick="linkclick(event,this)" href="index.html"><img src="img/astrologo.png" /></a>
+        <input type="text" id="aa-search-input" class="aa-input-search" placeholder="Search anarchySF..." name="search" autocomplete="on" />
+        <a onclick="linkclick(event,this)" href="about.html">About us</a>
         <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
     </div>
     <!-- <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" /> -->
@@ -49,7 +50,7 @@
           {% elsif page.format == "film" %}
           {% if page.category == letter.lettername %}
           {% if page.title and page.author %}
-          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a></li>
+          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | replace: "'s", "s" | normalize_whitespace | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a></li>
           {% else %}
           <li class="articleitem"><a href="#{{ page.title | append: '-' | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a></li>
           {% endif %}
@@ -104,5 +105,6 @@
     {% include footer.html %}
   </div>
 </div>
+<script  src="{{ "js/algolia.js" }}"></script>
 </body>
 </html>
