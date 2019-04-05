@@ -1,5 +1,5 @@
 ---
-title: "Murray Constantine—see Katherine Burdekin"
+title: "Murray Constantine (see Katherine Burdekin)"
 format: "other"
 category: "c"
 yearReleased: "--"
