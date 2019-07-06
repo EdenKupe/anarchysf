@@ -107,9 +107,6 @@ permalink: worksforconsideration.html
 | Ted Chiang | Stories of Your Life and Others | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jacob Clifton | 'This is Why We Jump' | <a href="http://www.locusmag.com/Reviews/2013/06/lois-tilton-reviews-short-fiction-early-june-3/">www.locusmag.com/Reviews/2013/06/lois-tilton-reviews-short-fiction-early-june-3/</a> |
 | Daniel A. Coleman | The Anarchist | email suggestion to me |
-| Robert Collino | Essais fantastiques du Dr Rob | French sf author and anarchist who wrote under the pseudonym Ixigrec, included in the 2014Bottled Wasp Pocket Diary;<a href="http://eng.anarchopedia.org/Robert_Collino">eng.anarchopedia.org/Robert_Collino</a> |
-| Robert Collino | Panurge au pays des machines | French sf author and anarchist who wrote under the pseudonym Ixigrec, included in the 2014Bottled Wasp Pocket Diary;<a href="http://eng.anarchopedia.org/Robert_Collino">eng.anarchopedia.org/Robert_Collino</a> |
-| Alex Comfort | The Philosophers | Goodway: 259 |
 | Michael Coney | Hello Summer, Goodbye(akaRAX) | <a href="http://www.librarything.com/work/271046/book/26911732">www.librarything.com/work/271046/book/26911732</a>;<a href="http://www.thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Andy T. Coombs | 'Wall Street Undead' | <a href="http://flag.blackened.net/aca/anarchy-sci-fi/wallstreetundead.htm">flag.blackened.net/aca/anarchy-sci-fi/wallstreetundead.htm</a> |
 | Julio Cortázar | 'House Taken Over' | mentioned in a mailing to anarchysf |
@@ -239,7 +236,6 @@ permalink: worksforconsideration.html
 | James P. Hogan | Code of the Lifemaker | <a href="https://seesharppress.wordpress.com/2014/06/11/a-neglected-sci-fi-gem-code-of-the-lifemaker/">seesharppress.wordpress.com/2014/06/11/a-neglected-sci-fi-gem-code-of-the-lifemaker/</a> |
 | James P. Hogan | The Immortality Option | <a href="https://seesharppress.wordpress.com/2014/10/17/another-neglected-sci-fi-gem-the-immortality-option/">seesharppress.wordpress.com/2014/10/17/another-neglected-sci-fi-gem-the-immortality-option/</a> |
 | James P. Hogan | Mirror Maze | <a href="https://www.goodreads.com/genres/libertarian-science-fiction">www.goodreads.com/genres/libertarian-science-fiction</a> |
-| Ninni Holmqvist | The Unit | <a href="http://www.quora.com/What-are-some-of-the-best-anarchist-fiction-novels">www.quora.com/What-are-some-of-the-best-anarchist-fiction-novels</a> |
 | Stewart Home | 'Anarchist' | <a href="http://www.isfdb.org/cgi-bin/title.cgi?1398539">www.isfdb.org/cgi-bin/title.cgi?1398539</a> |
 | Stewart Home | Blow Job | Blurb: . . . "gleefully violent, goofily lewd satire of revolutionary British politics, in which the opposing proponents of anarchism and fascism have more in common than they'd like to admit." . . . "a volatile near-future world of street fights, assassinations and bombings". . . As the leader of Class Justice Steve Drummond has the London anarchist scene "stitched up like a kipper", until "Swift" Nick Carter returns to the political fold. Then the anarchists take on the fascist fringe in a battle for the hearts and minds of disaffected youth.";<a href="http://www.stewarthomesociety.org/sp/anstupid.htm">www.stewarthomesociety.org/sp/anstupid.htm</a> |
 | Stewart Home | Red London | <a href="http://www.reddit.com/r/Anarchism/comments/1d7esn/">www.reddit.com/r/Anarchism/comments/1d7esn/</a>;<a href="http://www.stewarthomesociety.org/sp/anstupid.htm">www.stewarthomesociety.org/sp/anstupid.htm</a> |
@@ -469,7 +465,6 @@ permalink: worksforconsideration.html
 | C.J. Sansom | Dominion | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
 | C.J. Sansom | Lamentation | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
 | Richard Henry Savage | The Anarchist: A Story of Today | a tale of political intrigue and violence set in a Near Future America ransacked by anarchists - See more at: http://www.sf-encyclopedia.com/entry/savage_richard_henry#sthash.3eHSHpSE.dpuf<a href="http://www.sf-encyclopedia.com/entry/savage_richard_henry">SFE</a>: "a tale of political intrigue and violence set in a Near Future America ransacked by anarchists" |
-| John Scalzi | Fuzzy Nation | recommended on Facebook 'Anarchists and Science Fiction' page |
 | John Scalzi | Old Man's Warseries | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | John Scalzi | Redshirts | recommended on Facebook 'Anarchists and Science Fiction' page |
 | Lorraine Schein | 'Angel of Anarchy' and other writings | recommended by Lorraine Schein in emails to me |
@@ -535,7 +530,6 @@ permalink: worksforconsideration.html
 | Charles Stross | The Jennifer Morgue | <a href="https://riproaringreviews.wordpress.com/">riproaringreviews.wordpress.com</a> |
 | Charles Stross | The Rhesus Chart | <a href="https://seesharppress.wordpress.com/2014/07/08/book-review-the-rhesus-chart-by-charles-stross/">seesharppress.wordpress.com/2014/07/08/book-review-the-rhesus-chart-by-charles-stross/</a> |
 | Arkady & Boris Strugatski | Noon Universebooks | prompted a short discussion on the<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Facebook forum</a> |
-| Daniel Suarez | Daemon | Crofton: 45;m.reddit.com/r/Anarcho_Capitalism/comments/4razn4/anyone_into_libertariananarchist_sci_fi/ |
 | Daniel Suarez | Influx | 2015 Prometheus Award winner |
 | Eugène Sue | The Wandering Jew | mentioned in a mailing to anarchysf |
 | Tricia Sullivan | Maul | <a href="http://www.librarything.com/work/48807/book/26911930">www.librarything.com/work/48807/book/26911930</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
@@ -559,7 +553,6 @@ permalink: worksforconsideration.html
 | Dubravka Ugrešić | Baba Yaga Laid an Egg | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Daniel Unedo | Dogs of Orninica | <a href="http://www.goodreads.com/book/show/20772719-dogs-of-orninica">www.goodreads.com/book/show/20772719-dogs-of-orninica</a> |
 | Andres Vaccari | A Song for Sumerica(unpublished) | Included in<a href="k.htm#Killjoy">Killjoy'</a>slist of stories that explore anarchist societies. |
-| Jean-Christophe Valtat | Luminous Chaos: A Novel | Jean-Cristophe Valta<a href="http://www.amazon.co.uk/Before-Incal-4-Psycho-Anarchist-ebook/dp/B00SWONGCA/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1434975002&amp;sr=1-3&amp;keywords=anarchist+novels">Amazon</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=14097705428">AbeBooks</a> |
 | Carissa van den Berk Clark | May it Come Quickly, like a Shaft Sundering in the Dark | <a href="http://www.goodreads.com/book/show/6379111-may-it-come-quickly-like-a-shaft-sundering-in-the-dark">www.goodreads.com/book/show/6379111-may-it-come-quickly-like-a-shaft-sundering-in-the-dark</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=695842369">AbeBooks</a> |
 | Carissa van den Berk Clark | Yours for the Revolution | <a href="http://www.goodreads.com/book/show/6367756-yours-for-the-revolution">www.goodreads.com/book/show/6367756-yours-for-the-revolution</a> |
 | Jack Vance | Durdane trilogy | mentioned in a mailing to anarchysf |
