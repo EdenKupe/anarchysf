@@ -62,6 +62,7 @@ a {
   #hometitle {
     display: flex;
     align-items: center;
+    align-content: center;
     width: 70%;
   }
 
@@ -435,6 +436,22 @@ a {
     margin-left: 50px;
   }
 
+  #homehero h3 {
+    color: #F4998D;
+    font-size: 26px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    font-weight: 300;
+  }
+
+  #homehero h4 {
+    color: #a89e8a;
+    font-size: 22px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    font-weight: bold;
+  }
+
 
   #homewrapper.lighten #pagecontent > p {
     color: #243C69;
@@ -544,11 +561,9 @@ a {
     color: #6E263E;
   }
 
-  .titlecontainer .pagetitle {
-    font-weight: bold;
-    color: #f4998d;
-    font-size: 20px;
-  }
+#homehero .titlecontainer h3 {
+  margin-left: 0;
+}
 
   .datereleased {
     color: grey;
