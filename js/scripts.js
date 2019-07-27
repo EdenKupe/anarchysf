@@ -1,5 +1,6 @@
 $(document).ready(function() {
   var $title = $("#maintitle").text();
+  let randomUsed;
   if ($title.indexOf("Welcome to anarchySF!") != -1) {
     console.log("Welcome to anarchySF!");
   } else {
@@ -21,7 +22,7 @@ $(document).ready(function() {
       var hash = window.location.hash;
       var target = $('a[href*="' + hash + '"]');
       var secondTarget = $(target[1]);
-      if (secondTarget) {
+      if (secondTarget && !randomUsed) {
         var targetLocation = secondTarget.offset().top - 170;
         window.scrollTo(0, targetLocation);
       }
@@ -165,6 +166,26 @@ function celestialToggle() {
     $(this).addClass("shining");
     localStorage.setItem("selectedMode", "dark");
   });
+}
+
+function randomLink (event) {
+  event.preventDefault();
+  var pageLinks = document.getElementsByTagName("h3");
+  // get a random number between 0 and the number of links
+    var randIdx = Math.random() * pageLinks.length;
+    // round it, so it can be used as array index
+    randIdx = parseInt(randIdx, 10);
+    chosenLink = pageLinks[randIdx];
+    linkName = $(chosenLink).attr('id');
+    var target = $('a[href*="' + linkName + '"]');
+    var secondTarget = $(target[1]);
+    if (secondTarget) {
+      var targetLocation = secondTarget.offset().top - 170;
+      window.scrollTo(0, targetLocation);
+      $('h3').removeClass('randomlySelected');
+      $(secondTarget).parent().addClass('randomlySelected');
+    }
+    randomUsed = true;
 }
 
 //a function to control a click on the mobile hamburger button
