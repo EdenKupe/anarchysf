@@ -29,6 +29,10 @@ The degree to which M. John Harrison is underread today is criminal. He has one 
 
 But at the center of _The Centauri Device_ lies the potential of the destruction of space itself, as a concept, as well as a more thorough and interesting exploration of space-faring societies than in Bester's great work. It is a book filled with weird and aweomse ship names, hedonistc anarchists fighting it out in space, breakneck action and lots of existensialism. It's a ride and a half.
 
+#### Desert - Anonymous
+
+[Desert](http://theanarchistlibrary.org/library/anonymous-desert) is an anonymous essay about climate change from an anarchist perspective. It aims to break up what it sees as the very liberal and romantic conception of "the end of the world" that is so prevalent in ecological discourse and instead replace it with a more sober and local view of climate catastrophe. It argues that climate catastrophe, while always terrible, is also always coming and we should thus try and see what opportunity exists within it. Since the world is (probably) not going to collapse at once, there's opprtunity here for resistance and for new societies, organized around new lines.
+
 #### Monica Byrne - The Girl in the Road
 
 While _The Girl in the Road_ doesn't explicitly touch on anarchy, it has overtly feminist, anti-colonial, and individualist themes. It also deals with climate change, which is a topic no anarchist can today afford to overlook. The book is written from the perspectives of two women, one of which is located in India while the other is in East Africa. They both struggle with notions of the body, sexuality, coming of age, religion, and technology. Throughout the book, Byrne daftly weaves the personal and the general, in a style that is very much reminiscent of Ursula Le Guin (whom the author has said had much influence on her).
@@ -41,7 +45,9 @@ One of sci-fi's best kept secrets, _Random Acts of Senseless Violence_ depicts t
 
 Quickly however, the family begins to lose its stability. As a result, Lola is thrust into a new school, new neighborhood and, finally, into the violence of the world as the social contract starts to unravel. Like the famous _Flowers for Algernon_ (by Daniel Keyes), the language of Lola evolves alongside her psychology. The novel uses these tools to expertly capture what happens when laws breaks down in a capitalist society and how the basics of what we call life fall prey to greed and violence. The absence of a better solution is deafening and should serve as a good reminder to any anarchist what is at stake if we cannot formulate an alternative to the way things are organized today.
 
+#### Heavenly Bodies - Damien Williams
 
+_Heavenly Bodies: Why It Matters That Cyborgs Have Always Been About Disability, Mental Health, and Marginalization_ is an essay looking at the over-used term "cyborg" in an attempt to re-contextualize the term. The essay looks at the history of term, which sprouted from the research into the possibility of self chemically-regulating human bodies, and then ties it and the discourse on it to questions on disability, space travel, mental health, and more.
 
 ## Ben's List
 
