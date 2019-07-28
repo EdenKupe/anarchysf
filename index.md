@@ -8,7 +8,7 @@ This archive was first collected and organized by [Ben Beck](http://benbeck.co.u
 
 Let's get started! Use the sidebar on the right to choose an entry, scroll down to start exploring or choose one of these options:
 
-<div id="getStartedRow">
+<div class="getStartedRow">
   <a class="getStartedLink" target="_blank" href="/recommended.html">
     <div class="getStartedBox">
       <i class="fas fa-list-ul getStartedIcon"></i>
@@ -21,13 +21,18 @@ Let's get started! Use the sidebar on the right to choose an entry, scroll down 
       <span class="getStartedTitle">Random entry</span>
     </div>
   </a>
+  </div>
+  <div class="getStartedRow">
   <a class="getStartedLink" target="_blank" href="/about.html">
     <div class="getStartedBox">
       <i class="fas fa-address-card getStartedIcon"></i>
       <span class="getStartedTitle">Who we are</span>
     </div>
   </a>
+  <a class="getStartedLink" target="_blank" href="/contribute.html">
+    <div class="getStartedBox">
+      <i class="fas fa-pen-square getStartedIcon"></i>
+      <span class="getStartedTitle">Contribute</span>
+    </div>
+  </a>
 </div>
-
-
-<div class="glowbox">If you'd like to contribute your own entries, please read our <a href="contribute.html">Contribution guide</a>.

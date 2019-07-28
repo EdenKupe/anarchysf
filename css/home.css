@@ -261,15 +261,16 @@ a {
     font-size: 22px;
   }
 
-  #getStartedRow {
+  .getStartedRow {
     display: flex;
     margin-left: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 65px;
+    height: 150px;
   }
 
   .getStartedLink {
     flex-basis: 250px;
-    height: 150px;
+    height: 100%;
     margin-right: 25px;
   }
 
@@ -277,7 +278,7 @@ a {
     background-color: #080c13;
     color: #a89e8a;
     border: 2px solid #00baba;
-    height: 150px;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
