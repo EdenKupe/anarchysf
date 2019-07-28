@@ -180,7 +180,7 @@ function randomLink (event) {
     var target = $('a[href*="' + linkName + '"]');
     var secondTarget = $(target[1]);
     if (secondTarget) {
-      var targetLocation = secondTarget.offset().top - 170;
+      var targetLocation = secondTarget.offset().top - 210;
       window.scrollTo(0, targetLocation);
       $('h3').removeClass('randomlySelected');
       $(secondTarget).parent().addClass('randomlySelected');
