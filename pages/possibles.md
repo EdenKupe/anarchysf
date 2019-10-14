@@ -406,7 +406,6 @@ permalink: worksforconsideration.html
 | François Partant | Le Pédalo ivre | tagged as sf in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Milorad Pavić | The Dictionary of the Khazars | passing reference in Cohn: 229 |
 | Victor Pelevin | Omon Ra | <a href="https://libcom.org/library/working-class-literature-reading-guide">libcom.org/library/working-class-literature-reading-guide</a> |
-| Laurie Penny | 'Rape Culture - the House of Surrender' | both Facebook pages; "A short story set in a voluntary jail in an anarchist society" |
 | Henry Pereira Mendes | Looking Ahead | "Retrospective future history of series of international wars, revolts by dastardly socialists and anarchists" &c. (Suvin: 78) |
 | Kit Perry | The Empathy Spectrum | <a href="http://www.ypdbooks.com/thriller-mystery-adventure/976-the-empathy-spectrum-YPD00907.html">www.ypdbooks.com/thriller-mystery-adventure/976-the-empathy-spectrum-YPD00907.html</a> |
 | Gary Phillips | The Underbelly plus | PM Press Outspoken Authors |
