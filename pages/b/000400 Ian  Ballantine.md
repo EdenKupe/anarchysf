@@ -4,5 +4,5 @@ format: "other"
 category: "b"
 yearReleased: "--"
 ---
-Founder of the sf  publishing company Ballantine Books, Ian Ballantine was the great-nephew of  anarchist Emma Goldman.
+Founder of the SF  publishing company Ballantine Books, Ian Ballantine was the great-nephew of  anarchist Emma Goldman.
  

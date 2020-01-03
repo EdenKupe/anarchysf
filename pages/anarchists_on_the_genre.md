@@ -21,7 +21,7 @@ La littérature spéciale aux Utopies ou sociétés imaginaires est plus consid�
 
 (_Russian Literature, Ideals and Realities_, 1916)
 
-\[Kropotkin seems not to have known any Russian sf. Apart from Chernyshevsky, he only refers to Shcherbatov, and doesn't mention the latter's only sf work.\]
+\[Kropotkin seems not to have known any Russian sf. Apart from Chernyshevsky, he only refers to Shcherbatov, and doesn't mention the latter's only SF work.\]
 
 ## Herbert Read
 
@@ -187,15 +187,15 @@ L'anarchia è un'utopia "reale". Proprio in questo contrasto sta la sua vitalit�
 
 "Utopian fiction has been predominantly reactionary in one form or another (as well as being predominantly dull) since it began."
 
-"Writers, when they are writing, can only be judged on the substance of their work. The majority of the sf writers most popular with radicals are by and large crypto-fascists to a man and woman! There is Lovecraft, the misogynistic racist; there is Heinlein, the authoritarian militarist; there is Ayn Rand, the rabid opponent of trade unionism and the left, who, like many a reactionary before her, sees the problems of the world as a failure by capitalists to assume the responsibilities of 'good leadership'; there is Tolkein and that group of middle-class Christian fantasists who constantly sing the praises of bourgeois virtues and whose villains are thinly disguised working class agitators -- fear of the Mob permeates their rural romances. To all these and more the working class is a mindless beast which must be controlled or it will savage the world (i.e. bourgeois security) -- the answer is always leadership, 'decency',_ paternalism (Heinlein in particularly strong on this), Christian values
+"Writers, when they are writing, can only be judged on the substance of their work. The majority of the SF writers most popular with radicals are by and large crypto-fascists to a man and woman! There is Lovecraft, the misogynistic racist; there is Heinlein, the authoritarian militarist; there is Ayn Rand, the rabid opponent of trade unionism and the left, who, like many a reactionary before her, sees the problems of the world as a failure by capitalists to assume the responsibilities of 'good leadership'; there is Tolkein and that group of middle-class Christian fantasists who constantly sing the praises of bourgeois virtues and whose villains are thinly disguised working class agitators -- fear of the Mob permeates their rural romances. To all these and more the working class is a mindless beast which must be controlled or it will savage the world (i.e. bourgeois security) -- the answer is always leadership, 'decency',_ paternalism (Heinlein in particularly strong on this), Christian values
 
 "What can this stuff have in common with radicals of any persuasion? The simple answer is, perhaps, Romance. The dividing line between rightist Romance (Nazi insignia and myth etc.) and leftist Romance (insurgent cavalry etc.) is not always easy to determine. A stirring image is a stirring image and can be ,employed to raise all sorts of atavistic or infantile emotions in us. Escapist or 'genre' fiction appeals to these emotions. It does us no harm to escape from time to time but it can be dangerous to confuse simplified fiction with reality and that, of course, is what propaganda does."
 
-"Traditional sf is hero fiction on a huge scale, but it is only when it poses as a fiction of ideas that it becomes completely pernicious. At its most spectacular it gives us Charlie Manson and Scientology (invented by the sf writer Ron Hubbard and an authoritarian system to rival the Pope's). To enjoy it is one thing. To claim it as 'radical' is quite another. It is rather unimaginative; it is usually badly written; its characters are ciphers; its propaganda is simple-minded and conservative -- good old-fashioned opium which might be specifically designed for dealing with the potential revolutionary."
+"Traditional SF is hero fiction on a huge scale, but it is only when it poses as a fiction of ideas that it becomes completely pernicious. At its most spectacular it gives us Charlie Manson and Scientology (invented by the SF writer Ron Hubbard and an authoritarian system to rival the Pope's). To enjoy it is one thing. To claim it as 'radical' is quite another. It is rather unimaginative; it is usually badly written; its characters are ciphers; its propaganda is simple-minded and conservative -- good old-fashioned opium which might be specifically designed for dealing with the potential revolutionary."
 
-"By and large the world we got in the thirties was the world the sf writers of the day hoped we would have -- 'strong leaders' reshaping nations."
+"By and large the world we got in the thirties was the world the SF writers of the day hoped we would have -- 'strong leaders' reshaping nations."
 
-"So little sf has fundamental humanitarian values, let alone libertarian ideals, one is hard put to find other examples."
+"So little SF has fundamental humanitarian values, let alone libertarian ideals, one is hard put to find other examples."
 
 "Next time you pick up a Heinlein book think of the author as looking a bit like General Eisenhower or, if that image isn't immediate enough, some chap in early middle age, good-looking in a slightly soft way, with silver at the temples, a blue tie, a sober three-pieced suit, telling you with a quiet smile that Margaret Thatcher cares for individualism and opportunity above all things, as passionately in her way as you do in yours. And then you might have some idea of what you're actually about to read."
 

@@ -4,7 +4,7 @@ format: "other"
 category: "a"
 yearReleased: "1978–1987"
 ---
- Just four issues were published, but all are still entertaining. There are comic  strips with sf content in three of the four, most notably by Paul Mavrides and  Jay Kinney.
+ Just four issues were published, but all are still entertaining. There are comic  strips with SF content in three of the four, most notably by Paul Mavrides and  Jay Kinney.
   
  In 1981 #3 received a long and enthusiastic review by <a href="https://freedomnews.org.uk/wp-content/uploads/2017/10/Freedom-1981-09-12.pdf"> Cliff Harper</a>, for whom this issue was "the best one so far." He further  said:
   

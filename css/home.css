@@ -26,10 +26,9 @@ a {
     height: 100%;
     min-height: 100vh;
     display: grid;
-    grid-template-rows: 150px auto 250px 250px 250px 50px;
-    grid-template-columns: 8fr 4fr;
-
-    background-color: #090809;
+    grid-template-rows: 80px auto 250px 250px 250px 50px;
+    grid-template-columns: 4fr 8fr;
+    background-color: #0e141f;
   }
 
   #homewrapper.lighten {
@@ -47,7 +46,7 @@ a {
     grid-column: 1 / span 3;
     align-items: center;
     justify-content: center;
-    background-color: #090809;
+    background-color: #0e141f;
     border-bottom: 1px solid #29303d;
     box-shadow: 0 1rem 5rem -0.5rem #000;
     position: sticky;
@@ -60,15 +59,28 @@ a {
   }
 
   #hometitle {
-    display: flex;
+    display: grid;
     align-items: center;
-    align-content: center;
-    width: 70%;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 2fr 3fr 2fr 6fr;
+    grid-template-rows: 100%;
   }
 
-  #hometitle a {
-    margin-right: 10px;
-    margin-left: 35px;
+  #homeLogo {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 1;
+  }
+
+  #homeLinks {
+    grid-row: 1 / span 1;
+    grid-column: 4 / span 1;
+  }
+
+  #homeLinks a {
+    margin-right: 20px;
+    margin-left: -10px;
   }
 
   #hometitle a:nth-child(3) {
@@ -86,6 +98,9 @@ a {
 
   .algolia-autocomplete {
     width: 420px;
+    flex: 1;
+    grid-column: 3 / span 1;
+    grid-row: 1 /span 1;
   }
 
   #homeheader #aa-search-input {
@@ -213,7 +228,7 @@ a {
 
   #sidebar {
     display: flex;
-    grid-column: 2 / span 1;
+    grid-column: 1 / span 1;
     grid-row: 2 / span 4;
     box-shadow: inset -9rem 0 9rem -9rem #000;
     border-left: 1px solid #29303d;
@@ -222,12 +237,13 @@ a {
   }
 
   #sidebar #articlelist {
-    top: 170px;
-    position: fixed;
+    top: 130px;
+    position: sticky;
     height: 78vh;
-    width: 31%;
     overflow-y: auto;
     padding-left: 25px;
+    display: flex;
+    flex-direction: column;
   }
 
   .sidebararticles {
@@ -317,13 +333,13 @@ a {
 
   #astronaut {
     position: sticky;
-    grid-column: 1 / span 1;
+    grid-column: 2 / span 1;
     width: 100%;
     grid-row: 1 /span 2;
   }
 
   #astronaut img {
-    width: 100%;
+    width: 80%;
     filter: grayscale(100%);
     opacity: 0.2;
     position: sticky;
@@ -333,6 +349,7 @@ a {
   #astronaut {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
 
   #celestialbuttons {
@@ -360,6 +377,8 @@ a {
 
   #celestialbuttons i {
     margin-right: 80px;
+    margin-left: 40px;
+    cursor: pointer;
   }
 
   #celestialbuttons i.shining {
@@ -374,7 +393,7 @@ a {
     text-align: center;
     font-style: italic;
     position: sticky;
-    top: 350px;
+    top: 340px;
   }
 
   #morelinks a {
@@ -384,9 +403,9 @@ a {
   #homehero {
     width: 100%;
     grid-row: 2 / 6;
-    grid-column: 1 / span 1;
+    grid-column: 2 / span 1;
     display: grid;
-    grid-template-columns: 2fr 4fr 1fr;
+    grid-template-columns: 5fr 3fr;
     padding-top: 20px;
     font-family: 'Montserrat',Arial,sans-serif;
     background-color: inherit;
@@ -395,7 +414,7 @@ a {
   #pagecontent {
     display: flex;
     flex-direction: column;
-    grid-column: 2 / span 1;
+    grid-column: 1 / span 1;
   }
 
   #pagecontent ul {
@@ -643,6 +662,12 @@ a {
     transition: padding-right 0.15s ease-out;
   }
 
+  .asIn {
+    font-size: 13px;
+    font-style: italic;
+    text-transform:none;
+  }
+
   .mainimage {
 
   }
@@ -702,9 +727,8 @@ a {
   }
 
   #backtotop {
-    position: sticky;
+    position: fixed;
     color: #F97373;
-
     font-family: FontAwesome;
     font-size: 22px;
     grid-column: 3 /span 1;
@@ -713,6 +737,7 @@ a {
     height: 23px;
     top: 96vh;
     margin-right: 10px;
+    right: 0;
   }
 
   #homewrapper.lighten #backtotop {

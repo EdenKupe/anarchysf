@@ -5,7 +5,7 @@ category: "s"
 yearReleased: "2013"
 author: "Charles Stross"
 ---
-Singularity Sky is included in  Killjoy's list of stories that explore anarchist  societies, and is included in Zeke Teflon's list of his <a href="http://seesharppress.wordpress.com/2013/10/24/anarchist-science-fiction-favorite-novels/"> favourite anarchist sf novels</a>.
+Singularity Sky is included in  Killjoy's list of stories that explore anarchist  societies, and is included in Zeke Teflon's list of his <a href="http://seesharppress.wordpress.com/2013/10/24/anarchist-science-fiction-favorite-novels/"> favourite anarchist SF novels</a>.
  
 The Atrocity Archives  and  Glasshouse are included in the Anarchist  Studies Network's <a href="http://www.anarchist-studies-network.org.uk/ReadingLists_ScienceFictionandFantasy"> Science Fiction and Fantasy Reading List.</a>
  

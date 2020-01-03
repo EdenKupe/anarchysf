@@ -9,5 +9,5 @@ Brown Girl in the Ring is described as Caribbean  magical realism. Fine writing,
  
 Midnight Robber was recommended by <a href="http://nwsfsnews.blogspot.com/2009/10/i-wanna-read-sf-anarchy.html"> Common Action</a> at the panel "Beyond The Dispossessed: Anarchism and Science  Fiction" at the Seattle Anarchist Bookfair in October 2009.
  
-The Salt Roads is transgeneric magical realism and  historical fiction, not sf at all. Very good, for all that. Included in the <a href="https://thinkgalactic.org/reading-lists/by-author/">Think Galactic</a>  reading list.
+The Salt Roads is transgeneric magical realism and  historical fiction, not SF at all. Very good, for all that. Included in the <a href="https://thinkgalactic.org/reading-lists/by-author/">Think Galactic</a>  reading list.
  

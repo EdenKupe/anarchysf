@@ -5,7 +5,7 @@ category: "s"
 yearReleased: "2015"
 author: "Norman Spinrad"
 ---
-Agent of Chaos concerns an underground movement which ideologises  entropy as leading to chaos, and fights against the total control of the  Hegemony over the solar system. Said to have influenced young American  radical-anarchists in the 1970s (Platt:70), though it's hard to see why; there  is, however, a passage in chapter 11 in which the concept of freedom is linked  to that of the infinity of the universe, which equation is perhaps at the root  of the attractiveness of sf for many anarchists and libertarians.
+Agent of Chaos concerns an underground movement which ideologises  entropy as leading to chaos, and fights against the total control of the  Hegemony over the solar system. Said to have influenced young American  radical-anarchists in the 1970s (Platt:70), though it's hard to see why; there  is, however, a passage in chapter 11 in which the concept of freedom is linked  to that of the infinity of the universe, which equation is perhaps at the root  of the attractiveness of SF for many anarchists and libertarians.
  
 'Heirloom' is a minor anarchistic story, wholly derivative of Russell's '. . . And Then There Were None.'
  

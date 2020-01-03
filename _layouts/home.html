@@ -10,7 +10,7 @@
       <a href="about.html">About us</a>
       <a href="contribute.html">Contribute</a>
     </div>
-    <a href="index.html"><img src="img/astrologo.png" /></a>
+    <a href="index.html"><img src="img/astrologohor.png" /></a>
     <div id="mobilerighthand">
       <button class="hamburger hamburger--spin" type="button">
         <span class="hamburger-box">
@@ -25,18 +25,37 @@
 </div>
   <div id="homeheader">
     <div id="hometitle">
-        <a onclick="linkclick(event,this)" href="index.html"><img src="img/astrologo.png" /></a>
+        <a id="homeLogo" onclick="linkclick(event,this)" href="index.html"><img src="img/astrologohor.png" /></a>
         <input type="text" id="aa-search-input" class="aa-input-search" placeholder="Search anarchySF..." name="search" autocomplete="on" />
-        <a onclick="linkclick(event,this)" href="about.html">About us</a>
-        <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
+        <div id="homeLinks">
+          <a onclick="linkclick(event,this)" href="about.html">About us</a>
+          <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
+        </div>
     </div>
     <!-- <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" /> -->
   </div>
   <div id="sidebar">
     <ul id="articlelist">
       {% for letter in site.data.documents %}
+      {% assign letterPages = site.pages | where:'category', letter.lettername %}
       <li class="sidebararticleitem">
-        <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }}</span>
+        <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }} <span class="asIn">as in {% for page in letterPages limit:1 %}
+        {% if page.format == "book" and forloop.last %}
+        <span>{{ page.author }}</span>
+        {% elsif page.format == "book" and forloop.length == 2 %}
+        <span>{{ page.author }},</span>
+        {% elsif page.format == "book" and forloop.length == 1 %}
+        <span>{{ page.author }}</span>
+        {% elsif page.format == "film" and forloop.last %}
+        <span>{{ page.title }}</span>
+        {% elsif page.format == "film" and forloop.length == 2 %}
+        <span>{{ page.title }},</span>
+        {% elsif page.format == "film" and forloop.length == 1 %}
+        <span>{{ page.title }}</span>
+        {% endif %}
+        {% endfor %}
+        </span>
+        </span>
         <ul class="sidebararticles getsOpened">
           {% for page in site.pages %}
           {% if page.format == "book" or page.format == "other" %}
@@ -106,5 +125,9 @@
   </div>
 </div>
 <script  src="{{ "js/algolia.js" }}"></script>
+<script>
+  ScrollReveal().reveal('.titlecontainer', {reset: true});
+  ScrollReveal().reveal('.lowerpagecontent', {reset: true});
+</script>
 </body>
 </html>

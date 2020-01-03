@@ -1,11 +1,11 @@
 ---
-title: "Permutation City  (1994); Distress"
+title: "Permutation City (1994); Distress"
 format: "book"
 category: "e"
 yearReleased: "1995"
 author: "Greg Egan"
 ---
-Permutation City is  among books cited by Nick Mamatas in The BASTARD Chronicles 2015 as hard  sf overwhelmed by religious allegory.
+Permutation City is  among books cited by Nick Mamatas in The BASTARD Chronicles 2015 as hard  SF overwhelmed by religious allegory.
  
 Distress is largely  set against the backdrop of the sympathetically presented anarcho-syndicalist society  of Stateless, an engineered coral island in the Pacific. The inhabitants mostly disregard anarchist thinkers like Bakunin, Proudhon and Godwin; children are  educated in sociobiology.
  

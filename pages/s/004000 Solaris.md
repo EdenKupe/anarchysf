@@ -9,4 +9,4 @@ Soviet adaptation of Stanisław Lem's novel of  the same name; a meditative psyc
  
 With Stalker, categorised by Glenn in his essay 'Film as  Subversion', in the 2015 BASTARD Chronicles, as  subversive, but "almost unwatchable for an American audience."  "Both force the viewer to examine their own desires and  interpersonal relationships."
  
-Two contributors to the Facebook Anarchism and  Science Fiction Forum include this film among their shortlists of the best  sf ever committed to film. "Super good and surrealist", but on the slow  side, was the opinion of a poster to the FB Anarchists and Science  Fiction page in 2016.
+Two contributors to the Facebook Anarchism and  Science Fiction Forum include this film among their shortlists of the best  SF ever committed to film. "Super good and surrealist", but on the slow  side, was the opinion of a poster to the FB Anarchists and Science  Fiction page in 2016.

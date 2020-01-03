@@ -1,5 +1,5 @@
 ---
-title: "Sunvault.     Stories of Solarpunk and Eco-Speculation"
+title: "Sunvault. Stories of Solarpunk and Eco-Speculation"
 format: "book"
 category: "w"
 yearReleased: "2017"

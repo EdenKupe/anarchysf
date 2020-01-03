@@ -1,10 +1,11 @@
 ---
-title: "The Star Fraction (1996); The Stone Canal 1997); The Cassini Division  (1999); The Sky Road (1999);  Cosmonaut Keep (2000);  Dark Light (2001);  Newton's Wake  (2004);  Learning the World (2005); The Night Sessions  (2008); Intrusion (2012); The Human Front Plus  (2013); The Corporation Wars: Dissidence"; The Corporation Wars: Insurgence (2016)
+title: "The Star Fraction (1996); The Stone Canal (1997); The Cassini Division (1999); The Sky Road (1999); Cosmonaut Keep (2000); Dark Light (2001);  Newton's Wake (2004);  Learning the World (2005); The Night Sessions (2008); Intrusion (2012); The Human Front Plus (2013); The Corporation Wars: Dissidence"; The Corporation Wars: Insurgence (2016)"
 format: "book"
 category: "m"
 yearReleased: "2016"
 author: "Ken Macleod"
 ---
+
 Distinctive left-wing Scottish take on sf, displaying evidence of the author's own activism.
  
 "Portrays a future that includes both a libertarian socialist society and a libertarian capitalist society." (Dan Clore)
@@ -32,4 +33,4 @@ Intrusion is a sort of low-key dystopia set in a New Labour inspired surveillanc
 
 The Human Front Plus is one of the PM Press short books coupling a title novella with a short or an essay, an author interview, and a bibliography. In this case the novella is an entertaining alternate history. In the interview (with Terry Bisson), when asked whether he would describe himself as a libertarian, Macleod replied ". . . I don't call myself a Libertarian, in the sense of a supporter of the Libertarian Party or anything like that. My usual handwave for my position is "hard-left libertarian" but in practice I just vote Labour."
 
-The Corporation Wars: Dissidence is the first book of a hard sf trilogy centring on sentient robots, dead soldiers digitally reincarnated, and complex worlds of simulation, engaged in megacorporate combat. Again, favourably reviewed by [Teflon](https://seesharppress.wordpress.com/2016/12/21/the-corporation-wars-dissidence-by-ken-macleod/), for whom it is "highly recommended." Teflon also recommends the second book, The Corporation Wars: Insurgence.
+The Corporation Wars: Dissidence is the first book of a hard SF trilogy centring on sentient robots, dead soldiers digitally reincarnated, and complex worlds of simulation, engaged in megacorporate combat. Again, favourably reviewed by [Teflon](https://seesharppress.wordpress.com/2016/12/21/the-corporation-wars-dissidence-by-ken-macleod/), for whom it is "highly recommended." Teflon also recommends the second book, The Corporation Wars: Insurgence.

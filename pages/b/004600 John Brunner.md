@@ -5,7 +5,7 @@ category: "b"
 yearReleased: "1975"
 author: "John Brunner"
 ---
-In his 1964 essay on political attitudes in sf Brunner  envisaged an automated anarchistic society as a possibility work exploring in sf  (Brunner 1964: 125). Interviewed in 1979, he said that  "if you had to classify me, you'd have to put me in some vague area like 'fellow-travelling idealistic anarchist.'"  (Platt: 276)
+In his 1964 essay on political attitudes in SF Brunner  envisaged an automated anarchistic society as a possibility work exploring in SF  (Brunner 1964: 125). Interviewed in 1979, he said that  "if you had to classify me, you'd have to put me in some vague area like 'fellow-travelling idealistic anarchist.'"  (Platt: 276)
  
 Stand on Zanzibar and The Sheep Look Up are  included in Think Galactic's <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a>.
  

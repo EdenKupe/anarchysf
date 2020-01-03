@@ -5,7 +5,7 @@ category: "b"
 yearReleased: "1991"
 author: "William S. Burroughs"
 ---
-Burroughs's work is difficult to describe or classify, but  most of his books have some sf interest, and among these all the above titles  have been referred to in anarchist publications. The most characteristic and  recurrent of his themes is stated succinctly in The Naked Lunch:
+Burroughs's work is difficult to describe or classify, but  most of his books have some SF interest, and among these all the above titles  have been referred to in anarchist publications. The most characteristic and  recurrent of his themes is stated succinctly in The Naked Lunch:
  
 " . . . You see control can never be a means to any  practical end . . . . It can never be a means to anything but more control . . .  . Like junk . . ." (164, Calder & Boyars edn).
 Dave Cunliffe, in his 1968 Freedom review of The  Soft Machine, summed up Burroughs as "a technological mystic and creative  journalist with liberal and reformist tendencies". But "his inspired solipsistic  vision" (Moorcock 1983: 71) represents more than this: his sympathies are  libertarian and revolutionary. B.P.D., writing in Freedom in 1972, felt that "To  employ the term 'anarchist' to such an individualist thinker as William  Burroughs would be to categorise him wrongly and unnecessarily." But that he  approached closely to anarchism is shown clearly in his 1969 interview with  Daniel Odier, published as The Job. He says he is "very dubious of  politics myself" (47), and believes that "all existing governments are control  machines" (35); and when asked directly whether he believes in the anarchist  solutions for the future he replies

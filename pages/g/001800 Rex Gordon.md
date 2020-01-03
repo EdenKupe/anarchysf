@@ -5,7 +5,7 @@ category: "g"
 yearReleased: "1955"
 author: "Rex Gordon"
 ---
-One of the few explicitly anarchist sf novels. The plot is stock utopian: the protagonists escape via time machine into the future, encounter utopia, and decide to stay.
+One of the few explicitly anarchist SF novels. The plot is stock utopian: the protagonists escape via time machine into the future, encounter utopia, and decide to stay.
  
 The future society is anarchist to a pattern apparently of Gordon's own devising. The only rules the community abide by are inscribed on a memorial stone to the instigator of the revolution:
  THE GOSPEL OF THIS COMMUNITY . . . THAT NO ONE SHALL HAVE THE POWER TO ISSUE ORDERS . . . THAT A STATE OF ANARCHY SHALL PREVAIL . . . THAT FREEDOM SHALL BE UNLIMITED . . . UNCIRCUMSCRIBED BY LAW . . . UNFETTERED BY TAXATION . . .

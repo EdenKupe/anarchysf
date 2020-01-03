@@ -5,7 +5,7 @@ category: "r"
 yearReleased: "1975"
 author: "Jim Sharman"
 ---
-Cult transgressive musical affectionately referencing  classic sf and horror movies for comic effect.
+Cult transgressive musical affectionately referencing  classic SF and horror movies for comic effect.
  
   Red Planets  says this film  "Unlocks the queerness of popular SF."
  
