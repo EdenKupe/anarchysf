@@ -1,0 +1,26 @@
+{
+  "name": "anarchysf",
+  "version": "1.0.0",
+  "description": "An open-source repository of anarchist science fiction",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-shell": "^0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdenKupe/anarchysf.git"
+  },
+  "author": "Eden Kupermintz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdenKupe/anarchysf/issues"
+  },
+  "homepage": "https://github.com/EdenKupe/anarchysf#readme"
+}
