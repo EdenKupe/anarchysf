@@ -102,6 +102,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  nokogiri (>= 1.10.4)
   tzinfo-data
   wdm (~> 0.1.0)
 
