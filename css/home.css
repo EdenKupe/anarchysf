@@ -590,6 +590,8 @@ a {
 
   #homehero .lettertitle {
     width: 10%;
+    text-transform: uppercase;
+    align-self: center;
   }
 
   #homehero .lowerpagecontent {
