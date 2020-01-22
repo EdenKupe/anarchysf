@@ -83,16 +83,6 @@
     </ul>
   </div>
   <div id="homehero">
-    <div id="astronaut">
-      <img src="img/astronautnotext.png" />
-      <div id="celestialbuttons">
-        <i class="fas fa-sun "></i>
-        <i class="fas fa-moon celestialbutton"></i>
-      </div>
-      <div id="morelinks">
-        {% include astronautlinks.html %}
-      </div>
-    </div>
     <div id="pagecontent">
     <h1 id="maintitle">{{ page.title }}</h1>
     {{ content }}
@@ -117,7 +107,17 @@
     {% endfor %}
     {% endfor %}
     {% endif %}
-  </div>
+    </div>
+    <div id="astronaut">
+      <img src="img/astronautnotext.png" />
+      <div id="celestialbuttons">
+        <i class="fas fa-sun "></i>
+        <i class="fas fa-moon celestialbutton"></i>
+      </div>
+      <div id="morelinks">
+        {% include astronautlinks.html %}
+      </div>
+    </div>
   <a id="backtotop" href="#"><i class="fas fa-arrow-up"></i></a>
   </div>
   <div id="homefooter">
