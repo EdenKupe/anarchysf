@@ -9,7 +9,8 @@ module.exports = {
         carmine: '#0e141f',
         tangerine: '#F4998D',
         begonia: '#F97373',
-        grullo: '#a89e8a',
+        quicksilver: '#AFA694',
+        sunset: '#FE5F55',
       }
     }
   },
