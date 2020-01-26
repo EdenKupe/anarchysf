@@ -13,6 +13,11 @@ a {
   @apply text-tiffany no-underline cursor-pointer font-bold;
 }
 
+a img {
+  @apply mt-1;
+  width: 320px;
+}
+
 i {
   @apply not-italic;
 }
@@ -29,6 +34,19 @@ i {
 
 #homeheadermobile {
   @apply hidden;
+}
+
+.hamburger {
+  @apply hidden;
+  margin-left: 50px;
+}
+
+.hamburger.is-active .hamburger-inner, .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+  @apply bg-begonia;
+}
+
+.hamburger.is-active .hamburger-inner::before, .hamburger.is-active .hamburger-inner::after {
+  @apply bg-begonia;
 }
 
 #hometitle {
@@ -196,8 +214,8 @@ span.searchcontentcontainer {
 }
 
 #sidebar #articlelist {
-  @apply sticky overflow-y-auto overflow-x-hidden pl-5 flex flex-col;
-  top: 120px;
+  @apply sticky overflow-y-auto overflow-x-hidden pl-5 flex flex-col w-full;
+  top: 140px;
   height: 88vh;
 }
 
@@ -228,7 +246,7 @@ span.searchcontentcontainer {
 
 #homehero {
   @apply flex font-anarchy;
-  flex: 4;
+  flex: 5;
 }
 
 #pagecontent {
@@ -420,6 +438,30 @@ ul li p a {
 
 #homefooter {
   @apply w-full;
+}
+
+@media only screen and (min-width:1600px) {
+  #sidebar {
+    @apply flex;
+  }
+}
+
+@media only screen and (max-width:1600px) {
+  #pagecontent {
+    @apply pr-0;
+  }
+
+  #homehero {
+    @apply flex-auto;
+  }
+
+  #sidebar {
+    @apply hidden;
+  }
+
+  .hamburger {
+    @apply block;
+  }
 }
 
 @tailwind utilities;
