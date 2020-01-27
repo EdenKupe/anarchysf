@@ -223,7 +223,7 @@ span.searchcontentcontainer {
 
 #sidebar #articlelist {
   @apply sticky overflow-y-auto overflow-x-hidden pl-5 flex flex-col w-full;
-  top: 130px;
+  top: 110px;
   height: 88vh;
 }
 
