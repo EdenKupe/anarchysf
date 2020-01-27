@@ -175,16 +175,21 @@ function randomLink (event) {
     var randIdx = Math.random() * pageLinks.length;
     // round it, so it can be used as array index
     randIdx = parseInt(randIdx, 10);
+    //get that object from the array
     chosenLink = pageLinks[randIdx];
+    //get its ID
     linkName = $(chosenLink).attr('id');
+    //that ID appears twice so we actually the second target
     var target = $('a[href*="' + linkName + '"]');
     var secondTarget = $(target[1]);
+    //got a second target? scroll to it
     if (secondTarget) {
       var targetLocation = secondTarget.offset().top - 210;
       window.scrollTo(0, targetLocation);
       $('h3').removeClass('randomlySelected');
       $(secondTarget).parent().addClass('randomlySelected');
     }
+    //track that this function has been used for Reasons
     randomUsed = true;
 }
 
