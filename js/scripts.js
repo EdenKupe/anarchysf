@@ -133,7 +133,7 @@ function sideBarClick() {
 }
 
 function celestialToggle() {
-  //simple code for removing and adding the lighten class + localStorage to remember the user's choice. No longer in use thus has been refactored in a while, please don't judge me, I was young and clueless.
+  //simple code for removing and adding the lighten class + localStorage to remember the user's choice. No longer in use thus hasn't been refactored in a while, please don't judge me, I was young and clueless.
   var selectedCelestialMode = localStorage.getItem("selectedMode");
   if (selectedCelestialMode == "light") {
     $("#homewrapper").addClass("lighten");
