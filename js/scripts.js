@@ -123,41 +123,41 @@ function sideBarClick() {
   });
 }
 
-// function celestialToggle() {
-//   //simple code for removing and adding the lighten class + localStorage to remember the user's choice
-//   var selectedCelestialMode = localStorage.getItem("selectedMode");
-//   if (selectedCelestialMode == "light") {
-//     $("#homewrapper").addClass("lighten");
-//     $(".fa-moon").removeClass("fas");
-//     $(".fa-moon").addClass("far");
-//     $("#celestialbuttons i").css("color", "black");
-//     $(".fa-sun").addClass("shining");
-//   } else if (selectedCelestialMode == "dark" || selectedCelestialMode == null) {
-//     $("#homewrapper").removeClass("lighten");
-//     $(".fa-moon").removeClass("far");
-//     $(".fa-moon").addClass("fas");
-//     $("#celestialbuttons i").css("color", "#fff");
-//     $(".fa-moon").addClass("shining");
-//   }
-//   $(".fa-sun").click(function() {
-//     $(".fa-moon").removeClass("fas");
-//     $(".fa-moon").addClass("far");
-//     $("#homewrapper").addClass("lighten");
-//     $("#celestialbuttons i").css("color", "black");
-//     $("i").removeClass("shining");
-//     $(this).addClass("shining");
-//     localStorage.setItem("selectedMode", "light");
-//   });
-//   $(".fa-moon").click(function() {
-//     $(".fa-moon").removeClass("far");
-//     $(".fa-moon").addClass("fas");
-//     $("#homewrapper").removeClass("lighten");
-//     $("#celestialbuttons i").css("color", "#fff");
-//     $("i").removeClass("shining");
-//     $(this).addClass("shining");
-//     localStorage.setItem("selectedMode", "dark");
-//   });
-// }
+function celestialToggle() {
+  //simple code for removing and adding the lighten class + localStorage to remember the user's choice
+  var selectedCelestialMode = localStorage.getItem("selectedMode");
+  if (selectedCelestialMode == "light") {
+    $("#homewrapper").addClass("lighten");
+    $(".fa-moon").removeClass("fas");
+    $(".fa-moon").addClass("far");
+    $("#celestialbuttons i").css("color", "black");
+    $(".fa-sun").addClass("shining");
+  } else if (selectedCelestialMode == "dark" || selectedCelestialMode == null) {
+    $("#homewrapper").removeClass("lighten");
+    $(".fa-moon").removeClass("far");
+    $(".fa-moon").addClass("fas");
+    $("#celestialbuttons i").css("color", "#fff");
+    $(".fa-moon").addClass("shining");
+  }
+  $(".fa-sun").click(function() {
+    $(".fa-moon").removeClass("fas");
+    $(".fa-moon").addClass("far");
+    $("#homewrapper").addClass("lighten");
+    $("#celestialbuttons i").css("color", "black");
+    $("i").removeClass("shining");
+    $(this).addClass("shining");
+    localStorage.setItem("selectedMode", "light");
+  });
+  $(".fa-moon").click(function() {
+    $(".fa-moon").removeClass("far");
+    $(".fa-moon").addClass("fas");
+    $("#homewrapper").removeClass("lighten");
+    $("#celestialbuttons i").css("color", "#fff");
+    $("i").removeClass("shining");
+    $(this).addClass("shining");
+    localStorage.setItem("selectedMode", "dark");
+  });
+}
 
 function randomLink (event) {
   event.preventDefault();
