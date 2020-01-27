@@ -1,13 +1,9 @@
 $(document).ready(function() {
-  var $title = $("#maintitle").text();
-  if ($title.indexOf("Welcome to anarchySF!") != -1) {
-    console.log("Welcome to anarchySF!");
-  } else {
-    $("#sidebar").css("display", "none");
-  }
+  let randomUsed;
   sideBarClick();
+  hideSidebar();
   anchors.options = {
-    truncate: "400"
+    truncate: "600"
   };
   anchors.add("h3");
   linkload();
@@ -21,7 +17,7 @@ $(document).ready(function() {
       var hash = window.location.hash;
       var target = $('a[href*="' + hash + '"]');
       var secondTarget = $(target[1]);
-      if (secondTarget) {
+      if (secondTarget && !randomUsed) {
         var targetLocation = secondTarget.offset().top - 170;
         window.scrollTo(0, targetLocation);
       }
@@ -50,12 +46,8 @@ function navigateContent(url) {
       //jump to top when page loads
       window.scrollTo(0, 0);
       var titletext = $("#maintitle").text();
-      if (titletext.indexOf("Welcome to anarchySF!") != -1) {
-        $("#sidebar").css("display", "flex");
-      } else {
-        $("#sidebar").css("display", "none");
-      }
-    })
+      hideSidebar();
+      })
     .fail(function() {
       url = "/404.html";
       navigateContent(url);
@@ -167,6 +159,26 @@ function celestialToggle() {
   });
 }
 
+function randomLink (event) {
+  event.preventDefault();
+  var pageLinks = document.getElementsByTagName("h3");
+  // get a random number between 0 and the number of links
+    var randIdx = Math.random() * pageLinks.length;
+    // round it, so it can be used as array index
+    randIdx = parseInt(randIdx, 10);
+    chosenLink = pageLinks[randIdx];
+    linkName = $(chosenLink).attr('id');
+    var target = $('a[href*="' + linkName + '"]');
+    var secondTarget = $(target[1]);
+    if (secondTarget) {
+      var targetLocation = secondTarget.offset().top - 210;
+      window.scrollTo(0, targetLocation);
+      $('h3').removeClass('randomlySelected');
+      $(secondTarget).parent().addClass('randomlySelected');
+    }
+    randomUsed = true;
+}
+
 //a function to control a click on the mobile hamburger button
 function mobileHamburger() {
   var $hamburger = $(".hamburger");
@@ -186,3 +198,15 @@ function mobileHamburger() {
     }
   });
 }
+
+
+//a function to hide and display the sidebar according to title + padding for the rest of the page
+function hideSidebar() {
+  var $titleText = $("#maintitle").text();
+  if ($titleText.indexOf("Welcome to anarchySF!") != -1) {
+    console.log("Welcome to anarchySF!");
+  } else {
+    $("#sidebar").css("display", "none");
+    $("#pagecontent").addClass('padded');
+  }
+};

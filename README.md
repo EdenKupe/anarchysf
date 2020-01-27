@@ -34,6 +34,13 @@ The Liquid code which generates the homepage and the main sidebar relies on the 
 
 * `author:` the name of the author, first name and then last name.
 
+## A Note on Running the Site Locally
+
+If you want to build a local copy of the site, you have two approaches avaiable to you:
+
+1) Clone the repo and simply use Jekyll's built in `server` capabilities with `bundle exec jekyll serve --incremental`
+2) Clone the repo and install prerequisites with `npm install`. You can then use `gulp default` to build the site with gulpJS, which gives you hot reloading.
+
 ## Code of Conduct
 
 **Please note** that anarchySF operates under the Contributor Covenant Code of Conduct. By participating in this project you agree to abide by its terms. You can find the Code of Conduct <a href="codeofconduct.html">here</a>. All violations should be reported to [Eden Kupermintz](mailto:eden@heavyblogisheavy.com).

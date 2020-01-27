@@ -5,46 +5,62 @@
 </head>
 <body>
   <div id="homewrapper" class="darken">
-  <div id="homeheadermobile">
-    <div id="mobilelinks">
-      <a href="about.html">About us</a>
-      <a href="contribute.html">Contribute</a>
-    </div>
-    <a href="index.html"><img src="img/astrologo.png" /></a>
-    <div id="mobilerighthand">
-      <button class="hamburger hamburger--spin" type="button">
-        <span class="hamburger-box">
+  <div id="homeheader">
+    <div id="hometitle">
+      <button class="hamburger hamburger--slider outline-none" type="button">
+        <span class="hamburger-box outline-none">
           <span class="hamburger-inner"></span>
         </span>
       </button>
-    <div id="celestialbuttons">
-      <i class="fas fa-sun "></i>
-      <i class="fas fa-moon celestialbutton"></i>
-    </div>
-  </div>
-</div>
-  <div id="homeheader">
-    <div id="hometitle">
-        <a onclick="linkclick(event,this)" href="about.html">About us</a>
-        <a onclick="linkclick(event,this)" href="index.html"><img src="img/astrologo.png" /></a>
-        <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
+        <a id="homeLogo" onclick="linkclick(event,this)" href="index.html"><img src="img/astrologohor.png" /></a>
+        <input type="text" id="aa-search-input" class="aa-input-search" placeholder="Search anarchySF" name="search" autocomplete="on" />
+        <div id="homeLinks">
+          <a class="homeClick" href="index.html">Home</a>
+          <a onclick="linkclick(event,this)" href="about.html">About us</a>
+          <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
+        </div>
     </div>
     <!-- <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search AnarchySF" name="search" autocomplete="on" /> -->
   </div>
   <div id="sidebar">
     <ul id="articlelist">
       {% for letter in site.data.documents %}
+      {% assign letterPages = site.pages | where:'category', letter.lettername %}
       <li class="sidebararticleitem">
-        <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }}</span>
+        <span class="sidebararticleitemtitle canOpen">{{ letter.lettername }} <span class="asIn">as in {% for page in letterPages limit:1 %}
+        {% if page.format == "book" and forloop.last %}
+        <span>{{ page.author }}</span>
+        {% elsif page.format == "book" and forloop.length == 2 %}
+        <span>{{ page.author }},</span>
+        {% elsif page.format == "book" and forloop.length == 1 %}
+        <span>{{ page.author }}</span>
+        {% elsif page.format == "film" and forloop.last %}
+        <span>{{ page.title }}</span>
+        {% elsif page.format == "film" and forloop.length == 2 %}
+        <span>{{ page.title }},</span>
+        {% elsif page.format == "film" and forloop.length == 1 %}
+        <span>{{ page.title }}</span>
+        {% endif %}
+        {% endfor %}
+        </span>
+        </span>
         <ul class="sidebararticles getsOpened">
           {% for page in site.pages %}
           {% if page.format == "book" %}
           {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.author }}</span></a>
+          {% if page.title and page.author %}
+          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.author }}</span></a></li>
+          {% else %}
+          <li class="articleitem"><a href="#{{ page.title | append: '-' | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a></li>
           {% endif %}
-          {% elsif page.format == "film" %}
+          {% endif %}
+          {% elsif page.format == "film" or page.format == "other" %}
           {% if page.category == letter.lettername %}
-          <li class="articleitem"><a href="#{{page.author | append: '-' | append: page.title | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a>
+          {% if page.title and page.author %}
+          <li class="articleitem"><a href="#{{ page.author | append: '-' | append: page.title | replace: "'s", "s" | normalize_whitespace | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a></li>
+          {% else %}
+          <li class="articleitem"><a href="#{{ page.title | append: '-' | replace: "'s", "s" | slugify: "ascii" }}"><span class="articlebox">{{ page.title }}</span></a></li>
+          {% endif %}
           {% endif %}
           {% endif %}
           {% endfor %}
@@ -55,16 +71,6 @@
     </ul>
   </div>
   <div id="homehero">
-    <div id="astronaut">
-      <img src="img/astronautnotext.png" />
-      <div id="celestialbuttons">
-        <i class="fas fa-sun "></i>
-        <i class="fas fa-moon celestialbutton"></i>
-      </div>
-      <div id="morelinks">
-        {% include astronautlinks.html %}
-      </div>
-    </div>
     <div id="pagecontent">
     <h1 id="maintitle">{{ page.title }}</h1>
     {{ content }}
@@ -89,12 +95,27 @@
     {% endfor %}
     {% endfor %}
     {% endif %}
-  </div>
+    </div>
+    <div id="astronaut">
+      <img src="img/astronautnotext.png" />
+      <div id="celestialbuttons">
+        <i class="fas fa-sun "></i>
+        <i class="fas fa-moon celestialbutton"></i>
+      </div>
+      <div id="morelinks">
+        {% include astronautlinks.html %}
+      </div>
+    </div>
   <a id="backtotop" href="#"><i class="fas fa-arrow-up"></i></a>
   </div>
   <div id="homefooter">
     {% include footer.html %}
   </div>
 </div>
+<script  src="{{ "js/algolia.js" }}"></script>
+<script>
+  ScrollReveal().reveal('.titlecontainer', {reset: true});
+  ScrollReveal().reveal('.lowerpagecontent', {reset: true});
+</script>
 </body>
 </html>

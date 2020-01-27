@@ -7,6 +7,7 @@ layout: worksforconsideration
 
 | Author | Year | Title |
 | --- | --- | --- |
+| Albon, Alan   | 1984-01-14   | 'The Arrival of 1984', *Freedom* 45.1:1   |
 | Aldred, Guy | 2004 | <a href="http://www.thesparrowsnest.org.uk/collections/public_archive/PAR0058.pdf">The Socialism and Anti-Parliamentarism of William Morris</a> |
 | Aldiss, Brian | June 1976 | letter to the editor,Foundation: The Review of Science Fiction10:44-8 |
 | Alexander, Richard | Autumn 2001 | letter,<a href="http://media.wix.com/ugd/f0c74f_8f0a50090b0f43ee9790a0dbee548d12.pdf">Total Liberty</a>3.1:10-11 |
@@ -74,9 +75,9 @@ layout: worksforconsideration
 | Drasdo, Harold | Nov 1963 | 'Alex Comfort's Art and Scope',Anarchy33: 345-58 |
 | Eagle, M. | 1969-10-18 | 'The World of Tomorrow',Freedom30.32: 2 |
 | Eagleheart, Oshee | Spring 2010 | 'A Long Overdue Thank You Letter',Fifth Estate#382, 45.1: 32-33 |
-| Eagleheart, Oshee | Easterbrook, Neil | 'Libertarianism and Anarchism', in Rob Latham, ed. (2014)The Oxford Handbook of Science Fiction. OUP |
-| Eagleheart, Oshee | <a name="CIRA"></a>Enckell, Marianne, and Eric Jarry | Les anarchists à l'écran Anarchists on Screen 1901-2003,CIRA Bulletin60 |
-| Eagleheart, Oshee | The Escape Committee | The Bottled Wasp Pocket Diary 2014 |
+| Easterbrook, Neil | 2014 | 'Libertarianism and Anarchism', in Rob Latham, ed. (2014)The Oxford Handbook of Science Fiction. OUP |
+| Enckell, Marianne, and Eric Jarry | Spring 2004 | Les anarchists à l'écran Anarchists on Screen 1901-2003,CIRA Bulletin60 |
+| The Escape Committee | 2013 | The Bottled Wasp Pocket Diary 2014 |
 | F., A. | 1983-10-22 | 'Obituary: Dr W. Grey Walter',Freedom38.10: 7 |
 | ____ | 1977-05-28 | 'Ignoble Prize',Freedom42.21: 6 |
 | F., A.D. | 1959-11-28 | 'Pie in the Sky',Freedom20.48: 2 |
@@ -111,6 +112,7 @@ layout: worksforconsideration
 | Killjoy, Margaret, ed. | 2009 | <a href="http://www.akpress.com/2009/items/mythmakersandlawbreakers">Mythmakers &amp; Lawbreakers. Anarchist writers on fiction</a>.Oakland, CA, and Edinburgh |
 | Killjoy, Margaret (as Magpie Killjoy) | Fall 2011 | 'A brief history of anarchist fiction', inFifth Estate#385 Fall, 2011, Vol. 46, #2:11-12, and<a href="http://news.infoshop.org/article.php?story=2011678a-fiction">online</a> |
 | Killjoy, Margaret | Summer 2013 | 'The Anarchist Utopian Imagination. Second Reality: What the future could look like', inFifth Estate#389, 48.1:36–7 |
+| Kinna, Ruth   | 2019   | *The Government of No One. The Theory and Practice of Anarchism*. Penguin Random House   |
 | Koenig, Brigitte | 2009 | 'Visions of the future: reproduction, revolution, and regeneration in American utopian fiction', in Davis & Kinna, eds (2009) |
 | Kropotkin, Peter | Nov 1896 | tribute to William Morris,Freedom, X.110: 109–110 |
 | ____ | July 1898 | 'Edward Bellamy',Freedom,X:128: 42 |
@@ -184,9 +186,7 @@ layout: worksforconsideration
 | Robinson, Jack | 1976-03-06 | 'The Iron Heel',Freedom45.1:5 |
 | ____ | 1977-12-24 | 'Do Anarchists Like Detective Stories?',Freedom38.25:12–14 |
 | Rothbard, Murray N. | 1973 | For a New Liberty.New York: Macmillan |
-| Rumpala, Yannick | 2012 | ["Artificial intelligences and political organization: an exploration
-based on the science fiction work of Iain M. Banks,"](https://www.sciencedirect.com/science/article/pii/S0160791X11000728) | in Technology in 
-Society, vol. 34, n° 1 |
+| Rumpala, Yannick | 2012 | "Artificial intelligences and political organization: an exploration based on the science fiction work of Iain M. Banks," in Technology in Society, vol. 34, n° 1 |
 | Rush | 1959 | review of Young:The Rise of the Meritocracy,Freedom |
 | S., P. (probably Philip Sansom) | 1978 | review of Harrison:Bill, the Galactic Hero.Cienfuegos Press Anarchist Review4:44 |
 | S., P. (Philip Sansom) | 1983-12-17 | '1984 and the Big Brothers are waiting',Freedom25.44: 1 |
