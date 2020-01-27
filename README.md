@@ -14,6 +14,18 @@ We welcome any and all contributions to the site and especially appreciate fixes
 
 * For new additions, please also submit detailed PRs. The sidebar and homepage will automatically update once you've added your Markdown file, no additional code is needed. **Note: this will only work properly if your front-matter is correct. See below for specifications**.
 
+## Running the Site Locally
+
+If you want to build a local copy of the site, you have two approaches avaiable to you:
+
+0) Run both `bundle install` and `yarn install` (you can use `npm install` as well, if needed)
+1) Clone the repo and simply use Jekyll's built in `server` capabilities with `bundle exec jekyll serve --incremental`
+2) Clone the repo and install prerequisites with `npm install`. You can then use `gulp default` to build the site with gulpJS, which gives you hot reloading.
+
+## A Note on CSS
+
+AnarchySF uses the brilliant Tailwind CSS. If you'd like to make changes to the site's design, please make all changes to the `site.css` file. This gets compiled alongside Tailwind's default classes, so you can use their utilities.
+
 ## Site Structure
 
 The site is a relatively simple Jekyll website. While all entries are displayed on the homepage, they are each "grabbed" from a Markdown file. Simply navigate to the `pages` folder, find the letter under which the entry you'd like to edit would be found and then search for the file. As it stands today, file names are non-intuitive; we plan on improving this. For now, use a search tool to find the correct file (or cross-reference its position with the sidebar; it progresses linear within each folder) and make your edits there.
@@ -34,12 +46,7 @@ The Liquid code which generates the homepage and the main sidebar relies on the 
 
 * `author:` the name of the author, first name and then last name.
 
-## A Note on Running the Site Locally
 
-If you want to build a local copy of the site, you have two approaches avaiable to you:
-
-1) Clone the repo and simply use Jekyll's built in `server` capabilities with `bundle exec jekyll serve --incremental`
-2) Clone the repo and install prerequisites with `npm install`. You can then use `gulp default` to build the site with gulpJS, which gives you hot reloading.
 
 ## Code of Conduct
 

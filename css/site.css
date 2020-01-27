@@ -3,7 +3,7 @@
 /* Front matter is necessary for Jekyll */
 
 @import "tailwindcss/base";
-@import "tailwindcss/components";
+
 
 * {
   max-width:100%;
@@ -31,7 +31,7 @@ i {
 }
 
 #homeheader {
-  @apply flex w-full items-center justify-center bg-carmine sticky h-24 top-0 z-10;
+  @apply flex w-full items-center justify-center bg-carmine sticky h-24 top-0 z-20;
   border-bottom: 1px solid #29303d;
   box-shadow: 0 1rem 5rem -0.5rem #000;
 }
@@ -470,7 +470,14 @@ ul li p a {
   }
 
   #sidebar {
-    @apply hidden;
+    @apply hidden fixed z-10 w-full bg-carmine;
+    top: 90px;
+    height: 500px
+  }
+
+  #sidebar #articlelist {
+    height: 500px;
+
   }
 
   .hamburger {
