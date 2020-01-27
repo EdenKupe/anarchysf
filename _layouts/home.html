@@ -5,29 +5,17 @@
 </head>
 <body>
   <div id="homewrapper" class="darken">
-  <div id="homeheadermobile">
-    <div id="mobilelinks">
-      <a href="about.html">About us</a>
-      <a href="contribute.html">Contribute</a>
-    </div>
-    <a href="index.html"><img src="img/astrologohor.png" /></a>
-    <div id="mobilerighthand">
-      <button class="hamburger hamburger--spin" type="button">
-        <span class="hamburger-box">
+  <div id="homeheader">
+    <div id="hometitle">
+      <button class="hamburger hamburger--slider outline-none" type="button">
+        <span class="hamburger-box outline-none">
           <span class="hamburger-inner"></span>
         </span>
       </button>
-    <div id="celestialbuttons">
-      <i class="fas fa-sun "></i>
-      <i class="fas fa-moon celestialbutton"></i>
-    </div>
-  </div>
-</div>
-  <div id="homeheader">
-    <div id="hometitle">
         <a id="homeLogo" onclick="linkclick(event,this)" href="index.html"><img src="img/astrologohor.png" /></a>
-        <input type="text" id="aa-search-input" class="aa-input-search" placeholder="Search anarchySF..." name="search" autocomplete="on" />
+        <input type="text" id="aa-search-input" class="aa-input-search" placeholder="Search anarchySF" name="search" autocomplete="on" />
         <div id="homeLinks">
+          <a class="homeClick" href="index.html">Home</a>
           <a onclick="linkclick(event,this)" href="about.html">About us</a>
           <a onclick="linkclick(event,this)" href="contribute.html">Contribute</a>
         </div>
@@ -83,16 +71,6 @@
     </ul>
   </div>
   <div id="homehero">
-    <div id="astronaut">
-      <img src="img/astronautnotext.png" />
-      <div id="celestialbuttons">
-        <i class="fas fa-sun "></i>
-        <i class="fas fa-moon celestialbutton"></i>
-      </div>
-      <div id="morelinks">
-        {% include astronautlinks.html %}
-      </div>
-    </div>
     <div id="pagecontent">
     <h1 id="maintitle">{{ page.title }}</h1>
     {{ content }}
@@ -117,7 +95,17 @@
     {% endfor %}
     {% endfor %}
     {% endif %}
-  </div>
+    </div>
+    <div id="astronaut">
+      <img src="img/astronautnotext.png" />
+      <div id="celestialbuttons">
+        <i class="fas fa-sun "></i>
+        <i class="fas fa-moon celestialbutton"></i>
+      </div>
+      <div id="morelinks">
+        {% include astronautlinks.html %}
+      </div>
+    </div>
   <a id="backtotop" href="#"><i class="fas fa-arrow-up"></i></a>
   </div>
   <div id="homefooter">

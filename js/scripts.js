@@ -1,12 +1,7 @@
 $(document).ready(function() {
-  var $title = $("#maintitle").text();
   let randomUsed;
-  if ($title.indexOf("Welcome to anarchySF!") != -1) {
-    console.log("Welcome to anarchySF!");
-  } else {
-    $("#sidebar").css("display", "none");
-  }
   sideBarClick();
+  hideSidebar();
   anchors.options = {
     truncate: "600"
   };
@@ -51,12 +46,8 @@ function navigateContent(url) {
       //jump to top when page loads
       window.scrollTo(0, 0);
       var titletext = $("#maintitle").text();
-      if (titletext.indexOf("Welcome to anarchySF!") != -1) {
-        $("#sidebar").css("display", "flex");
-      } else {
-        $("#sidebar").css("display", "none");
-      }
-    })
+      hideSidebar();
+      })
     .fail(function() {
       url = "/404.html";
       navigateContent(url);
@@ -207,3 +198,15 @@ function mobileHamburger() {
     }
   });
 }
+
+
+//a function to hide and display the sidebar according to title + padding for the rest of the page
+function hideSidebar() {
+  var $titleText = $("#maintitle").text();
+  if ($titleText.indexOf("Welcome to anarchySF!") != -1) {
+    console.log("Welcome to anarchySF!");
+  } else {
+    $("#sidebar").css("display", "none");
+    $("#pagecontent").addClass('padded');
+  }
+};
