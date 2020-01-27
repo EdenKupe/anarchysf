@@ -5,8 +5,12 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 
+* {
+  max-width:100%;
+}
+
 html {
-  @apply font-anarchy;
+  @apply font-anarchy overflow-x-hidden;
 }
 
 a {
@@ -38,7 +42,7 @@ i {
 
 .hamburger {
   @apply hidden;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 .hamburger.is-active .hamburger-inner, .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
@@ -54,13 +58,12 @@ i {
 }
 
 #homeLinks {
+  @apply flex content-start ml-5;
   flex: 1;
-  display: flex;
-  justify-content: flex-start;
 }
 
 #homeLinks a {
-  @apply mr-5 ml-5;
+  @apply mr-5;
 }
 
 #homeLogo {
@@ -72,19 +75,24 @@ i {
 #homeLogo img {
   @apply mt-1;
   width: 320px;
+  min-width: 320px;
+}
+
+.homeClick {
+  @apply hidden;
 }
 
 /* search styling */
 
 .algolia-autocomplete {
-  width: 420px;
+  flex:1;
   /* flex: 2; */
   grid-column: 3 / span 1;
   grid-row: 1 /span 1;
 }
 
 #homeheader #aa-search-input {
-  width: 370px;
+  width: 100%;
   height: 30px;
   font-family: 'Montserrat',Arial,sans-serif;
   /* margin-right: 60px; */
@@ -369,7 +377,7 @@ ul li p a {
 }
 
 #homehero .lowerpagecontent {
-  @apply w-full;
+  @apply w-11/12;
 }
 
 .lowerpagecontent {
@@ -437,7 +445,13 @@ ul li p a {
 }
 
 #homefooter {
-  @apply w-full;
+  @apply w-full flex items-center justify-center text-quicksilver text-base font-anarchy;
+  border-top: 1px solid #29303d;
+  height: 50px;
+}
+
+.padded {
+  padding-left: 200px;
 }
 
 @media only screen and (min-width:1600px) {
@@ -460,7 +474,41 @@ ul li p a {
   }
 
   .hamburger {
+    @apply flex;
+  }
+}
+
+@media only screen and (max-width:1200px) {
+  #astronaut {
+    @apply hidden;
+  }
+
+  #pagecontent > p {
+    @apply pr-10;
+  }
+}
+
+@media only screen and (max-width:1000px) {
+  #homeLogo {
+    @apply hidden;
+  }
+
+  .hamburger {
+    margin-right: 10px;
+  }
+
+  .padded {
+    padding-left: 0;
+  }
+
+  .homeClick {
     @apply block;
+  }
+}
+
+@media only screen and (max-width:600px) {
+  #homeLinks a {
+    font-size: 15px;
   }
 }
 

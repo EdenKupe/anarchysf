@@ -207,6 +207,6 @@ function hideSidebar() {
     console.log("Welcome to anarchySF!");
   } else {
     $("#sidebar").css("display", "none");
-    $("#pagecontent").css("padding-left", "400px");
+    $("#pagecontent").addClass('padded');
   }
 };
