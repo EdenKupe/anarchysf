@@ -753,15 +753,6 @@ a {
   /* Media queries start */
 
 @media only screen and (max-width:1440px) {
-
-  #pagecontent > p {
-    width: 110%;
-  }
-
-  .lowerpagecontent > p {
-    width: 110%;
-  }
-
   .fa-moon {
     margin-left: 20px;
   }
