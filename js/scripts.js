@@ -10,6 +10,7 @@ $(document).ready(function() {
   celestialToggle();
   mobileHamburger();
   var scroll = new SmoothScroll('a[href*="#"]', { offset: 170 });
+  //fixing a scroll bug in chrome with some ugly code
   var isChrome =
     /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
   if (window.location.hash && isChrome) {
@@ -25,6 +26,7 @@ $(document).ready(function() {
   }
 });
 
+//a function to simulate an SPA on a static site
 function navigateContent(url) {
   //call ajax with the target url
   $.ajax(url)
@@ -99,19 +101,26 @@ $(window).on("popstate", function(e) {
   }
 });
 
+//a function to control sidebar clicks and collapses
 function sideBarClick() {
+  //whenever the class is clicked in the sidebar
   $("#sidebar").on("click", ".canOpen", function() {
+    //define situational vars
     var hasExpanded = $(this).data("expanded") == "true";
     var nextGetsOpened = $(this).next(".getsOpened");
     var childCanOpen = nextGetsOpened.find(".canOpen");
+    //if the clicked object has been expanded before
     if (hasExpanded) {
+      //collapse it and relevant children
       $(this).removeClass("openitem");
       childCanOpen.removeClass("activeitem");
       $(this).data("expanded", "false");
       nextGetsOpened.slideUp(500);
       nextGetsOpened.find(".getsOpened").slideUp(500);
       childCanOpen.data("expanded", "false");
+      //if the clicked object hasn't been expanded before
     } else {
+      //open it and relevant children
       $(".itemdetails").removeClass("activeitem");
       $(this).addClass("openitem");
       $(this).data("expanded", "true");
@@ -124,7 +133,7 @@ function sideBarClick() {
 }
 
 function celestialToggle() {
-  //simple code for removing and adding the lighten class + localStorage to remember the user's choice
+  //simple code for removing and adding the lighten class + localStorage to remember the user's choice. No longer in use thus has been refactored in a while, please don't judge me, I was young and clueless.
   var selectedCelestialMode = localStorage.getItem("selectedMode");
   if (selectedCelestialMode == "light") {
     $("#homewrapper").addClass("lighten");
