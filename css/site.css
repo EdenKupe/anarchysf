@@ -514,8 +514,24 @@ ul li p a {
 }
 
 @media only screen and (max-width:600px) {
+  .algolia-autocomplete {
+    flex: 4;
+  }
+
   #homeLinks a {
     font-size: 15px;
+  }
+
+  #homeLinks a:nth-child(2) {
+    @apply hidden
+  }
+
+  #homeLinks a:nth-child(3) {
+    @apply hidden
+  }
+
+  .lowerpagecontent {
+    @apply pr-4;
   }
 }
 
