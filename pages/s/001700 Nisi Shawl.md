@@ -1,5 +1,5 @@
 ---
-title: "Filter House (2008); Everfair (2016); Talk Like a Man plus (2020"
+title: "Filter House (2008); Everfair (2016); Talk Like a Man plus (2020)"
 format: "book"
 category: "s"
 yearReleased: "2020"
