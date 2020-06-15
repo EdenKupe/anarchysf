@@ -183,8 +183,9 @@ layout: worksforconsideration
 | ____ | 1954 | Anarchy and Order. London: Faber & Faber |
 | ____ | 1963 | The Contrary Experience. Autobiographies.London: Faber & Faber |
 | ____ | 1966 | The Redemption of the Robot. My Encounter with Education through Art.New York: Trident Press |
-| Robinson, Jack | 1976-03-06 | 'The Iron Heel',Freedom45.1:5 |
-| ____ | 1977-12-24 | 'Do Anarchists Like Detective Stories?',Freedom38.25:12–14 |
+| Robinson, Jack | 1976-03-06 | 'The Iron Heel',Freedom 45.1:5 |
+| ____ | 1977-12-24 | 'Do Anarchists Like Detective Stories?',Freedom 38.25:12–14 |
+| <a name="Rocha and Rocha"></a>Rocha, James, and Mona Rocha | 2019 | Joss Whedon, Anarchist?, Jefferson, North Carolina: McFarland |
 | Rothbard, Murray N. | 1973 | For a New Liberty.New York: Macmillan |
 | Rumpala, Yannick | 2012 | "Artificial intelligences and political organization: an exploration based on the science fiction work of Iain M. Banks," in Technology in Society, vol. 34, n° 1 |
 | Rush | 1959 | review of Young:The Rise of the Meritocracy,Freedom |
