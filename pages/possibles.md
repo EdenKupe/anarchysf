@@ -260,7 +260,6 @@ permalink: worksforconsideration.html
 | William W. Johnstone | Anarchy in the Ashes | <a href="http://www.sf-encyclopedia.com/entry/johnstone_william_w">SFE</a> |
 | Mór Jókai | A jövö század regénye["The Novel of the Next Century"] | In the most significant SF novel (still untranslated) by Hungary's greatest author, airplanes made of a marvellous new material—ichor—serve the heroes, who dominate global communications and trade; "declaring war on anarchistic Russia, they fight the last war of mankind and create eternal peace." (<a href="http://www.sf-encyclopedia.com/Entry/hungary">SFE</a>) |
 | Raymond Jones | The Non-Statistical Man | recommended on Facebook 'Anarchists and Science Fiction' page |
-| Ernst Jünger | Eumeswil | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/FrontPageTempDir/www.telospress.com/tag/science-fiction/">www.telospress.com/tag/science-fiction/</a> |
 | Kiodomari Allan (pseudonym of Yukie Mizushima) |  | Japanese SF fan and author, Mizushima is described in the online<a href="http://www.sf-encyclopedia.com/Entry/kiodomari_allan">Encyclopedia of Science Fiction</a>as a "monocled eccentric and suspected anarchist". |
 | Kwon Kitaek | Paradise Garden | mentioned in a mailing to anarchysf |
 | Ellen Klages | Portable Childhoods | <a href="http://www.librarything.com/work/2394843/book/41293924">www.librarything.com/work/2394843/book/41293924</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
