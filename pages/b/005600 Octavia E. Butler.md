@@ -1,5 +1,5 @@
 ---
-title: "Patternmaster (1976); Kindred (1979); Lilith's Brood (1987–1989, aka Xenogenesis; consisting of Dawn (1987),  Adulthood Rites (1988), and Imago (1989)); Parable of the Sower (1994); Parable of the Talents (1999); Fledgling"
+title: "Patternmaster (1976); Kindred (1979); Lilith's Brood (1987–1989, aka Xenogenesis; consisting of Dawn (1987),  Adulthood Rites (1988), and Imago (1989)); Parable of the Sower (1994); Parable of the Talents (1999); Fledgling (2005)"
 format: "book"
 category: "b"
 yearReleased: "2005"
@@ -18,7 +18,8 @@ Kindred is probably Butler's best-known work, and  is by now pretty much a stand
 For Anu Bonobo, in Fifth Estate #<a href="http://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">373</a>,
  
 Dawn's most daring maneuver was not the  unattractive aliens on the breathing bio-ship that rescued the xenophobic humans  after a human holocaust—nor even the seemingly benevolent freaks' rejection of  humanity's apparently inherent hierarchies; rather, Butler busted boundaries  with bizarre, kinky, and blissfully psychedelic interspecies sex. Even though  the humans cannot help but like it, do they really want it? As one might  imagine, the issue of permission is problematic here; do the humans choose to  breed with their apparently terrifying and tentacled saviors and captors? Is  this patronizing servitude masked as emancipation?
-The Xenogenesis stories have also been  recommended on the Facebook <a href="https://www.facebook.com/groups/anarchismandsciencefiction/search/?query=butler"> Anarchism and Science Fiction Forum</a>.
+
+The Xenogenesis stories have also been  recommended on the Facebook <a href="https://www.facebook.com/groups/anarchismandsciencefiction/search/?query=butler"> Anarchism and Science Fiction Forum</a>. But <a href="https://seesharppress.wordpress.com/2020/05/30/review-great-utopian-and-dystopian-works-of-literature-pamela-bedore/"> Zeke Teflon</a> has added a corrective, stressing that the the view that the trilogy is a flawed utopia is "grotesque".
  
 The two Parable books chart the  rise of a movement based on mutual aid (or just common human decency) amid the  breakdown of society in the United  States. Warm and literate, it's unfortunate that the author chose to hang her  principles on a new religion.
  
