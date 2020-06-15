@@ -1,5 +1,5 @@
 ---
-title: "'The Star Beast' (1950); 'Security Risk' (1957); 'For the Duration'  (1957); 'The Last of the Deliverers' (1958; revised version 1976); 'No Truce  with Kings' (1963); Trader to the Stars (1964);    The Star Fox  (1965);  The Stars Are Also Fire"
+title: "'The Star Beast' (1950); 'Security Risk' (1957); 'For the Duration'  (1957); 'The Last of the Deliverers' (1958; revised version 1976); 'No Truce  with Kings' (1963); Trader to the Stars (1964);    The Star Fox  (1965); The Winter of the World (1976); The Stars Are Also Fire (1994)"
 format: "book"
 category: "a"
 yearReleased: "1994"
@@ -15,5 +15,7 @@ In 'For the Duration' an authoritarian  future US government is overthrown, but 
  
 In 'No Truce with Kings', Earth's states have broken into small, feudal realms; alien invaders attempt to reintroduce civilization to the "starveling anarchs" of the planet, who prefer the relative freedom offered by a choice of masters.' (Dan Clore) The story won the Libertarian Futurist Society  Hall of Fame Award in 2010.
  
+The Winter of the World is set in the far future during a second Ice Age; people of one community, the Rogaviki, are instinctively co-operative, with no government, and no religion; they are not wholly admirable, though, being highly territorial, and sufficiently unhuman that the protagonist finally concludes that they are actually a new human species.
+
 Trader to the  Stars tied for the 1985 Libertarian Futurist Society Hall of Fame  Award, which was won by The Star Fox in 1995. The Stars Are Also Fire  won the 1995 Prometheus Award.
  
