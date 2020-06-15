@@ -91,7 +91,6 @@ permalink: worksforconsideration.html
 | Holley Cantine | 'Double, Double, Toil and Trouble' | Cantine was editor of the American anarchist magazineRetortin the 1940s. AfterRetortceased publication, among other activities he wrote radical science fiction stories. He name doesn't appear in<a href="http://www.sf-encyclopedia.com/">SFE</a>,but this solitary short story is recorded in<a href="http://www.isfdb.org/cgi-bin/title.cgi?57523">ISFDB</a>as first published in theMagazine of Fantasy and Science Fictionin 1960, and subsequently anthologised a few times in the early 60s. [<a href="https://libcom.org/history/new-anarchism-emerges-1940–1954">Cornell</a>] |
 | Orson Scott Card | Heartfire | mentioned in a mailing to anarchysf |
 | Orson Scott Card | Pastwatch: The Redemption of Christopher Columbus | <a href="http://www.goodreads.com/book/show/40293.Pastwatch">www.goodreads.com/book/show/40293.Pastwatch</a> |
-| Orson Scott Card | Seventh Son | mentioned in a mailing to anarchysf |
 | Orson Scott Card | Tales of Alvin Maker | mentioned in a mailing to anarchysf |
 | Jacqueline Carey | Santa Olivia | www.brownstargirl.org/blog/the-transformative-justice-science-fiction-strategic-reader;briarpatchmagazine.com/articles/view/visions-of-the-future |
 | André Carneiro | AmórquiaAmórquiaAmórquiaAmórquia | <a href="http://www.sf-encyclopedia.com/entry/carneiro_andre">SFE</a>: title translates as 'Love-Anarchy'; a sexual utopia that questions technological progress |
