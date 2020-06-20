@@ -1,5 +1,5 @@
 ---
-title: "Aparto"
+title: "Aparato"
 format: "film"
 category: "a"
 yearReleased: "2019"
