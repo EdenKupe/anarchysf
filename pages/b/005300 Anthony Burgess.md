@@ -1,5 +1,5 @@
 ---
-title: "A Clockwork Orange (1962); 1985"
+title: "A Clockwork Orange (1962); 1985 (1978)"
 format: "book"
 category: "b"
 yearReleased: "1978"
