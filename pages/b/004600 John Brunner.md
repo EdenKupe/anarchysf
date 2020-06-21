@@ -1,5 +1,5 @@
 ---
-title: "Stand on Zanzibar  (1968); The Sheep Look Up   (1972); The Shockwave Rider"
+title: "Stand on Zanzibar  (1968); The Sheep Look Up   (1972); The Shockwave Rider (1975)"
 format: "book"
 category: "b"
 yearReleased: "1975"
