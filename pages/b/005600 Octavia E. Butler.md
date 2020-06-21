@@ -5,11 +5,6 @@ category: "b"
 yearReleased: "2005"
 author: "Octavia E. Butler"
 ---
-* Patternmaster (1976)
-* Kindred (1979)
-* Lilith's Brood (1987–1989), AKA Xenogenesis, consisting of: Dawn (1987), Adulthood Rites (1988), and Imago (1989))
-* Parable of the Sower(1994)
-* Parable of the Talents (1999)
 
 Patternmaster is one of the weakest of Butler's  novels, but is nevertheless included in Mark Bould's Red Planets  <a href="biblio.htm#Red Planets">reading list</a>, and is in Dukan's <a href="http://invisibleuniversedoc.com/wp-content/uploads/2016/01/IU_BSF_lit_2015_3000.jpg"> bibliography</a> as an early work from the first generation of Black Futurists.
  
