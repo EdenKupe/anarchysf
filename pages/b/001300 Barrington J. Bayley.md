@@ -1,5 +1,5 @@
 ---
-title: "Annihilation Factor (1964); The Soul of the  Robot"
+title: "Annihilation Factor (1964); The Soul of the  Robot (1974)"
 format: "book"
 category: "b"
 yearReleased: "1974"
