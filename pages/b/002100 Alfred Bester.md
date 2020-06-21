@@ -1,5 +1,5 @@
 ---
-title: "The Demolished Man (1953); The Stars My Destination (a.k.a. Tiger! Tiger!)"
+title: "The Demolished Man (1953); The Stars My Destination (a.k.a. Tiger! Tiger!) (1956)"
 format: "book"
 category: "b"
 yearReleased: "1956"
