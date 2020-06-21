@@ -1,5 +1,5 @@
 ---
-title: "The Martian Chronicles (1950); Fahrenheit 451 (1953); Something Wicked This Way Comes"
+title: "The Martian Chronicles (1950); Fahrenheit 451 (1953); Something Wicked This Way Comes (1962)"
 format: "book"
 category: "b"
 yearReleased: "1962"
