@@ -1,5 +1,5 @@
 ---
-title: "Erewhon (1872); Erewhon Revisited"
+title: "Erewhon (1872); Erewhon Revisited (1901)"
 format: "book"
 category: "b"
 yearReleased: "1901"
