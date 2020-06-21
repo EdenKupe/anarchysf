@@ -1,5 +1,5 @@
 ---
-title: "Pump Six and Other Stories  (2008); The Windup Girl (2009); The Water Knife"
+title: "Pump Six and Other Stories  (2008); The Windup Girl (2009); The Water Knife (2014)"
 format: "book"
 category: "b"
 yearReleased: "2014"
