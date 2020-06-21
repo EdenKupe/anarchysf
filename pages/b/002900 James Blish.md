@@ -1,5 +1,5 @@
 ---
-title: "A  Case of Conscience (1953); They Shall Have Stars"
+title: "A  Case of Conscience (1953); They Shall Have Stars (1955)"
 format: "book"
 category: "b"
 yearReleased: "1955"
