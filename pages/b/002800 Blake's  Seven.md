@@ -2,7 +2,7 @@
 title: "Blake's  Seven"
 format: "film"
 category: "b"
-yearReleased: "--"
+yearReleased: "1978/1981"
 author: "Terry Nation"
 ---
 The exploits of a political dissident who leads a small  group of rebels against the forces of the totalitarian Terran Federation that  rules Earth and its colonies.
