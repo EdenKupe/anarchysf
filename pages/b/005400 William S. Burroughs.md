@@ -1,5 +1,5 @@
 ---
-title: "The Naked Lunch (1959); The Soft  Machine (1961/6); Nova Express (1966); The Ticket That Exploded  (1968); The Wild Boys (1969), Exterminator! (1974); Cities of the Red Night (1981),  Ghost of Chance"
+title: "The Naked Lunch (1959); The Soft  Machine (1961/6); Nova Express (1966); The Ticket That Exploded  (1968); The Wild Boys (1969), Exterminator! (1974); Cities of the Red Night (1981),  Ghost of Chance (1991)"
 format: "book"
 category: "b"
 yearReleased: "1991"
