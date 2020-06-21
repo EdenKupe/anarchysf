@@ -1,5 +1,5 @@
 ---
-title: "Fire on the Mountain (1988); TVA Baby and other  stories"
+title: "Fire on the Mountain (1988); TVA Baby and other stories (2011)"
 format: "book"
 category: "b"
 yearReleased: "2011"
