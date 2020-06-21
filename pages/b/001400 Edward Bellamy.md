@@ -1,5 +1,5 @@
 ---
-title: "Looking Backward  2000–1887 (1888);  Equality"
+title: "Looking Backward  2000–1887 (1888);  Equality (1897)"
 format: "book"
 category: "b"
 yearReleased: "1897"
