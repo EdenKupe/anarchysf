@@ -2,7 +2,7 @@
 title: "Blade Runner"
 format: "film"
 category: "b"
-yearReleased: "1982"
+yearReleased: "1982, final cut 2007"
 author: "Ridley Scott"
 ---
 Based on the Philip K. Dick novel Do  Androids Dream of Electric Sheep?, the film depicts a dystopian  Los Angeles in which genetically engineered android replicants are  banned on Earth, but used for dangerous or menial work on off-world  colonies. Replicants who defy the ban and come to Earth are hunted  down and killed by special police operatives known as 'blade  runners'. The plot focuses on a group of recently escaped replicants  hiding in LA and a burnt-out expert blade runner who reluctantly  agrees to take on one more assignment to hunt them down. Whether or  not the blade runner is himself a replicant is uncertain, forcing an  evaluation of what it means to be human.
