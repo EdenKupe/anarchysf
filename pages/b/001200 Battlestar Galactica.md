@@ -2,8 +2,8 @@
 title: "Battlestar Galactica"
 format: "film"
 category: "b"
-yearReleased: "2003"
-author: "Michael Rymer, and 2004/2009, developed by Ronald D. Moore; TV miniseries and four seasons, totalling 75 episodes"
+yearReleased: "2003 and 2004/2009"
+author: "Michael Rymer, developed by Ronald D. Moore; TV miniseries and four seasons, totalling 75 episodes"
 ---
  Acclaimed and successful re-envisioning of a poor 1978 series of the same name.
   
