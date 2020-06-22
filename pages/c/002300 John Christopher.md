@@ -1,5 +1,5 @@
 ---
-title: "The World in Winter (1962); The Lotus Caves"
+title: "The World in Winter (1962); The Lotus Caves (1969)"
 format: "book"
 category: "c"
 yearReleased: "1969"
