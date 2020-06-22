@@ -1,5 +1,5 @@
 ---
-title: "Ecotopia (1975); Ecotopia Emerging"
+title: "Ecotopia (1975); Ecotopia Emerging (1981)"
 format: "book"
 category: "c"
 yearReleased: "1981"
