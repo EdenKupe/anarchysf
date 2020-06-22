@@ -1,5 +1,5 @@
 ---
-title: "Timewyrm: Revelation  (1991), Love and War   (1992), No Future  (1994),    and Human Nature"
+title: "Timewyrm: Revelation  (1991), Love and War   (1992), No Future  (1994), and Human Nature (1995)"
 format: "book"
 category: "c"
 yearReleased: "1995"
