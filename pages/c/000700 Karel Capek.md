@@ -1,5 +1,5 @@
 ---
-title: "R.U.R. (1920); War with the Newts"
+title: "R.U.R. (1920); War with the Newts (1936)"
 format: "book"
 category: "c"
 yearReleased: "1936"
