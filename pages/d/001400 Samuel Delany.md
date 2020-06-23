@@ -1,5 +1,5 @@
 ---
-title: "Babel-17 (1966); 'Aye, and Gomorrah' (1967);    The Einstein Intersection  (1967); Dhalgren (1974); Trouble  on Triton: An Ambiguous Heterotopia; or, Some Informal Remarks toward the Modular Calculus (1976;  originally entitled Triton); Stars in My Pocket Like Grains of Sand"
+title: "Babel-17 (1966); 'Aye, and Gomorrah' (1967);    The Einstein Intersection  (1967); Dhalgren (1974); Trouble  on Triton: An Ambiguous Heterotopia; or, Some Informal Remarks toward the Modular Calculus (1976;  originally entitled Triton); Stars in My Pocket Like Grains of Sand (1984)"
 format: "book"
 category: "d"
 yearReleased: "1984"
