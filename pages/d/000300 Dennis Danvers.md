@@ -1,5 +1,5 @@
 ---
-title: "The Fourth World (2000); The Watch: Being the Unauthorized Sequel to Peter A. Kropotkin's Memoirs of a Revolutionist—as Imparted to Dennis Danvers by Anchee Mahur, Traveler from a Distant Future; or, A Science Fiction Novel"
+title: "The Fourth World (2000); The Watch: Being the Unauthorized Sequel to Peter A. Kropotkin's Memoirs of a Revolutionist—as Imparted to Dennis Danvers by Anchee Mahur, Traveler from a Distant Future; or, A Science Fiction Novel (2002)"
 format: "book"
 category: "d"
 yearReleased: "2002"
