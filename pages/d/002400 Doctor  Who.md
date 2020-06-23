@@ -2,7 +2,7 @@
 title: "Doctor  Who"
 format: "film"
 category: "d"
-yearReleased: "--"
+yearReleased: "1963/1989, 1996, 2005→"
 author: "Sydney Newman, C.E. Webber, and Donald Wilson"
 ---
 The adventures of a time-travelling renegade Time Lord  from the planet Gallifrey. According to the <a href="http://www.sf-encyclopedia.com/entry/doctor_who">Science Fiction  Encyclopedia</a> "It is the most successful Space Opera in the history of  television, not excluding Star Trek."
