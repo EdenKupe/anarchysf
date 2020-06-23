@@ -1,5 +1,5 @@
 ---
-title: "Down and Out in the Magic  Kingdom (2003);  Someone Comes to Town, Someone Leaves Town (2005);  Little Brother  (2008);  Makers (2009);  For the Win (2010);  The Great Big Beautiful Tomorrow (2011);  Pirate  Cinema (2013);  Homeland (2013); Walkaway"
+title: "Down and Out in the Magic  Kingdom (2003);  Someone Comes to Town, Someone Leaves Town (2005);  Little Brother  (2008);  Makers (2009);  For the Win (2010);  The Great Big Beautiful Tomorrow (2011);  Pirate  Cinema (2013);  Homeland (2013); Walkaway (2017)"
 format: "book"
 category: "d"
 yearReleased: "2017"
