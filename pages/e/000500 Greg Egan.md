@@ -1,5 +1,5 @@
 ---
-title: "Permutation City (1994); Distress"
+title: "Permutation City (1994); Distress (1995)"
 format: "book"
 category: "e"
 yearReleased: "1995"
