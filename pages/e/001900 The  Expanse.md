@@ -2,7 +2,7 @@
 title: "The  Expanse"
 format: "film"
 category: "e"
-yearReleased: "--"
+yearReleased: "2015→"
 author: "Mark Fergus and Hawk Ostby"
 ---
 A police detective in the asteroid belt, the executive  officer of an interplanetary ice hauler, and an earth-bound UN executive slowly  uncover a conspiracy that threatens the Earth's rebellious colony on the  asteroid belt. Superior series with high production values.
