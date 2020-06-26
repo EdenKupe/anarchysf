@@ -64,11 +64,13 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Dennis Danvers: _The Watch_ (2002)
 
-* Joseph Déjacque: _L_ (1858–61)
+* Joseph Déjacque: _L'Humanisphère_ (1858–61)
 
 * Philip K. Dick: 'The Last of the Masters' (1954)
 
 * L. Timmel Duchamp: _The Marq'ssan Cycle_  (2005–7)
+
+* Leslie Fish: _The Weight_ (1988)
 
 * Mike Gilliland: _The Free_ (2nd edn 2011)
 
