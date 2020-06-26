@@ -5,6 +5,6 @@ category: "g"
 yearReleased: "1990"
 author: "William Gibson & Bruce Sterling"
 ---
-Included in  Killjoy's list of stories that feature sympathetic  anarchist characters.
+Included in  Killjoy's list (see bibliography) of stories that feature sympathetic  anarchist characters.
  
  
