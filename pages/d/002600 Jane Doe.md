@@ -5,4 +5,4 @@ category: "d"
 yearReleased: "1995"
 author: "Jane Doe"
 ---
-Very entertaining animal fable sequel to Orwell's Animal Farm; not actually sf.  
+Very entertaining animal fable sequel to Orwell's _Animal Farm_; not actually sf.  
