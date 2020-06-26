@@ -9,5 +9,6 @@ Set in 2000, with New York an independent city state, as  SF it's otherwise not 
  
 "They are frankly anarchists, they assert the solidarity  of chaos, the unity of discord, the prosperity of idleness, the stability of  disorder. Their philosophy is a jumble of contradictions. But worse, they are  self-elected criminals, or else they are hopelessly mad."
 (Dillingham edn: 98)
+
 Long and tedious.
   
