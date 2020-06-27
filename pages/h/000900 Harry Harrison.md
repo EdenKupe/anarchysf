@@ -1,5 +1,5 @@
 ---
-title: "'The Streets of Ashkelon' (1962; aka 'An Alien  Agony'); Bill, the Galactic Hero (1965); The Stainless  Steel Rat Gets Drafted"
+title: "'The Streets of Ashkelon' (1962; aka 'An Alien  Agony'); Bill, the Galactic Hero (1965); The Stainless  Steel Rat Gets Drafted (1987)"
 format: "book"
 category: "h"
 yearReleased: "1987"
@@ -7,7 +7,7 @@ author: "Harry Harrison"
 ---
 For John Pilgrim the 1962 story ("this horrific little  tale") "poses the question of the amount of harm that the introduction of  religion would do to a race who had  managed to develop without any concept of the supernatural, or of God. The  author's standpoint here is that the harm would be enormous and irreparable" . .  . (Pilgrim 1963)
  
-Moorcock found Bill, the Galactic Hero  "very funny", as a send-up of Heinlein. P.S. didn't get the joke: "The drawback  with repeating this parody, chapter after chapter, is that the resulting book is  no longer a parody of the martial spirit, but just another plug for the  military." (Moorcock 1978, P.S. 1978)
+Moorcock found _Bill, the Galactic Hero_  "very funny", as a send-up of Heinlein. P.S. didn't get the joke: "The drawback  with repeating this parody, chapter after chapter, is that the resulting book is  no longer a parody of the martial spirit, but just another plug for the  military." (Moorcock 1978, P.S. 1978)
  
 Bill himself, a hard-pressed trooper, surely  owes something to Švejk.
  
