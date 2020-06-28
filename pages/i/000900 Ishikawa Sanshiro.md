@@ -11,6 +11,6 @@ An anarchist vision of utopia, in  which "The Japan of the year 1996 embodies qu
  
 Described by Cohn (228) as an  anarchist utopia.
  
-The 2014 Bottled Wasp Pocket  Diary describes Ishikawa as an anarcho-syndicalist theorist, but  <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0098971"> Schnick</a> suggests he was rather more than that: 
+The 2014 _Bottled Wasp Pocket  Diary_ describes Ishikawa as an anarcho-syndicalist theorist, but  <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0098971"> Schnick</a> suggests he was rather more than that: 
  
-Ishikawa believed in a much better  world and hoped that in telling and living his ideal lifestyle, society could  move towards this better world. In this we find Ishikawa's most significant  accomplishment: his practice and ideology were consonant—he lived as he wished  others to live. (p47)
+"Ishikawa believed in a much better  world and hoped that in telling and living his ideal lifestyle, society could  move towards this better world. In this we find Ishikawa's most significant  accomplishment: his practice and ideology were consonant—he lived as he wished  others to live." (p47)
