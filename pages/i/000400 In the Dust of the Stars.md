@@ -2,7 +2,7 @@
 title: "In the Dust of the Stars"
 format: "film"
 category: "i"
-yearReleased: "--"
+yearReleased: "1976"
 author: "Gottfried Kolditz"
 ---
 A spaceship responds to a mayday call from a distant  planet, and on arrival finds an apparently contented hedonistic society, then  discovers that in fact the mayday was sent by the enslaved indigenous  population. The slaves revolt.
