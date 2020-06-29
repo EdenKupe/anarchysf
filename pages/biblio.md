@@ -29,7 +29,8 @@ layout: worksforconsideration
 | B., A. | 1978 | reviews of Callenbach:Ecotopia,Hackett:The Third World War,andHyams:The Final Agenda,Cienfuegos Press Anarchist Review5: 81, 97 |
 | B., M. | Sept 1911 | 'Some Books', review ofThe New Machiavelli,Mother EarthVI.7: 215–6 |
 | Bates, Dennis | 1981-09-18 | review of Roshwald:Level 7, Peace News2153:14 |
-| Berneri, Marie-Louise | 1950 | Journey through Utopia.NY: Shocken |
+| Berneri, Marie-Louise | 1950 | Journey through Utopia. NY: Shocken |
+| Berneri, Marie-Louise | 2019 (first published 1950) | _Journey through Utopia_. Oakland: PM Press. The new edition has an introduction by Matthew S. Adams, an afterword by Rhiannon Firth, and a postscript by Kim Stanley Robinson |
 | Bey, Hakim [Peter Lamborn Wilson] | 1991 | <a href="http://hermetic.com/bey/taz_cont.html">T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism</a> |
 | Black, Bob | 2015 | Instead of Work.LBC Books |
 | Bleiler, Everett F. | 1990 | <a href="http://ia700308.us.archive.org/6/items/inoudemonreminis00dray/inoudemonreminis00dray.pdf">Science Fiction: The Early Years</a>. Kent, Ohio: Kent State University Press |
@@ -84,6 +85,7 @@ layout: worksforconsideration
 | Flanagan, Pat | 1982-08-28 | 'Don Thomas in the Land of Freud',Freedom43.17:9-11 |
 | Fleming, Gillian | 1982-02-06 | 'Louise Michel',Freedom43.2: 9–1 |
 | Frankfurter, Marion Denman, and Gardner Jackson, eds | 1928, repr. 1997 | The Letters of Sacco and Vanzetti.London: Penguin |
+| Gifford, James | 2019 | 'Literature and Anarchism,' in Levy and Adams, eds, q.v. | 
 | Girault, Ernest | 1906 | La Bonne Louise. Psychologie de Louise Michel.Paris: Bibliotheque des Auteurs Modernes |
 | Godwin, William | 1797 | 'Age of Queen Anne', in 'Of English Style', Essay XII in Part II ofThe Enquirer. Reflections on Education, Manners and Literature in a series of essays.London (repr. 1965, NY: August M. Kelley) |
 | ____ | 1798 | Enquiry concerning Political Justice and Its Influence on Modern Morals and Happiness,ed. Isaac Kramnick, London: Penguin |
@@ -122,6 +124,7 @@ layout: worksforconsideration
 | Laursen, Eric | 2018 | The Duty to Stand Aside.Nineteen Eighty-Fourand the Wartime Quarrel of George Orwell and Alex Comfort. Chico & Edinburgh: AK Press |
 | Le Guin, Ursula K. | 1982 | 'A Non-Euclidean View of California as a Cold Place to Be', inDancing at the Edge of the World(1989); reprinted inFifth Estate#382, 45.1: 16-25 |
 | Lessa, Takver & Alyx | Summer 1978 | 'Daily Life in Revolutionary Utopia: Feminism, Anarchism and Science Fiction',Open Road:pp. 8 & 13 |
+| Levy, Carl, and Adams, Matthew S., eds | _The Palgrave Handbook of Anarchism_. London: Palgrave Macmillan
 | Luke, Hugh J., Jr | 1965 | 'Introduction',The Last Man. Lincoln: U. of Nebraska Press |
 | M., A. (Meltzer, Albert) | Sept 1976 | 'The Lie Factory',Cienfuegos Press Anarchist Review2: 58 & 62, repr. fromBlack FlagIV.10: 13–4, Sept 1976 |
 | M., J. | Mar–Apr 1963 | 'Letra Viva', inReconstruir,23: 45–7 |
