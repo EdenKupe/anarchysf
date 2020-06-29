@@ -110,7 +110,6 @@ permalink: worksforconsideration.html
 | Andy T. Coombs | 'Wall Street Undead' | <a href="http://flag.blackened.net/aca/anarchy-sci-fi/wallstreetundead.htm">flag.blackened.net/aca/anarchy-sci-fi/wallstreetundead.htm</a> |
 | Julio Cortázar | 'House Taken Over' | mentioned in a mailing to anarchysf |
 | Ronald Creagh | Les zanars | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Cary Cronenwett | Maggots and Men | <a href="https://www.revolvy.com/topic/Cary%20Cronenwett&amp;uid=1575">www.revolvy.com/topic/Cary%20Cronenwett&amp;uid=1575</a>;<a href="http://olympiafilmsociety.org/maggots-and-men/">olympiafilmsociety.org/maggots-and-men/</a>;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.chicagoreader.com/Bleader/archives/2010/05/05/chicago-anarchist-film-festival">www.chicagoreader.com/Bleader/archives/2010/05/05/chicago-anarchist-film-festival</a>;<a href="http://libcom.org/forums/history-culture/kronstadt-texts-09052010">libcom.org/forums/history-culture/kronstadt-texts-09052010</a>;<a href="http://libcom.org/forums/history-culture/kronstadt-texts-09052010">libcom.org/forums/history-culture/kronstadt-texts-09052010</a> |
 | Cryptoworld 2050 | New World Order | <a href="http://www.amazon.co.uk/Contract-New-World-Order-Book-ebook/dp/B00KUMOZY0/ref=sr_1_14?ie=UTF8&amp;qid=1411516914&amp;sr=8-14&amp;keywords=anarchist+science+fiction">Amazon</a> |
 | The Curious George Brigade | Anarchy in the Age of Dinosaurs | <a href="http://zinelibrary.info/files/anarchy-in-the-age-of-dinosaurs.pdf">zinelibrary.info/files/anarchy-in-the-age-of-dinosaurs.pdf</a>but is a manifesto, and of no SF interest |
 | Philippe Curval |  | This French SF writer is said to have described his views as anarchistic. (Thomas 1985) |
@@ -149,7 +148,6 @@ permalink: worksforconsideration.html
 | Kevin Eady | Uncontrollable | <a href="http://www.smashwords.com/books/view/297897">self-published e-book</a>; According to the author, this e-book is the autobiography of a fictional 101-year-old Spanish anarchist named Buenaventura García. Though not strictly science fiction, there is an episode in the latter half of the book where drug-induced hallucination conjures up an alternate reality where anarchism has been far more successful. |
 | J.G. Eccarius | The Last Days of Christ the Vampire | recommended on Facebook 'Anarchists and Science Fiction' page |
 | Gordon Eklund | All Times Possible | mentioned in a mailing to anarchysf |
-| Suzette Haden Elgin | Native Tongue | <a href="http://www.librarything.com/work/37925/book/26910620">www.librarything.com/work/37925/book/26910620</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Carol Emshwiller | The Mount | <a href="http://www.librarything.com/work/369392/book/26912060">www.librarything.com/work/369392/book/26912060</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Kenneth C. Eng | Reincarnation | Blurb: This work is intended for children aged 12 and up. In a future period known as Reincarnation Times, existence technology has been developed that allows humans to reincarnate after death—and retain full waking awareness of their past lives. With this life everlasting, people begin to feel immortal and no longer consider death to be part of their existence. Cosine Chan, a law-enforcement agent—who has spent her life fighting hyperviolent vandals, thieves, and perjurers—finds herself thrust into investigating a mysterious anarchist known only as Limacon Lambert who is plotting to pollute the consciousness pools of mankind. She soon learns that he is affiliated with a rebel cult that intends to end reincarnation and restore the natural order of the universe. Bravely facing many adversaries and strange alterations of consciousness, Cosine learns that immortality is not the blessing it seems to be, that death is not always a curse, and that it's preferable to live a heroic life than an eternal one. |
 | Max Ernst | Une Semaine de bonté | mentioned in a mailing to anarchysf |
@@ -157,7 +155,6 @@ permalink: worksforconsideration.html
 | Mick Farren | The DNA Cowboystrilogy | Rich Dana inAnarcho SFV. 1 |
 | Mick Farren | The Song of Phaid the Gambler | Rich Dana inAnarcho SFV. 1 |
 | Howard Fast | 'I Zapped an Angel' | <a href="http://media.wix.com/ugd/f0c74f_5027e43d20954b4497139d0f34e99ee2.pdf">Neville</a> |
-| Sébastien Faure | Mon communisme: le bonheur universel | 'uchronian novel' set "fifteen years after the liberation movement" (Cohn: 222) |
 | Mauricio Montiel Figueiras | 'Photophobia' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Nigel Findley | Neo-Anarchist's The Guide to North America | <a href="http://www.amazon.com/Neo-Anarchists-Guide-North-America-Dowd/dp/1555601359/ref=sr_1_1?ie=UTF8&amp;qid=1382207064&amp;sr=8-1&amp;keywords=Neo-Anarchists+the+Guide+to+North+America">Amazon</a> |
 | Andrew Jonathan Fine | Alouette's Song | self-promoted on<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts#">www.facebook.com/groups/anarchismandsciencefiction/?fref=ts#</a> |
@@ -241,8 +238,6 @@ permalink: worksforconsideration.html
 | Nalo Hopkinson | 'Fisherman' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Nalo Hopkinson | Report from Planet Midnight Plus | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.pmpress.org/content/index.php?topic=authors&amp;page=16">www.pmpress.org/content/index.php?topic=authors&amp;page=16</a>;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.activedistributionshop.org/shop/35-fiction">www.activedistributionshop.org/shop/35-fiction</a> |
 | Michel Houellebecq | Atomized / The Elementary Particles | mentioned in Goodway: 236n |
-| Sarah Hoyt | Darkship Thieves | Winner of the 2011 Prometheus Award. |
-| L. Ron Hubbard | Final Blackout | included in David Agranoff's list of "<a href="included%20in%20David%20Agranoff's%20list%20of%20%22anarchist-themed-sci-fi%22">anarchist-themed-sci-fi</a>";<a href="http://www.goodreads.com/book/show/262966.Final_Blackout">www.goodreads.com/book/show/262966.Final_Blackout</a> |
 | David Humphreys, Joel Barlow, John Trumbull, & Lemuel Hopkins | The Anarchiad: A Poem on the Restoration of Chaos and Substantial Night | online at<a href="http://mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show">mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show</a> |
 | Ian Hunter | 'Anarchy at Christmas' | <a href="http://www.locusmag.com/index/s333.htm">www.locusmag.com/index/s333.htm</a> |
 | Charles John Cutcliffe Hyne (as Weatherby Chesney) | 'The Anarchist Plot', inThe Adventures of an Engineer | . . . "attempt to blow up the Bank of England [ . . . ] All novelties destroyed with the inventors." (Suvin: 71-2);<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=4470885876&amp;ir&amp;xbf=b3MtcWctdWJ6cg__/54562939642614878671&amp;clickid=0TDUL6xmZ0-bT0YRqlWHWW1CUkXxI3RY2VdawM0&amp;cm_mmc=aff-_-ir-_-59145-_-146918&amp;afn_sr=impact&amp;ref=imprad">AbeBooks</a> |
@@ -473,7 +468,6 @@ permalink: worksforconsideration.html
 | Jody Scott | Passing for Human | mentioned in a mailing to anarchysf |
 | Ekaterina Sedia, ed. | Paper Cities | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Louis Segeral | Les Nouvelles de la Combe | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Juan Serrano y Oteiza | Pensativo | posits a possible Proudhonian mutualist society, according to the 2014Bottled Wasp Pocket Diary |
 | Thomas Sewell | Sharper Security | <a href="http://www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security">www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security</a> |
 | J.C. Shannon | 'The Dream of Jacques the Anarchist', inWho Shall Condemn? and Other Stories | "Dream of future war similar to Griffith's in which resentful slum anarchist moves amid aircraft and new explosives." (Suvin: 59) |
 | Nisi Shawl | 'Deep End' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
@@ -492,7 +486,6 @@ permalink: worksforconsideration.html
 | Robert Silverberg | Invaders from Earth | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a>: "an effective indictment of imperialism and its paid apologists" |
 | Helen Simpson | The Woman on the Beast: Viewed from Three Angles | <a href="http://www.sf-encyclopedia.com/entry/simpson_helen">SFE</a>: "a woman anarchist with apocalyptic intentions becomes ruler of the world" |
 | Johanna Sinisalo | Troll | <a href="http://www.librarything.com/work/53393/book/26911701">www.librarything.com/work/53393/book/26911701</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Joan Slonczewski | Brian Plague | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jane Smiley | A Thousand Acres | mentioned in a mailing to anarchysf |
 | E.E. 'Doc' Smith | The Space Pirates | one character is described as "an extraordinary anarchist robot" [<a href="http://www.sfgateway.com/books/s/space-pirates,-the/">www.sfgateway.com/books/s/space-pirates,-the/</a>] |
 | Michael Marshall Smith | Only Forward | mentioned in a mailing to anarchysf |
@@ -542,7 +535,6 @@ permalink: worksforconsideration.html
 | Sheri S. Tepper | The Family Tree | <a href="http://www.goodreads.com/book/show/64701.The_Family_Tree">www.goodreads.com/book/show/64701.The_Family_Tree</a> |
 | Sheri S. Tepper | Six Moon Dance | mentioned in a mailing to anarchysf |
 | Tiffany Thayer | Doctor Arnoldi | anarchist and founder of the Fortean Society; this SF novel described as "notorious" in the 2014Bottled Wasp Pocket Diary; Thayer "was a self-styled anarchist, contrarian and atheist...", according to<a href="http://blackguard23.livejournal.com/119697.html">blackguard23.livejournal.com/119697.html</a>, which describes this as "one of the most grotesque and repulsive works of science fiction ever written" |
-| Sheree R. Thomas | Dark Matter | mentioned in a mailing to anarchysf |
 | Brian Thompson | The Anarchists | <a href="http://www.amazon.co.uk/Anarchists-Brian-Thompson-ebook/dp/B007IUJJFM/ref=sr_1_1?ie=UTF8&amp;qid=1408894483&amp;sr=8-1&amp;keywords=brian+thompson+the+anarchists">Amazon</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=10516495209">AbeBooks</a> |
 | Alexei Tolstoy | Aelita | mentioned in a mailing to anarchysf |
 | James Treadwell | Anarchy | <a href="http://www.sf-encyclopedia.com/entry/treadwell_james">SFE</a> |
