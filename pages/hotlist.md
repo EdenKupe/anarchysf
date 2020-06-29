@@ -103,11 +103,11 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 ### For an Overview of Anarchy and Science Fiction
 
-* Marie Louise Berneri: Journey Through Utopia (1950)
+* Marie Louise Berneri: _Journey Through Utopia_ (2019; first published 1950)
 
-* Margaret Killjoy, ed.:  Mythmakers & Lawbreakers. Anarchist writers on fiction (2009)
+* Margaret Killjoy, ed.:  _Mythmakers & Lawbreakers. Anarchist writers on fiction_ (2009)
 
-* Max Nettlau: Esbozo de Historia de las Utopías (1934)
+* Max Nettlau: <a href="https://materialesfopep.files.wordpress.com/2015/05/max-nettlau-esbozo-de-historia-de-las-utopc3adas.pdf">_Esbozo de Historia de las Utopías_</a> (1934)
 
 
 ### Recommended Viewing
