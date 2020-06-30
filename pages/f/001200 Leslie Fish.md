@@ -11,7 +11,7 @@ In the standalone publication, the book is introduced by the story that prompted
 
 A forking timeline has resulted in alternate versions in which the regular Enterprise crew encounter their equivalents in the other timeline, who are a smart bunch of stroppy anarchists with a strongly hippie culture of their own. The regular crew find them a complete nightmare, and for much of the book they have to conceal from the anarchists the very existence of the Federation and the fact that the Enterprise is a military vessel. As they get to know them, however, the anarchist influence inexorably attracts the crew. However, when the anarchists discover the truth, they feel betrayed by Kirk and the others, and eventually depart for good, although only with the tacit connivance of the crew, conspiring against their own Federation.
 
-Fish is described as an "IWW member and anarchist activist" in the 2014 Bottled Wasp Pocket Diary. The novel demonstrates Fish's beliefs very effectively, and there are occasional nods to anarchist history, for example with two minor characters named as 'Alex Goldman' and 'Emma Bergman', and Kirk's alternate having a copy of Bakunin's God and the State.
+Fish is described as an "IWW member and anarchist activist" in the 2014 _Bottled Wasp Pocket Diary_. The novel demonstrates Fish's beliefs very effectively, and there are occasional nods to anarchist history, for example with two minor characters named as 'Alex Goldman' and 'Emma Bergman', and Kirk's alternate having a copy of Bakunin's _God and the State_.
 
 
  
