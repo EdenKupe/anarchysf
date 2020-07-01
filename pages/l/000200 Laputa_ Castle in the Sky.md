@@ -1,8 +1,8 @@
 ---
-title: "Laputa: Castle in the Sky"
+title: "Laputa: Castle in the Sky (天空の城ラピュタ)"
 format: "film"
 category: "l"
-yearReleased: "--"
+yearReleased: "1986"
 author: "Hayao Miyazaki"
 ---
 Steampunk-inflected children's anime fantasy adventure, in  which a young boy and girl try to keep a magic crystal from a group of military  agents, while searching for a legendary floating castle, which for the military  and for a pirate band is seen as a near-extinct hi-tech El Dorado. The name  Laputa and the concept of the floating island are about all that remain of  Swift's Laputa.
