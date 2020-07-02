@@ -1,5 +1,5 @@
 ---
-title: "The City, Not Long After (1989); 'How I Spent My Summer  Vacation'"
+title: "The City, Not Long After (1989); 'How I Spent My Summer  Vacation' (1989)"
 format: "book"
 category: "m"
 yearReleased: "1989"
