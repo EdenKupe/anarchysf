@@ -1,8 +1,8 @@
 ---
-title: "Origin: Spirits of the Past"
+title: "Origin: Spirits of the Past (銀色の髪のアギト)"
 format: "film"
 category: "o"
-yearReleased: "--"
+yearReleased: "2006"
 author: "Keiichi Sugiyama"
 ---
 Global civilisation has collapsed, following a failed  attempt at geo-engineering, which covers the world in sentient trees.  Individuals brought forward from the past seek to reverse the process, but  eventually realise the future is to live in harmony with the mutant trees.
