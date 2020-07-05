@@ -20,7 +20,6 @@ _The Cornelius Chronicles_ constitute some of Moorcock's best work, centring on 
 
 "The whole point of my fiction is to allow readers to decide for themselves their  own moral attitudes. The Jerry Cornelius stories, for instance, are pure  anarchism in their refusal to "guide" the reader in any direction. I try to set  out the material and let them decide what they think." (see Killjoy, 2009)
 
-
 This is entirely consistent with his statement, the same  year, that
 
 "I remain a Kropotkinist anarchist, which many  people will see as unrealistic, but, if I’m unrealistic, so be it. I see  my anarchism as a moral position, in that it’s scarcely a realistic  political one! But from that position I can very quickly determine what  action to take." [<a href="https://web.archive.org/web/20141215223241/http:/anarchotranshumanism.com:80/2009/06/23/moorcock-on-h-and-anarchism/">Moorcock  on H+ and Anarchism</a>]
@@ -39,5 +38,4 @@ Makhno appears yet again in _The Adventures of Una Persson and Catherine Corneli
 
 Of _The Dancers at the End of Time_ a poster to anarchysf wrote: "Theme is an anarchic society where all material needs have been met. There's only a few people but boy are they bored! Could be seen as an attempt to play around with a situationist  scenario?"
 
-For <a href="http://www.wired.com/beyond_the_beyond/2009/10/i-wanna-be-sci-fi-anarcheeee/"> Bruce Sterling</a>, Michael Moorcock is "the gold standard in these matters, if  you ask me".
- 
+For <a href="http://www.wired.com/beyond_the_beyond/2009/10/i-wanna-be-sci-fi-anarcheeee/"> Bruce Sterling</a>, Michael Moorcock is "the gold standard in these matters, if  you ask me". 
