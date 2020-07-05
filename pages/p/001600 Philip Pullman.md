@@ -1,5 +1,5 @@
 ---
-title: "His Dark Materials trilogy—Northern Lights (1995);  The Subtle Knife (1997); The Amber Spyglass"
+title: "His Dark Materials trilogy—Northern Lights (1995);  The Subtle Knife (1997); The Amber Spyglass (2000)"
 format: "book"
 category: "p"
 yearReleased: "2000"
