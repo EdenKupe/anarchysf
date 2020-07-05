@@ -2,7 +2,7 @@
 title: "The Prisoner"
 format: "film"
 category: "p"
-yearReleased: "--"
+yearReleased: "1967/1968; TV series, 17 episodes"
 author: "Patrick McGoohan"
 ---
 "I am not a number. I am a free man!"
