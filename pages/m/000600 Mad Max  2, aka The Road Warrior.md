@@ -5,8 +5,7 @@ category: "m"
 yearReleased: "1981"
 author: "George Miller"
 ---
-Also in a post-apocalypse Australia, an embittered loner  contracts to help a small, petroleum-rich community escape a band of marauders.
- 
+Also in a post-apocalypse Australia, an embittered loner  contracts to help a small, petroleum-rich community escape a band of marauders. 
 
 In a 2011 blog on '<a href="http://introductiontopoliticsandgovernment.blogspot.co.uk/2011/01/anarchy-security-and-freedom.html">Anarchy,  Security and Freedom</a>', for Politics and Government at Shepherd University,  readers are invited to compare the real anarchy of Somalia with the  post-apocalyptic society of Mad Max 2:
  
