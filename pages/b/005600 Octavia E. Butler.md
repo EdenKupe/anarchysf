@@ -1,5 +1,5 @@
 ---
-title: "Patternmaster (1976); Kindred (1979); Lilith's Brood (1987–1989, aka Xenogenesis; consisting of Dawn (1987),  Adulthood Rites (1988), and Imago (1989)); Parable of the Sower (1994); Parable of the Talents (1999); Fledgling (2005)"
+title: "Patternmaster (1976); Kindred (1979); Wild Seed (1980); Lilith's Brood (1987–1989, aka Xenogenesis; consisting of Dawn (1987),  Adulthood Rites (1988), and Imago (1989)); Parable of the Sower (1994); Parable of the Talents (1999); Fledgling (2005)"
 format: "book"
 category: "b"
 yearReleased: "2005"
@@ -10,6 +10,8 @@ author: "Octavia E. Butler"
  
 <em>Kindred</em> is probably Butler's best-known work, and  is by now pretty much a standard text, featuring a complex critique of race and  power relationships in the ante-bellum South, from the viewpoint of an  African-American woman from 1976, who is intermittently pulled back to 1815  whenever her slave-owning white forebear is in danger.
  
+_Wild Seed_ is the last of Butler's _Patternist_ series. Lewis Call devotes a couple of pages to this work in 'Structures of desire', his chapter in Hecker and Cleminson, eds: _Anarchism & Sexuality_. He sees the novel as "a sadomasochistic love story," in which Butler discovered "a kind of erotic play-slavery," which she presents as "an effective strategic and symbolic challenge to a principal character's "ugly, empire-building slavery." He concludes that "A text would have to be kinky _and_ postanarchist to achieve something like that."
+
 For Anu Bonobo, in <em>Fifth Estate</em> #<a href="http://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">373</a>,
  
 Dawn's most daring maneuver was not the  unattractive aliens on the breathing bio-ship that rescued the xenophobic humans  after a human holocaust—nor even the seemingly benevolent freaks' rejection of  humanity's apparently inherent hierarchies; rather, Butler busted boundaries  with bizarre, kinky, and blissfully psychedelic interspecies sex. Even though  the humans cannot help but like it, do they really want it? As one might  imagine, the issue of permission is problematic here; do the humans choose to  breed with their apparently terrifying and tentacled saviors and captors? Is  this patronizing servitude masked as emancipation?
