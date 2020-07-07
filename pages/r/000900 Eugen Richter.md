@@ -1,5 +1,5 @@
 ---
-title: "Pictures of the Socialistic  Future (Freely Adapted from Bebel)"
+title: "Pictures of the Socialistic  Future (Freely Adapted from Bebel) (first published in 1891 as Sozialdemokratische Zukunftsbilder: frei nach Bebel"
 format: "book"
 category: "r"
 yearReleased: "1894; first published in 1891 as Sozialdemokratische Zukunftsbilder: frei nach Bebel"
