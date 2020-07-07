@@ -12,5 +12,5 @@ Categorised by Glenn in his essay 'Film as  Subversion', in the 2015 BASTARD Chr
  
 Recommended by three contributors to the  Anarchism <a href="https://www.reddit.com/r/Anarchism/comments/2a2r93/can_we_compile_a_list_of_the_top_films_advocating/"> SubReddit</a> as a film advocating anti-capitalism, though the third  (Peppermint Pig) qualifies this: "It questions authority as much as  it questions self purpose, but there's really no anti-capitalist  argument being made as an underlying theme."
  
-Quoted as an epigraph in David Graeber's  Debt. The First 5,000 Years.
+Quoted as an epigraph in David Graeber's _Debt. The First 5,000 Years_.
  
