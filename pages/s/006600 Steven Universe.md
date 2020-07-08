@@ -1,8 +1,8 @@
 ---
-title: "Steven Universe"
+title: "Steven Universe (TV series)"
 format: "film"
 category: "s"
-yearReleased: "--"
+yearReleased: "2013/2019"
 author: "Rebecca Sugar"
 ---
 Comic cartoon superhero adventures, for children. Well  received generally for its refreshingly inclusive take on gender and diversity.
