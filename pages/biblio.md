@@ -124,7 +124,7 @@ layout: worksforconsideration
 | Laursen, Eric | 2018 | The Duty to Stand Aside.Nineteen Eighty-Fourand the Wartime Quarrel of George Orwell and Alex Comfort. Chico & Edinburgh: AK Press |
 | Le Guin, Ursula K. | 1982 | 'A Non-Euclidean View of California as a Cold Place to Be', inDancing at the Edge of the World(1989); reprinted inFifth Estate#382, 45.1: 16-25 |
 | Lessa, Takver & Alyx | Summer 1978 | 'Daily Life in Revolutionary Utopia: Feminism, Anarchism and Science Fiction',Open Road:pp. 8 & 13 |
-| Levy, Carl, and Adams, Matthew S., eds | _The Palgrave Handbook of Anarchism_. London: Palgrave Macmillan
+| Levy, Carl, and Adams, Matthew S., eds | 2019 | _The Palgrave Handbook of Anarchism_. London: Palgrave Macmillan |
 | Luke, Hugh J., Jr | 1965 | 'Introduction',The Last Man. Lincoln: U. of Nebraska Press |
 | M., A. (Meltzer, Albert) | Sept 1976 | 'The Lie Factory',Cienfuegos Press Anarchist Review2: 58 & 62, repr. fromBlack FlagIV.10: 13–4, Sept 1976 |
 | M., J. | Mar–Apr 1963 | 'Letra Viva', inReconstruir,23: 45–7 |
