@@ -9,4 +9,4 @@ Loosely based on a Philip K. Dick story, the film tells of  a man who, in the pr
  
 Included in libcom.org's <a href="https://libcom.org/library/working-class-cinema-video-guide">Working class cinema: a video guide</a>.  Listed at <a href="http://libertarianmovies.net/T/Total-Recall-1990-.html"> Libertarian Movies</a>, which says "there's quite a bit for libertarians to  enjoy".
  
-Also included in <a href="biblio.htm#Osborne">Osborne</a>,  for whom "If you're going to have a rebellion against a corrupt government, be  sure 'Ahnold' is on your side."
+Also included in Osborne (see bibliography),  for whom "If you're going to have a rebellion against a corrupt government, be  sure 'Ahnold' is on your side."
