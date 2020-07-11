@@ -9,3 +9,4 @@ Smith's series, most recently assembled in two volumes (_Norstrilia_, and  _The 
  
 M. Eagle, in _Freedom_, found Smith's stories  "somewhat odd" . . . (Eagle 1969) This is perhaps not surprising given the  author's real identity as Paul M.A. Linebarger, godson to Sun Yat-sen, close  confidant of Chiang Kai-shek, and an expert on psychological warfare, known to  have done undocumented work for the CIA.
  
+Ursula Le Guin's essay 'Thinking about Cordwainer Smith' was reprinted in her 2004 collection _The Wave in the Mind_. She concludes that "The durable and mysterious power of Cordwainer Smith's stories is not a matter only of their exuberant language and brilliant invention and hallucinatory imagery; there is a deep ground to them, a moral ground, lying in his persuasive conviction of the responsibility of one being for another."
