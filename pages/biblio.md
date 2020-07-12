@@ -9,23 +9,23 @@ layout: worksforconsideration
 | --- | --- | --- |
 | Albon, Alan   | 1984-01-14   | 'The Arrival of 1984', *Freedom* 45.1:1   |
 | Aldred, Guy | 2004 | <a href="http://www.thesparrowsnest.org.uk/collections/public_archive/PAR0058.pdf">The Socialism and Anti-Parliamentarism of William Morris</a> |
-| Aldiss, Brian | June 1976 | letter to the editor,Foundation: The Review of Science Fiction10:44-8 |
-| Alexander, Richard | Autumn 2001 | letter,<a href="http://media.wix.com/ugd/f0c74f_8f0a50090b0f43ee9790a0dbee548d12.pdf">Total Liberty</a>3.1:10-11 |
-| Allan, Annamarie | 1982-10-01 | 'The Godmothers',Peace News2179:16 |
-| Amalric, Jean Claude | 1977 | Bernard Shaw, du Réformateur Victorien au prophète édouardien. Paris: Didier |
-| anon. | 1890-10-04 | review ofNew Amazonia,Commonweal6.247: 315 |
-| anon. | June 1891 | 'Notes: William Morris',FreedomV.55: 42 |
-| anon. | Dec 1899 | 'Notes: The Anarchist of Fiction',FreedomXIII.144: 84 |
-| anon. | Jan 1907 | 'Literary Notes: Review ofSocialism and the Family',FreedomXXI. 214: 7–8 |
-| anon. | Dec 1963 | review of Stewart:Earth Abides,Anarchy34: 380 |
-| anon. | 1965-01-16 | 'Pick of the New Paperbacks',Freedom26.2:2 |
-| anon. | 1983-03-12 and 1983-04-09 | 'Books from Freedom Bookshop',Freedom44.5:2 and 44.7:8 |
-| anon. | Winter 1985 | review of Piercy:Woman on the Edge of Time,Anarchist Feminist Magazine2: 30 |
-| anon. | Summer 2013 | 'Beyond Perfection; what we can learn from science fiction anarchist utopias', inOrganise! The magazine of the Anarchist Federation, issue 80: 10-13 |
-| anon. | Summer 2013 | '"I come to you like the beggar man..." a review of Ursula Le Guin's The Dispossessed', inOrganise! The magazine of the Anarchist Federation, issue 80: 42 |
-| anon. | 2015 | <a name="Bastard"></a>The BASTARD Chronicles: utopia & other science fictions. Berkeley, CA: Ardent Press |
-| Auden, W.H. | 1962 | 'Today's Wonder-World Needs Alice', in Robert Phillips, ed.:Aspects of Alice. Lewis Carroll's Dreamchild as seen through the Critics' Looking-Glasses 1865–1971.(1974) London: Penguin (1st publ. in USA 1971); pp. 29-39 |
-| Avery, Ron | 1945-04-24 | 'Blue Print for Utopia',War Commentary6.9: 4 |
+| Aldiss, Brian | June 1976 | letter to the editor, _Foundation: The Review of Science Fiction_ 10:44-8 |
+| Alexander, Richard | Autumn 2001 | letter, <a href="http://media.wix.com/ugd/f0c74f_8f0a50090b0f43ee9790a0dbee548d12.pdf">Total Liberty</a>3.1:10-11 |
+| Allan, Annamarie | 1982-10-01 | 'The Godmothers', _Peace News_ 2179:16 |
+| Amalric, Jean Claude | 1977 | _Bernard Shaw, du Réformateur Victorien au prophète édouardien_. Paris: Didier |
+| anon. | 1890-10-04 | review ofNew Amazonia, _Commonweal_ 6.247: 315 |
+| anon. | June 1891 | 'Notes: William Morris', _Freedom_ V.55: 42 |
+| anon. | Dec 1899 | 'Notes: The Anarchist of Fiction', _Freedom_ XIII.144: 84 |
+| anon. | Jan 1907 | 'Literary Notes: Review ofSocialism and the Family', _Freedom_ XXI. 214: 7–8 |
+| anon. | Dec 1963 | review of Stewart: _Earth Abides_, _Anarchy_ 34: 380 |
+| anon. | 1965-01-16 | 'Pick of the New Paperbacks', _Freedom_ 26.2:2 |
+| anon. | 1983-03-12 and 1983-04-09 | 'Books from Freedom Bookshop', _Freedom_ 44.5:2 and 44.7:8 |
+| anon. | Winter 1985 | review of Piercy: _Woman on the Edge of Time_, _Anarchist Feminist Magazine_ 2: 30 |
+| anon. | Summer 2013 | 'Beyond Perfection; what we can learn from science fiction anarchist utopias', in _Organise! The magazine of the Anarchist Federation_, issue 80: 10-13 |
+| anon. | Summer 2013 | '"I come to you like the beggar man..." a review of Ursula Le Guin's _The Dispossessed_', in _Organise! The magazine of the Anarchist Federation_, issue 80: 42 |
+| anon. | 2015 | <a name="Bastard"></a>_The BASTARD Chronicles: utopia & other science fictions_. Berkeley, CA: Ardent Press |
+| Auden, W.H. | 1962 | 'Today's Wonder-World Needs Alice', in Robert Phillips, ed.: _Aspects of Alice. Lewis Carroll's Dreamchild as seen through the Critics' Looking-Glasses 1865–1971_.(1974) London: Penguin (1st publ. in USA 1971); pp. 29-39 |
+| Avery, Ron | 1945-04-24 | 'Blue Print for Utopia', _War Commentary_ 6.9: 4 |
 | B., A. | 1978 | reviews of Callenbach:Ecotopia,Hackett:The Third World War,andHyams:The Final Agenda,Cienfuegos Press Anarchist Review5: 81, 97 |
 | B., M. | Sept 1911 | 'Some Books', review ofThe New Machiavelli,Mother EarthVI.7: 215–6 |
 | Bates, Dennis | 1981-09-18 | review of Roshwald:Level 7, Peace News2153:14 |
@@ -115,6 +115,7 @@ layout: worksforconsideration
 | Killjoy, Margaret (as Magpie Killjoy) | Fall 2011 | 'A brief history of anarchist fiction', inFifth Estate#385 Fall, 2011, Vol. 46, #2:11-12, and<a href="http://news.infoshop.org/article.php?story=2011678a-fiction">online</a> |
 | Killjoy, Margaret | Summer 2013 | 'The Anarchist Utopian Imagination. Second Reality: What the future could look like', inFifth Estate#389, 48.1:36–7 |
 | Kinna, Ruth   | 2019   | *The Government of No One. The Theory and Practice of Anarchism*. Penguin Random House   |
+| Klaus, H. Gustav, and Stephen Knight | 2005 | _'To Hell with Culture'. Anarchism and Twentieth-Century British Literature_. Cardiff: University of Wales Press |
 | Koenig, Brigitte | 2009 | 'Visions of the future: reproduction, revolution, and regeneration in American utopian fiction', in Davis & Kinna, eds (2009) |
 | Kropotkin, Peter | Nov 1896 | tribute to William Morris,Freedom, X.110: 109–110 |
 | ____ | July 1898 | 'Edward Bellamy',Freedom,X:128: 42 |
