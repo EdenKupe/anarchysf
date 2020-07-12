@@ -1,5 +1,5 @@
 ---
-title: "'The Equalizer' (1947); 'With Folded Hands . . .'"
+title: "'The Equalizer' (1947); 'With Folded Hands . . .' (1947)"
 format: "book"
 category: "w"
 yearReleased: "1947"
