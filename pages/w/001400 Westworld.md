@@ -2,7 +2,7 @@
 title: "Westworld"
 format: "film"
 category: "w"
-yearReleased: "--"
+yearReleased: "TV series 2016→"
 author: "Jonathan Nolan and Lisa Joy"
 ---
 Based on the 1973 film.
