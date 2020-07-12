@@ -26,25 +26,25 @@ layout: worksforconsideration
 | anon. | 2015 | <a name="Bastard"></a>_The BASTARD Chronicles: utopia & other science fictions_. Berkeley, CA: Ardent Press |
 | Auden, W.H. | 1962 | 'Today's Wonder-World Needs Alice', in Robert Phillips, ed.: _Aspects of Alice. Lewis Carroll's Dreamchild as seen through the Critics' Looking-Glasses 1865–1971_.(1974) London: Penguin (1st publ. in USA 1971); pp. 29-39 |
 | Avery, Ron | 1945-04-24 | 'Blue Print for Utopia', _War Commentary_ 6.9: 4 |
-| B., A. | 1978 | reviews of Callenbach:Ecotopia,Hackett:The Third World War,andHyams:The Final Agenda,Cienfuegos Press Anarchist Review5: 81, 97 |
-| B., M. | Sept 1911 | 'Some Books', review ofThe New Machiavelli,Mother EarthVI.7: 215–6 |
-| Bates, Dennis | 1981-09-18 | review of Roshwald:Level 7, Peace News2153:14 |
-| Berneri, Marie-Louise | 1950 | Journey through Utopia. NY: Shocken |
+| B., A. | 1978 | reviews of Callenbach: _Ecotopia_, Hackett: _The Third World War_, and Hyams: _The Final Agenda_, _Cienfuegos Press Anarchist Review_ 5: 81, 97 |
+| B., M. | Sept 1911 | 'Some Books', review of _The New Machiavelli_, _Mother Earth_ VI.7: 215–6 |
+| Bates, Dennis | 1981-09-18 | review of Roshwald: _Level 7_, _Peace News_ 2153:14 |
+| Berneri, Marie-Louise | 1950 | _Journey through Utopia_. NY: Shocken |
 | Berneri, Marie-Louise | 2019 (first published 1950) | _Journey through Utopia_. Oakland: PM Press. The new edition has an introduction by Matthew S. Adams, an afterword by Rhiannon Firth, and a postscript by Kim Stanley Robinson |
-| Bey, Hakim [Peter Lamborn Wilson] | 1991 | <a href="http://hermetic.com/bey/taz_cont.html">T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism</a> |
-| Black, Bob | 2015 | Instead of Work.LBC Books |
-| Bleiler, Everett F. | 1990 | <a href="http://ia700308.us.archive.org/6/items/inoudemonreminis00dray/inoudemonreminis00dray.pdf">Science Fiction: The Early Years</a>. Kent, Ohio: Kent State University Press |
-| Bone, Ian | 2006 | Bash the Rich. True-Life Confessions of an Anarchist in the UK.Bath: Tangent Books |
-| Bonobo, Anu | Fall 2006 | 'Octavia Estelle Butler',Fifth Estate41.2: 17-18 |
-| Bould, Mark | 2010 | 'Revolutionary African-American Sf Before Black Power Sf',Extrapolationvol. 51 no. 1 |
-| Bould, Mark and China Miéville, eds | 2009 | Red Planets.Wesleyan University Press and Pluto Press |
-| Bowker, Gordon | 2003 | George Orwell. London: Little, Brown |
-| Brent, John | 1975-01-25 | 'Science and Sorcery',Freedom36.4:6 |
-| Brunner, John | Jan 1964 | 'On Political Attitudes in SF',New Worlds Science Fiction2-3, 121-3, 125 |
-| Burgess, Anthony | 1975-01-25 | 'Clockwork Orange',Freedom44.5: 2 |
-| Call, Lewis | Oct 1999 | 'Anarchy in the Matrix: Postmodern Anarchism in the Novels of William Gibson and Bruce Sterling',Anarchist Studies7: 99–117 |
-| ____ | Nov 2002 | 'Anarchistic gift economies in contemporary science fiction',Anarchist Studies10.2: 119–144 |
-| Callow, Christos, Jr, and Anna McFarlane | 2016 | Adam Roberts. Critical Essays.Canterbury: Gylphi |
+| Bey, Hakim [Peter Lamborn Wilson] | 1991 | <a href="http://hermetic.com/bey/taz_cont.html">_T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism_</a> |
+| Black, Bob | 2015 | _Instead of Work_. LBC Books |
+| Bleiler, Everett F. | 1990 | <a href="http://ia700308.us.archive.org/6/items/inoudemonreminis00dray/inoudemonreminis00dray.pdf">_Science Fiction: The Early Years_</a>. Kent, Ohio: Kent State University Press |
+| Bone, Ian | 2006 | _Bash the Rich. True-Life Confessions of an Anarchist in the UK_. Bath: Tangent Books |
+| Bonobo, Anu | Fall 2006 | 'Octavia Estelle Butler', _Fifth Estate_ 41.2: 17-18 |
+| Bould, Mark | 2010 | 'Revolutionary African-American Sf Before Black Power Sf', _Extrapolation_ vol. 51 no. 1 |
+| Bould, Mark and China Miéville, eds | 2009 | _Red Planets_. Wesleyan University Press and Pluto Press |
+| Bowker, Gordon | 2003 | _George Orwell_. London: Little, Brown |
+| Brent, John | 1975-01-25 | 'Science and Sorcery', _Freedom_ 36.4:6 |
+| Brunner, John | Jan 1964 | 'On Political Attitudes in SF', _New Worlds Science Fiction_ 2-3, 121-3, 125 |
+| Burgess, Anthony | 1975-01-25 | 'Clockwork Orange', _Freedom_ 44.5: 2 |
+| Call, Lewis | Oct 1999 | 'Anarchy in the Matrix: Postmodern Anarchism in the Novels of William Gibson and Bruce Sterling', _Anarchist Studies_ 7: 99–117 |
+| ____ | Nov 2002 | 'Anarchistic gift economies in contemporary science fiction', _Anarchist Studies_ 10.2: 119–144 |
+| Callow, Christos, Jr, and Anna McFarlane | 2016 | _Adam Roberts. Critical Essays_. Canterbury: Gylphi |
 | Campbell, John W., Jr | March 1961 | 'Constitution for Utopia',Analog |
 | Cappelletti, Angel | Sep–Oct 1966 | 'Edward Bulwer-Lytton: Satira, ciencia-ficcion y utopia',Reconstruir44: 26–34 |
 | Carson, Benjamin | Fall 2006 | 'Planting the Seeds of Anarchy: Octavia Butler's Parable of the Sower',Fifth Estate41.2: 19-23 |
