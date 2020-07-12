@@ -16,7 +16,7 @@ layout: worksforconsideration
 | anon. | 1890-10-04 | review ofNew Amazonia, _Commonweal_ 6.247: 315 |
 | anon. | June 1891 | 'Notes: William Morris', _Freedom_ V.55: 42 |
 | anon. | Dec 1899 | 'Notes: The Anarchist of Fiction', _Freedom_ XIII.144: 84 |
-| anon. | Jan 1907 | 'Literary Notes: Review ofSocialism and the Family', _Freedom_ XXI. 214: 7–8 |
+| anon. | Jan 1907 | 'Literary Notes: Review of _Socialism and the Family_', _Freedom_ XXI. 214: 7–8 |
 | anon. | Dec 1963 | review of Stewart: _Earth Abides_, _Anarchy_ 34: 380 |
 | anon. | 1965-01-16 | 'Pick of the New Paperbacks', _Freedom_ 26.2:2 |
 | anon. | 1983-03-12 and 1983-04-09 | 'Books from Freedom Bookshop', _Freedom_ 44.5:2 and 44.7:8 |
