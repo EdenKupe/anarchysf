@@ -1,5 +1,5 @@
 ---
-title: "The Handmaid's Tale (1985); Oryx and Crake"
+title: "The Handmaid's Tale (1985); Oryx and Crake (2003)"
 format: "book"
 category: "a"
 yearReleased: "2003"
