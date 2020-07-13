@@ -54,7 +54,7 @@ layout: worksforconsideration
 | ____ | Spring 2010 | 'Introduction to "A Non-Euclidean View of California as a Cold Place To Be', _Fifth Estate_ #382, 45.1: 14-15 |
 | Clark, John P. | 2009 | 'Anarchy and the dialectic of utopia', in Davis & Kinna, eds (2009) |
 | Clarke, I.F. | 1978 | _The Tale of the Future_, 3e. London |
-| Clore, Dan | 2001 | 'Anarchist & Libertarian Socialist Societies in Science Fiction etc.', mailing to anarchysf Internet mailing list; a version is<a href="http://www.niribanimeso.org/eng/ess/anlib.html">online</a> |
+| Clore, Dan | 2001 | 'Anarchist & Libertarian Socialist Societies in Science Fiction etc.', mailing to anarchysf Internet mailing list; a version is<a href="http://www.niribanimeso.org/eng/ess/anlib.html"> online</a> |
 | Cloves, Jeff | 1968-11-30 | 'William Morris', _Freedom_ 29.37: 5 |
 | Cohn, Jesse | Oct 1999 | 'An Exemplary Failure: Pat Murphy's _The City, Not Long After_ and the Dilemmas of Anarchist Utopian Fiction', _Anarchist Studies_ 7:119–125 |
 | ____ | 2014 | _Underground Passages. Anarchist Resistance Culture, 1848–2011_. Oakland, Edinburgh, & Baltimore: AK Press |
@@ -91,7 +91,7 @@ layout: worksforconsideration
 | ____ | 1798 | _Enquiry concerning Political Justice and Its Influence on Modern Morals and Happiness_,ed. Isaac Kramnick, London: Penguin |
 | Goldman, Emma | 1931 | _Living My Life_. NY: Dover Publications repr. 1970 |
 | Goodman, Paul | Jul 1961 | 'Utopian Thinking', from _Commentary_; in _Utopian Essays and Practical Proposals_, New York, 1962: Vintage |
-| ____ | 1971 | _New Reformation. Notes of a Neolithic Conservative_.New York: Vintage |
+| ____ | 1971 | _New Reformation. Notes of a Neolithic Conservative_. New York: Vintage |
 | Goodman, Paul, and Percival Goodman | 1947 and 1960 | _Communitas. Means of Living and Ways of Life_. New York: Vintage |
 | Goodway, David | 2012 | _Anarchist Seeds beneath the Snow. Left-Libertarian Thought and British Writers from William Morris to Colin Ward_. Oakland, CA: PM Press; 2nd edition |
 | Gordon, Uri | 2009 | 'Utopia in contemporary anarchism', in Davis & Kinna, eds (2009) |
@@ -107,12 +107,12 @@ layout: worksforconsideration
 | Huxley, Aldous | 1937-12-10 | 'An Opinion', _Spain and the World_ 1.25–6: 1 |
 | ____ | 1946 | Foreword to 1946 edn of _Brave New World_ |
 | ____ | 1969 | _Letters of Aldous Huxley_, ed. Grover Smith. London: Chatto & Windus; NY: Harper |
-| Jackson, Frank | Oct 1986 | review of Gilliland's _The Free_,<a href="http://www.thesparrowsnest.org.uk/collections/public_archive/PAR0106.pdf">_New Anarchist Review_</a>9:6-7 |
+| Jackson, Frank | Oct 1986 | review of Gilliland's _The Free_, <a href="http://www.thesparrowsnest.org.uk/collections/public_archive/PAR0106.pdf">_New Anarchist Review_</a>9:6-7 |
 | James, Edward | Oct 1999 | 'A "double-dyed distilled detractor and denigrator of decency, dignity and decorum": Eric Frank Russell as Anarchist', _Anarchist Studies_ 7:155–170 |
 | Johnson, Daniel | February/March 2014 | 'Sky is the limit!', _Freedom_ 75.2:7 |
 | Juan-Navarro, Santiago | n.d. | <a href="http://www.christiebooks.com/PDFs/AnarchistCityofAmerica.pdf">The Anarchist City of America. Libertarian Urban Utopias in the New World</a> |
 | Killjoy, Margaret, ed. | 2009 | <a href="http://www.akpress.com/2009/items/mythmakersandlawbreakers">_Mythmakers & Lawbreakers. Anarchist writers on fiction_</a>.Oakland, CA, and Edinburgh |
-| Killjoy, Margaret (as Magpie Killjoy) | Fall 2011 | 'A brief history of anarchist fiction', in _Fifth Estate_ #385 Fall, 2011, Vol. 46, #2:11-12, and<a href="http://news.infoshop.org/article.php?story=2011678a-fiction">online</a> |
+| Killjoy, Margaret (as Magpie Killjoy) | Fall 2011 | 'A brief history of anarchist fiction', in _Fifth Estate_ #385 Fall, 2011, Vol. 46, #2:11-12, and<a href="http://news.infoshop.org/article.php?story=2011678a-fiction"> online</a> |
 | Killjoy, Margaret | Summer 2013 | 'The Anarchist Utopian Imagination. Second Reality: What the future could look like', in _Fifth Estate_ #389, 48.1:36–7 |
 | Kinna, Ruth   | 2019   | _The Government of No One. The Theory and Practice of Anarchism_. Penguin Random House   |
 | Klaus, H. Gustav, and Stephen Knight | 2005 | _'To Hell with Culture'. Anarchism and Twentieth-Century British Literature_. Cardiff: University of Wales Press |
@@ -131,7 +131,7 @@ layout: worksforconsideration
 | M., J. | Mar–Apr 1963 | 'Letra Viva', in _Reconstruir_, 23: 45–7 |
 | MacF., A.B. | Apr–May 1927 | 'The World of William Clissold', _Freedom_ XLI.442: 21 |
 | Mackail, J.W. | 1899 | _The Life of William Morris_. London: Longmans (repr. 1968, NY & London: Benjamin Blom) |
-| Macleod, Ken | 2002 | 'Science Fiction and Anarchism',<a href="http://media.wix.com/ugd/f0c74f_a5e27cce5f504aaea74c0c7f38946ff6.pdf">Total Liberty_</a>3.1:6-7 |
+| Macleod, Ken | 2002 | 'Science Fiction and Anarchism',<a href="http://media.wix.com/ugd/f0c74f_a5e27cce5f504aaea74c0c7f38946ff6.pdf"> Total Liberty_</a>3.1:6-7 |
 | ____ | 2003 | 'Politics and Science Fiction', in Edward James & Farah Mendlesohn, eds (2003) _The Cambridge Companion to Science Fiction_. Cambridge: CUP |
 | Mannin, Ethel | 1938 | _Women and the Revolution_. London: Secker and Warburg |
 | ____ | 1944 | _Bread and Roses, an Utopian Survey and Blue-Print_. London: MacDonald |
