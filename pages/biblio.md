@@ -149,50 +149,50 @@ layout: worksforconsideration
 | Morris, William | 1889-05-18 | 'Correspondence', _Commonweal_ 175: 157 |
 | ____ | 1951 | _Unpublished Letters of William Morris to John Glasse_, intro. R. Page Arnot, _Labour Monthly_ pamphlet |
 | Murtagh, Pat | 1983-11-19 | '<em>The Compass Rose</em>—Ursula K. Le Guin', _Freedom_ 44.23:4-5 |
-| Nettlau, Max | 1897 | Bibliographie de l'Anarchie, preface d'Elisée Reclus.Bruxelles |
-| ____ | 1934 | Esbozo de Historia de las Utopías.Vol. III ofUtopías Libertarias. Madrid: Ediciones Tuero |
-| ____ | 1964 | Breve Storia dell'Anarchismo.Cesena: Edizioni l'Antistato; originally published asLa Anarquia a traves de los tiempos |
-| Neville, Peter | Spring 2001 | 'Science Fiction as Social Criticism',<a href="http://media.wix.com/ugd/f0c74f_5027e43d20954b4497139d0f34e99ee2.pdf">Total Liberty</a>,2.4:2-4 |
-| Newman, Robert C. | Summer 1979 | 'LeGuin's The Dispossessed and Anarchism'.<a href="http://www.waste.org/~roadrunner/ScarletLetterArchives/BlackRose/BR2/BlackRose2.pdf">Black Rose#2</a>, pp37-47 |
-| Newman, Saul | 2016 | Postanarchism. Cambridge: Polity |
-| Nicholls, Peter | Nov 1975 | 'Jerry Cornelius at the Atrocity Exhibition: Anarchy and Entropy in 'New Worlds' Science Fiction 1964–1974',Foundation: The Review of Science Fiction9:22-44 |
-| Nicholls, Peter, ed. | 1979 | The Encyclopedia of Science Fiction |
-| O., G.N. (Ostergaard, Geoffrey) | 1978-11-25 | 'Russia in 1984?',Freedom39: 22 |
-| Osborne, Jon | 2001 | Miss Liberty's Guide to Film and Video: Movies for the Libertarian Millennium. San Francisco: Kingscote Publishing |
-| Ostergaard, Geoffrey | 1964 | Latter-Day Anarchism. The Politics of the American Beat Generation.Ahmedabad, India: Harold Laski Inst. of Pol. Sc. |
-| P., D. | 1976-03-06 | 'The Dispossessed',Freedom37.5: 16 |
-| ____ | Apr 1986 | 'Science Fiction' [review of Russell'sWasp],Freedom47.3: 5 |
-| P., Gabriele | 1978 | 'Gli alieni . . . anarchici'.A–Rivista Anarchica, Anno VIII, no. 7 |
-| P., R. | 1977 | Review of Zamyatin:The Dragon and Other Stories', Cienfuegos Press Anarchist Review2: 51; repr. fromBlack Flag4.2: 1975-06-23 |
-| Parker, S.E. | 1977-04-16 | 'Jack London',Freedom43.17:14-5 |
-| Pedelty, Don | 2011 | 'Hartmann the Anarchist: or The Doom of a Great City by Edward Douglas Fawcett (1892)', in Stuart Christie, ed.:Arena 2. Anarchists in Fiction.Hastings: ChristieBooks: 73-80 |
-| Pfaelzer, Jean | Mar 1980 | 'Parody and Satire in American Dystopian Fiction of the Nineteenth Century',Science-Fiction Studies, Vol. 7 pt 1: 61-71 |
-| Pilgrim, John | 1960-02-20 | 'Viewpoint: The Anarchism in Science Fiction',Freedom, 21.8: 2 |
-| ____ | Dec 1963 | 'Science Fiction and Anarchism',<a href="http://archive.org/stream/AnarchyNo.34#page/n1/mode/2up">Anarchy34</a>, Vol. 3.12: 361–76 |
-| ____ | 1966-10-14 | 'Prophets of Doom',Peace News1581:5 |
-| ____ | Autumn 2001 | letter,<a href="http://media.wix.com/ugd/f0c74f_8f0a50090b0f43ee9790a0dbee548d12.pdf">Total Liberty</a>3.1:11-12 |
-| Planche, F. (pseud.) | 1946 | La Vie Ardente et intrepide de Louise Michel.Paris |
-| Platt, Charles | 1980 | Who Writes Science Fiction?Manchester |
-| Porter, David, ed. | 1983 | Vision on Fire. Emma Goldman on the Spanish Revolution.New Paltz, NY: Commonground Press |
-| Porton, Richard | 1999 | Film and the Anarchist Imagination. London and New York: Verso |
-| Preu, James A. | 1954 | 'Swift's Influence on Godwin's Doctrine of Anarchism',Journal of the History of Ideas,XV: 371–83 |
-| ____ | 1959 | The Dean and the Anarchist. Tallahassee: Florida S.U. |
-| Quail, John | 1978 | The Slow-Burning Fuse.St Albans: Granada |
-| R., D. (probably Rooum, Donald) | Oct 1988 | review, Thorpe:Doc Chaos: The Chernobyl Effect.Freedom49.10 |
-| R., J. (probably John Rety, possibly Jack Robinson) | 1959-03-28 | 'Book Review: Brave New World Revisited',Freedom20.13: 2 |
-| Ramos-Gorostiza, J. L. | 2009 | 'Socio-economic Utopianism in Spain at the End of the Nineteenth Century:La Nueva Utopíaby Ricardo Mella',Utopian Studies, 20(1), 5-39 |
-| Rand, Ayn | Dec 1963 | 'The Nature of Government', inThe Virtue of Selfishness.1964, NY: Signet |
-| Read, Herbert | 1928 | English Prose Style.London: G. Bell & Sons |
-| ____ | June 1950 | '1984',World Review16 ns.: 58–9 |
-| ____ | 1954 | Anarchy and Order. London: Faber & Faber |
-| ____ | 1963 | The Contrary Experience. Autobiographies.London: Faber & Faber |
-| ____ | 1966 | The Redemption of the Robot. My Encounter with Education through Art.New York: Trident Press |
-| Robinson, Jack | 1976-03-06 | 'The Iron Heel',Freedom 45.1:5 |
-| ____ | 1977-12-24 | 'Do Anarchists Like Detective Stories?',Freedom 38.25:12–14 |
-| <a name="Rocha and Rocha"></a>Rocha, James, and Mona Rocha | 2019 | Joss Whedon, Anarchist?, Jefferson, North Carolina: McFarland |
-| Rothbard, Murray N. | 1973 | For a New Liberty.New York: Macmillan |
-| Rumpala, Yannick | 2012 | "Artificial intelligences and political organization: an exploration based on the science fiction work of Iain M. Banks," in Technology in Society, vol. 34, n° 1 |
-| Rush | 1959 | review of Young:The Rise of the Meritocracy,Freedom |
+| Nettlau, Max | 1897 | _Bibliographie de l'Anarchie, preface d'Elisée Reclus_. Bruxelles |
+| ____ | 1934 | _Esbozo de Historia de las Utopías_. Vol. III of _Utopías Libertarias_. Madrid: Ediciones Tuero |
+| ____ | 1964 | _Breve Storia dell'Anarchismo_. Cesena: Edizioni l'Antistato; originally published as _La Anarquia a traves de los tiempos_ |
+| Neville, Peter | Spring 2001 | 'Science Fiction as Social Criticism', <a href="http://media.wix.com/ugd/f0c74f_5027e43d20954b4497139d0f34e99ee2.pdf">_Total Liberty_</a>,2.4:2-4 |
+| Newman, Robert C. | Summer 1979 | 'LeGuin's The Dispossessed and Anarchism'. <a href="http://www.waste.org/~roadrunner/ScarletLetterArchives/BlackRose/BR2/BlackRose2.pdf">_Black Rose#2_</a>, pp37-47 |
+| Newman, Saul | 2016 | _Postanarchism_. Cambridge: Polity |
+| Nicholls, Peter | Nov 1975 | 'Jerry Cornelius at the Atrocity Exhibition: Anarchy and Entropy in 'New Worlds' Science Fiction 1964–1974', _Foundation: The Review of Science Fiction_ 9:22-44 |
+| Nicholls, Peter, ed. | 1979 | _The Encyclopedia of Science Fiction_ |
+| O., G.N. (Ostergaard, Geoffrey) | 1978-11-25 | 'Russia in 1984?', _Freedom_ 39: 22 |
+| Osborne, Jon | 2001 | _Miss Liberty's Guide to Film and Video: Movies for the Libertarian Millennium_. San Francisco: Kingscote Publishing |
+| Ostergaard, Geoffrey | 1964 | _Latter-Day Anarchism. The Politics of the American Beat Generation_ .Ahmedabad, India: Harold Laski Inst. of Pol. Sc. |
+| P., D. | 1976-03-06 | 'The Dispossessed', _Freedom_ 37.5: 16 |
+| ____ | Apr 1986 | 'Science Fiction' [review of Russell'sWasp], _Freedom_ 47.3: 5 |
+| P., Gabriele | 1978 | 'Gli alieni . . . anarchici'. _A–Rivista Anarchica_, Anno VIII, no. 7 |
+| P., R. | 1977 | Review of Zamyatin: _The Dragon and Other Stories_', _Cienfuegos Press Anarchist Review_ 2: 51; repr. from _Black Flag_ 4.2: 1975-06-23 |
+| Parker, S.E. | 1977-04-16 | 'Jack London', _Freedom_ 43.17:14-5 |
+| Pedelty, Don | 2011 | 'Hartmann the Anarchist: or The Doom of a Great City by Edward Douglas Fawcett (1892)', in Stuart Christie, ed.: _Arena 2. Anarchists in Fiction_. Hastings: ChristieBooks: 73-80 |
+| Pfaelzer, Jean | Mar 1980 | 'Parody and Satire in American Dystopian Fiction of the Nineteenth Century', _Science-Fiction Studies_, Vol. 7 pt 1: 61-71 |
+| Pilgrim, John | 1960-02-20 | 'Viewpoint: The Anarchism in Science Fiction', _Freedom_, 21.8: 2 |
+| ____ | Dec 1963 | 'Science Fiction and Anarchism', <a href="http://archive.org/stream/AnarchyNo.34#page/n1/mode/2up">_Anarchy34_</a>, Vol. 3.12: 361–76 |
+| ____ | 1966-10-14 | 'Prophets of Doom', _Peace News_ 1581:5 |
+| ____ | Autumn 2001 | letter,<a href="http://media.wix.com/ugd/f0c74f_8f0a50090b0f43ee9790a0dbee548d12.pdf">_Total Liberty_</a>3.1:11-12 |
+| Planche, F. (pseud.) | 1946 | _La Vie Ardente et intrepide de Louise Michel_. Paris |
+| Platt, Charles | 1980 | _Who Writes Science Fiction?_ Manchester |
+| Porter, David, ed. | 1983 | _Vision on Fire. Emma Goldman on the Spanish Revolution_ .New Paltz, NY: Commonground Press |
+| Porton, Richard | 1999 | _Film and the Anarchist Imagination_. London and New York: Verso |
+| Preu, James A. | 1954 | 'Swift's Influence on Godwin's Doctrine of Anarchism', _Journal of the History of Ideas_,XV: 371–83 |
+| ____ | 1959 | _The Dean and the Anarchist_. Tallahassee: Florida S.U. |
+| Quail, John | 1978 | _The Slow-Burning Fuse_. St Albans: Granada |
+| R., D. (probably Rooum, Donald) | Oct 1988 | review, Thorpe: _Doc Chaos: The Chernobyl Effect_. _Freedom_ 49.10 |
+| R., J. (probably John Rety, possibly Jack Robinson) | 1959-03-28 | 'Book Review: Brave New World Revisited', _Freedom_ 20.13: 2 |
+| Ramos-Gorostiza, J. L. | 2009 | 'Socio-economic Utopianism in Spain at the End of the Nineteenth Century: _La Nueva Utopía_ by Ricardo Mella', _Utopian Studies_, 20(1), 5-39 |
+| Rand, Ayn | Dec 1963 | 'The Nature of Government', in _The Virtue of Selfishness_. 1964, NY: Signet |
+| Read, Herbert | 1928 | _English Prose Style_ .London: G. Bell & Sons |
+| ____ | June 1950 | '1984', _World Review_ 16 ns.: 58–9 |
+| ____ | 1954 | _Anarchy and Order_. London: Faber & Faber |
+| ____ | 1963 | _The Contrary Experience. Autobiographies_.London: Faber & Faber |
+| ____ | 1966 | _The Redemption of the Robot. My Encounter with Education through Art_. New York: Trident Press |
+| Robinson, Jack | 1976-03-06 | 'The Iron Heel', _Freedom_ 45.1:5 |
+| ____ | 1977-12-24 | 'Do Anarchists Like Detective Stories?', _Freedom_ 38.25:12–14 |
+| Rocha, James, and Mona Rocha | 2019 | _Joss Whedon, Anarchist?_, Jefferson, North Carolina: McFarland |
+| Rothbard, Murray N. | 1973 | _For a New Liberty_. New York: Macmillan |
+| Rumpala, Yannick | 2012 | "Artificial intelligences and political organization: an exploration based on the science fiction work of Iain M. Banks," in _Technology in Society_, vol. 34, n° 1 |
+| Rush | 1959 | review of Young: _The Rise of the Meritocracy_, _Freedom_ |
 | S., P. (probably Philip Sansom) | 1978 | review of Harrison:Bill, the Galactic Hero.Cienfuegos Press Anarchist Review4:44 |
 | S., P. (Philip Sansom) | 1983-12-17 | '1984 and the Big Brothers are waiting',Freedom25.44: 1 |
 | Sargent, Lyman Tower | Oct 1969 | 'An Anarchist Utopia',Anarchy104,9: 316–20 |
