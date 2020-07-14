@@ -1,5 +1,5 @@
 ---
-title: "Fahrenheit 451 - Film"
+title: "Fahrenheit 451"
 format: "film"
 category: "f"
 yearReleased: "1966"
