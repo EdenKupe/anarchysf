@@ -9,6 +9,6 @@ Superhero film with a predominantly black cast, and with  strong women character
  
 The film was reviewed in <em>Fifth Estate</em> in Summer  2018, by Matthew Lucas, who considers its place in the history of Hollywood's  "attempted recuperation of black-produced black images":
  
-When reduced, the film's embrace of an autocratic ruler  allied with the CIA willingly funneling resources to the West, does not depict a  new future for Majority World nations populated by people of color. It depicts  the one already created by imperialist intervention.
+"When reduced, the film's embrace of an autocratic ruler  allied with the CIA willingly funneling resources to the West, does not depict a  new future for Majority World nations populated by people of color. It depicts  the one already created by imperialist intervention."
 
 But he concludes that "<em>Black Panther</em> nevertheless  could expand avenues of portraying blackness on the big screen."
