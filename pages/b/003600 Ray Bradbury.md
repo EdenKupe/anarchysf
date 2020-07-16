@@ -13,4 +13,4 @@ Portions of <em>The Martian Chronicles</em> have a theme of  liberty, according 
  
 Although apparently Republican, and a  supporter of George W. Bush, in an interview with <em>Time</em> magazine in 2010  Bradbury <a href="http://prometheus-unbound.org/2012/06/16/article-ray-bradbury-anarchist-at-heart/"> said</a>:
  
-I don’t believe in government. I hate politics. I’m  against it. And I hope that sometime this fall, we can destroy part of our  government, and next year destroy even more of it. The less government, the  happier I will be.
+"I don’t believe in government. I hate politics. I’m  against it. And I hope that sometime this fall, we can destroy part of our  government, and next year destroy even more of it. The less government, the  happier I will be."
