@@ -7,7 +7,7 @@ author: "Poul Anderson"
 ---
 In 'The Star Beast' a future earth has  a social system resembling a form of anarchy, though not so described; it is  presented as typical of decadence.
  
-"It was a short story called <em>Security Risk</em>, in  ASTOUNDING SCIENCE FICTION a monthly American magazine, that had in fact, first  interested me in ideas that I later found to be embodied in anarchism." (<a href="biblio.htm#Pilgrim">Pilgrim  1963</a>)
+"It was a short story called <em>Security Risk</em>, in  ASTOUNDING SCIENCE FICTION a monthly American magazine, that had in fact, first  interested me in ideas that I later found to be embodied in anarchism." (Pilgrim 1963)
  
 In 'For the Duration' an authoritarian  future US government is overthrown, but the revolutionary forces quickly proved  just as bad. The obvious anarchist moral is only implicitly drawn.
  
@@ -17,5 +17,5 @@ In 'No Truce with Kings', Earth's states have broken into small, feudal realms; 
  
 <em>The Winter of the World</em> is set in the far future during a second Ice Age; people of one community, the Rogaviki, are instinctively co-operative, with no government, and no religion; they are not wholly admirable, though, being highly territorial, and sufficiently unhuman that the protagonist finally concludes that they are actually a new human species.
 
-<em>Trader to the  Stars</em> tied for the 1985 Libertarian Futurist Society Hall of Fame  Award, which was won by <em>The Star Fox</em> in 1995. <em>The Stars Are Also Fire</em>  won the 1995 Prometheus Award.
+_Trader to the  Stars_ tied for the 1985 Libertarian Futurist Society Hall of Fame  Award, which was won by <em>The Star Fox</em> in 1995. <em>The Stars Are Also Fire</em>  won the 1995 Prometheus Award.
  
