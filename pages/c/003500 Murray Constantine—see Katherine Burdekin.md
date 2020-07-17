@@ -4,5 +4,5 @@ format: "other"
 category: "c"
 yearReleased: "--"
 ---
-See [Katherine Burdekin](#katherine-burdekin-writing-as-murray-constantine-swastika-night).
+See entry for Katherine Burdekin.
  
