@@ -9,7 +9,7 @@ The two earlier novels were both recommended by <a href="http://nwsfsnews.blogsp
  
 _Down and Out in the Magic Kingdom_ features a post-scarcity future in which money has been replaced by personal  reputation ratings, or 'Whuffie'. It was the subject of a retrospective  review by Jason Rodgers in the Summer 2018 _Fifth Estate_.
  
-_Someone Comes to Town_ is an unusual  fantasy novel, which if it wasn't by Doctorow I would probably not include,  though it's well worth a read. Killjoy (Fall 2011) includes it among some  examples of books in which anarchists appear as "sympathetic (though often  misguided or idealized characters").
+_Someone Comes to Town_ is an unusual  fantasy novel, which if it wasn't by Doctorow I would probably not include,  though it's well worth a read. Killjoy (Fall 2011) includes it among some  examples of books in which anarchists appear as "sympathetic (though often  misguided or idealized characters)".
  
 _Little Brother_  won the 2009 Prometheus Award. A stirring novel for young adults, it features a  hackers' fightback against the paranoid surveillance society of the US  Department of Homeland Security. Reviewed and commended by <a href="https://glasgowanarchists.wordpress.com/2008/06/02/review-of-little-brother-by-cory-doctorow-2/#more-26"> andywelshman</a> of the Glasgow Anarchist Federation, for whom "This book is a  must read for everyone and should be required reading for everyone under 25, if  you read it you’ll find out why."
  
