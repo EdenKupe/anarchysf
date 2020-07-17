@@ -2,7 +2,7 @@
 title: "L'Humanisphère: utopie anarchique  (The Humanisphere: An Anarchistic Utopia)"
 format: "book"
 category: "d"
-yearReleased: "1858–1861; firstunexpurgated edition 1971"
+yearReleased: "1858–1861; first unexpurgated edition 1971"
 author: "Joseph Déjacque"
 ---
 
