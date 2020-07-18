@@ -168,14 +168,14 @@ layout: worksforconsideration
 | Pedelty, Don | 2011 | 'Hartmann the Anarchist: or The Doom of a Great City by Edward Douglas Fawcett (1892)', in Stuart Christie, ed.: _Arena 2. Anarchists in Fiction_. Hastings: ChristieBooks: 73-80 |
 | Pfaelzer, Jean | Mar 1980 | 'Parody and Satire in American Dystopian Fiction of the Nineteenth Century', _Science-Fiction Studies_, Vol. 7 pt 1: 61-71 |
 | Pilgrim, John | 1960-02-20 | 'Viewpoint: The Anarchism in Science Fiction', _Freedom_, 21.8: 2 |
-| ____ | Dec 1963 | 'Science Fiction and Anarchism', <a href="http://archive.org/stream/AnarchyNo.34#page/n1/mode/2up">_Anarchy34_</a>, Vol. 3.12: 361–76 |
+| ____ | Dec 1963 | 'Science Fiction and Anarchism', <a href="http://archive.org/stream/AnarchyNo.34#page/n1/mode/2up">_Anarchy 34_</a>, Vol. 3.12: 361–76 |
 | ____ | 1966-10-14 | 'Prophets of Doom', _Peace News_ 1581:5 |
 | ____ | Autumn 2001 | letter, <a href="http://media.wix.com/ugd/f0c74f_8f0a50090b0f43ee9790a0dbee548d12.pdf">_Total Liberty_</a> 3.1:11-12 |
 | Planche, F. (pseud.) | 1946 | _La Vie Ardente et intrepide de Louise Michel_. Paris |
 | Platt, Charles | 1980 | _Who Writes Science Fiction?_ Manchester |
 | Porter, David, ed. | 1983 | _Vision on Fire. Emma Goldman on the Spanish Revolution_ .New Paltz, NY: Commonground Press |
 | Porton, Richard | 1999 | _Film and the Anarchist Imagination_. London and New York: Verso |
-| Preu, James A. | 1954 | 'Swift's Influence on Godwin's Doctrine of Anarchism', _Journal of the History of Ideas_,XV: 371–83 |
+| Preu, James A. | 1954 | 'Swift's Influence on Godwin's Doctrine of Anarchism', _Journal of the History of Ideas_, XV: 371–83 |
 | ____ | 1959 | _The Dean and the Anarchist_. Tallahassee: Florida S.U. |
 | Quail, John | 1978 | _The Slow-Burning Fuse_. St Albans: Granada |
 | R., D. (probably Rooum, Donald) | Oct 1988 | review, Thorpe: _Doc Chaos: The Chernobyl Effect_. _Freedom_ 49.10 |
