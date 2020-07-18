@@ -2,7 +2,7 @@
 title: "Permutation City (1994); Distress (1995); Diaspora (1997)"
 format: "book"
 category: "e"
-yearReleased: "1995"
+yearReleased: "1997"
 author: "Greg Egan"
 ---
 <em>Permutation City</em> is  among books cited by Nick Mamatas in <em>The BASTARD Chronicles 2015</em> as hard  SF overwhelmed by religious allegory.
