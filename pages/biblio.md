@@ -107,7 +107,7 @@ layout: worksforconsideration
 | Huxley, Aldous | 1937-12-10 | 'An Opinion', _Spain and the World_ 1.25–6: 1 |
 | ____ | 1946 | Foreword to 1946 edn of _Brave New World_ |
 | ____ | 1969 | _Letters of Aldous Huxley_, ed. Grover Smith. London: Chatto & Windus; NY: Harper |
-| Jackson, Frank | Oct 1986 | review of Gilliland's _The Free_, <a href="http://www.thesparrowsnest.org.uk/collections/public_archive/PAR0106.pdf">_New Anarchist Review_</a>9:6-7 |
+| Jackson, Frank | Oct 1986 | review of Gilliland's _The Free_, <a href="http://www.thesparrowsnest.org.uk/collections/public_archive/PAR0106.pdf">_New Anarchist Review_</a> 9:6-7 |
 | James, Edward | Oct 1999 | 'A "double-dyed distilled detractor and denigrator of decency, dignity and decorum": Eric Frank Russell as Anarchist', _Anarchist Studies_ 7:155–170 |
 | Johnson, Daniel | February/March 2014 | 'Sky is the limit!', _Freedom_ 75.2:7 |
 | Juan-Navarro, Santiago | n.d. | <a href="http://www.christiebooks.com/PDFs/AnarchistCityofAmerica.pdf">The Anarchist City of America. Libertarian Urban Utopias in the New World</a> |
@@ -131,7 +131,7 @@ layout: worksforconsideration
 | M., J. | Mar–Apr 1963 | 'Letra Viva', in _Reconstruir_, 23: 45–7 |
 | MacF., A.B. | Apr–May 1927 | 'The World of William Clissold', _Freedom_ XLI.442: 21 |
 | Mackail, J.W. | 1899 | _The Life of William Morris_. London: Longmans (repr. 1968, NY & London: Benjamin Blom) |
-| Macleod, Ken | 2002 | 'Science Fiction and Anarchism',<a href="http://media.wix.com/ugd/f0c74f_a5e27cce5f504aaea74c0c7f38946ff6.pdf"> Total Liberty_</a>3.1:6-7 |
+| Macleod, Ken | 2002 | 'Science Fiction and Anarchism',<a href="http://media.wix.com/ugd/f0c74f_a5e27cce5f504aaea74c0c7f38946ff6.pdf"> _Total Liberty_</a> 3.1:6-7 |
 | ____ | 2003 | 'Politics and Science Fiction', in Edward James & Farah Mendlesohn, eds (2003) _The Cambridge Companion to Science Fiction_. Cambridge: CUP |
 | Mannin, Ethel | 1938 | _Women and the Revolution_. London: Secker and Warburg |
 | ____ | 1944 | _Bread and Roses, an Utopian Survey and Blue-Print_. London: MacDonald |
@@ -142,7 +142,7 @@ layout: worksforconsideration
 | ____ | 1996 | <a href="http://www.spunk.org/library/writers/meltzer/sp001591/angeltoc.html">_I Couldn't Paint Golden Angels. Sixty years of commonplace life and anarchist agitation_</a> |
 | Mendlesohn, Farah | 2017 | <a href="https://www.smashwords.com/books/view/696324">_Rejected Essays and Buried Thoughts_</a> |
 | Milligan, Dan | 1978-08-25 | 'Utopia Limited', _Peace News_ 2977:14 |
-| Moorcock, Michael | 1978 | 'Starship Stormtroopers', _Cienfuegos Press Anarchist Review_ 4: 42–4;<a href="http://recollectionbooks.com/siml/library/Moorcock.htm">online</a> |
+| Moorcock, Michael | 1978 | 'Starship Stormtroopers', _Cienfuegos Press Anarchist Review_ 4: 42–4; <a href="http://recollectionbooks.com/siml/library/Moorcock.htm">online</a> |
 | ____ | 1983 | _The Retreat from Liberty. The Erosion of Democracy in Today's Britain_. London: Zomba Books |
 | ____ | 2012 | _London Peculiar and Other Nonfiction_. Oakland, CA: PM Press |
 | Moore, John | Oct 1999 | 'Editorial Introduction. Anarchy: Free Fall', _Anarchist Studies_ 7: 95–7 |
@@ -193,75 +193,75 @@ layout: worksforconsideration
 | Rothbard, Murray N. | 1973 | _For a New Liberty_. New York: Macmillan |
 | Rumpala, Yannick | 2012 | "Artificial intelligences and political organization: an exploration based on the science fiction work of Iain M. Banks," in _Technology in Society_, vol. 34, n° 1 |
 | Rush | 1959 | review of Young: _The Rise of the Meritocracy_, _Freedom_ |
-| S., P. (probably Philip Sansom) | 1978 | review of Harrison:Bill, the Galactic Hero.Cienfuegos Press Anarchist Review4:44 |
-| S., P. (Philip Sansom) | 1983-12-17 | '1984 and the Big Brothers are waiting',Freedom25.44: 1 |
-| Sargent, Lyman Tower | Oct 1969 | 'An Anarchist Utopia',Anarchy104,9: 316–20 |
-| ____ | 1979 | British and American Utopian Literature 1516–1975. An annotated bibliography. Boston: G.K. Hall |
-| Shaw, George Bernard | 1965 | Collected Letters 1874–97, ed. Dan H. Laurence. London: Max Reinhardt |
-| Shaw, Tony | 2015 | Cinematic Terror. A Global History of Terrorism on Film. London: Bloomsbury Academic |
-| Shantz, Jeff, ed. | 2015 | Specters of Anarchy. Literature and the Anarchist Imagination.New York: Algora Publishing |
-| Shea, Robert | 1980 | 'Worlds without Government',New Libertarian5/6: 18–20 |
-| Sheehan, Seán | 2003 | Anarchism, London: Reaktion Books |
-| Shelley, Mary | 1947 | Mary Shelley's Journal, ed. Frederick L. Jones. Norman: U. of Oklahoma Press |
-| Skinner, B.F. | 1980 | Notebooks.Englewood Cliffs, NJ: Prentice-Hall |
-| Sobstyl, Edrie | Oct 1999 | 'All the Sisters of Shora: An Anarcha/Ecofeminist Reading of Slonczewski'sA Door into Ocean', Anarchist Studies7:127–153 |
-| Southwood, Julie | 1982-06-12 | 'Coping with the Bomb',Freedom43.11: 11 |
-| Southwood, Luke, & Southwood, Bianca | 1982-05-15 | 'When the Wind Blows',Freedom43.9: 14–5 |
-| Spark, Muriel | 1952 | Child of Light: A Reassessment of Mary Wollstonecraft Shelley. London: Tower Bridge Publications |
-| Stableford, Brian | 1985 | Scientific Romance in Britain 1890–1950.London: Fourth Estate |
+| S., P. (probably Philip Sansom) | 1978 | review of Harrison: _Bill, the Galactic Hero_. _Cienfuegos Press Anarchist Review_ 4:44 |
+| S., P. (Philip Sansom) | 1983-12-17 | '1984 and the Big Brothers are waiting', _Freedom_ 25.44: 1 |
+| Sargent, Lyman Tower | Oct 1969 | 'An Anarchist Utopia', _Anarchy_ 104,9: 316–20 |
+| ____ | 1979 | _British and American Utopian Literature 1516–1975. An annotated bibliography_. Boston: G.K. Hall |
+| Shaw, George Bernard | 1965 | _Collected Letters 1874–97_, ed. Dan H. Laurence. London: Max Reinhardt |
+| Shaw, Tony | 2015 | _Cinematic Terror. A Global History of Terrorism on Film_. London: Bloomsbury Academic |
+| Shantz, Jeff, ed. | 2015 | _Specters of Anarchy. Literature and the Anarchist Imagination_. New York: Algora Publishing |
+| Shea, Robert | 1980 | 'Worlds without Government', _New Libertarian_ 5/6: 18–20 |
+| Sheehan, Seán | 2003 | _Anarchism_, London: Reaktion Books |
+| Shelley, Mary | 1947 | _Mary Shelley's Journal_, ed. Frederick L. Jones. Norman: U. of Oklahoma Press |
+| Skinner, B.F. | 1980 | _Notebooks_. Englewood Cliffs, NJ: Prentice-Hall |
+| Sobstyl, Edrie | Oct 1999 | 'All the Sisters of Shora: An Anarcha/Ecofeminist Reading of Slonczewski's _A Door into Ocean'_, _Anarchist Studies_ 7:127–153 |
+| Southwood, Julie | 1982-06-12 | 'Coping with the Bomb', _Freedom_ 43.11: 11 |
+| Southwood, Luke, & Southwood, Bianca | 1982-05-15 | 'When the Wind Blows', _Freedom_ 43.9: 14–5 |
+| Spark, Muriel | 1952 | _Child of Light: A Reassessment of Mary Wollstonecraft Shelley_. London: Tower Bridge Publications |
+| Stableford, Brian | 1985 | _Scientific Romance in Britain 1890–1950_. London: Fourth Estate |
 | strangers | 2008-04-02 | <a href="http://www.infoshop.org/inews/article.php?story=2008031918105998">'Ursula K LeGuin on Anarchism, Writing'</a>, accessed 2008-04-02 |
 | Strangers in a Tangled Wilderness | 2007-08-17 | <a href="http://www.infoshop.org/inews/article.php?story=2007alan-moore-interview">Authors on Anarchism—an Interview with Alan Moore</a>, accessed 2008-04-02 |
-| Sunfrog, Andy | Spring 2010 | 'Forever the Day Before',Fifth Estate#382, 45.1: 30 |
-| Suvin, Darko | 1983 | Victorian Science Fiction in the U.K.: The Discourses of Knowledge and of Power.Boston: G.K. Hall |
-| Thomas, Pascal J. | Autumn 1985 | 'French SF and the legacy of Philip K. Dick',Foundation34, 22-35 |
+| Sunfrog, Andy | Spring 2010 | 'Forever the Day Before', _Fifth Estate_ #382, 45.1: 30 |
+| Suvin, Darko | 1983 | _Victorian Science Fiction in the U.K.: The Discourses of Knowledge and of Power_. Boston: G.K. Hall |
+| Thomas, Pascal J. | Autumn 1985 | 'French SF and the legacy of Philip K. Dick', _Foundation_ 34, 22-35 |
 | U., A.W. (Arthur W. Uloth) | Dec 1963 | 'England in the Wild',<a href="http://archive.org/stream/AnarchyNo.34#page/n1/mode/2up">Anarchy34</a>:476 |
-| Uloth, Arthur W. | 1959-02-07 | 'The Lunatic Republic',Freedom20.6:2 |
-| ____ | 1958-03-15 | 'After the Bomb',Freedom19.7:3 |
-| ____ | 1961-10-06 | 'A Science Fiction Survey',Freedom22.32: 3-4 |
-| various | 1984 | Orwell e dintorni. Volontà; XXXVIII, no2 |
+| Uloth, Arthur W. | 1959-02-07 | 'The Lunatic Republic', _Freedom_ 20.6:2 |
+| ____ | 1958-03-15 | 'After the Bomb', _Freedom_ 19.7:3 |
+| ____ | 1961-10-06 | 'A Science Fiction Survey', _Freedom_ 22.32: 3-4 |
+| various | 1984 | _Orwell e dintorni. Volontà_; XXXVIII, no2 |
 | various |  | postings to anarchysf Internet mailing list, 2000–2012 |
-| Vernon, William D. | Feb 1983 | 'On the Edge: An Interview with Rudy Rucker',Foundation27: 24–7 |
-| Versins, Pierre | 1972 | Encyclopédie de l'utopie, des voyages extraordinaires et de la science-fiction. Lausanne: L'Age d'Homme |
-| Vigné d'Octon, P. | Feb 1922 | 'Un grand écrivain anglo-saxon a tendances libertaires: Jack London. Sa vie: son oeuvre',La Revue AnarchisteI.2: 60–3 |
-| ____ | 1924 | 'Le Talon de Fer, par Jak [sic] London',La Revue Anarchiste3.23: 30 |
-| Vonnegut, Kurt | 1981 | Palm Sunday |
-| W., M.G. | 1955-11-12 | 'In the Year 1992',Freedom16.46:2 |
-| W., N. (Walter, Nicolas) | 1981-01-30 | 'Orwell and the Anarchists',Freedom42.2: 9–12 |
-| ____ | 1982-09-11 | 'Freudian',Freedom43.18:7 |
-| Walter, Nicolas | 1972-01-29 | 'Clockwork—but no Orange', Freedom 33.5: 2 |
-| ____ | 2011 | 'George Orwell and Anarchism', in Nicolas Walter, ed. David Goodway:Damned Fools in Utopia and Other Writings on Anarchism and War Resistance.Oakland, CA: PM Press: 189-213 |
-| Ward, Colin | 1958-01-11 | 'People and Ideas: Looking for a Future',Freedom19.2: 2 |
-| ____ | 1972 | Work |
-| ____ | 1974 | Utopia |
-| ____ | 1990 | 'An Old House Amongst New Folk: Making Nowhere Somewhere', in Stephen Coleman and Paddy O'Sullivan, eds (1990)William Morris & News from Nowhere. A Vision for Our Time.Bideford, Devon: Green Books, pp127-136 |
-| Ward, Colin and David Goodway | 2003 | Talking Anarchy.PM Press edn, 2014 |
-| Wardo, Arthur | 1972-11-04 | 'Wild England', Freedom 33.45:2 |
-| Weir, David | 2011 | 'Anarchist Fiction, Anarchist Sensibility. An Enquiry into the Strange Case ofCaleb Williams', in Stuart Christie, ed.:Arena 2. Anarchists in Fiction. Hastings: ChristieBooks: 1-8 |
-| Wells, H.G. | 1896-10-17 | review of Morris:The Well at the World's End,Saturday Review82: 413–5; in Parrinder, Patrick & Robert M. Philmus, eds. (1980):H.G. Wells's Literary Criticism.Sussex: Harvester Press |
-| ____ | 1906 | The Future in America. A Search after Realities.London: Chapman & Hall |
-| ____ | 1909 | New Worlds for Old. A Plain Account of Modern Socialism |
-| ____ | 1930 | The Open Conspiracy |
-| ____ | 1934a | The Work, Wealth and Happiness of Mankind |
-| ____ | 1934b | Experiment in Autobiography |
-| Winston, Justin A. | Sept-Oct 1967 | 'A Libertarian's Brief History of Science Fiction',A Way OutVol. 23 No. 5: 1-6 [at the end it says "to be continued", but I've not yet located subsequent instalments] |
-| Woodcock, George | July-Aug 1947 | 'A Study in Decline',Now9:42-51 |
-| ____ | 1948 | The Writer and Politics.London |
-| ____ | 1949-05-28 | 'A Terrifying Tract',Freedom10.11: 2 |
-| ____ | Aug–Sep 1953 | 'Recollections of George Orwell',Northern Review(Montreal) |
-| ____ | 1956 | 'Utopias in Negative,'The Sewannee ReviewLXIV: 81–97 |
-| ____ | 1956-01-14 | 'Book Review, Fantasy and Utopia',Freedom, 9.5: 6 |
-| ____ | 1956-01-21 | '<a href="https://newrepublic.com/article/116276/george-orwell-anniversary-death">Five Who Fear the Future</a>',The New Republic |
-| ____ | 1962 | Anarchism: A History of Libertarian Ideas and Movements |
-| ____ | 1966 | The Crystal Spirit: A Study of George Orwell |
-| ____ | Autumn 1969 | 'An Absence of Utopias',Canadian Literature#42 |
-| ____ | 1972a | Dawn and the Darkest Hour: A Study of Aldous Huxley.London: Faber & Faber |
-| ____ | 1972b | Herbert Read: The Stream and the Source.London: Faber & Faber |
-| ____ | 1973 | 'The Darkness Violated by Light',Malahat Review. 26 |
-| ____ | 1975 | Anarchism: A History of Libertarian Ideas and Movements.2ndedn, London (1stpub. 1962) |
-| ____ | 1976-10-21/28 &1976-10-28/-11-04 | 'The Equilibrations of Freedom. Notes on the Novels of Ursula K. Le Guin',Georgia Straight9:4-5 & 9, and 10:6-7 |
-| ____ | 1977 | The Anarchist Reader |
-| ____ | 1980 | The World of Canadian Writing.Critiques and Recollections. Vancouver: Douglas & McIntyre |
-| ____ | 1982 | Letter to the Past. An Autobiography.1982, Don Mills, Ontario: Fitzhenry & Whiteside |
-| ____ | Spring 1984 | 'Orwell was no Cold Warrior',Open Road,16: 19–20 |
-| Wytenbroek, J.R. | Winter 1987 | 'Always Coming Home: Pacificism and Anarchy in Le Guin's Latest Utopia',Extrapolationv. 28: 330–339 |
-| Zerzan, John | Summer 2013 | 'Industrialism and Its Discontents. The Luddites and Their Inheritors',Fifth Estate48.1 #389: 19–24, and<a href="http://www.fifthestate.org/archive/389-summer-2013/industrialism-and-its-discontents/">online</a> |
+| Vernon, William D. | Feb 1983 | 'On the Edge: An Interview with Rudy Rucker', _Foundation_ 27: 24–7 |
+| Versins, Pierre | 1972 | _Encyclopédie de l'utopie, des voyages extraordinaires et de la science-fiction_. Lausanne: L'Age d'Homme |
+| Vigné d'Octon, P. | Feb 1922 | 'Un grand écrivain anglo-saxon a tendances libertaires: Jack London. Sa vie: son oeuvre', _La Revue Anarchiste_ I.2: 60–3 |
+| ____ | 1924 | 'Le Talon de Fer, par Jak [sic] London', _La Revue Anarchiste_ 3.23: 30 |
+| Vonnegut, Kurt | 1981 | _Palm Sunday_ |
+| W., M.G. | 1955-11-12 | 'In the Year 1992', _Freedom_ 16.46:2 |
+| W., N. (Walter, Nicolas) | 1981-01-30 | 'Orwell and the Anarchists', _Freedom_ 42.2: 9–12 |
+| ____ | 1982-09-11 | 'Freudian', _Freedom_ 43.18:7 |
+| Walter, Nicolas | 1972-01-29 | 'Clockwork—but no Orange', _Freedom_ 33.5: 2 |
+| ____ | 2011 | 'George Orwell and Anarchism', in Nicolas Walter, ed. David Goodway: _Damned Fools in Utopia and Other Writings on Anarchism and War Resistance_. Oakland, CA: PM Press: 189-213 |
+| Ward, Colin | 1958-01-11 | 'People and Ideas: Looking for a Future', _Freedom_ 19.2: 2 |
+| ____ | 1972 | _Work_ |
+| ____ | 1974 | _Utopia_ |
+| ____ | 1990 | 'An Old House Amongst New Folk: Making Nowhere Somewhere', in Stephen Coleman and Paddy O'Sullivan, eds (1990) _William Morris & News from Nowhere. A Vision for Our Time_. Bideford, Devon: Green Books, pp127-136 |
+| Ward, Colin and David Goodway | 2003 | _Talking Anarchy_. PM Press edn, 2014 |
+| Wardo, Arthur | 1972-11-04 | 'Wild England', _Freedom_ 33.45:2 |
+| Weir, David | 2011 | 'Anarchist Fiction, Anarchist Sensibility. An Enquiry into the Strange Case of Caleb Williams', in Stuart Christie, ed.: _Arena 2. Anarchists in Fiction_. Hastings: ChristieBooks: 1-8 |
+| Wells, H.G. | 1896-10-17 | review of Morris: _The Well at the World's End_, _Saturday Review_ 82: 413–5; in Parrinder, Patrick & Robert M. Philmus, eds. (1980): _H.G. Wells's Literary Criticism_. Sussex: Harvester Press |
+| ____ | 1906 | _The Future in America. A Search after Realities_. London: Chapman & Hall |
+| ____ | 1909 | _New Worlds for Old. A Plain Account of Modern Socialism_ |
+| ____ | 1930 | _The Open Conspiracy_ |
+| ____ | 1934a | _The Work, Wealth and Happiness of Mankind_ |
+| ____ | 1934b | _Experiment in Autobiography_ |
+| Winston, Justin A. | Sept-Oct 1967 | 'A Libertarian's Brief History of Science Fiction', _A Way Out_ Vol. 23 No. 5: 1-6 [at the end it says "to be continued", but I've not yet located subsequent instalments] |
+| Woodcock, George | July-Aug 1947 | 'A Study in Decline', _Now_ 9:42-51 |
+| ____ | 1948 | _The Writer and Politics_. London |
+| ____ | 1949-05-28 | 'A Terrifying Tract', _Freedom_ 10.11: 2 |
+| ____ | Aug–Sep 1953 | 'Recollections of George Orwell', _Northern Review_ (Montreal) |
+| ____ | 1956 | 'Utopias in Negative,' _The Sewannee Review_ LXIV: 81–97 |
+| ____ | 1956-01-14 | 'Book Review, Fantasy and Utopia', _Freedom_, 9.5: 6 |
+| ____ | 1956-01-21 | '<a href="https://newrepublic.com/article/116276/george-orwell-anniversary-death">Five Who Fear the Future</a>', _The New Republic_ |
+| ____ | 1962 | _Anarchism: A History of Libertarian Ideas and Movements_ |
+| ____ | 1966 | _The Crystal Spirit: A Study of George Orwell_ |
+| ____ | Autumn 1969 | 'An Absence of Utopias', _Canadian Literature_ #42 |
+| ____ | 1972a | _Dawn and the Darkest Hour: A Study of Aldous Huxley_. London: Faber & Faber |
+| ____ | 1972b | _Herbert Read: The Stream and the Source_. London: Faber & Faber |
+| ____ | 1973 | 'The Darkness Violated by Light', _Malahat Review_. 26 |
+| ____ | 1975 | _Anarchism: A History of Libertarian Ideas and Movements_. 2nd edn, London (1st pub. 1962) |
+| ____ | 1976-10-21/28 &1976-10-28/-11-04 | 'The Equilibrations of Freedom. Notes on the Novels of Ursula K. Le Guin', _Georgia Straight_ 9:4-5 & 9, and 10:6-7 |
+| ____ | 1977 | _The Anarchist Reader_ |
+| ____ | 1980 | _The World of Canadian Writing. Critiques and Recollections_. Vancouver: Douglas & McIntyre |
+| ____ | 1982 | _Letter to the Past. An Autobiography_. 1982, Don Mills, Ontario: Fitzhenry & Whiteside |
+| ____ | Spring 1984 | 'Orwell was no Cold Warrior', _Open Road_, 16: 19–20 |
+| Wytenbroek, J.R. | Winter 1987 | 'Always Coming Home: Pacificism and Anarchy in Le Guin's Latest Utopia', _Extrapolation_ v. 28: 330–339 |
+| Zerzan, John | Summer 2013 | 'Industrialism and Its Discontents. The Luddites and Their Inheritors', _Fifth Estate_ 48.1 #389: 19–24, and<a href="http://www.fifthestate.org/archive/389-summer-2013/industrialism-and-its-discontents/"> online</a> |
