@@ -1,5 +1,5 @@
 ---
-title: "'With the Night Mail' (1905); 'As Easy as A.B.C.'"
+title: "'With the Night Mail' (1905); 'As Easy as A.B.C.' (1912)"
 format: "book"
 category: "k"
 yearReleased: "1912"
