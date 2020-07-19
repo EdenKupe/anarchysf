@@ -11,7 +11,7 @@ Moorcock found _Bill, the Galactic Hero_  "very funny", as a send-up of Heinlein
  
 Bill himself, a hard-pressed trooper, surely  owes something to Švejk.
  
-Of the 1987 novel "Harrison says: 'the evil guys invade the plant [sic] which had their own system of Government which is right out of the text book! It's anarchy. It has a bad name. But no one knows a thing about anarchism these days. That world is a world of hard working anarchy. Every single character there is right out of the Encyclopaedia Britannia. And not one person ever noticed. So much for saying you hate anarchy! This was just pure text book anarchism. So now you know more about anarchy.'" (Dan Clore)
+Of the 1987 novel "Harrison says: 'the evil guys invade the plant [sic] which had their own system of Government which is right out of the text book! It's anarchy. It has a bad name. But no one knows a thing about anarchism these days. That world is a world of hard working anarchy. Every single character there is right out of the _Encyclopaedia Britannia_. And not one person ever noticed. So much for saying you hate anarchy! This was just pure text book anarchism. So now you know more about anarchy.'" (Dan Clore)
  
 The word  itself, though, is never used. The prevailing political theory—developed by an  artificial intelligence—is described as 'Individual Mutualism'. There is no  state, no law, no army and no police force. One of the lead characters is called Stirner. The invaders are on the point of defeat by the means of passive  resistance, when the League Navy turns up and takes the credit.
  
