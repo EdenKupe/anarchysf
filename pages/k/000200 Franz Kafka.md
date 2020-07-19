@@ -1,8 +1,8 @@
 ---
-title: "In the Penal Colony' ('In der Strafkolonie', 1919; 1st English translation 1941); The Trial (Der Process / Der Prozeß, 1925; 1st English translation) 1937"
+title: "-In the Penal Colony' ('In der Strafkolonie', 1919; 1st English translation 1941); The Trial (Der Process / Der Prozeß, 1925; 1st English translation) 1937"
 format: "book"
 category: "k"
-yearReleased: "1925"
+yearReleased: "1937"
 author: "Franz Kafka"
 ---
 'In the Penal Colony' features a macabre execution machine which incises the nature of the crime into the victim's body. Michael Löwy, in his '[Franz Kafka and Libertarian Socialism](https://theanarchistlibrary.org/library/michael-lowy-franz-kafka-and-libertarian-socialism)', finds that "There are few texts in universal literature which present authority with such an unjust and murderous face."
