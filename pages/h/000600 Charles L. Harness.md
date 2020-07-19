@@ -1,5 +1,5 @@
 ---
-title: "The Paradox Men (1953); 'The Rose'"
+title: "The Paradox Men (1953); 'The Rose' (1953)"
 format: "book"
 category: "h"
 yearReleased: "1953"
