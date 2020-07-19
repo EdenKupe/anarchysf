@@ -1,5 +1,5 @@
 ---
-title: "Beggars in Spain (1993);  'Migration'"
+title: "Beggars in Spain (1993);  'Migration' (2013)"
 format: "book"
 category: "k"
 yearReleased: "2013"
