@@ -1,5 +1,5 @@
 ---
-title: "Freeland: A Social Anticipation  (1890);  A Visit to Freeland"
+title: "Freeland: A Social Anticipation  (1890);  A Visit to Freeland (1893)"
 format: "book"
 category: "h"
 yearReleased: "1893"
