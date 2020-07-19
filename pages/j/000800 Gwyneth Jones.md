@@ -1,5 +1,5 @@
 ---
-title: "White Queen (1991); '2020: I AM AN ANARCHIST'"
+title: "White Queen (1991); '2020: I AM AN ANARCHIST' (2006)"
 format: "book"
 category: "j"
 yearReleased: "2006"
