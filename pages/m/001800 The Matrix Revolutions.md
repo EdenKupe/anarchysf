@@ -11,6 +11,6 @@ Of the finale, <a href="https://thenerdsofcolor.org/2016/12/20/butler-dystopia-p
 
 Taylor Andrew Loy, in his 'Anarchy in Critical  Dystopias: An Anatomy of Rebellion' (in Shantz; see biblio),  finds the second two films convoluted, and mostly chooses to  disregard them. Of _Revolutions_, he concludes:
 
-"Despite its clever title, "The Matrix:  Revolutions" ends with Neo's martyrdom precisely because he fails  to achieve a state of "permanent revolution." Instead, he chooses  to preserve the power balance embodied in the technological  infrastructure of the Matrix—in other words, he out-sources their  present problems to the future generations of Zion."
+"Despite its clever title, "_The Matrix:  Revolutions_" ends with Neo's martyrdom precisely because he fails  to achieve a state of "permanent revolution." Instead, he chooses  to preserve the power balance embodied in the technological  infrastructure of the Matrix—in other words, he out-sources their  present problems to the future generations of Zion."
 
-JessEcoh, writing for the anarchysf mailing  list in April 2004, didn't hold back: . . . "the third film totally  dropped the ball, was a pure exercise in spectacle itself, was  embarrassing, was ridiculous, was phony through and through. and  that ending -- it belonged on one of those pamphlets the mormons or  the jehovah's witnesses hand out. just awful -- smarmy orthodoxy."
+JessEcoh, writing for the anarchysf mailing  list in April 2004, didn't hold back: . . . "the third film totally  dropped the ball, was a pure exercise in spectacle itself, was  embarrassing, was ridiculous, was phony through and through. and  that ending—it belonged on one of those pamphlets the mormons or  the jehovah's witnesses hand out. just awful—smarmy orthodoxy."
