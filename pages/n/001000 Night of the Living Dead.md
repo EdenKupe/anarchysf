@@ -7,7 +7,7 @@ author: "George A. Romero"
 ---
 Classic zombie movie, the newly dead apparently revivified  by unexplained radiation from a returning Venus probe.
  
-Included in the Red  Planets filmography (see Bould, in bibliography), as an anti-racist movie. <a href="http://www.sf-encyclopedia.com/entry/night_of_the_living_dead">SFE</a>  comments that some have seen "the savagery – and helplessness – of both ordinary  people and zombies [ . . . ] as symbolic of the horrors of the Vietnam War."
+Included in the _Red  Planets_ filmography (see Bould, in bibliography), as an anti-racist movie. <a href="http://www.sf-encyclopedia.com/entry/night_of_the_living_dead">SFE</a>  comments that some have seen "the savagery – and helplessness – of both ordinary  people and zombies [ . . . ] as symbolic of the horrors of the Vietnam War."
 
 Donovan Irven, in his paper '<a href="https://www.academia.edu/2779260/Anarchism_of_the_Living_Dead">Anarchism  of the Living Dead</a>', argues that
 
