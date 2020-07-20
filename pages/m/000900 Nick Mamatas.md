@@ -5,7 +5,7 @@ category: "m"
 yearReleased: "2018"
 author: "Nick Mamatas"
 ---
-Blurb to _Sensation_: When Julia Hernandez leaves her husband, shoots a  real estate developer, and then vanishes without a trace, she slips out of the  world she knew and into the Simulacrum—a place where human history is both  guided and thwarted by the conflict between a species of anarchist wasps and a  collective of hyperintelligent spiders.  
+Blurb to _Sensation_: "When Julia Hernandez leaves her husband, shoots a  real estate developer, and then vanishes without a trace, she slips out of the  world she knew and into the Simulacrum—a place where human history is both  guided and thwarted by the conflict between a species of anarchist wasps and a  collective of hyperintelligent spiders."  
 
 Clever and funny, it is disconcertingly narrated by the spiders,  collectively using the 'arachnid plural' We. More anarchic than anarchist,  though.
 
