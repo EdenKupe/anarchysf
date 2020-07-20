@@ -5,6 +5,7 @@ category: "m"
 yearReleased: "1887"
 author: "William Morris"
 ---
+
 In 1886 Morris invited Kropotkin, whom he had recently met, and liked immediately, to write for his paper,  _The Commonweal_, but he declined. It was probably through Morris's early contact with Kropotkin, though, that the Commonweal press facilities were used to print _Freedom_. That year, in a letter, he spoke of  "us semi-anarchists", which is really as close to anarchism as Morris ever admitted to (Mackail 11:149). In a letter the following year, he wrote:  "I distinctly disagree with the Anarchist principle, much as I sympathise with many of the anarchists personally, and although I have an Englishman's wholesome horror of government interference and centralisation . . ." (Morris 1951:5). In  'Socialism and Anarchism', a letter in _Commonweal_ on 5th May 1889, Morris wrote:  "I will begin by saying that I call myself a Communist, and have no wish to  qualify that word by joining any other to it."
  
 He himself was always well-liked by anarchists. An anonymous commentator in _Freedom_ in 1891 observed that  "Like other people, Anarchists admire his artistic genius, but, in addition,  there is not an Anarchist worth his salt who, being acquainted with William  Morris, does not respect him as a good comrade and an honest man."
