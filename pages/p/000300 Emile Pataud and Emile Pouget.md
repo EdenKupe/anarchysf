@@ -2,7 +2,7 @@
 title: "How We Shall Bring about the Revolution: Syndicalism and the Co-operative Commonwealth (original title Comment nous ferons la Révolution)"
 format: "book"
 category: "p"
-yearReleased: "1909;second edition with preface by Peter Kropotkin 1911"
+yearReleased: "1909; second edition with preface by Peter Kropotkin 1911"
 author: "Emile Pataud and Emile Pouget"
 ---
 Plodding but worthy  attempt at describing how the syndicalist revolution took place in a near-future  France. The clunky English translation doesn't help.
