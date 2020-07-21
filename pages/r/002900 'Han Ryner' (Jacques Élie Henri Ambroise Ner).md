@@ -5,7 +5,7 @@ category: "r"
 yearReleased: "1929"
 author: "'Han Ryner' (Jacques Élie Henri Ambroise Ner)"
 ---
-<em>The Human Ant</em>—written by a French individualist-anarchist—describes the experiences of a man who is magically transformed into an ant, for a year; included in the CIRA catalogue, and referenced at Cohn: 165. It's also the title of a collected translation by Brian Stableford which includes this novel, as well as _The Pacifists_ and a few short tales.
+<em>The Human Ant</em>—written by a French individualist-anarchist—describes the experiences of a man who is magically transformed into an ant, for a year; included in the <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&id=346&main=">CIRA</a> catalogue, and referenced at Cohn: 165. It's also the title of a collected translation by Brian Stableford which includes this novel, as well as _The Pacifists_ and a few short tales.
 
 _The Pacifists_ is "the tale of an anti-civilization, pacifist anarchist utopia" (Killjoy, 2009) on an uncharted island. See <a href="http://hanryner.over-blog.fr/article-20471578.html">Granier</a> (in French). Referenced in the 2014 _Bottled Wasp Pocket Diary_. Also see Cohn: 180-1.
 
