@@ -1,5 +1,5 @@
 ---
-title: "'The Seventh Victim' (1953); 'Skulking Permit' (1954) ; 'A Ticket to Tranai' (1955);  Untouched by Human Hands (1955); 'Pilgrimage to Earth' (1956); 'The Prize  of Peril' (1958); 'The People Trap' (1968);  'The Resurrection Machine' (1989); 'Simul City'"
+title: "'The Seventh Victim' (1953); 'Skulking Permit' (1954) ; 'A Ticket to Tranai' (1955);  Untouched by Human Hands (1955); 'Pilgrimage to Earth' (1956); 'The Prize  of Peril' (1958); 'The People Trap' (1968);  'The Resurrection Machine' (1989); 'Simul City' (1990)"
 format: "book"
 category: "s"
 yearReleased: "1990"
