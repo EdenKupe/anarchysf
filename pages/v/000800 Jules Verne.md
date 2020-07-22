@@ -1,5 +1,5 @@
 ---
-title: "Twenty Thousand Leagues under the Sea  (1870);  Magellania (written in 1897, 1st published in 1985); Jules  Verne and Michel Verne: The Survivors of the Jonathan (1919 — trans. in 2 vols as The Masterless Man and The Unwilling Dictator)"
+title: "Twenty Thousand Leagues under the Sea  (1870);  Magellania (written in 1897, 1st published in 1985); Jules  Verne and Michel Verne: The Survivors of the Jonathan (1909 — trans. in 2 vols as The Masterless Man and The Unwilling Dictator)"
 format: "book"
 category: "v"
 yearReleased: "1909"
