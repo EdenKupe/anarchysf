@@ -9,7 +9,7 @@ Post-apocalyptic drama centring on a group of people who  have survived an accid
  
 The 2008 remake prompted a discussion at lib.com, on <a href="https://libcom.org/forums/theory/survivors-vs-anarchism-30112008"> "survivors" vs. anarchism?</a>. One contributor said he didn't think it likely  that an anarchist society could arise in a catastrophic situation like  near-extinction:
  
-"libertarian communism will only come about with  participation of a widespread social movement that creates the conditions  through the actual praxis of that movement. With Survivors we have  isolated scattered individuals coming together to form small groups where all  social norms have been rendered obsolete, so any group that wishes to form on  anarchist lines would need to arm themselves to defend against outside raiders  etc, a situation which wouldn't be compatible with libertarian communism."
+"libertarian communism will only come about with  participation of a widespread social movement that creates the conditions  through the actual praxis of that movement. With _Survivors_ we have  isolated scattered individuals coming together to form small groups where all  social norms have been rendered obsolete, so any group that wishes to form on  anarchist lines would need to arm themselves to defend against outside raiders  etc, a situation which wouldn't be compatible with libertarian communism."
 
 For another, the remake was definitely inferior:
  
@@ -18,4 +18,3 @@ For another, the remake was definitely inferior:
 The same poster acknowledged, however, that the original  show had been too white and middle class, and objected that "the main  ideological thrust is that there needs to be a leader."
  
  <a href="https://seesharppress.wordpress.com/2016/04/14/two-nearly-forgotten-great-70s-and-80s-sci-fi-tv-series-now-on-youtube/"> Sharp and Pointed</a> found the original series "extremely dark", but it was  their favourite SF series from the 70s and 80s, and "way better than the at best  so-so reboot".
- 
