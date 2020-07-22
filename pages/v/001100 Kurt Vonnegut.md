@@ -13,8 +13,6 @@ _The Sirens of Titan_ was said by <a href="https://libcom.org/files/Rad%20Americ
  
 _Slaughterhouse-Five_ is included  in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
  
-_Slapstick_ and _Jailbird_  are the only Vonnegut novels (tagged as sf) held by <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>,  the Centre International de Recherches sur l'Anarchisme. Jailbird is  also listed in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
+_Slapstick_ and _Jailbird_  are the only Vonnegut novels (tagged as sf) held by <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>,  the Centre International de Recherches sur l'Anarchisme. _Jailbird_ is  also listed in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
  
-Vonnegut described himself as a pacifist,  an anarchist, and  a planetary citizen. (Vonnegut 1981, Granada pb edn: 124)
- 
-    
+Vonnegut described himself as a pacifist,  an anarchist, and  a planetary citizen. (Vonnegut 1981, Granada pb edn: 124)   
