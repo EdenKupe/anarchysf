@@ -5,7 +5,7 @@ category: "s"
 yearReleased: "1960"
 author: "Theodore Sturgeon"
 ---
-_More than Human_ tells of several individuals with different psychic  powers coming together as a single being, 'homo gestalt'. It is briefly  described in Vittorio Curtoni's 1978 article. For <a href="http://tashqueedagg.wordpress.com/2012/11/11/theodore-strugeon-more-than-human-1953/"> Evan Lampe</a> the evolution to H. gestalt is reminiscent of Kropotkin's Mutual Aid.
+_More than Human_ tells of several individuals with different psychic  powers coming together as a single being, 'homo gestalt'. It is briefly  described in Vittorio Curtoni's 1978 article. For <a href="http://tashqueedagg.wordpress.com/2012/11/11/theodore-strugeon-more-than-human-1953/"> Evan Lampe</a> the evolution to H. gestalt is reminiscent of Kropotkin's _Mutual Aid_.
   
 Though the tenor of 'Xanadu' is appealing, its premise—a technology that  renders human  co-operation axiomatic and intuitive—is presented in fantastic terms.
   
