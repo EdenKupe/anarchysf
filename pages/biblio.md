@@ -101,6 +101,7 @@ layout: worksforconsideration
 | H., Martin | Spring 2000 | 'Socialism Within, Anarchism Without. The Culture Novels of Iain M. Banks', _Workers Solidarity_ 59; also reposted to anarchysf mailing list |
 | Haiven, Max | 2015 | '"One who, choosing, accepts the responsibility of choice": Ursula K. Le Guin, Anarchism, and Authority', in Jeff Shantz, ed. (2015) _Specters of Anarchy_. New York: Algora Publishing |
 | Heckert, Jamie | Spring 2010 | '<a href="http://theanarchistlibrary.org/library/jamie-heckert-queerly-erotic-an-open-love-letter-to-ursula-le-guin">Queerly Erotic: An Open Love Letter to Ursula Le Guin</a>', _Fifth Estate_ #382, 45.1: 31 |
+| Heckert, Jamie, and Richard Cleminson, eds | 2011 | _Anarchism & Sexuality. Ethics, Relationships and Power_. London and New York: Routledge |
 | Hedgecock, Andrew | Nov–Dec 1986 | 'Moorcock Anarchist Ironist', _Freedom_ 47.10: 22 |
 | Heffes, Gisela | 2009 | 'Utopia, anarchism and the political implications of emotions', in Davis & Kinna, eds (2009) |
 | Hulse, James S. | 1970 | _Revolutionists in London_. Oxford: OUP |
