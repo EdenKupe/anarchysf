@@ -480,7 +480,6 @@ permalink: worksforconsideration.html
 | Johanna Sinisalo | Troll | <a href="http://www.librarything.com/work/53393/book/26911701">www.librarything.com/work/53393/book/26911701</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jane Smiley | A Thousand Acres | mentioned in a mailing to anarchysf |
 | E.E. 'Doc' Smith | The Space Pirates | one character is described as "an extraordinary anarchist robot" [<a href="http://www.sfgateway.com/books/s/space-pirates,-the/">www.sfgateway.com/books/s/space-pirates,-the/</a>] |
-| Michael Marshall Smith | Only Forward | mentioned in a mailing to anarchysf |
 | L. Neil Smith | The American Zone | <a href="https://www.goodreads.com/shelf/show/libertarian-science-fiction">www.goodreads.com/shelf/show/libertarian-science-fiction</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=1271583552">AbeBooks</a> |
 | L. Neil Smith | The Gallatin Divergence | <a href="http://groups.yahoo.com/group/libfic-l/message/1449">groups.yahoo.com/group/libfic-l/message/1449</a> |
 | L. Neil Smith | Henry Martyn | <a href="https://board.freedomainradio.com/topic/24056-anarchist-or-near-anarchist-sci-fi/">board.freedomainradio.com/topic/24056-anarchist-or-near-anarchist-sci-fi</a> |
