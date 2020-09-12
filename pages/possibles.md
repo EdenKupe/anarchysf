@@ -273,7 +273,6 @@ permalink: worksforconsideration.html
 | Henri Lambert | La Superfemme | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Keith Laumer | Retief's War | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a>: "the nonhuman inhabitants of the planet Quopp live within the framework of a kind of free-wheeling libertarian socialism" |
 | Guillermo Lavin | 'Reaching the Shore' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Ursula K. Le Guin | Buffalo Gals | Eagleheart; mentioned in a mailing to anarchysf |
 | Ursula K. Le Guin | Dancing at the Edge of the World | <a href="http://www.scribd.com/doc/161048141/Tony-Burns-Political-Theory-Science-Fiction-And-Utopian-Literature">Burns</a> |
 | Ursula K. Le Guin | Dreams Must Explain Themselves | <a href="http://www.scribd.com/doc/161048141/Tony-Burns-Political-Theory-Science-Fiction-And-Utopian-Literature">Burns</a> |
 | Ursula K. Le Guin | 'Mountain Ways' | Eagleheart |
