@@ -266,7 +266,6 @@ permalink: worksforconsideration.html
 | Nancy Kress | Yesterday's Kin | Teflon, at<a href="https://seesharppress.wordpress.com/">seesharppress.wordpress.com/</a> |
 | Ellen Kushner | Basilisk | mentioned in a mailing to anarchysf |
 | Ellen Kushner | 'A Wild and a Wicked Youth' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| R.A. Lafferty | Past Master | Mamatas inThe BASTARD Chronicles 2015: "The horrifying iron is that probably the best science fictional investigation of utopia is explicitly religious" . . . . |
 | Larissa Lai | Salt Fish Girl | <a href="http://www.librarything.com/work/47335/book/55557504">www.librarything.com/work/47335/book/55557504</a> |
 | Larissa Lai | When Fox is a Thousand | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Henri Lambert | La Superfemme | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
