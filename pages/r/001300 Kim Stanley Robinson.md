@@ -1,5 +1,5 @@
 ---
-title: "'The Lucky Strike' (1984);  Three Californias   trilogy: The Wild Shore (1984), The Gold Coast  (1988), and Pacific Edge (1990); Mars trilogy: Red Mars (1992), Green Mars  (1993), Blue Mars (1996);  Antarctica (1997); The Years of Rice and Salt (2002);  Capital Code  trilogy:   Forty Signs of Rain (2004), Fifty Degrees Below (2005), Sixty Days  and Counting (2007);  2312 (2012); Aurora (2015); New York  2140 (2017); Red Moon (2018)"
+title: "'The Lucky Strike' (1984);  Three Californias   trilogy: The Wild Shore (1984), The Gold Coast  (1988), and Pacific Edge (1990); Mars trilogy: Red Mars (1992), Green Mars  (1993), Blue Mars (1996);  Antarctica (1997); The Years of Rice and Salt (2002);  Capital Code  trilogy:   Forty Signs of Rain (2004), Fifty Degrees Below (2005), Sixty Days  and Counting (2007); Galileo's Dream (2009); 2312 (2012); Aurora (2015); New York  2140 (2017); Red Moon (2018)"
 format: "book"
 category: "r"
 yearReleased: "2018"
@@ -36,6 +36,9 @@ _Antarctica_ was recommended by <a href="http://nwsfsnews.blogspot.com/2009/10/i
 According to <a href="http://www.strangehorizons.com/2002/20020520/rice_and_salt.shtml">one reviewer</a>, Robinson's alternate history _The Years of Rice and Salt_ includes a discussion of anarchist ideas of a post-scarcity economy.
 
 For <a href="http://www.solidarity-us.org/node/2137">Maeve66</a>, writing for the US Solidarity, Robinson's _Capital Code_ trilogy, on the theme of climate change, is "well worth reading, for the science, and the potentials and limitations on electoral reform as a solution to anthropogenic climate change." <a href="https://bamahrab.wordpress.com/2016/05/19/the-politics-of-science-fiction-kim-stanley-robinson-and-the-rise-of-solarpunk/"> B.A. Mahrab</a> sees this trilogy, among other Robinson works, as central to the developing sub-genre of solarpunk.
+
+_Galileo's Dream_ is an exceptional blend of sf and historical fiction/biography, and one of Robinson's best works. <a href="https://seesharppress.wordpress.com/2015/01/05/a-few-favorite-atheist-science-fiction-novels-and-books-on-cults/">Teflon</a> describes it as "A well executed time-travel novel involving Galileo 
+and his conflict with the Catholic Church and the Inquisition." Elsewhere he particularly recommends this work and _Aurora_, while noting that neither is related to anarchism.
 
 The marvellous _2312_ is included in the <a href="http://thinkgalactic.org/reading-lists/by-author/">Think Galactic</a> reading list, and viewed as "anarchist-themed-sci-fi" by <a href="http://www.goodreads.com/review/show/536628085">David Agranoff</a>.
 
