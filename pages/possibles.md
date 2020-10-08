@@ -427,9 +427,7 @@ permalink: worksforconsideration.html
 | Adam Roberts | Polystom | <a href="http://www.urban75.net/forums/threads/how-is-anarchism-portrayed-in-literature.93704/#post-3177089">www.urban75.net/forums/threads/how-is-anarchism-portrayed-in-literature.93704/#post-3177089</a> |
 | Adam Roberts | Snow | <a href="http://www.urban75.net/forums/threads/how-is-anarchism-portrayed-in-literature.93704/#post-3177089">www.urban75.net/forums/threads/how-is-anarchism-portrayed-in-literature.93704/#post-3177089</a> |
 | Adam Roberts | Stone | <a href="http://www.urban75.net/forums/threads/how-is-anarchism-portrayed-in-literature.93704/#post-3177089">www.urban75.net/forums/threads/how-is-anarchism-portrayed-in-literature.93704/#post-3177089</a> |
-| Kim Stanley Robinson | Galileo's Dream | <a href="https://riproaringreviews.wordpress.com/">riproaringreviews.wordpress.com/</a> |
 | Kim Stanley Robinson | Icehenge | mentioned in a mailing to anarchysf |
-| Kim Stanley Robinson, ed. | Future Primitive: The New Ecotopias | Dan Clore, at<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">www.facebook.com/groups/anarchismandsciencefiction/?fref=ts</a>, 2015-11-12 |
 | Spain Rodriguez | Trashmancomics (1968–85; collected in 1989 asTrashman Lives! The Collected Stories from 1968 to 1985) | Included in<a href="k.htm#Killjoy">Killjoy</a>'slist of stories that feature sympathetic anarchist characters |
 | Sam Rosa | The Coming Terror | Davis & Kinna;<a href="http://www.amazon.com/Companion-Science-Fiction-David-Seed/dp/140518437X/ref=pd_rhf_pe_s_cp_12_MAPT?ie=UTF8&amp;refRID=02K05DC9999XA3ZH9YM7#reader_140518437X">Seed</a> |
 | Giovanni Rossi | Une commune socialiste | <a href="http://www.academia.edu/4377644/Anarchism_and_Utopia">www.academia.edu/4377644/Anarchism_and_Utopia</a> |
