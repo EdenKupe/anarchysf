@@ -445,7 +445,6 @@ permalink: worksforconsideration.html
 | C.J. Sansom | Lamentation | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
 | Richard Henry Savage | The Anarchist: A Story of Today | a tale of political intrigue and violence set in a Near Future America ransacked by anarchists - See more at: http://www.sf-encyclopedia.com/entry/savage_richard_henry#sthash.3eHSHpSE.dpuf<a href="http://www.sf-encyclopedia.com/entry/savage_richard_henry">SFE</a>: "a tale of political intrigue and violence set in a Near Future America ransacked by anarchists" |
 | John Scalzi | Old Man's Warseries | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
-| John Scalzi | Redshirts | recommended on Facebook 'Anarchists and Science Fiction' page |
 | Lorraine Schein | 'Angel of Anarchy' and other writings | recommended by Lorraine Schein in emails to me |
 | Lorraine Schein | The Raw Brunettes | recommended by Lorraine Schein in emails to me |
 | Lorraine Schein | 'The Anarchist Speaks' | <a href="http://www.locusmag.com/index/yr2003/t72.htm">www.locusmag.com/index/yr2003/t72.htm</a> |
