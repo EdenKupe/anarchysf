@@ -209,7 +209,6 @@ permalink: worksforconsideration.html
 | Joe Haldeman | Buying Time | <a href="http://www.catb.org/~esr/writings/sf-history.html">www.catb.org/~esr/writings/sf-history.html</a> |
 | Sarah Hall | Daughters of the North | <a href="http://www.librarything.com/work/3256265/book/41294208">www.librarything.com/work/3256265/book/41294208</a> |
 | Peter F. Hamilton | Night's Dawntrilogy | mentioned in a mailing to anarchysf |
-| Clement Milton Hammond (as by Josephine d'Aujourdhui | Then and Now: Anarchy in the Year 2085Then and Now: Anarchy in the Year 2085Then and Now: Anarchy in the Year 2085Then and Now: Anarchy in the Year 2085'Then and Now: Anarchy in the Year 2085' | Then and Now: Anarchy in the Year 2085appeared inLiberty1884/1885; "a book-length Utopia never published in book form, argues for a temperate anarchism" (<a href="http://www.sf-encyclopedia.com/entry/hammond_clement_milton">SFE</a>)a book-length Utopia never published in book form, argues for a temperate anarchism - See more at: http://www.sf-encyclopedia.com/entry/hammond_clement_milton#sthash.4OF3Gmod.dpuf |
 | Harry Harrison | Homeworld | <a href="https://www.goodreads.com/shelf/show/libertarian-science-fiction">www.goodreads.com/shelf/show/libertarian-science-fiction</a> |
 | M. John Harrison | The Course of the Heart | mentioned in a mailing to anarchysf |
 | M. John Harrison | Viriconium Nights | mentioned in a mailing to anarchysf |
