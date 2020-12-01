@@ -79,7 +79,6 @@ permalink: worksforconsideration.html
 | Lois McMaster Bujold | 'The Mountains of Mourning' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Mikhail Bulgakov | Heart of a Dog | <a href="https://libcom.org/library/working-class-literature-reading-guide">libcom.org/library/working-class-literature-reading-guide</a> |
 | Ben Burgis | Three Perspectives on the Role of the Anarchists in the Zombie Apocalypse | online at<a href="http://www.talesofworldwarz.com/stories/2008/03/07/three-perspectives-on-the-role-of-the-anarchists-in-the-zombie-apocalypse-by-ben-burgis/">www.talesofworldwarz.com/stories/2008/03/07/three-perspectives-on-the-role-of-the-anarchists-in-the-zombie-apocalypse-by-ben-burgis/</a> |
-| Edgar Rice Burroughs | The Gods of Mars | <a href="http://www.andersmonsen.com/50-works-of-fiction-libertarians-should-read/">www.andersmonsen.com/50-works-of-fiction-libertarians-should-read</a> |
 | Edgar Rice Burroughs | The Moon Maid | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | William S. Burroughs | The Ticket that Exploded |  |
 | Octavia E. Butler | Survivor | mentioned in a mailing to anarchysf |
