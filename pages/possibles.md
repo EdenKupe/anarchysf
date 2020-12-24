@@ -526,10 +526,9 @@ permalink: worksforconsideration.html
 | Dubravka Ugrešić | Baba Yaga Laid an Egg | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Daniel Unedo | Dogs of Orninica | <a href="http://www.goodreads.com/book/show/20772719-dogs-of-orninica">www.goodreads.com/book/show/20772719-dogs-of-orninica</a> |
 | Andres Vaccari | A Song for Sumerica(unpublished) | Included in<a href="k.htm#Killjoy">Killjoy'</a>slist of stories that explore anarchist societies. |
+| Salvio Valentí | Del éxodo al paraíso (From Exodus to Paradise) | <a href="http://publish.lib.umd.edu/scifi/article/view/278/41">Rodriguez</a> |
 | Carissa van den Berk Clark | May it Come Quickly, like a Shaft Sundering in the Dark | <a href="http://www.goodreads.com/book/show/6379111-may-it-come-quickly-like-a-shaft-sundering-in-the-dark">www.goodreads.com/book/show/6379111-may-it-come-quickly-like-a-shaft-sundering-in-the-dark</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=695842369">AbeBooks</a> |
 | Carissa van den Berk Clark | Yours for the Revolution | <a href="http://www.goodreads.com/book/show/6367756-yours-for-the-revolution">www.goodreads.com/book/show/6367756-yours-for-the-revolution</a> |
-| Jack Vance | Durdane trilogy | mentioned in a mailing to anarchysf |
-| Salvio Valentí | Del éxodo al paraíso (From Exodus to Paradise) | <a href="http://publish.lib.umd.edu/scifi/article/view/278/41">Rodriguez</a> |
 | Jeff VanderMeer | City of Saints and Madmen | mentioned in a mailing to anarchysf |
 | Raoul Vaneigem | Voyage à Oarystis | <a href="http://forum.aroots.org/culture/Litterature/oarystis-sujet_5035_1.htm">forum.aroots.org/culture/Litterature/oarystis-sujet_5035_1.htm</a> |
 | Vanina | Emma la noire | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
