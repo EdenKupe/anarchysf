@@ -69,9 +69,9 @@ GEM
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    nokogiri (1.10.4)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.4-x64-mingw32)
+    nokogiri (1.10.10-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -93,7 +93,6 @@ GEM
     tzinfo-data (1.2018.9)
       tzinfo (>= 1.0.0)
     verbal_expressions (0.1.5)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -108,7 +107,6 @@ DEPENDENCIES
   minima (~> 2.0)
   nokogiri (>= 1.10.4)
   tzinfo-data
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.17.3
