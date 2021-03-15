@@ -16,7 +16,7 @@ Reviewing Le Guin's science fictional oeuvre as a whole, Max Haiven's exceptiona
 
 _Rocannon's World_ is among the works discussed by Haiven; he find that it "demonstrates many anarchistic themes", among which he includes critical anthropology and a humanism of possibility.
 
-For George Woodcock _The Left Hand of Darkness_ was Le Guin's "strangest and most successful novel". (Woodcock 1976)
+For George Woodcock _The Left Hand of Darkness_ was Le Guin's "strangest and most successful novel". (Woodcock 1976) Jeff Shantz, in his 2011 _Against All Authority. Anarchism and the Literary Imagination_, devotes four pages to this work in his chapter on 'Novel utopias.'
 
 For Oshee Eagleheart in 2010 'Vaster than Empires and More Slow' "accurately and hilariously portrays the interactions within groups of 'crazy' characters who dare to explore the far reaches of the social universe in search of workable ways of living."
 
@@ -25,6 +25,8 @@ _The Dispossessed_ concerns two worlds, one moon to the other, with vastly diffe
 The anonymous reviewer in <a href="http://www.afed.org.uk/org/org81.pdf">_Organise!_</a> magazine in 2013 concluded that
 
 "Like the anarchist ideals the book so deftly explores, the story itself does not leave us with an ending so much as a staging point for our own journey. To use the ideas of the books, it comes to you like a beggar man, relying on you for all that it requires and leaving you enriched by realising you would be better with nothing but what you carry as long as all needs are met. By the end of reading it I was stood at the wall between two worlds with the choice over whether I help to dismantle it, and by choosing to do so build a greater whole."
+
+Jeff Shantz, in his chapter on 'Novel utopias,' cited above, devotes a further two pages to _The Dispossessed_, which for him is Le Guin's "most appreciated and influential work," in which she "brings to life key aspects of recent anarchist thought. These include bioregionalism, horizontalism, and federation." James Gifford, in 'Literature and Anarchism,' his 2019 contribution to _The Palgrave Handbook of Anarchism_, describes _The Dispossessed_ as the "most recognised anarchist popular fiction."
 
 The influence of this novel hasn't always been welcomed: Ken Macleod said of it, in his 2002 <a href="http://media.wix.com/ugd/f0c74f_a5e27cce5f504aaea74c0c7f38946ff6.pdf"> article</a> on 'Anarchism and Science Fiction', that it "has probably put more people off Anarchism than any other." Bob Black concurs with Michael Moorcock's view that the book is "dull and journalistic" (Black 2015). He continues: "There is little indication that Le Guin is very familiar with anarchist or utopian literature. Contrary to legend, Le Guin is no anarchist. If she is, then where has she been, politically [. . .] for the last forty years? Writing stories and making money." Noting that in 2015 she wrote an introduction to a collection of some of Bookchin's old essays (_The Next Revolution_), he finds further cause in this for attacking her:
 
