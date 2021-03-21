@@ -35,7 +35,6 @@ permalink: worksforconsideration.html
 | Paolo Bacigalupi | Ship Breaker | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
 | Joe E. Bandel | Anarchist Knight: Apprentice | Blurb:Anarchist Knight: Apprenticeis the first book in a trilogy about Tobal Kane and his friends. It is a fast paced futuristic action adventure set in the Cascade mountains of Washington State. Join Tobal and his friends as they seek to unlock the mystery of Heliopolis and the strange death of his parents. |
 | Iain M. Banks | Against a Dark Background | mentioned in a mailing to anarchysf |
-| Iain M. Banks | Feersum Endjinn | mentioned in a mailing to anarchysf |
 | Stephen Baxter | Ring | among books cited by Nick Mamatas inThe BASTARD Chronicles 2015as hard SF overwhelmed by religious allegory |
 | Barrington J. Bayley | The Star Virus | mentioned in a mailing to anarchysf |
 | Barrington J. Bayley | The Zen Gun | mentioned in a mailing to anarchysf |
@@ -229,7 +228,6 @@ permalink: worksforconsideration.html
 | James P. Hogan | The Immortality Option | <a href="https://seesharppress.wordpress.com/2014/10/17/another-neglected-sci-fi-gem-the-immortality-option/">seesharppress.wordpress.com/2014/10/17/another-neglected-sci-fi-gem-the-immortality-option/</a> |
 | James P. Hogan | Mirror Maze | <a href="https://www.goodreads.com/genres/libertarian-science-fiction">www.goodreads.com/genres/libertarian-science-fiction</a> |
 | Stewart Home | 'Anarchist' | <a href="http://www.isfdb.org/cgi-bin/title.cgi?1398539">www.isfdb.org/cgi-bin/title.cgi?1398539</a> |
-| Stewart Home | Red London | <a href="http://www.reddit.com/r/Anarchism/comments/1d7esn/">www.reddit.com/r/Anarchism/comments/1d7esn/</a>;<a href="http://www.stewarthomesociety.org/sp/anstupid.htm">www.stewarthomesociety.org/sp/anstupid.htm</a> |
 | Nalo Hopkinson | 'Fisherman' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Nalo Hopkinson | Report from Planet Midnight Plus | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.pmpress.org/content/index.php?topic=authors&amp;page=16">www.pmpress.org/content/index.php?topic=authors&amp;page=16</a>;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.activedistributionshop.org/shop/35-fiction">www.activedistributionshop.org/shop/35-fiction</a> |
 | Michel Houellebecq | Atomized / The Elementary Particles | mentioned in Goodway: 236n |
