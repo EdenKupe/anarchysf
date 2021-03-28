@@ -33,7 +33,9 @@ The _Mars_ trilogy represents "Basically an anarchist revolution & construction 
 
 _Antarctica_ was recommended by <a href="http://nwsfsnews.blogspot.com/2009/10/i-wanna-read-sf-anarchy.html"> Common Action</a> at the panel 'Beyond The Dispossessed: Anarchism and Science Fiction' at the Seattle Anarchist Bookfair in October 2009. Set in Antarctica in the near future, environmentalism and sustainable living are central, with much interest shown in the formation of cooperative and anarchic social systems. From the same mould as the _Mars_ trilogy, it has been nicknamed '_White Mars_'. A vivid and unforgettable paean to the cold wilderness of the continent.
 
-According to <a href="http://www.strangehorizons.com/2002/20020520/rice_and_salt.shtml">one reviewer</a>, Robinson's alternate history _The Years of Rice and Salt_ includes a discussion of anarchist ideas of a post-scarcity economy.
+According to <a href="http://www.strangehorizons.com/2002/20020520/rice_and_salt.shtml">one reviewer</a>, Robinson's alternate history _The Years of Rice and Salt_ includes a discussion of anarchist ideas of a post-scarcity economy. There's also some discussion on this novel in an online
+<a href="https://www.reddit.com/r/Anarchism/comments/iry3w4/roderick_long_interviews_kevin_carson/"> 
+conversation</a> between Kevin Carson and Roderick Long (starts at 1:13:50).
 
 For <a href="http://www.solidarity-us.org/node/2137">Maeve66</a>, writing for the US Solidarity, Robinson's _Capital Code_ trilogy, on the theme of climate change, is "well worth reading, for the science, and the potentials and limitations on electoral reform as a solution to anthropogenic climate change." <a href="https://bamahrab.wordpress.com/2016/05/19/the-politics-of-science-fiction-kim-stanley-robinson-and-the-rise-of-solarpunk/"> B.A. Mahrab</a> sees this trilogy, among other Robinson works, as central to the developing sub-genre of solarpunk.
 
