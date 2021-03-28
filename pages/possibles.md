@@ -238,7 +238,6 @@ permalink: worksforconsideration.html
 | Heidrun Jänchen | 'Eine typisch anarchistische Handlung' | <a href="http://www.isfdb.org/cgi-bin/title.cgi?1294886">www.isfdb.org/cgi-bin/title.cgi?1294886</a> |
 | N.K. Jemisin | The Hundred Thousand Kingdoms | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | N.K. Jemisin | The Killing Moon | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| N.K. Jemisin | The Obelisk Gate | <a href="https://www.bustle.com/p/9-modern-women-science-fiction-writers-you-need-to-be-celebrating-27287">www.bustle.com/p/9-modern-women-science-fiction-writers-you-need-to-be-celebrating-27287</a>;<a href="http://www.barnesandnoble.com/blog/sci-fi-fantasy/20-sci-fi-fantasy-books-message-social-justice/">www.barnesandnoble.com/blog/sci-fi-fantasy/20-sci-fi-fantasy-books-message-social-justice/</a>, link from FB solarpunk @, 2017-02-08; from FB Shama Alexander->Freedom 2017-04-26 |
 | K.W. Jeter | Fiendish Schemes | <a href="http://www.locusmag.com/Monitor/2013/10/new-books-15-october/">www.locusmag.com/Monitor/2013/10/new-books-15-october/</a> |
 | Michel Jeury | Chronolysis | "Disorientated agent of an anarcho-socialist near-future finds himself at the centre of a conflict with multinational corporations trying to alter history so as to take over the future." (Board & Miéville: 257) |
 | Michel Jeury | L'Univers Ombre | libertarian utopia |
