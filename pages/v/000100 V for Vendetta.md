@@ -15,3 +15,4 @@ For <a href="http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1014&
 
 Despite the general hostility, the movie, its  director, and its screenplay all received special Prometheus Awards  in 2007. In 2013 the film was one of three recommended for viewing  as part of a Cornell University course on '<a href="http://web.archive.org/web/20130606175110/http:/history.arts.cornell.edu/HIST%201955%20SP13%20-%20Craib.pdf">Histories  of Anarchism</a>'.
  
+Richard Porton devotes two pages to this film in the second edition of _Film and the Anarchist Imagination_, saying of it that "while neglecting the explicitly anarchist content of its source material [ . . . it] nevertheless grappled with the quandaries posed by both anti-authoritarian direct action and terrorism in the post-9/11 era."
