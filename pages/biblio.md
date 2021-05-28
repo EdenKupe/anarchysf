@@ -176,6 +176,7 @@ layout: worksforconsideration
 | Platt, Charles | 1980 | _Who Writes Science Fiction?_ Manchester |
 | Porter, David, ed. | 1983 | _Vision on Fire. Emma Goldman on the Spanish Revolution_ .New Paltz, NY: Commonground Press |
 | Porton, Richard | 1999 | _Film and the Anarchist Imagination_. London and New York: Verso |
+| Porton, Richard | 2020 | _Film and the Anarchist Imagination_, 2nd edn. Urbana: University of Illinois Press |
 | Preu, James A. | 1954 | 'Swift's Influence on Godwin's Doctrine of Anarchism', _Journal of the History of Ideas_, XV: 371–83 |
 | ____ | 1959 | _The Dean and the Anarchist_. Tallahassee: Florida S.U. |
 | Quail, John | 1978 | _The Slow-Burning Fuse_. St Albans: Granada |
