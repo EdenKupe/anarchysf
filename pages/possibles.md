@@ -500,7 +500,6 @@ permalink: worksforconsideration.html
 | Charles Stross | The Jennifer Morgue | <a href="https://riproaringreviews.wordpress.com/">riproaringreviews.wordpress.com</a> |
 | Charles Stross | The Rhesus Chart | <a href="https://seesharppress.wordpress.com/2014/07/08/book-review-the-rhesus-chart-by-charles-stross/">seesharppress.wordpress.com/2014/07/08/book-review-the-rhesus-chart-by-charles-stross/</a> |
 | Arkady & Boris Strugatski | Noon Universebooks | prompted a short discussion on the<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Facebook forum</a> |
-| Daniel Suarez | Influx | 2015 Prometheus Award winner |
 | Eugène Sue | The Wandering Jew | mentioned in a mailing to anarchysf |
 | Tricia Sullivan | Maul | <a href="http://www.librarything.com/work/48807/book/26911930">www.librarything.com/work/48807/book/26911930</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Nike Sulway | Rupetta | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
