@@ -20,7 +20,6 @@ permalink: worksforconsideration.html
 | Kevin J. Anderson | Clockwork Angels | <a href="http://sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html">sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=14145243961">AbeBooks</a>;<a href="http://www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php">www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php</a> |
 | Poul Anderson | Harvest of Stars | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | Poul Anderson | Operation Changeling | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a> |
-| Poul Anderson | Polesotechnic League novels | <a href="http://groups.yahoo.com/group/LeftLibertarian2/message/1010">groups.yahoo.com/group/LeftLibertarian2/message/1010</a> |
 | Jean-Pierre Andrevon |  | interviewed in<a href="http://www.monde-libertaire.fr/cultures/16847-derriere-la-plume-devant-lecran-entretien-avec-jean-pierre-andrevon">Le Monde Libertaire</a> |
 | Ilona Andrews | The Questing Beast | <a href="http://www.lunastationquarterly.com/on-freebies-and-cheapies/">www.lunastationquarterly.com/on-freebies-and-cheapies</a> |
 | anon. | In the Future | Suvin says it includes Godwinian anarchists |
