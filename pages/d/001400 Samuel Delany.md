@@ -5,7 +5,7 @@ category: "d"
 yearReleased: "1984"
 author: "Samuel Delany"
 ---
-_Babel-17_, 'Aye and Gomorrah',  and _The Einstein Intersection_ are included in the Think Galactic <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a>.  Babel-17 is quoted in _The BASTARD Chronicles 2015_.
+_Babel-17_, 'Aye and Gomorrah',  and _The Einstein Intersection_ are included in the Think Galactic <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a>.  Babel-17 is quoted in _The BASTARD Chronicles 2015_, and is briefly but warmly reviewed by Kupermintz at the end of one of the <a href="https://anchor.fm/anarchysf/episodes/Dishonored--not-Resentful-e13m25a">anarchySF</a> podcasts.
  
 _Dhalgren_ has been described as  presenting a world which is 'anarchist in all but name' (Moore 95).  Although this is questionable, this is a stimulating and thought-provoking novel  that bears inclusion here.
  
