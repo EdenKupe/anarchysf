@@ -577,6 +577,5 @@ permalink: worksforconsideration.html
 | Wu Zhihui (吳稚暉) | Shangxia gujin tan (Tales of All Times and All Places) | Wu was a Chinese anarchist, and this novel was written while in exile in London; it has been described as science fiction; citation is Zhang Zhijie, "Wu Zhihui kepu xiaoshuo Shanxia gujin tan qiantan [Wu Zhihui's science fictionTales of all times and all places],"Kexue wenhua pinglun5, no. 5 (2008): 66 |
 | Yoshitoshi ABe | Despera | planned SF anime series based on a poem by Jun Tsuji, Japanese individualist anarchist (<a href="https://en.wikipedia.org/wiki/Despera">Wikipedia</a>) |
 | E. Lily Yu | 'The Cartographer Wasps and the Anarchist Bees' | <a href="http://clarkesworldmagazine.com/yu_04_11/">online</a>; but is fantasy |
-| George Zebrowski | Macrolife: A Mobile Utopia | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | Roger Zelazny | Damnation Alley | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | Liu Wen Zhuang | 'The Metamorphosis Bud' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
