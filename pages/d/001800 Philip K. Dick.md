@@ -28,6 +28,6 @@ In *Counter-Clock World* a black religious leader, round whom much of the book r
 
 In *The Penultimate Truth* members of the elite program an android politician which/who keeps the underground masses properly stirred up and misinformed. ([Riggenbach](http://mises.org/daily/5089)) For [Lampe](http://tashqueedagg.wordpress.com/2013/04/22/615/) a clear moral is that "It does not matter if power if justifiable on some level. It is nonetheless, sociopathic."
 
-A proponent of governmental decentralisation and opponent of organised religion, it is perhaps unfortunate that some of Dick's later, delusional, work has had a posthumous influence in the emergence of anarcho-gnostics. Among these later works is *Valis*, briefly mentioned in a quotation in *The BASTARD Chronicles 2015.*
+A proponent of governmental decentralisation and opponent of organised religion, it is perhaps unfortunate that some of Dick's later, delusional, work has had a posthumous influence in the emergence of anarcho-gnostics. Among these later works is *Valis*, briefly mentioned in a quotation in *The BASTARD Chronicles 2015*, which also quotes from _Radio Free Albemuth_.
 
 Evan Lampe has individual [blog](http://tashqueedagg.wordpress.com/index/) entries for each of 30 Dick novels, including one not sf.
