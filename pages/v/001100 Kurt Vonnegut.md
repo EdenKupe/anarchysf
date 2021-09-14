@@ -12,7 +12,8 @@ _The Sirens of Titan_ was said by <a href="https://libcom.org/files/Rad%20Americ
 
 'Harrison Bergeron' is a satire on  authoritarian dystopias and perceptions of egalitarianism. Suggested at <a href="http://www.metafilter.com/89983/Anarchism-and-science-fiction"> www.metafilter.com/89983/Anarchism-and-science-fiction</a>.
 
-_Slaughterhouse-Five_ is included  in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
+_Slaughterhouse-Five_ is discussed in part of the anarchySF <a href="https://anchor.fm/anarchysf/episodes/Kurt-Vonnegut-Wrote-Some-Pretty-Good-Books-e16jpvq">
+podcast</a> on Vonnegut: Kupermintz considers it "extremely good", a "Nobel-level" book. It's included in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
 
 _Slapstick_ and _Jailbird_  are the only Vonnegut novels (tagged as sf) held by <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>,  the Centre International de Recherches sur l'Anarchisme. _Jailbird_ is  also listed in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
 
