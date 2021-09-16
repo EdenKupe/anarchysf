@@ -1,10 +1,10 @@
 ---
-title: "Annihilation; Authority"
+title: "Annihilation; Authority; Acceptance"
 format: "book"
 category: "v"
-yearReleased: "both 2014"
+yearReleased: "all 2014"
 author: "Jeff VanderMeer"
 ---
-First two parts of a New Weird trilogy, a first-person narrative of exploring an anomalous and apparently alien 'Area X', somewhere in Florida. Later filmed under the same name (q.v.).
+New Weird trilogy (assembled as _Area X: The Southern Reach Trilogy_), telling of an anomalous and apparently alien 'Area X', somewhere in Florida. Later filmed as _Annihilation_ (q.v.).
 
 The first novel is the principal subject of one of the <a href="https://anchor.fm/anarchysf/episodes/Annihilation--Discussions-of-Bodies-Being-Morphed-empmke">anarchySF podcasts</a>.
