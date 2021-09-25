@@ -1,8 +1,8 @@
 ---
-title: "Player Piano (1952); The Sirens of Titan  (1959); 'Harrison Bergeron' (1961); Cat's Cradle (1963); Slaughterhouse-Five  (1969); Slapstick, or Lonesome No  More! (1976); Jailbird (1980)"
+title: "Player Piano (1952); The Sirens of Titan  (1959); 'Harrison Bergeron' (1961); Cat's Cradle (1963); Slaughterhouse-Five  (1969); Slapstick, or Lonesome No  More! (1976); Jailbird (1980); Galápagos (1985)"
 format: "book"
 category: "v"
-yearReleased: "1980"
+yearReleased: "1985"
 author: "Kurt Vonnegut"
 ---
 _Player Piano_ is a dystopia in which workers displaced by machines rise up against them, in the manner of the Luddites, but end up trying hard to repair them.  Pilgrim found the end  "depressing" — hardly surprisingly.  "Like much anti-utopian and anarchist writing the problem is stated and analysed efficiently but no solution is found." (Pilgrim 1963: 366) The novel is described by Yanai Sened as prescient, in the way it talks about automation, in the 2021 anarchySF 
@@ -16,6 +16,8 @@ _Cat's Cradle_ centres on ice-nine, a supposed new crystalline structure of wate
 
 _Slaughterhouse-Five_ is discussed in part of the anarchySF <a href="https://anchor.fm/anarchysf/episodes/Kurt-Vonnegut-Wrote-Some-Pretty-Good-Books-e16jpvq">
 podcast</a> on Vonnegut: Kupermintz considers it "extremely good", a "Nobel-level" book. It's included in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
+
+The podcast also cites _Galápagos_, in which Sened comments that the author's foregrounding of meaninglessness becomes "a little bit annoying".
 
 _Slapstick_ and _Jailbird_  are the only Vonnegut novels (tagged as sf) held by <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>,  the Centre International de Recherches sur l'Anarchisme. _Jailbird_ is  also listed in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
 
