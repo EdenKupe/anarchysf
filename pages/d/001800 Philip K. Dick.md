@@ -1,5 +1,5 @@
 ---
-title: "The Last of the Masters' (1954); Solar Lottery (1955); Eye in the Sky (1957); Galactic Pot-Healer (1959); Time Out of Joint (1959); The Man in the High Castle (1962); Clans of the Alphane Moon (1964); The Penultimate Truth (1964); The Simulacra (1964); The Three Stigmata of Palmer Eldritch (1965); Counter-Clock World (1967); The Zap Gun (1967); Do Androids Dream of Electric Sheep? (1968); Ubik (1969); Flow My Tears, the Policeman Said (1974); A Scanner Darkly (1977); Valis (1981)"
+title: "The Last of the Masters' (1954); Solar Lottery (1955); Eye in the Sky (1957); Galactic Pot-Healer (1959); Time Out of Joint (1959); The Man in the High Castle (1962); Clans of the Alphane Moon (1964); The Penultimate Truth (1964); The Simulacra (1964); The Three Stigmata of Palmer Eldritch (1965); The Crack in Space (1966); Counter-Clock World (1967); The Zap Gun (1967); Do Androids Dream of Electric Sheep? (1968); Ubik (1969); Flow My Tears, the Policeman Said (1974); A Scanner Darkly (1977); Valis (1981)"
 format: "book"
 category: "d"
 yearReleased: "1981"
@@ -20,6 +20,9 @@ For Peter Werbe, writing in *Fifth Estate* #390, Fall 2013, Dick's anarchist vie
 
 *The Simulacra* "portrays a world in which government is evil, duplicitous, and bent on concealing the truth from the public." ([Riggenbach](http://mises.org/daily/5089)) The novel is cited in *The BASTARD Chronicles 2015*, as is *The Three Stigmata of Palmer Eldritch.*
 
+_The Crack in Space_ is one of Dick's weaker works, but for Evan <a href="https://tashqueedagg.wordpress.com/2013/03/12/philip-k-dick-the-crack-in-space-1966-the-setting/">Lampe</a> it is nevertheless "a warning to us that we cannot simply export or forestall the problems of underemployment, inequality, corporate rule, 
+media-controlled politicians, and racism."
+
 In *Counter-Clock World* a black religious leader, round whom much of the book revolves, is referred to throughout as the 'Anarch' Peak; but the reason for this is obscure.
 
 *The Zap Gun* depicts an America divided between those who believe the government is protecting them with ever more elaborate weaponry and those who know that none of the weaponry works, except in simulations; both parties are in on the fraud, which they perpetrate in order to prop up a permanent Cold War economy. ([Riggenbach](http://mises.org/daily/5089))
@@ -30,4 +33,4 @@ In *The Penultimate Truth* members of the elite program an android politician wh
 
 A proponent of governmental decentralisation and opponent of organised religion, it is perhaps unfortunate that some of Dick's later, delusional, work has had a posthumous influence in the emergence of anarcho-gnostics. Among these later works is *Valis*, briefly mentioned in a quotation in *The BASTARD Chronicles 2015*, which also quotes from _Radio Free Albemuth_.
 
-Evan Lampe has individual [blog](http://tashqueedagg.wordpress.com/index/) entries for each of 30 Dick novels, including one not sf.
+Lampe has individual [blog](http://tashqueedagg.wordpress.com/index/) entries for each of 30 Dick novels, including one not sf.
