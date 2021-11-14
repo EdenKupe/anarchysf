@@ -1,7 +1,7 @@
 ---
 title: "Margins and Murmurations (2017); Conserve and Control (2018); Dignity (2020)"
 format: "book"
-category: "m"
+category: "l"
 yearReleased: "2018"
 author: "Otter Lieffe"
 ---
