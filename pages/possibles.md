@@ -16,7 +16,6 @@ permalink: worksforconsideration.html
 | John Akomfrah | The Last Angel of History | <a href="biblio.htm#Red Planets">Red Planets</a>filmography |
 | Michael Albert & Robin Hannel | Looking Forward | mentioned in a mailing to anarchysf |
 | Angela Ambroz | 'Love and Anarchy and Science Fiction' | <a href="http://www.locusmag.com/Reviews/2011/06/lois-tilton-reviews-short-fiction-early-june/">www.locusmag.com/Reviews/2011/06/lois-tilton-reviews-short-fiction-early-june</a> |
-| Chester Anderson | The Butterfly Kid | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a>: "very amusing", the only "novel in a science fiction vein by a hippy about hippies" |
 | Kevin J. Anderson | Clockwork Angels | <a href="http://sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html">sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=14145243961">AbeBooks</a>;<a href="http://www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php">www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php</a> |
 | Poul Anderson | Harvest of Stars | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | Poul Anderson | Operation Changeling | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a> |
@@ -53,7 +52,6 @@ permalink: worksforconsideration.html
 | Alfred Bester | 'Time is the Traitor' | <a href="http://mises.org/daily/5167/Friedrich-Hayek-and-American-Science-Fiction">mises.org/daily/5167/Friedrich-Hayek-and-American-Science-Fiction</a> |
 | Scott Bieser & Zeke Bieser | Quantum Vibe | <a href="http://dailyanarchist.com/2013/08/16/science-fiction-and-the-stateless-society/">dailyanarchist.com/2013/08/16/science-fiction-and-the-stateless-society/</a> |
 | Terry Bisson | Any Day Now | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a>; not sf, though possibly alternate history |
-| Terry Bisson | The Left Left Behind Plus | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.pmpress.org/content/index.php?topic=news_other">www.pmpress.org/content/index.php?topic=news_other</a>;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.activedistributionshop.org/shop/35-fiction">www.activedistributionshop.org/shop/35-fiction</a> |
 | Bernard Blanc | C'est la lune finale! anthologie | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Liliana V. Blum | 'Pink Lemonade' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jacques Boireau | Les années de sable | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
@@ -61,7 +59,6 @@ permalink: worksforconsideration.html
 | Michael Borden | The Space | <a href="http://library.nothingness.org/articles/SA/en/display/266">library.nothingness.org/articles/SA/en/display/266</a>; mentioned in a mailing to anarchysf |
 | Ben Bova | The Winds of Altair | <a href="http://zinelibrary.info/files/scifirad.pdf">zinelibrary.info/files/scifirad.pdf</a> |
 | Keyan Bowes | 'Spoiling Veena' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Leigh Brackett | The Long Tomorrow | included in Evan Lampe's<a href="http://tashqueedagg.wordpress.com/2012/11/13/leigh-brackett-the-long-tomorrow-1955/">blog</a> |
 | Marion Zimmer Bradley | The Mists of Avalon | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | David Bramwell | The No. 9 Bus to Utopia | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=16271430920">AbeBooks</a> |
 | David Brin | Brightness Reef | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
@@ -121,8 +118,6 @@ permalink: worksforconsideration.html
 | Adrián del Valle | Cuentos Inverosímiles | collection of stories published in Cuba by a Catalan anarchist, including 'Vitalis', 'Cerebralis' and 'Un Rayo de Sol' (Cohn: 166) |
 | Pierre-Emmanuel Dessevres | Le Vol des faucons | reference in<a href="http://www.monde-libertaire.fr/ecologie/16317-la-pollution-tue-en-afrique">Le Monde Libertaire</a> |
 | François Dibot | Les Sources de Sheeba | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Philip K. Dick | Clans of the Alphane Moon | Fifth Estate48.2 #390, Fall 2013; included in Evan Lampe's<a href="http://tashqueedagg.wordpress.com/2013/04/12/philip-k-dick-clans-of-the-alphane-moon-1964-we-are-all-mentally-ill-2/">blog</a> |
-| Philip K. Dick | Radio Free Albemuth | The BASTARD Chronicles 2015 |
 | Philip K. Dick | The Unteleported Man / Lies, Inc. | included in Evan Lampe's<a href="http://tashqueedagg.wordpress.com/2013/04/15/philip-k-dick-the-unteleported-manlies-inc-19641984-malthus-turner-and-the-frontier/">blog</a> |
 | Philip K. Dick | We Can Rebuild You | The BASTARD Chronicles 2015 |
 | Gordon R. Dickson | The R-Master | mentioned in a mailing to anarchysf |
@@ -164,7 +159,6 @@ permalink: worksforconsideration.html
 | Diamandis Florakis | The Ponotrons and the Anarchists of the Absolute | <a href="http://www.amazon.co.uk/Ponotrons-Anarchists-Absolute-Diamandis-Florakis-ebook/dp/B00ALHJBH0/ref=sr_1_16?ie=UTF8&amp;qid=1411516914&amp;sr=8-16&amp;keywords=anarchist+science+fiction">Amazon</a>;<a href="http://www.sf-encyclopedia.com/entry/florakis_diamandis">SFE</a> |
 | Douglas Morey Ford | A Time of Terror | <a href="http://www.sf-encyclopedia.com/entry/ford_douglas_morey">SFE</a> |
 | Charles Fourier | Harmonian Society: Selected Writings | Bookchin:Ecology of Freedom; Nettlau,Short History |
-| Karen Joy Fowler | The Science of Herself | <a href="http://www.activedistributionshop.org/shop/35-fiction">www.activedistributionshop.org/shop/35-fiction</a>; PM Press Outspoken Authors |
 | Karen Joy Fowler | What I Didn't See | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Peter Frase | Four Futures | Facebook Anarchism and Science Fiction Forum |
 | Valerie J. Freireich | Becoming Human | <a href="http://www.librarything.com/work/337004/book/26911580">www.librarything.com/work/337004/book/26911580</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
@@ -185,7 +179,6 @@ permalink: worksforconsideration.html
 | William Gibson | Virtual Light | <a href="http://urbanhonking.com/spacecanon/page/3/">urbanhonking.com/spacecanon/page/3/</a> |
 | Carolyn Ives Gilman | Halfway Human | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Charlotte Perkins Gilman | Moving the Mountain | mentioned in a mailing to anarchysf |
-| Charlotte Perkins Gilman | 'The Yellow Wallpaper' | mentioned in a mailing to anarchysf |
 | Greer Gilman | Cloud and Ashes | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Victor Gischler | Go-Go Girls of the Apocalypse | <a href="http://www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse">www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse</a> |
 | Paul Glover | Los Angeles: A History of the Future | Cohn: 322 |
@@ -196,7 +189,6 @@ permalink: worksforconsideration.html
 | Hiromi Goto | The Kappa Child | <a href="http://www.librarything.com/work/128267/book/26911980">www.librarything.com/work/128267/book/26911980</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Stefan Grabinski | The Dark Domain | mentioned in a mailing to anarchysf |
 | Myra Grant | Feed | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Jean Grave | Les Aventures de Nono | described in the 2014Bottled Wasp Pocket Diaryas "a libertarian utopia for children" |
 | Troy J. Grice | Goldstein | favourable mention on<a href="https://soundcloud.com/sovryntech/sovryn-tech-ep-0075-we-need-new-futurians">https://soundcloud.com/sovryntech/sovryn-tech-ep-0075-we-need-new-futurians</a> |
 | George Griffith | 'Hellville, U.S.A.', inGambles with Destiny | "young idealist elected president of USA against trusts and anarchists, violence and Chicago revolt crushed" (Suvin) |
 | Claudia Guillén | 'The Drop' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
@@ -233,7 +225,6 @@ permalink: worksforconsideration.html
 | David Humphreys, Joel Barlow, John Trumbull, & Lemuel Hopkins | The Anarchiad: A Poem on the Restoration of Chaos and Substantial Night | online at<a href="http://mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show">mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show</a> |
 | Ian Hunter | 'Anarchy at Christmas' | <a href="http://www.locusmag.com/index/s333.htm">www.locusmag.com/index/s333.htm</a> |
 | Charles John Cutcliffe Hyne (as Weatherby Chesney) | 'The Anarchist Plot', inThe Adventures of an Engineer | . . . "attempt to blow up the Bank of England [ . . . ] All novelties destroyed with the inventors." (Suvin: 71-2);<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=4470885876&amp;ir&amp;xbf=b3MtcWctdWJ6cg__/54562939642614878671&amp;clickid=0TDUL6xmZ0-bT0YRqlWHWW1CUkXxI3RY2VdawM0&amp;cm_mmc=aff-_-ir-_-59145-_-146918&amp;afn_sr=impact&amp;ref=imprad">AbeBooks</a> |
-| Charles John Cutcliffe Hyne | The Recipe for Diamonds | "Lully's recipe found, after intrigue with anarchist destroyed again." (Suvin: 52);<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=7786740259">AbeBooks</a> |
 | Heidrun Jänchen | 'Eine typisch anarchistische Handlung' | <a href="http://www.isfdb.org/cgi-bin/title.cgi?1294886">www.isfdb.org/cgi-bin/title.cgi?1294886</a> |
 | N.K. Jemisin | The Hundred Thousand Kingdoms | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | N.K. Jemisin | The Killing Moon | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
@@ -263,7 +254,6 @@ permalink: worksforconsideration.html
 | Larissa Lai | Salt Fish Girl | <a href="http://www.librarything.com/work/47335/book/55557504">www.librarything.com/work/47335/book/55557504</a> |
 | Larissa Lai | When Fox is a Thousand | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Henri Lambert | La Superfemme | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Keith Laumer | Retief's War | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a>: "the nonhuman inhabitants of the planet Quopp live within the framework of a kind of free-wheeling libertarian socialism" |
 | Guillermo Lavin | 'Reaching the Shore' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Ursula K. Le Guin | Dreams Must Explain Themselves | <a href="http://www.scribd.com/doc/161048141/Tony-Burns-Political-Theory-Science-Fiction-And-Utopian-Literature">Burns</a> |
 | Ursula K. Le Guin | 'Mountain Ways' | Eagleheart |
@@ -272,7 +262,6 @@ permalink: worksforconsideration.html
 | Ursula K. Le Guin | Searoad | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Ursula K. Le Guin | 'She Unnames Them' | <a href="http://theanarchistlibrary.org/library/Jamie_Heckert__Queerly_Erotic__An_open_love_letter_to_Ursula_Le_Guin.html">Heckert</a> |
 | Ursula K. Le Guin | Tales from Earthsea | mentioned in a mailing to anarchysf |
-| Ursula K. Le Guin | The Wave in the Mind | <a href="http://theanarchistlibrary.org/library/Jamie_Heckert__Queerly_Erotic__An_open_love_letter_to_Ursula_Le_Guin.html">Heckert</a> |
 | Ursula K. Le Guin | Winter's King | mentioned in a mailing to anarchysf |
 | Gustave Le Rouge | The Billionaires' Conspiracy | referenced in the 2014Bottled Wasp Pocket Diary |
 | Gustave Le Rouge | Vampires of Mars | referenced in the 2014Bottled Wasp Pocket Diary |
@@ -281,7 +270,6 @@ permalink: worksforconsideration.html
 | Jules Lermina | Histoires Incroyables | Lermina wroteL'A.B.C. du Libertaireand contributed to the Argentine anarchist paperLa Protesta; he also wrote "scores ofHistoires Incroyables(1885, 1888) and science-fiction novels inspired by Bulwer-Lytton" (Cohn: 166-7). Lytton's influence is only mentioned by<a href="http://www.sf-encyclopedia.com/entry/lermina_jules">SFE</a>as onL'effrayante aventure. |
 | Jules Lermina | Nouvelles Histoires Incroyables | Lermina wroteL'A.B.C. du Libertaireand contributed to the Argentine anarchist paperLa Protesta; he also wrote "scores ofHistoires Incroyables(1885, 1888) and science-fiction novels inspired by Bulwer-Lytton" (Cohn: 166-7). Lytton's influence is only mentioned by<a href="http://www.sf-encyclopedia.com/entry/lermina_jules">SFE</a>as onL'effrayante aventure. |
 | Fred Levinson | Hail! | <a href="biblio.htm#Red Planets">Red Planets</a>filmography |
-| Gustav Linbach | The Azrael of Anarchy | . . . "a near-future England subverted by an anarchist conspiracy against the realm". (<a href="http://www.sf-encyclopedia.com/Entry/linbach_gustave">SFE</a>) |
 | Dénis Lindbohm |  | are strongly individualist and anarchist.Swedish SF writer whose views were "strongly individualist and anarchist" (<a href="http://www.sf-encyclopedia.com/entry/lindbohm_denis">SFE</a>) |
 | Megan Lindholm | Wizard of the Pigeons | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Vachel Lindsay | The Golden Book of Springfield | <a href="http://anarchy101.org/4872/what-is-your-favorite-anarchist-novel">anarchy101.org/4872/what-is-your-favorite-anarchist-novel</a> |
@@ -302,7 +290,6 @@ permalink: worksforconsideration.html
 | Ken Macleod | The Restoration Game | <a href="http://www.goodreads.com/book/show/6766039-the-restoration-game">www.goodreads.com/book/show/6766039-the-restoration-game</a> |
 | Emily St John Mandel | Station Eleven | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Brit Mandelo, ed. | Beyond Binary | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Ethel Mannin | Bread and Roses | anarchist utopia (Cohn: 228) |
 | Lawrence Manning | 'The Man Who Awoke' | Part Four of the serial, entitled 'The Individualist's, "should have presented a real anarchy", according to Winston, but only gives it a paragraph, while showing "contempt for government" |
 | Lawrence Manning and Fletcher Pratt | 'City of the Living Dead' | early dystopia referenced by Winston |
 | Matilde Marcolli | City of Sorrow | <a href="http://www.lulu.com/shop/matilde-marcolli/city-of-sorrow/paperback/product-20703686.html">www.lulu.com/shop/matilde-marcolli/city-of-sorrow/paperback/product-20703686.html</a>; self-promoted on<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Anarchism and Science Fiction Forum</a> |
@@ -359,7 +346,6 @@ permalink: worksforconsideration.html
 | Tom Moylan | Demand the Impossible | Easterbrook;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.fifthestate.org/archive/367-winter-2004-2005/last-exit-to-utopia/">www.fifthestate.org/archive/367-winter-2004-2005/last-exit-to-utopia/</a> |
 | David Erik Nelson | 'There Was No Sound of Thunder' | <a href="http://www.locusmag.com/Reviews/2014/04/lois-tilton-reviews-short-fiction-early-april-4/">www.locusmag.com/Reviews/2014/04/lois-tilton-reviews-short-fiction-early-april-4/</a> |
 | Ray Faraday Nelson | Then Beggars Could Ride | <a href="http://www.sf-encyclopedia.com/entry/nelson_ray_faraday">www.sf-encyclopedia.com/entry/nelson_ray_faraday</a> |
-| Ray Faraday Nelson | 'Turn Off the Sky' | <a href="http://socialistjazz.blogspot.co.uk/2011/07/ffb-long-stories-ray-nelson-turn-off.html">http://socialistjazz.blogspot.co.uk/2011/07/ffb-long-stories-ray-nelson-turn-off.html</a>;<a href="http://sfmagazines.com/?p=483">sfmagazines.com/?p=483</a> |
 | Patrick Ness | The Knife of Never Letting Go | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Stan Nicholls | 'Fantastic Anarchy' | <a href="http://www.locusmag.com/index/s497.htm">www.locusmag.com/index/s497.htm</a>; Moorcock interview |
 | Larry Niven | Tales of Known Space | mentioned in a mailing to anarchysf |
@@ -392,7 +378,6 @@ permalink: worksforconsideration.html
 | John Picha | Pandora Driver: The Origin | <a href="http://www.goodreads.com/book/show/12058671-pandora-driver">www.goodreads.com/book/show/12058671-pandora-driver</a> |
 | Daniel Pinkwater | Alan Mendelsohn: The Boy from Mars | not known to be @, but rec. in Doctorow'sLittle Brother |
 | Frederik Pohl & C.M. Kornbluth | Wolfbane | "In a regimented society of the far Future, a group of rebels defy all rules and conventions in their struggle for liberty." (Clarke 1978) |
-| Rachel Pollack | Unquenchable Fire | <a href="http://www.fifthestate.org/archive/380-spring-2009/rachel-pollack-willing-change-everything/">www.fifthestate.org/archive/380-spring-2009/rachel-pollack-willing-change-everything/</a> |
 | Francis W. Porretto | Freedom's Fury | <a href="http://smile.amazon.com/Freedoms-Fury-Spooner-Federation-Saga-ebook/dp/B00HIL3Q8C/ref=sr_1_16?s=books&amp;ie=UTF8&amp;qid=1424778519&amp;sr=1-16&amp;keywords=anarchism+in+science+fiction">Amazon</a> |
 | Francis W. Porretto | Freedom's Scion | <a href="http://smile.amazon.com/Freedoms-Scion-Francis-W-Porretto/dp/1490557067/ref=sr_1_39?s=books&amp;ie=UTF8&amp;qid=1424778475&amp;sr=1-39&amp;keywords=anarchism+in+science+fiction">Amazon</a> |
 | Aaron B. Powell | Doomsday Diaries, #1 | <a href="http://www.goodreads.com/book/show/15767282-doomsday-diaries-1">www.goodreads.com/book/show/15767282-doomsday-diaries-1</a> |
@@ -428,7 +413,6 @@ permalink: worksforconsideration.html
 | Daniel de Roulet | La routine infernale (Die Höllen-Routine: eine Art Politkrimi) | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Marcel Rouff | Journey to the Inverted World | <a href="http://www.locusmag.com/Perspectives/2011/11/spotlight-on-brian-stableford-translator-and-author/">www.locusmag.com/Perspectives/2011/11/spotlight-on-brian-stableford-translator-and-author</a>; "a wonderful item of anarchist sf" (Stableford) |
 | Alex Rozov | Meganezia | <a href="http://paulmillr.com/posts/libertarian-reading-list/">paulmillr.com/posts/libertarian-reading-list</a> |
-| Rudy Rucker | Realware | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
 | Rudy Rucker & John Shirley | cyberpunk anthology 2012 [so far unidentified by me] | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
 | Matt Ruff | Set This House in Order | <a href="http://www.librarything.com/work/23100/book/26911567">www.librarything.com/work/23100/book/26911567</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Han Ryner | L'Amour plural : roman d'aujourd'hui et de demain | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue; author expressed anarchist political views—other SF works listed in<a href="http://www.sf-encyclopedia.com/entry/ryner_han">SFE</a> |
@@ -436,21 +420,18 @@ permalink: worksforconsideration.html
 | Ian Sanderson | The Archers Anarchists | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | C.J. Sansom | Dominion | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
 | C.J. Sansom | Lamentation | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
-| Richard Henry Savage | The Anarchist: A Story of Today | a tale of political intrigue and violence set in a Near Future America ransacked by anarchists - See more at: http://www.sf-encyclopedia.com/entry/savage_richard_henry#sthash.3eHSHpSE.dpuf<a href="http://www.sf-encyclopedia.com/entry/savage_richard_henry">SFE</a>: "a tale of political intrigue and violence set in a Near Future America ransacked by anarchists" |
 | John Scalzi | Old Man's Warseries | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Lorraine Schein | 'Angel of Anarchy' and other writings | recommended by Lorraine Schein in emails to me |
 | Lorraine Schein | The Raw Brunettes | recommended by Lorraine Schein in emails to me |
 | Lorraine Schein | 'The Anarchist Speaks' | <a href="http://www.locusmag.com/index/yr2003/t72.htm">www.locusmag.com/index/yr2003/t72.htm</a> |
 | Afonso Schmidt | Zanzalá | <a href="http://publish.lib.umd.edu/scifi/article/view/278/41">Rodriguez</a> |
 | Ken Scholes | 'A Good Hair Day in Anarchy' | <a href="http://www.locusmag.com/index/yr2006/s60.htm">www.locusmag.com/index/yr2006/s60.htm</a> |
-| Jody Scott | I, Vampire | mentioned in a mailing to anarchysf |
 | Jody Scott | Passing for Human | mentioned in a mailing to anarchysf |
 | Ekaterina Sedia, ed. | Paper Cities | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Louis Segeral | Les Nouvelles de la Combe | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Thomas Sewell | Sharper Security | <a href="http://www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security">www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security</a> |
 | J.C. Shannon | 'The Dream of Jacques the Anarchist', in Who Shall Condemn? and Other Stories | "Dream of future war similar to Griffith's in which resentful slum anarchist moves amid aircraft and new explosives." (Suvin: 59) |
 | Nisi Shawl | 'Deep End' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Nisi Shawl | Filter House | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Robert Sheckley | The Status Civilization | <a href="http://www.goodreads.com/shelf/show/libertarian-science-fiction">www.goodreads.com/shelf/show/libertarian-science-fiction</a> |
 | Charles Sheffield | Between the Strokes of Night | among books cited by Nick Mamatas inThe BASTARD Chronicles 2015as hard SF overwhelmed by religious allegory |
 | Percy Bysshe Shelley | Queen Mab | <a href="http://www.depauw.edu/sfs/backissues/4/suvin4art.htm">www.depauw.edu/sfs/backissues/4/suvin4art.htm</a> |
@@ -481,7 +462,6 @@ permalink: worksforconsideration.html
 | Norman Spinrad | Pictures at 11 | mentioned in a mailing to anarchysf |
 | Nancy Springer | Larque on the Wing | <a href="http://www.librarything.com/work/94118/book/26911935">www.librarything.com/work/94118/book/26911935</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Apollo Starmule | Undo the Winter | <a href="http://www.locusmag.com/2006/Monitor/Books11a.html">www.locusmag.com/2006/Monitor/Books11a.html</a> |
-| Neal Stephenson | 'The Great Simoleon Caper' | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/FrontPageTempDir/www.board.freedomainradio.com/topic/24056-anarchist-or-near-anarchist-sci-fi">board.freedomainradio.com/topic/24056-anarchist-or-near-anarchist-sci-fi</a> |
 | Bruce Sterling | The Artificial Kid | mentioned in a mailing to anarchysf |
 | Bruce Sterling | The Caryatids | suggested on the Facebook<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Anarchism and Science Fiction</a>forum |
 | Bruce Sterling | Globalhead | mentioned in a mailing to anarchysf;<a href="http://www.librarything.com/work/48661/book/50433876">www.librarything.com/work/48661/book/50433876</a> |
