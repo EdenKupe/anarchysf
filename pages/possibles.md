@@ -229,7 +229,6 @@ permalink: worksforconsideration.html
 | N.K. Jemisin | The Hundred Thousand Kingdoms | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | N.K. Jemisin | The Killing Moon | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | K.W. Jeter | Fiendish Schemes | <a href="http://www.locusmag.com/Monitor/2013/10/new-books-15-october/">www.locusmag.com/Monitor/2013/10/new-books-15-october/</a> |
-| Michel Jeury | Chronolysis | "Disorientated agent of an anarcho-socialist near-future finds himself at the centre of a conflict with multinational corporations trying to alter history so as to take over the future." (Board & Miéville: 257) |
 | Michel Jeury | L'Univers Ombre | libertarian utopia |
 | Eduardo Jiménez Mayo and Chris N. Brown, eds | Three Messages and a Warning | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Alexandro Jodorowsky and Zoran Janjetov | Before the Inca #4: Psycho Anarchist | <a href="http://www.amazon.co.uk/Before-Incal-4-Psycho-Anarchist-ebook/dp/B00SWONGCA/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1434975002&amp;sr=1-3&amp;keywords=anarchist+novels">Amazon</a> |
