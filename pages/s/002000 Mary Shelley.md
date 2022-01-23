@@ -11,5 +11,7 @@ _Frankenstein_, now widely regarded as the first work of modern science fiction,
 
 Critic John Rieder, in his 2008 _Colonialism and the Emergence of Science Fiction_, considered that the novel "serves the polemical function of arguing that criminality is not inherent, but rather is produced by political injustice, along lines that derive from the rationalist philosophy of Shelley's father, William Godwin's, _Political Justice_". More  recently (2013), John Zerzan has described _Frankenstein_ as "a  classic warning about the hubris of technology's combat against nature".
 
+Richard Gough Thomas, in his 2019 _William Godwin, a Political Life_, considers _Frankenstein_'s debt to Godwin is obvious, but notes too her philosophical independence from her father: "In Godwin's novels, characters espouse moral principles that they fail to live up to; in _Frankenstein_, the principles themselves are open to question ( . . . )."
+
 _The Last Man_, though historically important in SF as a very early post-catastrophe story, is overwhelmingly tedious, and was understandably out of print for over a century. The character of Lionel's father, as described in the novel's opening pages, has been seen as a portrait of William Godwin (Luke 1965: xii). In an 1824 letter from Godwin to the author he gave at best lukewarm opinions on the extracts she had sent him.
  
