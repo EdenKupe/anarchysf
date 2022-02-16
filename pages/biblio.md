@@ -197,6 +197,7 @@ layout: worksforconsideration
 | Rush | 1959 | review of Young: _The Rise of the Meritocracy_, _Freedom_ |
 | S., P. (probably Philip Sansom) | 1978 | review of Harrison: _Bill, the Galactic Hero_. _Cienfuegos Press Anarchist Review_ 4:44 |
 | S., P. (Philip Sansom) | 1983-12-17 | '1984 and the Big Brothers are waiting', _Freedom_ 25.44: 1 |
+| Sampson, Fiona | 2018 | _In Search of Mary Shelley. The Girl Who Wrote Frankenstein_, London: Profile Books |
 | Sargent, Lyman Tower | Oct 1969 | 'An Anarchist Utopia', _Anarchy_ 104,9: 316–20 |
 | ____ | 1979 | _British and American Utopian Literature 1516–1975. An annotated bibliography_. Boston: G.K. Hall |
 | Shaw, George Bernard | 1965 | _Collected Letters 1874–97_, ed. Dan H. Laurence. London: Max Reinhardt |
