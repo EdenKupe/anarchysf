@@ -31,13 +31,13 @@ const searchInstance = autocomplete(
           suggestion.permalink = linkText;
           return (
             '<span class="searchtitlecontainer">' +
-            '<a href="#' + linkText + '" + class="searchtitle" href="' +
+            '<a href="/index.html#' + linkText + '" + class="searchtitle" href="' +
             link +
             '">' +
             value +
             "</a> </span>" +
             "<br />" +
-            '<a class="searchlinktext" href="#' +
+            '<a class="searchlinktext" href="/index.html#' +
             linkText +
             '">' +
             '<span class="searchcontentcontainer">' +
