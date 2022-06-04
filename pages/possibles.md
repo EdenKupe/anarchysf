@@ -178,7 +178,6 @@ permalink: worksforconsideration.html
 | William Gibson | Distrust that Particular Flavor | review inFifth Estate, Winter 2013 |
 | William Gibson | Virtual Light | <a href="http://urbanhonking.com/spacecanon/page/3/">urbanhonking.com/spacecanon/page/3/</a> |
 | Carolyn Ives Gilman | Halfway Human | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Charlotte Perkins Gilman | Moving the Mountain | mentioned in a mailing to anarchysf |
 | Greer Gilman | Cloud and Ashes | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Victor Gischler | Go-Go Girls of the Apocalypse | <a href="http://www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse">www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse</a> |
 | Paul Glover | Los Angeles: A History of the Future | Cohn: 322 |
@@ -285,7 +284,6 @@ permalink: worksforconsideration.html
 | Phyllis Maclennan | Turned Loose on Irdra | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=264159288">AbeBooks</a> |
 | Ken Macleod | Engine City | <a href="http://www.goodreads.com/book/show/185823.Engine_City">www.goodreads.com/book/show/185823.Engine_City</a>;<a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Ken Macleod | The Corporation Wars: Insurgence | <a href="http://www.locusmag.com/Reviews/2017/04/russell-letson-reviews-ken-macleod/">www.locusmag.com/Reviews/2017/04/russell-letson-reviews-ken-macleod/</a>;<a href="https://seesharppress.wordpress.com/tag/military-science-fiction/">seesharppress.wordpress.com/tag/military-science-fiction/</a>;<a href="https://seesharppress.wordpress.com/2017/10/29/review-the-corporation-wars-emergence-by-ken-macleod/">seesharppress.wordpress.com/2017/10/29/review-the-corporation-wars-emergence-by-ken-macleod/</a> |
-| Ken Macleod | The Execution Channel | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Ken Macleod | The Restoration Game | <a href="http://www.goodreads.com/book/show/6766039-the-restoration-game">www.goodreads.com/book/show/6766039-the-restoration-game</a> |
 | Emily St John Mandel | Station Eleven | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Brit Mandelo, ed. | Beyond Binary | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
