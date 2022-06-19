@@ -1,8 +1,8 @@
 ---
-title: "The Star Fraction (1996); The Stone Canal (1997); The Cassini Division (1999); The Sky Road (1999); Cosmonaut Keep (2000); Dark Light (2001);  Newton's Wake (2004);  Learning the World (2005); The Night Sessions (2008); Intrusion (2012); The Human Front Plus (2013); The Corporation Wars: Dissidence"; The Corporation Wars: Insurgence (2016)"
+title: "The Star Fraction (1996); The Stone Canal (1997); The Cassini Division (1999); The Sky Road (1999); Cosmonaut Keep (2000); Dark Light (2001);  Newton's Wake (2004);  Learning the World (2005); The Night Sessions (2008); Intrusion (2012); The Human Front Plus (2013); The Corporation Wars: Dissidence (2016), Insurgence (2016), Emergence (2017)"
 format: "book"
 category: "m"
-yearReleased: "2016"
+yearReleased: "2017"
 author: "Ken Macleod"
 ---
 
@@ -28,8 +28,7 @@ In Macleod's 2002 <a href="http://media.wix.com/ugd/f0c74f_a5e27cce5f504aaea74c0
 
 In the same article he stated that he couldn't have written _The Star Fraction_ without Nozack's _Anarchy, State and Utopia_, or _The Sky Road_ without Gambone's _Proudhon and Anarchism_. Elsewhere he said that _Star Fraction_ also owed a debt to Rothbard's _For a New Liberty_, and _Stone Canal_ to Friedman's _The Machinery of Freedom_.
 
-Farah Mendlesohn's 'Impermanent Revolution: The Anarchic Utopias of Ken MacLeod', in her <a href="https://www.smashwords.com/books/view/696324">_Rejected Essays and 
-Buried Thoughts_</a>, considers Macleod's 'Fall Revolution' series (the first four novels above) at some length. She argues that "Each of MacLeod’s utopias is built upon a different anarchist theory." In summary:
+Farah Mendlesohn's 'Impermanent Revolution: The Anarchic Utopias of Ken MacLeod', in her <a href="https://www.smashwords.com/books/view/696324">_Rejected Essays and Buried Thoughts_</a>, considers Macleod's 'Fall Revolution' series (the first four novels above) at some length. She argues that "Each of MacLeod’s utopias is built upon a different anarchist theory." In summary:
 
 "The Fall Revolution Quartet tries to show how a viable anarchy might function, but unlike many utopian authors MacLeod is anxious to provide a choice of models: this multiplicity of models is in itself crucial to any anarchist project. To insist on only one model, only one truth for utopia, would be to revert to ideological authoritarianism. MacLeod outlines for us four potential or actual utopias: a Trotskyite utopia (which never comes to pass and which I will not be considering here) in The Star Fraction, a libertarian, anarcho-capitalist society in both isolated and universalist form in The Stone Canal, a socialist Stirnerite anarchy in The Cassini Division, and in The Sky Road, an ecotopia which may or may not be anarchic or libertarian, depending on one’s definition. The common threads between the three established utopias are the rejection of the state as the primary means of organisation, and the assertion of utopia as a necessarily civilised and technological project, rather than as a retreat to primitivism."
 
@@ -41,6 +40,5 @@ Zeke Teflon</a>, for whom this is "the best near-future dystopian sci-fi novel t
 _The Human Front Plus_ is one of the PM Press short books coupling a title novella with a short or an essay, an author interview, and a bibliography. In this case the novella is an entertaining alternate history. In the interview (with Terry Bisson), when asked whether he would describe himself as a libertarian, Macleod replied ". . . I don't call myself a Libertarian, in the sense of a supporter of the Libertarian Party or anything like that. My usual handwave for my position is "hard-left libertarian" but in practice I just vote Labour."
 
 _The Corporation Wars: Dissidence_ is the first book of a hard SF trilogy centring on sentient robots, dead soldiers digitally reincarnated, and complex worlds of simulation, engaged in megacorporate combat. Again, favourably reviewed by [Teflon](https://seesharppress.wordpress.com/2016/12/21/the-corporation-wars-dissidence-by-ken-macleod/), for whom it is "highly recommended." <a href="https://seesharppress.wordpress.com/tag/military-science-fiction/">
-Teflon</a> also recommends the second book, _The Corporation Wars: Insurgence_.
-
+Teflon</a> also recommends the second book, _Insurgence,_ and, in a <a href="https://seesharppress.wordpress.com/2017/10/29/review-the-corporation-wars-emergence-by-ken-macleod/">later review</a>, _Emergence_ (though with the rider that having read the previous two was a prerequisite).
 
