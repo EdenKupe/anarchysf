@@ -42,7 +42,7 @@ layout: worksforconsideration
 | Brent, John | 1975-01-25 | 'Science and Sorcery', _Freedom_ 36.4:6 |
 | Brunner, John | Jan 1964 | 'On Political Attitudes in SF', _New Worlds Science Fiction_ 2-3, 121-3, 125 |
 | Burgess, Anthony | 1975-01-25 | 'Clockwork Orange', _Freedom_ 44.5: 2 |
-| Call, Lewis | Oct 1999 | 'Anarchy in the Matrix: Postmodern Anarchism in the Novels of William Gibson and Bruce Sterling', _Anarchist Studies_ 7: 99–117 |
+| Call, Lewis | Oct 1999 | 'Anarchy in the Matrix: Postmodern Anarchism in the Novels of William Gibson and Bruce Sterling', _Anarchist Studies_ 7: 99–117; republished as Ch. 4 of his 2003 _Postmodern Anarchism_ |
 | ____ | Nov 2002 | 'Anarchistic gift economies in contemporary science fiction', _Anarchist Studies_ 10.2: 119–144 |
 | Callow, Christos, Jr, and Anna McFarlane | 2016 | _Adam Roberts. Critical Essays_. Canterbury: Gylphi |
 | Campbell, John W., Jr | March 1961 | 'Constitution for Utopia', _Analog_ |
