@@ -192,7 +192,6 @@ permalink: worksforconsideration.html
 | Amil Habibi | The Secret Life of Saeed the Pessoptimist | mentioned in a mailing to anarchysf |
 | Andrea Hairston | Mindscape | <a href="http://www.librarything.com/work/1129489/book/55557490">www.librarything.com/work/1129489/book/55557490</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Andrea Hairston | Redwood and Wildfire | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Joe Haldeman | Buying Time | <a href="http://www.catb.org/~esr/writings/sf-history.html">www.catb.org/~esr/writings/sf-history.html</a> |
 | Sarah Hall | Daughters of the North | <a href="http://www.librarything.com/work/3256265/book/41294208">www.librarything.com/work/3256265/book/41294208</a> |
 | Peter F. Hamilton | Night's Dawntrilogy | mentioned in a mailing to anarchysf |
 | Harry Harrison | Homeworld | <a href="https://www.goodreads.com/shelf/show/libertarian-science-fiction">www.goodreads.com/shelf/show/libertarian-science-fiction</a> |
