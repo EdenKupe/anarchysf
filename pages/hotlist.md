@@ -88,6 +88,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Robert Nichols: _Daily Lives in Nghsi-Altai_ (1977–9)
 
+* M.E. O'Brien and Eman Abdelhadi: _Everything for Everyone. An Oral History of the New York Commune, 2052–2072_ (2022)
+
 * Henry Olerich: _A Cityless and Countryless World. An Outline of Practical Co-operative Individualism_ (1893)
 
 * George Orwell: _Nineteen Eighty-Four_ (1949)
