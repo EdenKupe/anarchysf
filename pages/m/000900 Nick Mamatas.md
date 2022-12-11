@@ -17,4 +17,4 @@ _The Planetbreaker's Son Plus_ (one of the PM Press Outspoken Authors series) fe
 
 Frankel's review also covered _The Second Shooter_, which features a journalist researching the phenomenon of people reporting a second shooter at mass shootings, and associated conspiracy theories. The reviewer concludes that the novel is "a powerful, brilliant work of literary art in which there is no escaping the absurdity of existence."
 
-In a 2019 <a href="https://www.wewillrememberfreedom.com/podcast/the-great-armored-train-by-nick-mamatas/">interview</a> Mamatas self-identified as an anarchist.
+In a 2019 <a href="https://www.wewillrememberfreedom.com/podcast/the-great-armored-train-by-nick-mamatas/">interview</a> Mamatas self-identified as an anarchist. He is also a member of the collective that publishes _The Anarchist Review of Books_.
