@@ -1,5 +1,5 @@
 ---
-title: "Sensation (2011); The People's Republic of Everything (2018); The Planetbreaker's Son Plus (2021)"
+title: "Sensation (2011); The People's Republic of Everything (2018); The Planetbreaker's Son Plus (2021); The Second Shooter (2021)"
 format: "book"
 category: "m"
 yearReleased: "2018"
@@ -14,5 +14,7 @@ Mamatas was the keynote speaker at the <a href="http://sfbay-anarchists.org/conf
 <em>The People's Republic of Everything</em> —a short-story collection including  his short novel <em>Under My Roof</em> —was warmly reviewed by Carrie Laben in _Fifth Estate_ #401, Summer 2018; the inclusion of the definitive text of <em>Under My Roof</em> —"a satire about nuclear war and nuclear families"—Laben  regards as "A highpoint for both anarchists and lovers of literature". The story  'The People's Republic of Everywhere and Everything' includes a quotation from  Spanish anarchist Buenaventura Durruti.
 
 _The Planetbreaker's Son Plus_ (one of the PM Press Outspoken Authors series) features the eponymous novella, which Jon Frankel's review in _The Anarchist Review of Books_, issue #3, Spring 2022, describes as "a thought experiment that tests the proposition that humanity can ever escape anything: personality, history, Earth, and, ultimately, physical existence." Frankel concludes that "Musk and Bezos would still be greedy, narcissistic jerks whether they were coded in molecular biological systems or quantum computers."
+
+Frankel's review also covered _The Second Shooter_, which features a journalist researching the phenomenon of people reporting a second shooter at mass shootings, and associated conspiracy theories. The reviewer concludes that the novel is "a powerful, brilliant work of literary art in which there is no escaping the absurdity of existence."
 
 In a 2019 <a href="https://www.wewillrememberfreedom.com/podcast/the-great-armored-train-by-nick-mamatas/">interview</a> Mamatas self-identified as an anarchist.
