@@ -1,10 +1,12 @@
 ---
-title: "Gravity's Rainbow (1973); Against the Day (2006)"
+title: "The Crying of Lot 49 (1966); Gravity's Rainbow (1973); Against the Day (2006)"
 format: "book"
 category: "p"
 yearReleased: "2006"
 author: "Thomas Pynchon"
 ---
+For Graham Benton, "In _The Crying of Lot 49_, Pynchon probes many ideas and ideals of anarchism as they were resurrected in the American New Left and countercultures of the 1960s . . .". (see citation below). The work is also referenced in <a href="biblio.htm#Gifford">Gifford</a>, and in Cohn's '<a href="https://theanarchistlibrary.org/library/jesse-cohn-anarchism-and-the-crisis-of-representation">Anarchism and the Crisis of Representation</a>.'
+
 _Gravity's Rainbow_ is long and difficult, with over  400 characters and multiply fractured plots, and has been seen as  quintessentially postmodern. Set principally in 1945, the centrality of rocketry  and rocket engineering, coupled with reflection on determinism, paranoia and  conspiracy, bring it within the purview of science fiction without ever really  approaching the genre per se. Compelling, even when (as often) impenetrable. The  interest for anarchists is less overt than in _Against the Day_. Both works  were discussed in a session called 'Against the Day: anarchism in the fiction of  Pynchon' at the <a href="http://sfbay-anarchists.org/conference/bastard-2012/"> 2012 BASTARD conference</a>.
 
 _Against the Day_ is an exceptional, and exceptionally long, transgeneric novel  steeped in science fictional influences, and heavily laced with anarchists and  anarchist activities reflecting the period setting (1893 to just after World War  I). There are, in particular, references to Tucker, Bakunin, Stirnerite  individualism, the Haymarket martyrs, the IWW, Zapata, Villa and the Mexican  revolution, and a number of assassinations: Czolgosz's of McKinley, Bresci's of  Umberto I, Sipido's attempted assassination of the Prince of Wales, and  Berkman's attempted murder of industrialist Henry Clay Frick.
