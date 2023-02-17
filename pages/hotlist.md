@@ -24,7 +24,7 @@ While _The Dispossessed_ is recommended below, I feel like the _The Eye of the H
 
 Over the not-too-long length of the book, these two groups come into collision. In the background, lending the book its "ethereal" quality, is the planet itself and its wilderness. Like in many UKL stories, nature plays a big role in this book. As the two groups of humans clash, questions about how empty the planet really is hover in the background, reminding us of the native and the unknown. The book also raises questions of pacifism's limit, how organizing works, and what happens when anarchist ideas are tested in the field.
 
-#### M.John Harrison - The Centauri Device
+#### M. John Harrison - The Centauri Device
 
 The degree to which M. John Harrison is underread today is criminal. He has one of the weirdest and most original minds around, whether he's writing bleak sci-fantasy (_Viriconium_), deconstructed and nightmarishly nihilistic space-opera (_Empty Space Trilogy_) or an anarchist space-opera. The latter is what I would like to recommend here, since it touches upon anarchy more than his other books listed here. _The Centauri Device_ bears immediate comparison to Alfred Bester's masterpiece, _The Stars My Destination_; a loner takes on the entire universe and its political system, battling it out against governments and corporations.
 
@@ -97,6 +97,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 * Eric Frank Russell: _The Great Explosion_ (1962)
 
 * Robert Sheckley: 'Skulking Permit'(1954)
+
+* Peter Lamborn Wilson: 'Visit Port Watson!' (1985)
 
 * Robert Anton Wilson and Robert Shea: _Illuminatus!_ (1975)
 
