@@ -11,4 +11,6 @@ author: "Joseph Déjacque"
 _L'Humanisphère_ was first serialised in _Le Libertaire_, the US's first anarcho-communist journal, of which Déjacque was editor. (Killjoy, 2009) Déjacque is said to have exercised an influence on the anarchist movement in Latin America through the intermediary figure of journalist Sebastian Faure. (Heffes 2009: 129; see bibliography for full sources.)
 
 A working translation is available <a href="https://www.libertarian-labyrinth.org/working-translations/joseph-dejacque-the-humanisphere-1858/">here</a>.
- 
+
+In the Fall 2022 issue of _Fifth Estate_ John Clark promoted a Déjacque Bicentennial Conference, in an article entitled 'The Anarchist Almost No One Knows'. Clark considers that "Déjacque deserves much greater attention than he has received, and much greater recognition of his significance in the history of anarchism and utopianism."
+
