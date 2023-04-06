@@ -375,8 +375,6 @@ permalink: worksforconsideration.html
 | Aaron B. Powell | Doomsday Diaries, #1 | <a href="http://www.goodreads.com/book/show/15767282-doomsday-diaries-1">www.goodreads.com/book/show/15767282-doomsday-diaries-1</a> |
 | Aaron B. Powell | Doomsday Diaries: The Complete Series | <a href="http://www.goodreads.com/book/show/17279748-doomsday-diaries">www.goodreads.com/book/show/17279748-doomsday-diaries</a> |
 | Terry Pratchett | Feet of Clay | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/FrontPageTempDir/www.andersmonsen.com/50-works-of-fiction-libertarians-should-read">www.andersmonsen.com/50-works-of-fiction-libertarians-should-read</a> |
-| Terry Pratchett | Men at Arms | <a href="http://www.librarything.com/work/1044311/book/26911741">www.librarything.com/work/1044311/book/26911741</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Terry Pratchett | The Truth | <a href="http://www.librarything.com/work/1044870/book/26911007">www.librarything.com/work/1044870/book/26911007</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Gary Raab | The White Knight in the City of Pirates | "Portrays a twenty-seventh century anarchistic pirate colony." (Dan Clore) The first chapter is available<a href="http://web.archive.org/web/20071031060733/www.antelope-ebooks.com/SF/WKOS2/city01.html">online</a>. |
 | Hannu Rajaniemi | The Fractal Prince | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Hannu Rajaniemi | The Quantum Thief | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
@@ -430,8 +428,7 @@ permalink: worksforconsideration.html
 | Lucius Shepard | Life During Wartime | mentioned in a mailing to anarchysf |
 | Delia Sherman | The Freedom Maze | Joint winner of the 2012 Prometheus Award. A fine novel, but it's fantasy, not sf. |
 | R.C. Sherriff | The Hopkins Manuscript | has an anarchist character, according to Moorcock (2012) |
-| John Shirley | City Come a-Walkin' | <a href="http://www.goodreads.com/book/show/1123715.City_Come_a_Walkin_">www.goodreads.com/book/show/1123715.City_Come_a_Walkin</a> |
-| John Shirley | Eclipsetrilogy | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
+| John Shirley | Eclipse trilogy | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
 | John Shirley | Everything is Broken | <a href="http://www.locusmag.com/Perspectives/2013/01/david-brin-our-favorite-cliche-a-world-filled-with-idiots-orwhy-films-and-novels-routinely-depict-society-and-its-citizens-as-fools/">www.locusmag.com/Perspectives/2013/01/david-brin-our-favorite-cliche-a-world-filled-with-idiots-orwhy-films-and-novels-routinely-depict-society-and-its-citizens-as-fools/</a> |
 | Gary G. Shriver | Cynia:An Original Utopia(1965 unpublished MA thesis, University of Wyoming) | individualist anarchist eutopia (Sargent: 141) |
 | Neal Shusterman | Unwind | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
