@@ -33,7 +33,6 @@ permalink: worksforconsideration.html
 | Paolo Bacigalupi | Ship Breaker | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
 | Joe E. Bandel | Anarchist Knight: Apprentice | Blurb:Anarchist Knight: Apprenticeis the first book in a trilogy about Tobal Kane and his friends. It is a fast paced futuristic action adventure set in the Cascade mountains of Washington State. Join Tobal and his friends as they seek to unlock the mystery of Heliopolis and the strange death of his parents. |
 | Iain M. Banks | Against a Dark Background | mentioned in a mailing to anarchysf |
-| Stephen Baxter | Ring | among books cited by Nick Mamatas inThe BASTARD Chronicles 2015as hard SF overwhelmed by religious allegory |
 | Barrington J. Bayley | The Star Virus | mentioned in a mailing to anarchysf |
 | Barrington J. Bayley | The Zen Gun | mentioned in a mailing to anarchysf |
 | Elizabeth Bear | Carnival | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
@@ -75,7 +74,6 @@ permalink: worksforconsideration.html
 | Mikhail Bulgakov | Heart of a Dog | <a href="https://libcom.org/library/working-class-literature-reading-guide">libcom.org/library/working-class-literature-reading-guide</a> |
 | Ben Burgis | Three Perspectives on the Role of the Anarchists in the Zombie Apocalypse | online at<a href="http://www.talesofworldwarz.com/stories/2008/03/07/three-perspectives-on-the-role-of-the-anarchists-in-the-zombie-apocalypse-by-ben-burgis/">www.talesofworldwarz.com/stories/2008/03/07/three-perspectives-on-the-role-of-the-anarchists-in-the-zombie-apocalypse-by-ben-burgis/</a> |
 | Edgar Rice Burroughs | The Moon Maid | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
-| William S. Burroughs | The Ticket that Exploded |  |
 | Octavia E. Butler | Survivor | mentioned in a mailing to anarchysf |
 | Beatrice May Butt aka W.H. Alhusen (pub. as "by the author of Miss Molly") | The Laws of Leflo | Included in<a href="k.htm#Killjoy">Killjoy</a>'slist of stories that explore anarchist societies. |
 | CABU, François Cavanna, & Bernard Clavel | Il y a 40 ans: Hiroshima | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
@@ -104,14 +102,12 @@ permalink: worksforconsideration.html
 | Julio Cortázar | 'House Taken Over' | mentioned in a mailing to anarchysf |
 | Ronald Creagh | Les zanars | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Cryptoworld 2050 | New World Order | <a href="http://www.amazon.co.uk/Contract-New-World-Order-Book-ebook/dp/B00KUMOZY0/ref=sr_1_14?ie=UTF8&amp;qid=1411516914&amp;sr=8-14&amp;keywords=anarchist+science+fiction">Amazon</a> |
-| The Curious George Brigade | Anarchy in the Age of Dinosaurs | <a href="http://zinelibrary.info/files/anarchy-in-the-age-of-dinosaurs.pdf">zinelibrary.info/files/anarchy-in-the-age-of-dinosaurs.pdf</a>but is a manifesto, and of no SF interest |
 | Philippe Curval |  | This French SF writer is said to have described his views as anarchistic. (Thomas 1985) |
 | Rick Dakan | Geek Mafia: Black Hat Blues | <a href="http://www.akpress.com/2009/items/mythmakersandlawbreakers">Killjoy</a>; according to Killjoy, the third book in the series, Geek Mafia: Black Hat Blues,"introduces anarchist politics more directly" |
 | Sean Dalton | Showdown: Time Trap | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=11367727536">AbeBooks</a> |
 | Andrew Darlington | 'Angels of Anarchy / Learning to Live with Fragmentation' | <a href="http://www.locusmag.com/index/t328.htm">www.locusmag.com/index/t328.htm</a> |
 | Andrew Darlington | 'Watching the Nine O'Clock News / Judge Dredd Meets Mr Anarchy' | <a href="http://www.locusmag.com/index/t901.htm">www.locusmag.com/index/t901.htm</a> |
 | Gérard de Lacaze-Duthiers | Le Roman de Mauer, homme fossile: Récit de l'âge d'or | Cohn: 235 |
-| Samuel R. Delany | Hogg | BASTARD;www.thedailybeast.com/articles/2016/03/05/sci-fi-hero-samuel-delany-s-outsider-art.html, |
 | Charles de Lint | Greenmantle | mentioned in a mailing to anarchysf |
 | Charles de Lint | Someplace to be Flying | mentioned in a mailing to anarchysf |
 | Lester del Rey, ed. | The Day the Sun Stood Still | mentioned in a mailing to anarchysf |
@@ -167,7 +163,6 @@ permalink: worksforconsideration.html
 | Roslyn Fuller | Isak | <a href="http://www.urban75.net/forums/threads/good-anarchist-and-left-wing-fiction-writers.268983/#post-9984151">www.urban75.net/forums/threads/good-anarchist-and-left-wing-fiction-writers.268983/#post-9984151</a> |
 | Pierre Gabus and Romual Reutimann | District 14: Season 1 #1: Are You an Anarchist? | <a href="http://www.amazon.co.uk/District-14-Season-Are-Anarchist-ebook/dp/B00SX56YDQ/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1434975002&amp;sr=1-2&amp;keywords=anarchist+novels">Amazon</a> |
 | Stephen Gaillard | The Pirates of the Sky | <a href="http://www.sf-encyclopedia.com/entry/gaillard_stephen">SFE</a>: "Young Adult tale in which an intrepid pilot and a resourceful newspaper reporter track down and are instrumental in defeating an anarchist conspiracy" |
-| Neil Gaiman | Coraline | horror/fantasy; unimportant mention in Lacoss |
 | Giuseppe Galzerano | I ricchi e gli oppressori non moriranno più! Romanzo di fantascienza contro il trapianto del cuore | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Agustín Garcia Calvo | Comunicado URGENTE contra el Despilfarro | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Jane Gaskell | Strange Evil | mentioned in a mailing to anarchysf |
@@ -175,11 +170,9 @@ permalink: worksforconsideration.html
 | Mary Gentle | Rats and Gargoyles | mentioned in a mailing to anarchysf |
 | Lewis Grassic Gibbon | Spartacus | mentioned in a mailing to anarchysf |
 | William Gibson | Distrust that Particular Flavor | review inFifth Estate, Winter 2013 |
-| William Gibson | Virtual Light | <a href="http://urbanhonking.com/spacecanon/page/3/">urbanhonking.com/spacecanon/page/3/</a> |
 | Carolyn Ives Gilman | Halfway Human | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Greer Gilman | Cloud and Ashes | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Victor Gischler | Go-Go Girls of the Apocalypse | <a href="http://www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse">www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse</a> |
-| Paul Glover | Los Angeles: A History of the Future | Cohn: 322 |
 | Christopher Golden | Tin Men | <a href="http://www.buzzfeed.com/andrewliptak/27-speculative-fiction-and-related-books-to-read-t-hclt#.fvKGPGXe1G">www.buzzfeed.com/andrewliptak/27-speculative-fiction-and-related-books-to-read-t-hclt#.fvKGPGXe1G</a> |
 | Rex Gordon | The Yellow Fraction | recommended on Facebook 'Anarchists and Science Fiction' page |
 | Hiromi Goto | Half World | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
@@ -252,7 +245,6 @@ permalink: worksforconsideration.html
 | Guillermo Lavin | 'Reaching the Shore' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Ursula K. Le Guin | Dreams Must Explain Themselves | <a href="http://www.scribd.com/doc/161048141/Tony-Burns-Political-Theory-Science-Fiction-And-Utopian-Literature">Burns</a> |
 | Ursula K. Le Guin | 'Mountain Ways' | Eagleheart |
-| Ursula K. Le Guin | The Other Wind | mentioned in a mailing to anarchysf |
 | Ursula K. Le Guin | A Ride on the Red Mare's Back | children's, fantasy; Lacoss |
 | Ursula K. Le Guin | Searoad | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Ursula K. Le Guin | 'She Unnames Them' | <a href="http://theanarchistlibrary.org/library/Jamie_Heckert__Queerly_Erotic__An_open_love_letter_to_Ursula_Le_Guin.html">Heckert</a> |
@@ -277,13 +269,10 @@ permalink: worksforconsideration.html
 | Elizabeth A. Lynn | The Woman who Loved the Moon and Other Stories | mentioned in a mailing to anarchysf |
 | Joseph Lyons and Cecil Raleigh (pseudonym of Cecil Rowlands) | The Master Crime | . . . "a near future tale involving an anarchist destabilization of Britain, causing the Bank of England to close its doors." (<a href="http://www.sf-encyclopedia.com/Entry/lyons_joseph">SFE</a>) The first co-author is the very Joe Lyons who founded Lyons Corner Houses. |
 | p.m. | Akiba: A Gnostic Novel | <a href="http://pioneerspress.com/catalog/zines/4009/">pioneerspress.com/catalog/zines/4009/</a>;<a href="http://www.fifthestate.org/archive/380-spring-2009/bizarre-gnostic-science-fiction-author-bolobolo/">www.fifthestate.org/archive/380-spring-2009/bizarre-gnostic-science-fiction-author-bolobolo/</a> |
-| John Henry Mackay | Die Anarchisten: Kulturgemälde aus dem Ende des XIX Jahrhunderts | <a href="http://www.academia.edu/4377644/Anarchism_and_Utopia">www.academia.edu/4377644/Anarchism_and_Utopia</a> |
 | Phyllis Maclennan | Turned Loose on Irdra | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=264159288">AbeBooks</a> |
 | Ken Macleod | Engine City | <a href="http://www.goodreads.com/book/show/185823.Engine_City">www.goodreads.com/book/show/185823.Engine_City</a>;<a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Ken Macleod | The Restoration Game | <a href="http://www.goodreads.com/book/show/6766039-the-restoration-game">www.goodreads.com/book/show/6766039-the-restoration-game</a> |
-| Emily St John Mandel | Station Eleven | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Brit Mandelo, ed. | Beyond Binary | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Lawrence Manning | 'The Man Who Awoke' | Part Four of the serial, entitled 'The Individualist's, "should have presented a real anarchy", according to Winston, but only gives it a paragraph, while showing "contempt for government" |
 | Lawrence Manning and Fletcher Pratt | 'City of the Living Dead' | early dystopia referenced by Winston |
 | Matilde Marcolli | City of Sorrow | <a href="http://www.lulu.com/shop/matilde-marcolli/city-of-sorrow/paperback/product-20703686.html">www.lulu.com/shop/matilde-marcolli/city-of-sorrow/paperback/product-20703686.html</a>; self-promoted on<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Anarchism and Science Fiction Forum</a> |
 | Matilde Marcolli | Yamaon | self-promoted on<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Anarchism and Science Fiction Forum</a> |
@@ -328,7 +317,6 @@ permalink: worksforconsideration.html
 | Christopher Morgan | Anarchist in the Rose Garden | <a href="http://www.infoshop.org/inews/article.php?story=20070323160132363">www.infoshop.org/inews/article.php?story=20070323160132363</a> |
 | Edward R. Morris | Fathers and Sons: Blackguard, Book One | included in David Agranoff's list of "<a href="included%20in%20David%20Agranoff's%20list%20of%20%22anarchist-themed-sci-fi%22">anarchist-themed-sci-fi</a>" |
 | James Morrow | City of Truth | <a href="https://seesharppress.wordpress.com/page/12/">Teflon</a>;<a href="https://riproaringreviews.wordpress.com/">riproaringreviews.wordpress.com/</a> |
-| James Morrow | This is the Way the World Ends | <a href="http://www.sf-encyclopedia.com/entry/morrow_james">www.sf-encyclopedia.com/entry/morrow_james</a> |
 | Walter Mosley | 'Archibald Lawless, Anarchist at Large: Walking the Line' | <a href="http://www.locusmag.com/index/yr2005/d50.htm">www.locusmag.com/index/yr2005/d50.htm</a> |
 | Jim Munroe | Everyone in Silico | <a href="http://www.librarything.com/work/230134/book/26911600">www.librarything.com/work/230134/book/26911600</a>; mentioned in a mailing to anarchysf;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jim Munroe | Flyboy Action Figure Comes With Gasmask | mentioned in a mailing to anarchysf |
