@@ -12,7 +12,6 @@ _Mind of My Mind_, the second of the _Patternist_ series, is much stronger. Call
 
 _Kindred_ is probably Butler's best-known work, and  is by now pretty much a standard text, featuring a complex critique of race and  power relationships in the ante-bellum South, from the viewpoint of an  African-American woman from 1976, who is intermittently pulled back to 1815  whenever her slave-owning white forebear is in danger.
 
-
 _Wild Seed_ is the first of Butler's _Patternist_ series, in internal sequence. Call devotes half a dozen pages to the series, including a couple of pages specifically on _Wild Seed_, in his 'Structures of desire'. He sees the novel as "a sadomasochistic love story," in which Butler discovered "a kind of erotic play-slavery," which she presents as "an effective strategic and symbolic challenge to a principal character's "ugly, empire-building slavery." He concludes that "A text would have to be kinky _and_ postanarchist to achieve something like that."
 
 For Anu Bonobo, in _Fifth Estate_ #<a href="http://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">373</a>,
@@ -23,8 +22,7 @@ The _Xenogenesis_ stories have also been  recommended on the Facebook <a href="h
  
 The two _Parable_ books chart the  rise of a movement based on mutual aid (or just common human decency) amid the  breakdown of society in the United  States. Warm and literate, it's unfortunate that the author chose to hang her  principles on a new religion.
  
-Butler's work, and especially the _Parable_ novels, were featured in articles in her memory, by Anu Bonobo and Benjamin  Carson, in _Fifth Estate_ in 2006. While Bonobo focuses on her Afrofuturism,  Carson, while relishing the mutual aid depicted, finds Butler's orientation  towards a future in space "deeply troubling".
-
+Butler's work, and especially the _Parable_ novels, were featured in articles in her memory, by Anu Bonobo and Benjamin  Carson, in _Fifth Estate_ in 2006. While Bonobo focuses on her Afrofuturism,  Carson, while relishing the mutual aid depicted, finds Butler's orientation  towards a future in space "deeply troubling". See also '<a href="https://theanarchistlibrary.org/library/earthseed-for-anarchists">Earthseed for Anarchists</a>', at The Anarchist Library.
 
 Bonobo, in _Fifth Estate_ #<a href="http://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">373</a>,  speaks of the vampire collectives of _Fledgling_ as "bloodlinked free love  communes—of a sort. But since the symbionts need the vampire kiss like a junky  needs his needle, it’s difficult to define this as a liberated relationship." _Fledgling_ is included in the Think Galactic <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a> as  well as the Swindon Anarchist Group's list of <a href="https://swindonanarchistgroup.wordpress.com/2009/01/08/anarchistresistance-novels/"> anarchist/resistance novels</a>.
  
