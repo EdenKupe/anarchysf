@@ -1,5 +1,5 @@
 ---
-title: "Patternmaster (1976); Mind of My Mind (1977); Kindred (1979); Wild Seed (1980); Lilith's Brood (1987–1989, aka Xenogenesis; consisting of Dawn (1987),  Adulthood Rites (1988), and Imago (1989)); Parable of the Sower (1994); Parable of the Talents (1999); Fledgling (2005)"
+title: "Patternmaster (1976); Mind of My Mind (1977); Kindred (1979); Wild Seed (1980); Lilith's Brood (1987–1989, aka Xenogenesis; consisting of Dawn (1987),  Adulthood Rites (1988), and Imago (1989)); Parable of the Sower (1994); Parable of the Talents (1999); Fledgling (2005); 'Childfinder' (2014; written in 1971)"
 format: "book"
 category: "b"
 yearReleased: "2005"
@@ -25,4 +25,6 @@ The two _Parable_ books chart the  rise of a movement based on mutual aid (or ju
 Butler's work, and especially the _Parable_ novels, were featured in articles in her memory, by Anu Bonobo and Benjamin  Carson, in _Fifth Estate_ in 2006. While Bonobo focuses on her Afrofuturism,  Carson, while relishing the mutual aid depicted, finds Butler's orientation  towards a future in space "deeply troubling". See also '<a href="https://theanarchistlibrary.org/library/earthseed-for-anarchists">Earthseed for Anarchists</a>', at The Anarchist Library.
 
 Bonobo, in _Fifth Estate_ #<a href="http://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">373</a>,  speaks of the vampire collectives of _Fledgling_ as "bloodlinked free love  communes—of a sort. But since the symbionts need the vampire kiss like a junky  needs his needle, it’s difficult to define this as a liberated relationship." _Fledgling_ is included in the Think Galactic <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a> as  well as the Swindon Anarchist Group's list of <a href="https://swindonanarchistgroup.wordpress.com/2009/01/08/anarchistresistance-novels/"> anarchist/resistance novels</a>.
- 
+
+'Childfinder' is discussed at some length in Melanie Marie West's <a href="https://escholarship.org/uc/item/6cw1300j">dissertation</a> 'Afrofuturism in Practice: Octavia E. Butler Studies and the Production of Politically Engaged Black Speculative Fiction'. She sees the story as key to Butler's future work, as bridging "Afrofuturism, Afro-pessimism and Black Anarchist thought." In particular, 'Childfinder' "reflects the Black autonomous zones which can be found in the organizing practices of Black Anarchists."
+
