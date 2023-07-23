@@ -1,5 +1,5 @@
 ---
-title: "'Requiem' (1940);  The Day After Tomorrow  (1941),  Methuselah's Children   (1941/1958);   'Waldo' (1942); Red Planet   (1949); The Puppet  Masters   (1951); Revolt in 2100  (1953);  Double Star  (1956); Citizen of the Galaxy (1957); Starship Troopers (1959); Stranger in a Strange Land   (1961); Farnham's Freehold (1964);  The Moon is a Harsh Mistress  (1966);  Time Enough for Love (1973); Friday (1982); For Us, the Living (2004; written 1939)"
+title: "'Requiem' (1940);  The Day After Tomorrow  (1941),  Methuselah's Children   (1941/1958);   'Waldo' (1942); Red Planet   (1949); The Puppet  Masters   (1951); Revolt in 2100  (1953);  Double Star  (1956); Citizen of the Galaxy (1957); Starship Troopers (1959); Stranger in a Strange Land   (1961); Farnham's Freehold (1964);  'Free Men' (1966, probably written c. 1948); The Moon is a Harsh Mistress  (1966);  Time Enough for Love (1973); Friday (1982); For Us, the Living (2004; written 1939)"
 format: "book"
 category: "h"
 yearReleased: "2004"
@@ -26,6 +26,8 @@ In 2014 <a href="http://www.anarchogeekreview.com/books/starship-troopers-by-rob
 Eagle, in 1969, found that "_Stranger in a  Strange Land_ contains a beautiful religion or philosophy." The book tied  for the 1987 Libertarian Futurist Society Hall of Fame Award.
 
 In _Farnham's Freehold_ a nuclear attack  propels a US family into a future society where blacks rule and whites are kept  as slaves and bred for food. Highly offensive and reactionary, it is if anything  worse than _Starship Troopers_. For Moorcock, "It's not such a big step, for  instance, from Farnham's Freehold to Hitler's Lebensraum." (Moorcock 1978)
+
+'Free Men' received the Prometheus Hall of Fame Award in 2023.
 
 _The Moon is a Harsh Mistress_ is one of Heinlein's more acceptable books, and one to which a version of anarchism is central—a blend of individualist anarchism and Jeffersonian democracy that Heinlein calls 'rational anarchism'. The story concerns the successful lunar war of independence, and owes much to the historical precedent of the American revolution. For Robert Shea,
 
