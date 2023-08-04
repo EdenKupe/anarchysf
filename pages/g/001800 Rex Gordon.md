@@ -3,7 +3,7 @@ title: "Utopia 239"
 format: "book"
 category: "g"
 yearReleased: "1955"
-author: "Rex Gordon"
+author: "Rex Gordon (pseud. of Stanley Bennett Hough)"
 ---
 One of the few explicitly anarchist SF novels. The plot is stock utopian: the protagonists escape via time machine into the future, encounter utopia, and decide to stay.
  
