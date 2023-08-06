@@ -74,6 +74,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Mike Gilliland: _The Free_ (2nd edn 2011)
 
+* D.D. Johnston: _Disnaeland_ (2022)
+
 * Ernest C. Large: _Dawn in Andromeda_ (1956)
 
 * Ursula K. Le Guin: _The Dispossessed_ (1974)
