@@ -21,7 +21,5 @@ The film is discussed at some length in Taylor  Andrew Loy's 'Anarchy in Critica
 
 — and concludes that "Not only does this  statement clearly refer to an Anarchistic world, it is also a useful  general description of the telos of Anarchistic rebellion: the  perpetual generation of change and revolution without constraints."  [p215]
 
-Alex Prichard, in the 2022 edition of <em>Anarchism. A Very Short Introduction,</em> comments, of the first three <em>Matrix</em> films, that ". . . you will struggle to find a more successful anarchist 
-franchise than these. All four films explore the relationship of man to machine questions of freedom and domination, of identity and humanity."
 
 
