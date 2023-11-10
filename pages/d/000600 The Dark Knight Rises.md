@@ -6,9 +6,9 @@ yearReleased: "2012"
 author: "Christopher Nolan"
 ---
 Set eight years after the previous film, Batman comes out of  retirement to take on the imposing figure of Bane, and save Gotham  City from nuclear destruction; Catwoman is also featured, and Robin  introduced.
-  
-David Graeber opens his _New Enquiry_ essay '<a href="http://thenewinquiry.com/essays/super-position/">Super  Position</a>' (with a longer version published as 'On Batman and  the Problem of Constituent Power', in Graeber 2015 by stating that "_The Dark Knight Rises_ really  is a piece of anti-Occupy propaganda," whilst acknowledging that  Christopher Nolan claims that the script was written before the  movement started, and that the scenes of the occupation of Gotham  were actually inspired by Dickens's account of the French  Revolution. Graeber feels that the film is defeated by its own  ambition, and "stuttered into incoherence."
-  
+
+David Graeber opened his _New Enquiry_ essay '<a href="http://thenewinquiry.com/essays/super-position/">Super  Position</a>' (with a longer version published as 'On Batman and  the Problem of Constituent Power', in Graeber 2015 by stating that "_The Dark Knight Rises_ really  is a piece of anti-Occupy propaganda," whilst acknowledging that  Christopher Nolan claims that the script was written before the  movement started, and that the scenes of the occupation of Gotham  were actually inspired by Dickens's account of the French  Revolution. Graeber felt that the film is defeated by its own  ambition, and "stuttered into incoherence."
+ 
 Reddit's Anarchy 101 has a <a href="https://www.reddit.com/r/Anarchy101/comments/2c9v23/would_bane_from_the_dark_knight_rises_qualify_as/"> page</a> discussing 'Would Bane from the Dark Knight Rises qualify  as an Anarchist?':
 
 For AutumnLeavesCascade, "That whole film  trilogy contains strong anti-anarchist propaganda, so we ought  not trust its depictions of its "anarchists". Nevertheless, Bane  had a bit of the rhetoric and actions, but ultimately his  character progression was to make the film's point that you  can't trust anti-authoritarian resistance to not become  tyrannical, it's the typical bullshit that anarchy results in a  backswing of warlordism or totalitarianism."
