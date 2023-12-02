@@ -21,4 +21,5 @@ The podcast also cites _Galápagos_, in which Sened comments that the author's f
 
 _Slapstick_ and _Jailbird_  are the only Vonnegut novels (tagged as sf) held by <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>,  the Centre International de Recherches sur l'Anarchisme. _Jailbird_ is  also listed in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
 
-Vonnegut described himself as a pacifist,  an anarchist, and  a planetary citizen. (Vonnegut 1981, Granada pb edn: 124)   
+Vonnegut described himself as a pacifist,  an anarchist, and  a planetary citizen. (Vonnegut 1981, Granada pb edn: 124) <a href="https://www.counterpunch.org/2019/12/27/kurt-vonnegut-anarchist-and-social-critic/">Gaither Stewart</a> quotes him as saying "I’m fascinated by the Paris Commune for example, especially its branch of anarchism. People tend to hang onto natural anarchy. The life of Bakunin is useful. Seen as useful people, anarchists offer a fascinating alternative to big government today." 
+
