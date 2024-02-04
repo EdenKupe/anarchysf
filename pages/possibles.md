@@ -6,29 +6,29 @@ permalink: worksforconsideration.html
 
 | Author/Director | Title | Comments and/or web links |
 | --- | --- | --- |
-| Shale Aaron | Virtual Death | <a href="http://www.librarything.com/work/749026/book/26911595">www.librarything.com/work/749026/book/26911595</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author</a> |
+| Shale Aaron | Virtual Death | <a href="http://www.librarything.com/work/749026/book/26911595">www.librarything.com/work/749026/book/26911595</a>; <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author</a> |
 | Dafydd Ab Hugh |  | <a href="http://articles.latimes.com/1989-07-03/entertainment/ca-2383_1_science-fiction-fans">articles.latimes.com/1989-07-03/entertainment/ca-2383_1_science-fiction-fans</a> |
 | Edward Abbey | Good News | <a href="http://www.goodreads.com/book/show/3636146-good-news">www.goodreads.com/book/show/3636146-good-news</a> |
-| Kathy Acker | Pussy, King of the Pirates | relationship with anarchism discussed in Diana Fare's 2002 PhD thesis 'The Edges of the Unsaid: Transgressive Practices in the Fiction of Kathy Acker', downloadable from<a href="http://ethos.bl.uk/OrderDetails.do?did=1&amp;uin=uk.bl.ethos.247621">EThOS</a> |
+| Kathy Acker | Pussy, King of the Pirates | relationship with anarchism discussed in Diana Fare's 2002 PhD thesis 'The Edges of the Unsaid: Transgressive Practices in the Fiction of Kathy Acker', downloadable from <a href="http://ethos.bl.uk/OrderDetails.do?did=1&amp;uin=uk.bl.ethos.247621">EThOS</a> |
 | Russell Ackerman | Broken | <a href="https://www.facebook.com/pages/Anarchists-and-Science-Fiction/1454355641446975?fref=ts">www.facebook.com/pages/Anarchists-and-Science-Fiction/1454355641446975?fref=ts</a> |
 | John Joseph Adams | Seeds of Change | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Paul Adam | Lettres de Malaisie | <a href="http://www.sf-encyclopedia.com/entry/adam_paul">SFE</a>: describes a totalitarian dystopia; author "espoused strongly argued anarchist views", but mostly through historical novels |
-| John Akomfrah | The Last Angel of History | <a href="biblio.htm#Red Planets">Red Planets</a>filmography |
+| John Akomfrah | The Last Angel of History | <a href="biblio.htm#Red Planets">Red Planets</a> filmography |
 | Michael Albert & Robin Hannel | Looking Forward | mentioned in a mailing to anarchysf |
 | Angela Ambroz | 'Love and Anarchy and Science Fiction' | <a href="http://www.locusmag.com/Reviews/2011/06/lois-tilton-reviews-short-fiction-early-june/">www.locusmag.com/Reviews/2011/06/lois-tilton-reviews-short-fiction-early-june</a> |
-| Kevin J. Anderson | Clockwork Angels | <a href="http://sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html">sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=14145243961">AbeBooks</a>;<a href="http://www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php">www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php</a> |
+| Kevin J. Anderson | Clockwork Angels | <a href="http://sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html">sciencefictionworld.com/books/science-fiction-books/1112-clockwork-angels-a-review.html</a>; <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=14145243961">AbeBooks</a>; <a href="http://www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php">www.theatlasphere.com/columns/130911-christmas-clockwork-angels.php</a> |
 | Poul Anderson | Harvest of Stars | <a href="http://wconger.liberty.me/2014/08/10/top-10-sci-fi-liberty-novels-you-probably-havent-read/">Conger</a> |
 | Poul Anderson | Operation Changeling | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a> |
-| Jean-Pierre Andrevon |  | interviewed in<a href="http://www.monde-libertaire.fr/cultures/16847-derriere-la-plume-devant-lecran-entretien-avec-jean-pierre-andrevon">Le Monde Libertaire</a> |
+| Jean-Pierre Andrevon |  | interviewed in <a href="http://www.monde-libertaire.fr/cultures/16847-derriere-la-plume-devant-lecran-entretien-avec-jean-pierre-andrevon">Le Monde Libertaire</a> |
 | Ilona Andrews | The Questing Beast | <a href="http://www.lunastationquarterly.com/on-freebies-and-cheapies/">www.lunastationquarterly.com/on-freebies-and-cheapies</a> |
 | anon. | In the Future | Suvin says it includes Godwinian anarchists |
 | Christopher Anvil | 'Gadget versus Trend' | <a href='https://groups.google.com/forum/#!searchin/rec.arts.sf.written/"Anarchist$20Advocacy$20in$20SF"/rec.arts.sf.written/ECqb0cUMjAc/5DLGiNSmbEMJ'>groups.google.com/forum/#!searchin/rec.arts.sf.written/%22Anarchist$20Advocacy$20in$20SF%22/rec.arts.sf.written/ECqb0cUMjAc/5DLGiNSmbEMJ</a> |
 | Juan Pedro Aparicio, Luis Mateo Díez, & José María Merino | Words in the Snow [A Filandòn] | <a href="http://www.christiebooks.com/ChristieBooksWP/">www.christiebooks.com/ChristieBooksWP/</a> |
 | Eleanor Arnason | Mammoths of the Great Plains plus | PM Press Outspoken Authors |
 | Eleanor Arnason | Ring of Swords | <a href="http://www.librarything.com/work/94136/book/26912107">www.librarything.com/work/94136/book/26912107</a> |
-| Eleanor Arnason | A Woman of the Iron People | <a href="http://www.librarything.com/work/722198/book/26911968">www.librarything.com/work/722198/book/26911968</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
+| Eleanor Arnason | A Woman of the Iron People | <a href="http://www.librarything.com/work/722198/book/26911968">www.librarything.com/work/722198/book/26911968</a>; <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Neal Asher | The Departure | included in David Agranoff's list of "<a href="http://www.goodreads.com/review/list/2167338-david-agranoff?shelf=anarchist-themed-sci-fi">anarchist-themed-sci-fi</a>" |
-| Ayerdahl | Sexomorphoses | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
+| Ayerdahl | Sexomorphoses | tagged as SF in the <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a> catalogue |
 | Leo Babauta |  | describes himself as an anarchist (<a href="http://leobabauta.com/33">leobabauta.com/33</a>); had guest post on<a href="http://www.sfwa.org/2011/07/guest-post-finding-your-voice/">SFWA website</a>in 2011 |
 | Paolo Bacigalupi | Ship Breaker | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a> |
 | Joe E. Bandel | Anarchist Knight: Apprentice | Blurb:Anarchist Knight: Apprenticeis the first book in a trilogy about Tobal Kane and his friends. It is a fast paced futuristic action adventure set in the Cascade mountains of Washington State. Join Tobal and his friends as they seek to unlock the mystery of Heliopolis and the strange death of his parents. |
@@ -50,7 +50,6 @@ permalink: worksforconsideration.html
 | Jasper Bernes | We Are Nothing and So Can You | <a href="http://www.akpress.org/we-are-nothing-and-so-can-you.html">www.akpress.org/we-are-nothing-and-so-can-you.html</a> |
 | Alfred Bester | 'Time is the Traitor' | <a href="http://mises.org/daily/5167/Friedrich-Hayek-and-American-Science-Fiction">mises.org/daily/5167/Friedrich-Hayek-and-American-Science-Fiction</a> |
 | Scott Bieser & Zeke Bieser | Quantum Vibe | <a href="http://dailyanarchist.com/2013/08/16/science-fiction-and-the-stateless-society/">dailyanarchist.com/2013/08/16/science-fiction-and-the-stateless-society/</a> |
-| Terry Bisson | Any Day Now | <a href="http://www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3">www.rudyrucker.com/blog/mp3/rucker_bisson_shirley_anarchist_book_fair_san_francisco_march_31_2012.mp3</a>; not sf, though possibly alternate history |
 | Bernard Blanc | C'est la lune finale! anthologie | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Liliana V. Blum | 'Pink Lemonade' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jacques Boireau | Les années de sable | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
