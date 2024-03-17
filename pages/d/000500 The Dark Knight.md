@@ -15,3 +15,5 @@ Further,
 
 "When _Dark Knight_ came out in 2008, there  was much discussion over whether the whole thing was really a vast  metaphor for the war on terror: how far is it okay for the good guys  (America, obviously) to adapt the bad guy’s methods? The filmmakers  managed to respond to these issues and still produce a good movie. This  is because the War on Terror actually was a battle of secret networks  and manipulative spectacles. It began with a bomb and ended with an  assassination. One can almost think of it as an attempt, on both sides,  to actually enact a comic book version of the universe."
 
+In 2021 David Christopher developed an interesting anarchist <a href="https://brightlightsfilm.com/framing-the-mentally-ill-an-anarchist-theoretical-understanding-of-two-jokers/#.YbfCwL3MKXI">analysis</a> comparing and contrasting the Joker as depicted in _The Dark Knight_ and 2019's _The Joker_.
+
