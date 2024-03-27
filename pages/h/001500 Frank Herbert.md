@@ -19,3 +19,7 @@ Hero.' In this vein, the revolution led by Paul merely reproduces previously-exi
 
 He further notes that Herbert, who he says was was an agent of the US Republican Party, "betrays worrisome fixations with genetics, racialism, caste, myth, and violence in his six _Dune_ novels."
 
+2024's <a href="https://anarchistnews.org/content/anarchist’s-guide-dune">An Anarchist's Guide to Dune</a> gives a thorough account of the degree of Herbert's exposure to anarchism, stressing that though influenced by anarchists, his orientation was actually to what Americans understand as libertarianism. The article, ascribed simply to 'thecollective', concludes that:
+
+"Beyond the critique of religion, _Dune_ is also a giant anarchist parable of power, a Machiavellian opera depicting the clockwork of the tyrants, written by a domestic tyrant. _Hero_ is a bad word in _Dune_, and the freest people in the story, the Fremen, are reduced into the standing army of a hero named Paul Atreides, a eugenic experiment grown autonomous from his masters. As the anarchist saying goes, _no one is fit to rule, and no one deserves to be a slave_, and _Dune_ illustrates this perfectly."
+
