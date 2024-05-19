@@ -31,7 +31,7 @@ a major influence on _Walkaway_; he <a href="https://www.c-span.org/video/?44671
 _Radicalized_ is a collection of four novellas. <a href="https://seesharppress.wordpress.com/2013/10/24/anarchist-science-fiction-favorite-novels/">
 Teflon</a> describes the stories as "uniformly well written and emotionally affecting", concluding that "This is probably Doctorow’s best book to date."
 
-_The Lost Cause_ is described by the <a href="https://craphound.com/category/lostcause/">author</a> as a "solarpunk, hopepunk novel of the climate emergency". It's full of optimism and mutual aid, but rather reads as thought Doctorow isn't sure whether or not it's intended as YA.
+_The Lost Cause_ is described by the <a href="https://craphound.com/category/lostcause/">author</a> as a "solarpunk, hopepunk novel of the climate emergency". It's full of optimism and mutual aid, but rather reads as though Doctorow isn't sure whether or not it's intended as YA.
 
 In an August 2018 <a href="Thanks%20for%20this,%20Oliver.%20I'll%20give%20it%20attention%20in%20the%20next%20day%20or%20two,%20and%20hope%20to%20circulate%20the%20agenda%20by%20the%20end%20of%20this%20week."> interview</a> Doctorow states explicitly that he's not an anarchist, but that he doesn't know what he is.
 
