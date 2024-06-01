@@ -15,6 +15,9 @@ _Anarchy in a Dream_ is evidently an anarchist utopia. Life there is apparently 
 
 "The world of Anarchy is based on the principle of Bakunin: "We presume that we first destroy and then we create, because the destruction is the spirit of creation". The Gordins consolidate the ideological basis. In other works, they develop so-argued their refusal to contemporary science and develop a non-Aristotelian logic – like non-Euclidean geometry – by eliminating one of its axioms, the law of 'excluded middle'. Considering that two proposals that contradict each other can be simultaneously false and can therefore be denied, they deduce a 'logic of pure negation'." [<a href="https://docs.google.com/document/d/1qGaHJ_aL-TwEFjEDpFY6gXRYLTVTwDnmq18pQK1phnw/edit">Leonid Heller</a>]
 
+The work is described at some length in Jesse Cohn's 2024 _Hot Equations. Science, Fantasy, and the Radical Imagination on a Troubled Planet_, with a good number of longish translated quotations. There isn't space here to do justice to Cohn's discussion which, however, strongly suggests the need for a good English translation.
+
 See also <a href="https://www.academia.edu/41807554/Anarchy_as_Access_to_Space_Language_Imagination_Technics_eng_">Eugene Kuchinov</a>.
 
 _Not translated into English, so not read._
+
