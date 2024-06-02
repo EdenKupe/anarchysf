@@ -402,7 +402,6 @@ permalink: worksforconsideration.html
 | Lorraine Schein | 'The Anarchist Speaks' | <a href="http://www.locusmag.com/index/yr2003/t72.htm">www.locusmag.com/index/yr2003/t72.htm</a> |
 | Afonso Schmidt | Zanzalá | <a href="http://publish.lib.umd.edu/scifi/article/view/278/41">Rodriguez</a> |
 | Ken Scholes | 'A Good Hair Day in Anarchy' | <a href="http://www.locusmag.com/index/yr2006/s60.htm">www.locusmag.com/index/yr2006/s60.htm</a> |
-| Jody Scott | Passing for Human | mentioned in a mailing to anarchysf |
 | Ekaterina Sedia, ed. | Paper Cities | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Louis Segeral | Les Nouvelles de la Combe | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Thomas Sewell | Sharper Security | <a href="http://www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security">www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security</a> |
