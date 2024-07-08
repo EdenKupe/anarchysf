@@ -374,7 +374,6 @@ permalink: worksforconsideration.html
 | Alastair Reynolds | 'Great Wall of Mars' | mentioned in a mailing to anarchysf |
 | Mack Reynolds | The Rival Rigellians | mentioned in a mailing to anarchysf |
 | Mack Reynolds | Tomorrow Might be Different | mentioned in a mailing to anarchysf |
-| Leonard Richardson | Constellation Games | <a href="http://www.candlemarkandgleam.com/shop/constellation-games/">www.candlemarkandgleam.com/shop/constellation-games/</a>; [Goodreads](https://www.goodreads.com/book/show/13063050-constellation-games) |
 | Kalin Ringkvist |  | anarchist SF author:<a href="http://kalinbooks.com/anarchism/">kalinbooks.com/anarchism/</a> |
 | J. Paul Rinnan | Republic Lost | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=10524754180">AbeBooks</a> |
 | Alfonso Martínez Rizo | El amor dentro de 200 años (Love in 200 Years) | <a href="http://publish.lib.umd.edu/scifi/article/view/278/41">Rodriguez</a> |
