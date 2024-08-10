@@ -9,4 +9,5 @@ _Filter House_ was recommended by <a href="http://nwsfsnews.blogspot.com/2009/10
 
 _Talk Like a Man plus_ is another of the excellent PM Press Outspoken Authors series. The book was reviewed at some length by Rich Dana in the Spring 2020 _Fifth Estate_. For Dana, Shawl is "one of the genre's most adventurous talents", and this collection "is an excellent introduction to Nisi Shawl as a writer of speculative fiction as well as a person who thinks deeply about social issues."
 
-_Everfair_ is also referenced in Dana's review. He says "An alternative history of the 'Belgian' Congo which the author describes as 'AfroRetroFuturist,'; _Everfair_ combines the aesthetics of Afrofuturism with the stylistic approach of the Steampunk science fiction sub-genre." In my view it's a brilliant idea for a novel, but only imperfectly realised. 
+_Everfair_ is also referenced in Dana's review. He says "An alternative history of the 'Belgian' Congo which the author describes as 'AfroRetroFuturist,'; _Everfair_ combines the aesthetics of Afrofuturism with the stylistic approach of the Steampunk science fiction sub-genre." Cohn's 2024 _Hot Equations_ has three pages on this work. In my view it's a brilliant idea for a novel, but only imperfectly realised. 
+
