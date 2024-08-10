@@ -5,7 +5,7 @@ category: "m"
 yearReleased: "2016"
 author: "China Miéville"
 ---
-_Perdido Street Station_ and _Iron Council_ were recommended by <a href="http://nwsfsnews.blogspot.com/2009/10/i-wanna-read-sf-anarchy.html"> Common Action</a> at the panel "Beyond The Dispossessed: Anarchism and Science  Fiction" at the Seattle Anarchist Bookfair in October 2009. _Iron Council_ was reviewed by <a href="https://anarchism.pageabode.com/blog/ultra-leftism-market-socialism-and-inequality/">Anarcho</a>, at Anarchist Writers, who was put off by the author's SWP credentials, but nevertheless found it "a reasonably interesting book written by someone with real imagination."
+_Perdido Street Station_ and _Iron Council_ were recommended by <a href="http://nwsfsnews.blogspot.com/2009/10/i-wanna-read-sf-anarchy.html"> Common Action</a> at the panel "Beyond The Dispossessed: Anarchism and Science  Fiction" at the Seattle Anarchist Bookfair in October 2009. _Iron Council_ was reviewed by <a href="https://anarchism.pageabode.com/blog/ultra-leftism-market-socialism-and-inequality/">Anarcho</a>, at Anarchist Writers, who was put off by the author's SWP credentials, but nevertheless found it "a reasonably interesting book written by someone with real imagination." Cohn's 2024 _Hot Equations_ has a page on _Perdido Street Station_.
 
 _The Scar_ has been recommended on  the Facebook <a href="https://www.facebook.com/groups/anarchismandsciencefiction/search/?query=the scar"> Anarchism and Science Fiction Forum</a>. While I would endorse the  recommendation—the floating pirate city of Armada is particularly  attractive—this, along with Miéville's two other New Crobuzon books, are aptly  described as 'New Weird', and not easily categorised as sf.
 
