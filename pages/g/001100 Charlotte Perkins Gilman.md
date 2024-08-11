@@ -5,7 +5,7 @@ category: "g"
 yearReleased: "1915"
 author: "Charlotte Perkins Gilman"
 ---
-'The Yellow Wallpaper' is a powerful feminist story: a first-person account of a woman's mental health fragmenting in the face of the 'rest cure' prescribed by her patriarchal physician husband. Described by China Miéville, in his 'Fifty Fantasy & Science Fiction Works That Socialists Should Read' (copied to the anarchysf mailing list in 2005) as "terrifying," and a "Towering work by this radical thinker."
+'The Yellow Wallpaper' is a powerful feminist story: a first-person account of a woman's mental health fragmenting in the face of the 'rest cure' prescribed by her patriarchal physician husband. Described by China Miéville, in his 'Fifty Fantasy & Science Fiction Works That Socialists Should Read' (copied to the anarchysf mailing list in 2005) as "terrifying," and a "Towering work by this radical thinker." The story is also referenced in Jesse Cohn's 2024 _Hot Equations_.
 
 _Moving the Mountain_ depicts a short near-future (1940) socialist feminist utopian USA. Although superficially attractive, it's notable that the utopia is predicated on having first eliminated mentally ill and disabled people, and unredeemable criminals.
 
