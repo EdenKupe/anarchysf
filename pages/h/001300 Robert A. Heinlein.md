@@ -25,7 +25,7 @@ In 2014 <a href="http://www.anarchogeekreview.com/books/starship-troopers-by-rob
 
 Eagle, in 1969, found that "_Stranger in a  Strange Land_ contains a beautiful religion or philosophy." The book tied  for the 1987 Libertarian Futurist Society Hall of Fame Award.
 
-In _Farnham's Freehold_ a nuclear attack  propels a US family into a future society where blacks rule and whites are kept  as slaves and bred for food. Highly offensive and reactionary, it is if anything  worse than _Starship Troopers_. For Moorcock, "It's not such a big step, for  instance, from Farnham's Freehold to Hitler's Lebensraum." (Moorcock 1978)
+In _Farnham's Freehold_ a nuclear attack  propels a US family into a future society where blacks rule and whites are kept  as slaves and bred for food. Highly offensive and reactionary, it is if anything  worse than _Starship Troopers_. For Moorcock, "It's not such a big step, for  instance, from Farnham's Freehold to Hitler's Lebensraum." (Moorcock 1978) Jesse Cohn, in his 2024 _Hot Equations_, observes that this novel is "also a utopia, a utopia of one man, not unlike the one described by a certain 'real estate developer and president of the Trump Organization'".
 
 'Free Men' received the Prometheus Hall of Fame Award in 2023.
 
