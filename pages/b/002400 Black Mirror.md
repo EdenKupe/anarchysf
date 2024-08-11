@@ -1,6 +1,6 @@
 ---
 title: "Black Mirror"
-format: "film"
+format: "TV"
 category: "b"
 yearReleased: "2011/2013, 2014, 2016→"
 author: "Charlie Brooker"
