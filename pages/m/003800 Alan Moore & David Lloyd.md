@@ -9,5 +9,8 @@ Set in a near future London where a fascist state took over after the Bombs were
 
 Iain McKay, writing in _Freedom_ in 2005, said the book includes "some excellent anarchist  propaganda", and is a "modern classic," "a masterpiece by a master of his  craft."
 
-It won the Libertarian Futurist Society  Hall of Fame Award in 2006. See also Cohn: 326-7.
+There's an extended discussion of this work in Taylor Andrew Loy's MA thesis on '<a href="https://theanarchistlibrary.org/library/taylor-andrew-loy-anarchy-in-critical-dystopias-an-anatomy-of-rebellion">Anarchy 
+in Critical Dystopias</a>.'
+
+It won the Libertarian Futurist Society Hall of Fame Award in 2006. See also Cohn 2014: 326-7.
  
