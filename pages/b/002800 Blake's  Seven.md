@@ -1,6 +1,6 @@
 ---
 title: "Blake's  Seven"
-format: "film"
+format: "TV"
 category: "b"
 yearReleased: "1978/1981"
 author: "Terry Nation"
