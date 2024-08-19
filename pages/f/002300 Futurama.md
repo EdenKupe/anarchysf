@@ -1,6 +1,6 @@
 ---
 title: "Futurama"
-format: "film"
+format: "TV"
 category: "f"
 yearReleased: "999/2003, 2008/2013"
 author: "Matt Groening"
