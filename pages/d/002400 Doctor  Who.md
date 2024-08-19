@@ -1,6 +1,6 @@
 ---
 title: "Doctor  Who"
-format: "film"
+format: "TV"
 category: "d"
 yearReleased: "1963/1989, 1996, 2005→"
 author: "Sydney Newman, C.E. Webber, and Donald Wilson"
