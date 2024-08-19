@@ -1,6 +1,6 @@
 ---
 title: "The Handmaid's Tale (TV series)"
-format: "film"
+format: "TV"
 category: "h"
 yearReleased: "2015→"
 author: "Bruce Miller"
