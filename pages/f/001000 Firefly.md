@@ -1,6 +1,6 @@
 ---
 title: "Firefly"
-format: "film"
+format: "TV"
 category: "f"
 yearReleased: "2002/3; single TV series of 14 episodes"
 author: "Joss Whedon"
