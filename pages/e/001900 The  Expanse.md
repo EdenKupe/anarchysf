@@ -1,6 +1,6 @@
 ---
 title: "The  Expanse"
-format: "film"
+format: "TV"
 category: "e"
 yearReleased: "2015→"
 author: "Mark Fergus and Hawk Ostby"
