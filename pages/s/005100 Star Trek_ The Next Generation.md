@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: The Next Generation"
-format: "film"
+format: "TV"
 category: "s"
 yearReleased: "1987/1994"
 author: "Gene Roddenberry"
