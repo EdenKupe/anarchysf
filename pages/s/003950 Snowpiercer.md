@@ -1,6 +1,6 @@
 ---
 title: "Snowpiercer"
-format: "film"
+format: "TV"
 category: "s"
 yearReleased: "2020, ongoing"
 author: "Josh Friedman and Graeme Manson"
