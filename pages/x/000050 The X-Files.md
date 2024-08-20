@@ -1,6 +1,6 @@
 ---
 title: "The  X-Files"
-format: "film"
+format: "TV"
 category: "x"
 yearReleased: "1993/2002, 2016/2018"
 author: "Chris Carter"
