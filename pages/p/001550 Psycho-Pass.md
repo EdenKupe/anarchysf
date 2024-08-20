@@ -1,6 +1,6 @@
 ---
 title: "Psycho-Pass"
-format: "film"
+format: "TV"
 category: "p"
 yearReleased: "2012/2013; TV series, 22 episodes"
 author: "Katsuyuki Motohiro and Naoyoshi Shiotani"
