@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: Discovery"
-format: "film"
+format: "TV"
 category: "s"
 yearReleased: "2017, ongoing"
 author: "Bryan Fuller and Alex Kurtzman"
