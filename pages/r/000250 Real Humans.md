@@ -1,6 +1,6 @@
 ---
 title: "Real Humans (Swedish original, Äkta människor)"
-format: "film"
+format: "TV"
 category: "r"
 yearReleased: "2014"
 author: "Lars Lundström"
