@@ -1,6 +1,6 @@
 ---
 title: "Westworld"
-format: "film"
+format: "TV"
 category: "w"
 yearReleased: "TV series 2016→"
 author: "Jonathan Nolan and Lisa Joy"
