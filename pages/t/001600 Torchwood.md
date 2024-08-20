@@ -1,6 +1,6 @@
 ---
 title: "Torchwood"
-format: "film"
+format: "TV"
 category: "t"
 yearReleased: "2006/2011, TV series"
 author: "Russell T. Davies"
