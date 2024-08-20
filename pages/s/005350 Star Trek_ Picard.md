@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: Picard"
-format: "film"
+format: "TV"
 category: "s"
 yearReleased: "2020/2023"
 author: "Kirsten Beyer, Michael Chabon and Akiva Goldsman"
