@@ -122,6 +122,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * La Belle Verte (1996)
 
+* Black Mirror (2011/2013, 2014, 2016→)
+
 * Born in Flames (1983)
 
 * Brazil (1985)
@@ -149,6 +151,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 * The Prisoner (1967/1968)
 
 * Punishment Park (1970)
+
+* Red Dwarf (1988→)
 
 * A Scanner Darkly (2006)
 
