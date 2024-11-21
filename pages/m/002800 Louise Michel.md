@@ -10,4 +10,5 @@ Among the literary works of the French anarchist Louise  Michel is _The Human Mi
 _The Human Microbes_ is discussed at some length in Annette Keilhauer's 2024 'Le corps anarchiste dans _Les Microbes humains_ (1886) de Louise Michel,' in _Corps et capital dans le roman français du XIXe 
 siècle_, pp277-289, of which a pdf is <a href="https://link.springer.com/content/pdf/10.57088/978-3-7329-9032-0_15.pdf"> online</a>.
 
-See also Cohn: 199-203; and under Jules  Verne, for a putative link.
+See also Cohn: 199-203; and under Jules  Verne, for a putative link. Robert Graham's anarchism <a href="https://robertgraham.wordpress.com/?s=science+fiction&submit=Search">weblog</a> is also worth a look.
+
