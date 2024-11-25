@@ -4,7 +4,7 @@
   "description": "An open-source repository of anarchist science fiction",
   "main": "gulpfile.js",
   "dependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.1",
     "gulp": "^4.0.2"
   },
   "devDependencies": {
