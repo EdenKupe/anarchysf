@@ -21,4 +21,8 @@ Most recently (June 2023) the work was reviewed again by Rob Ray, at
 <a href="https://freedomnews.org.uk/2023/06/25/radical-reprint-image-of-an-alternate-past/?fbclid=IwAR29reUWVkOmiqGR0luRd7-WNjtyT4ksiW82hw_UG0LaeV1JemuayNg4V6k">
 _Freedom_</a>, who concludes that "It marked perhaps the last true high point of belief in the potential of the anarcho-syndicalist forms of revolt that had swept France and Britain through the early 1910s, a belief that would sputter and start through the first world war and its aftermath, but not reach its true height until the revolution neared in 1930s Spain."
 
-See  also Cohn: 222-5.   
+See 
+also <a href="../biblio.md#Cohn 2006">Cohn 2006</a>:188-190 and <a href="../biblio.md#Cohn 2014">Cohn 2014</a>: 222-5. The work is also discussed in Zoe Baker's 2023 _<a href="https://theanarchistlibrary.org/library/zoe-baker-means-and-ends">Means and Ends</a>_, which draws attention to their unusual, and science fictional, approach to how an armed uprising might happen: "Pouget and Pataud’s account of 
+how this would happen was, by far, the most eccentric. In their novel, they depicted the forces of reaction, including the invading armies of foreign states, being easily defeated by a variety of science-fiction weapons. This included electromagnetic waves that caused far away enemy ammunition to explode and aerial torpedoes dropped from remote-controlled planes.These weapons were so ridiculous for the time that it is unclear if the authors seriously advocated them, or merely intended to entertain the reader."
+
+
