@@ -57,6 +57,7 @@ layout: worksforconsideration
 | Clore, Dan | 2001 | 'Anarchist & Libertarian Socialist Societies in Science Fiction etc.', mailing to anarchysf Internet mailing list; a version is<a href="http://www.niribanimeso.org/eng/ess/anlib.html"> online</a> |
 | Cloves, Jeff | 1968-11-30 | 'William Morris', _Freedom_ 29.37: 5 |
 | Cohn, Jesse | Oct 1999 | 'An Exemplary Failure: Pat Murphy's _The City, Not Long After_ and the Dilemmas of Anarchist Utopian Fiction', _Anarchist Studies_ 7:119–125 |
+| ____ | 2006 | _Anarchism and the Crisis of Representation. Hermeneutics, Aesthetics, Politics_. Selinsgrove: Susquehanna University Press |
 | ____ | 2014 | _Underground Passages. Anarchist Resistance Culture, 1848–2011_. Oakland, Edinburgh, & Baltimore: AK Press |
 | Comeau, Paul J. | Spring 2010 | 'Ursula K. Le Guin: A Brief Biographical Sketch', _Fifth Estate_ #382, 45.1: 10-11 |
 | ____ | Spring 2010 | 'Verbal Dance: An Interview with Ursula K. Le Guin', _Fifth Estate_ #382, 45.1: 12-13 |
