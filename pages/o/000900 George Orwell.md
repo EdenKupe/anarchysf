@@ -11,5 +11,7 @@ _Nineteen Eighty-Four_ has been seen by some anarchists as a vindication of Baku
 
 The book tied for the Libertarian  Futurist Society Hall of Fame Award in 1984.
 
+For <a href="https://greenanarchy.anarchyplanet.org/files/2012/05/greenanarchy17.pdf">A.Morefus</a>, writing in _Green Anarchy_ 17 in 2012, the novel stands as "the all-time classic understanding of techno-fascism."
+
 In July 2024 the work was the subject of an online <a href="https://carneross.substack.com/p/1984-an-anti-capitalist-tract">essay</a> by anarchist Carne Ross.
 
