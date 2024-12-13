@@ -17,3 +17,5 @@ From science fiction scholarship, Brett Cooke says that "Zamiatin conveys an ana
 
 Tony Burns, in a 2016 <a href="https://utopian-studies-europe.org/wp-content/uploads/2016/10/2006.pdf">abstract</a> for the Utopian Studies Society, claims that "Le Guin’s science fiction is heavily indebted to the work of Yevgeny Zamyatin, and especially to Zamyatin's dystopian novel We." In his view, "Both Zamyatin and Le Guin are anarchists. However, in the case of Zamyatin this commitment to anarchism leads to a critique of the idea of utopian speculation, whereas in that of Le Guin it does not. [ . . . ] [T]his is because Zamyatin is committed to a nihilistic type of anarchism which derives ultimately from the writings of Max Stirner and Friedrich Nietzsche, whereas Le Guin is a 'social' anarchist who draws on a different tradition which is usually associated with the writings of Kropotkin. [ . . . ] [A]lthough Le Guin is indeed indebted to Zamyatin, nevertheless she misunderstands Zamyatin's views on ethics and politics."
 
+See also Nick Heath's 2010 <a href="http://afed.org.uk/wp-content/uploads/2015/04/org74.pdf">review article</a> in _Organise!_
+
