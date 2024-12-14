@@ -22,7 +22,9 @@ The _Xenogenesis_ stories have also been  recommended on the Facebook <a href="h
  
 The two _Parable_ books chart the  rise of a movement based on mutual aid (or just common human decency) amid the  breakdown of society in the United  States. Warm and literate, it's unfortunate that the author chose to hang her  principles on a new religion.
  
-Butler's work, and especially the _Parable_ novels, were featured in articles in her memory, by Anu Bonobo and Benjamin  Carson, in _Fifth Estate_ in 2006. While Bonobo focuses on her Afrofuturism,  Carson, while relishing the mutual aid depicted, finds Butler's orientation  towards a future in space "deeply troubling". See also '<a href="https://theanarchistlibrary.org/library/earthseed-for-anarchists">Earthseed for Anarchists</a>', at The Anarchist Library.
+Butler's work, and especially the _Parable_ novels, were featured in articles in her memory, by <a href="https://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">Anu Bonobo</a> and 
+<a href="https://www.fifthestate.org/archive/373-fall-2006/planting-the-seeds-of-anarchy/">Benjamin 
+Carson</a>, in _Fifth Estate_ in 2006. While Bonobo focuses on her Afrofuturism,  Carson, while relishing the mutual aid depicted, finds Butler's orientation  towards a future in space "deeply troubling". See also '<a href="https://theanarchistlibrary.org/library/earthseed-for-anarchists">Earthseed for Anarchists</a>', at The Anarchist Library.
 
 Bonobo, in _Fifth Estate_ #<a href="http://www.fifthestate.org/archive/373-fall-2006/octavia-estelle-butler/">373</a>,  speaks of the vampire collectives of _Fledgling_ as "bloodlinked free love  communes—of a sort. But since the symbionts need the vampire kiss like a junky  needs his needle, it’s difficult to define this as a liberated relationship." _Fledgling_ is included in the Think Galactic <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a> as  well as the Swindon Anarchist Group's list of <a href="https://swindonanarchistgroup.wordpress.com/2009/01/08/anarchistresistance-novels/"> anarchist/resistance novels</a>.
 
