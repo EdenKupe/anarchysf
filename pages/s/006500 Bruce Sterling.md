@@ -9,7 +9,7 @@ _Islands in the Net_ was "Influenced by Bob Black's _The Abolition of Work_." (D
 
 'Bicycle Repairman'  takes place in an anarchist squatters' enclave.
 
-_Holy Fire_ was strongly recommended by  an anarchysf lister, describing it as "germane to this list because of its  treatment of the dynamics of a post-plague society, and social conservativism  among the very long-lived." A couple of minor characters are anarchists. Referenced by Sheehan (see bibliography), and by <a href="http://www.arivista.org/index.php?nr=242&pag=242_11.htm&key=science fiction"> Emanuela Scucatto</a>.  
+_Holy Fire_ was strongly recommended by  an anarchysf lister, describing it as "germane to this list because of its  treatment of the dynamics of a post-plague society, and social conservativism  among the very long-lived." A couple of minor characters are anarchists. Referenced by Sheehan (see bibliography), and by <a href="http://www.arivista.org/index.php?nr=242&pag=242_11.htm&key=science fiction"> Emanuela Scucatto</a>. Call devotes a couple of pages to _Holy Fire_, giving his view that its "radicalized anarchism is appropriate to a postmodern world in which power is as much linguistic and epistemological as it is economic or political."
 
 In _Distraction_, early 21st  century America is "populated by large gangs of postmodern proletarian nomads."  "Sterling's vision is, in fact, profoundly anarchistic. [. . .] Distraction  updates pre-modern gift exchange for the postmodern age, and thus charts a  radically non-hierarchical vision of the near future." (Call, 2002) _Distraction_ is also among works discussed in the last chapter of Call's 2002 _Postmodern Anarchism_.
 
