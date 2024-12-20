@@ -9,6 +9,8 @@ author: "Margaret Killjoy"
 
 The novel is the subject of a 2017 <a href="https://utopian-studies-europe.org/wp-content/uploads/2017/07/book-of-abstracts-03-07.pdf">abstract</a> by Anna Gilarek for the Utopian Studies Society. For Gilarek, it is "the first deliberately anarchist utopia since Le Guin's classic," "a vision of society which is highly decentralized, anti-authoritarian and egalitarian" and, as a work of modern anarchism, it is "not merely an anarchist utopia, but one which may also be perceived as a queer utopia, a feminist utopia or an ecotopia."
 
+For <a href="https://journals.openedition.org/ilcea/4454">Peter Seyferth</a>, in 2018, this work "tries to have impact on the world, just like some of the classical utopias of the second phase, but with a critical twist that shows the weakness and precarity of a utopian enclave that stands in direct opposition to a powerful capitalist state."
+
 The book was filmed in 2019 as _Hron: A Country of Ghosts,_ but apart from a few screenings doesn't seem to have been more widely released, although a short trailer is <a href="https://www.youtube.com/watch?v=4z8ya0Wy7K8">online</a>.
 
 _The Lamb Will Slaughter the Lion_ is also more a  gothic fantasy novella, but anarchists and anarchism are central to the story.
