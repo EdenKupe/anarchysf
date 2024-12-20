@@ -11,10 +11,9 @@ The novel is the subject of a 2017 <a href="https://utopian-studies-europe.org/w
 
 For <a href="https://journals.openedition.org/ilcea/4454">Peter Seyferth</a>, in 2018, this work "tries to have impact on the world, just like some of the classical utopias of the second phase, but with a critical twist that shows the weakness and precarity of a utopian enclave that stands in direct opposition to a powerful capitalist state."
 
-The book was filmed in 2019 as _Hron: A Country of Ghosts,_ but apart from a few screenings doesn't seem to have been more widely released, although a short trailer is <a href="https://www.youtube.com/watch?v=4z8ya0Wy7K8">online</a>.
+The book was filmed in 2019 as _Hron: A Country of Ghosts,_ but apart from a few screenings doesn't seem to have been more widely released. It may be rented on <a href="https://vimeo.com/ondemand/hronacountryofghosts">Vimeo</a>.
 
 _The Lamb Will Slaughter the Lion_ is also more a  gothic fantasy novella, but anarchists and anarchism are central to the story.
 
 _We Won't Be Here Tomorrow_ is Killjoy's first short story collection, mostly gothic/horror, but some sf, and some anarchist interest.
-
  
