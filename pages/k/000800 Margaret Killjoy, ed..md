@@ -1,5 +1,5 @@
 ---
-title: "<a href="http://www.akpress.com/2009/items/mythmakersandlawbreakers">Mythmakers & Lawbreakers. Anarchist writers on fiction</a>"
+title: "Mythmakers & Lawbreakers. Anarchist writers on fiction"
 format: "book"
 category: "k"
 yearReleased: "2009"
