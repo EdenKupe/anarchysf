@@ -10,7 +10,7 @@ _Player Piano_ is a dystopia in which workers displaced by machines rise up agai
 
 _The Sirens of Titan_ was said by <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">Arthur Maglin</a>  to depict "the construction of a society where no man takes advantage of any  other", and to have a big vogue "in hippy-type circles".
 
-'Harrison Bergeron' is a satire on  authoritarian dystopias and perceptions of egalitarianism. Suggested at <a href="http://www.metafilter.com/89983/Anarchism-and-science-fiction"> www.metafilter.com/89983/Anarchism-and-science-fiction</a>.
+'Harrison Bergeron' is a satire on authoritarian dystopias and perceptions of egalitarianism. Suggested at <a href="http://www.metafilter.com/89983/Anarchism-and-science-fiction"> www.metafilter.com/89983/Anarchism-and-science-fiction</a>. For <a href="https://greenanarchy.anarchyplanet.org/files/2012/05/greenanarchy17.pdf">A.Morefus</a>, in _Green Anarchy_ 17 (2004), the story "describes beautifully the appalling notion of enforced equality."
 
 _Cat's Cradle_ centres on ice-nine, a supposed new crystalline structure of water which instantly solidifies any ordinary water with which it comes into context; whilst also featuring a deliberately and overtly bogus religion, Bokononism. <a href="https://anchor.fm/anarchysf/episodes/Kurt-Vonnegut-Wrote-Some-Pretty-Good-Books-e16jpvq">			Kupermintz</a>, while noting that Bokononism sounds like bullshit, observes that it is based in powerful ideas such as comradeship, sticking together, and the self.
 
