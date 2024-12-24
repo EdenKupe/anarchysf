@@ -36,6 +36,6 @@ Makhno also appears in _Byzantium Endures_ (1981)—which is tagged as SF in  th
 
 Makhno appears yet again in _The Adventures of Una Persson and Catherine Cornelius in the Twentieth Century_. _The Opium General and Other Stories_ includes a long Cornelius story and a few essays. Among the latter are the most accessible republication in print of 'Starship Stormtroopers', and a review of a book on Makhno, whom Moorcock describes as "a martyr to a cause that can never be lost but which the world may never properly understand."
 
-Of _The Dancers at the End of Time_ a poster to anarchysf wrote: "Theme is an anarchic society where all material needs have been met. There's only a few people but boy are they bored! Could be seen as an attempt to play around with a situationist  scenario?"
+Of _The Dancers at the End of Time_ a poster to anarchysf wrote: "Theme is an anarchic society where all material needs have been met. There's only a few people but boy are they bored! Could be seen as an attempt to play around with a situationist  scenario?" For Jeff Gardiner, in his 2014 _The Law of Chaos_, the trilogy presents "a bizarre, satirical and lyrical vision of an anarchist utopian future" (p73).
 
 For <a href="http://www.wired.com/beyond_the_beyond/2009/10/i-wanna-be-sci-fi-anarcheeee/"> Bruce Sterling</a>, Michael Moorcock is "the gold standard in these matters, if  you ask me". 
