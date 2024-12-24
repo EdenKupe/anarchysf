@@ -1,5 +1,5 @@
 ---
-title: "The Black Corridor (1969); Breakfast in the Ruins. A Novel of Inhumanity  (1971); The Adventures of Una Persson and Catherine Cornelius in the Twentieth Century. A Romance (1976); The Cornelius Chronicles (1977); The Entropy Tango. A Comic Romance (1980); The Nomad of Time (1982, comprising The Warlord of the Air (1971), The Land Leviathan (1974), and The Steel Tsar (1981)); The Opium General and Other Stories (1984); The Dancers at the End of Time (1993—originally published in three volumes, 1972–1976)"
+title: "The Black Corridor (1969); Breakfast in the Ruins. A Novel of Inhumanity  (1971); The Adventures of Una Persson and Catherine Cornelius in the Twentieth Century. A Romance (1976); The Cornelius Chronicles (1977); Gloriana, or The Unfulfill'd Queen (1978); The Entropy Tango. A Comic Romance (1980); The Nomad of Time (1982, comprising The Warlord of the Air (1971), The Land Leviathan (1974), and The Steel Tsar (1981)); The Opium General and Other Stories (1984); The Dancers at the End of Time (1993—originally published in three volumes, 1972–1976)"
 format: "book"
 category: "m"
 yearReleased: "1993"
@@ -27,6 +27,8 @@ This is entirely consistent with his statement, the same  year, that
 An <a href="https://freedomnews.org.uk/interview-michael-moorcock/"> interview</a> with Moorcock was published in _Freedom_ in 1988, in  which he said
 
 "I began political life as an anarchist — in those  days I suppose it was a much more naive belief. I then went through a  period of trying to express myself politically through more conventional  political parties and eventually realised they are all so damn corrupt I  might as well be an idealistic anarchist and humanist and maintain my  own political position by that means. That also fits in better with my  support for the feminist movement."
+
+_Gloriana_ is really fantasy, although SFE suggests it could be defined as an alternate-world version of Elizabethan England. For James Gifford, in his essay 'Literature and Anarchism' (in the 2019 _Palgrave Handbook of Anarchism_), _Gloriana_ is the most overt of Moorcock's popular writings into which he integrates anarchist themes.
 
 In _The Entropy Tango_ Makhno, following the success of his Ukrainian revolution, gallivants around the globe attempting insurrections in Ottawa, Yucatan, Somalia, Bohemia and Queensland, before finally being electrocuted by the Americans after looting San Francisco.  Not preachy about anarchism, but the message probably gets across.
 
