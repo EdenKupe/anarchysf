@@ -47,7 +47,7 @@ Josh Gosicak, writing in _Fifth Estate_ in 2010, reflected on _The Lathe of Heav
 
 For Eagleheart, in the same issue of _Fifth Estate_, "_The Word for World is Forest_ articulated the indigenous worldview of the interdependence of humans and "nature" in a way that I could immediately grok." _Fifth Estate_ #382 was a special issue, "a Tribute to the Radical Imagination of Ursula K. Le Guin", in honour of her 80th birthday.
 
-_The Eye of the Heron_ concerns "a society of pacifists inspired by the life and writings of Gandhi." (Comeau) Jeff Shantz, in his 2011 _Against All Authority_, sees this novel as a development of _The Dispossessed_, focussing on "non-violence and thees of exile or escape within the context of libertarian politics." His paragraph concludes that "It is something of a petit bourgeois utopia."
+_The Eye of the Heron_ concerns "a society of pacifists inspired by the life and writings of Gandhi." (Comeau) Jeff Shantz, in his 2011 _Against All Authority_, sees this novel as a development of _The Dispossessed_, focussing on "non-violence and themes of exile or escape within the context of libertarian politics." His paragraph concludes that "It is something of a petit bourgeois utopia."
 
 _The Compass Rose_ was favourably reviewed in _Freedom_ (Murtagh 183). Of the included story 'The New Atlantis' the _Open Road_ writers wrote that Le Guin's character "knows his Bookchin". (Lessa, Takver & Alyx. 1978)
 
