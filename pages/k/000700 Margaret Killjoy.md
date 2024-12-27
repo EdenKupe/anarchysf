@@ -15,5 +15,5 @@ The book was filmed in 2019 as _Hron: A Country of Ghosts,_ but apart from a few
 
 _The Lamb Will Slaughter the Lion_ is also more a  gothic fantasy novella, but anarchists and anarchism are central to the story.
 
-_We Won't Be Here Tomorrow_ is Killjoy's first short story collection, mostly gothic/horror, but some sf, and some anarchist interest.
+_We Won't Be Here Tomorrow_ is Killjoy's first short story collection, mostly gothic/horror, but some sf, and some anarchist interest. The book was reviewed by Robert Knox in _Fifth Estate_ #412, Fall 2022, who found it rather a mixed bag, but overall "promising."
  
