@@ -16,5 +16,5 @@ _The Philosophers_ tells of a (then) near-future Britain in which a group of int
 
 Comfort's early play _Cities of the Plain_ isn't mentioned by Goodway, but is usefully discussed by <a href="https://richardawarren.wordpress.com/tag/anarchism/">Richard Warren</a>. Although described by <a href="https://sf-encyclopedia.com/entry/comfort_alex">SFE</a> as "an anti-capitalist dystopian play", it's not really describable as sf, more as allegory, notwithstanding its author's strict advance repudiation of "all the ideological constructions, of whatever complexion . . . placed upon this play." Eric Laursen, in his 2023 biography _Polymath. The Life and Professions of Dr Alex Comfort, Author of The Joy of Sex_, notes that "The play provides the first hint that Alex's politics was leaning in the direction of anarchism" (p65).
 
-_Tetrarch_ is a fantasy, of no great interest.
+_Tetrarch_ is a fantasy, of no great interest, although Laursen, who devotes two pages to it, describes one of the four realms as "a kind of anarchist paradise" (p531).
 
