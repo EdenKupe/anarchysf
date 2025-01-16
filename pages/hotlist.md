@@ -58,6 +58,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Iain M. Banks: _Culture_ series (1987–2012)
 
+* Gautam Bhatia: _The Sentence_ (2024)
+
 * Gene Brewer: _K-PAX The Trilogy_  (2004)
 
 * Steve Cullen: _The Last Capitalist: A Dream of a New Utopia_  (1996)
