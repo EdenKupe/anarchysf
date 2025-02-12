@@ -39,7 +39,6 @@ permalink: worksforconsideration.html
 | Elizabeth Bear | Jacob's Ladder series | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Elizabeth Bear | Jenny Casey trilogy | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Andrea L. Bell & Yolanda Molina-Gavan, eds | Cosmos Latinos: An Anthology of Science Fiction from Latin America and Spain (Early Classics of Science Fiction) | <a href="http://www.librarything.com/work/790914/book/41294156">www.librarything.com/work/790914/book/41294156</a> |
-| Edward Bellamy | Apparitions of things to come: tales of mystery and imagination | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Gregory Benford | Against Infinity |  |
 | Gregory Benford | Across the Sea of Suns |  |
 | Gregory Benford | Foundation's Fear | <a href="http://concord.wikia.com/wiki/Political_Ideas_in_Science_Fiction">concord.wikia.com/wiki/Political_Ideas_in_Science_Fiction</a> |
@@ -168,7 +167,6 @@ permalink: worksforconsideration.html
 | Émile Gautier (with Marie-François Goron) | Fleur de Bagnesequence | <a href="http://www.sf-encyclopedia.com/entry/gautier_emile">SFE</a>: author an anarchist, imprisoned 1883/1885; features a naive anarchist scientist |
 | Mary Gentle | Rats and Gargoyles | mentioned in a mailing to anarchysf |
 | Lewis Grassic Gibbon | Spartacus | mentioned in a mailing to anarchysf |
-| William Gibson | Distrust that Particular Flavor | review inFifth Estate, Winter 2013 |
 | Carolyn Ives Gilman | Halfway Human | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Greer Gilman | Cloud and Ashes | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Victor Gischler | Go-Go Girls of the Apocalypse | <a href="http://www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse">www.goodreads.com/book/show/1655668.Go_Go_Girls_of_the_Apocalypse</a> |
