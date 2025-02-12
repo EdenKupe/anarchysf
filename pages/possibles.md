@@ -194,7 +194,6 @@ permalink: worksforconsideration.html
 | Robert A. Heinlein | To Sail Beyond the Sunset | <a href="http://www.goodreads.com/shelf/show/libertarian-science-fiction">www.goodreads.com/shelf/show/libertarian-science-fiction</a> |
 | Johan Heliot | La Lune n'est pas pour nous | <a href="http://raforum.info/spip.php?article2983">raforum.info/spip.php?article2983</a> |
 | Johan Heliot | La Lune seule le sait | <a href="http://raforum.info/spip.php?article2982">raforum.info/spip.php?article2982</a> |
-| Zenna Henderson | The People: No Different Flesh | <a href="http://www.andersmonsen.com/50-works-of-fiction-libertarians-should-read/">www.andersmonsen.com/50-works-of-fiction-libertarians-should-read</a> |
 | Brian Herbert & Kevin J. Anderson | Dune: The Butlerian Jihad | lukewarm response on Facebook 'Anarchists and Science Fiction' page |
 | Brian Herbert & Kevin J. Anderson | Dune: House Atreides | mentioned in a mailing to anarchysf |
 | Arthur Herzog | Glad to Be Here | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=14781990523">AbeBooks</a> |
@@ -285,7 +284,6 @@ permalink: worksforconsideration.html
 | Félix Martí-Ibáñez | 'A Tomb in Malacor' | Martí-Ibáñez was an doctor working with the anarchists in Catalonia, later submitting stories to American SF and fantasy magazines; All the Wonders We Seek is a collection, which includes 'The Star Hunt' and 'The Threshold of the Door'; other stories listed were published inF&SFandWeird Tales.(Cohn: 183-7) |
 | Bruno Massé | L'aube noire | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Bruno Massé | Necropolis: Book One of the Malice Cycle | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue;<a href="http://anarchy101.org/4872/what-is-your-favorite-anarchist-novel">anarchy101.org/4872/what-is-your-favorite-anarchist-novel</a> |
-| Richard Matheson | The Shrinking Man | included in Evan Lampe's<a href="http://tashqueedagg.wordpress.com/2012/11/14/richard-matheson-the-shrinking-man-1956/">blog</a> |
 | Tim Maughan | "Flight Path Estate" | <a href="http://www.locusmag.com/Reviews/2013/05/lois-tilton-reviews-short-fiction-mid-may-3/">www.locusmag.com/Reviews/2013/05/lois-tilton-reviews-short-fiction-mid-may-3/</a> |
 | Timothy C. May | 'True Nyms and Crypto Anarchy' | <a href="http://www.locusmag.com/index/yr2001/s60.htm">www.locusmag.com/index/yr2001/s60.htm</a> |
 | Anne McCaffrey | Freedom's Landing | <a href="http://www.goodreads.com/book/show/61928.Freedom_s_Landing">www.goodreads.com/book/show/61928.Freedom_s_Landing</a> |
@@ -350,7 +348,6 @@ permalink: worksforconsideration.html
 | Victor Pelevin | Omon Ra | <a href="https://libcom.org/library/working-class-literature-reading-guide">libcom.org/library/working-class-literature-reading-guide</a> |
 | Henry Pereira Mendes | Looking Ahead | "Retrospective future history of series of international wars, revolts by dastardly socialists and anarchists" &c. (Suvin: 78) |
 | Kit Perry | The Empathy Spectrum | <a href="http://www.ypdbooks.com/thriller-mystery-adventure/976-the-empathy-spectrum-YPD00907.html">www.ypdbooks.com/thriller-mystery-adventure/976-the-empathy-spectrum-YPD00907.html</a> |
-| Gary Phillips | The Underbelly plus | PM Press Outspoken Authors |
 | John Picha | The Mining Mess | <a href="http://www.goodreads.com/book/show/17727214-skyracos">www.goodreads.com/book/show/17727214-skyracos</a> |
 | John Picha | Pandora Driver: The Origin | <a href="http://www.goodreads.com/book/show/12058671-pandora-driver">www.goodreads.com/book/show/12058671-pandora-driver</a> |
 | Daniel Pinkwater | Alan Mendelsohn: The Boy from Mars | not known to be @, but rec. in Doctorow'sLittle Brother |
@@ -513,7 +510,6 @@ permalink: worksforconsideration.html
 | Peter Lamborn Wilson (aka Hakim Bey) | other works | recommended by Lorraine Schein in email to me |
 | Robert Anton Wilson | Cosmic Trigger | mentioned in a mailing to anarchysf |
 | Robert Anton Wilson | The Earth will Shake | mentioned in a mailing to anarchysf |
-| Robert Anton Wilson | Masks of the Illuminati | <a href="http://boingboing.net/2017/04/17/__trashed-10.html">http://boingboing.net/2017/04/17/__trashed-10.html</a>, link from Clore on FB @sf forum |
 | Robert Anton Wilson | Prometheus Rising | mentioned in a mailing to anarchysf |
 | Robert Charles Wilson | The Chronoliths | suggested at<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">www.facebook.com/groups/anarchismandsciencefiction/?fref=ts</a> |
 | (John) Grosvenor Wilson | The Monarch of Millions; or, the Rise and Fall of the American Empire | includes "a ridiculous anarchist" (Suvin: 92) |
