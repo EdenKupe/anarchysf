@@ -39,4 +39,6 @@ _Illuminatus!_ made quite a few ripples in the anarchist pond when it first appe
 Co-author Robert Shea summed it up: "It is, among other things, a work of anarchist science fiction."  (Shea 1980:20). Tied for the 1986 Libertarian Futurist Society Hall of Fame Award.  Included in Zeke Teflon's <a href="http://seesharppress.wordpress.com/2013/10/24/anarchist-science-fiction-favorite-novels/"> Favorite Anarchist Science Fiction Novels</a>.
 
 Gabriel Kennedy's 2024 biography—_Chapel Perilous: The Life & Thought Crimes of Robert Anton Wilson_—is indispensible.
+
+The text of the entire trilogy is now online at <a href="https://theanarchistlibrary.org/library/robert-shea-and-robert-anton-wilson-the-illuminatus-trilogy">The Anarchist Library</a>.
  
