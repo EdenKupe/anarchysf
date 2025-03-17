@@ -11,4 +11,6 @@ A _Freedom_ contributor in 1976 found the novel  "horrendous". Albert Meltzer, i
 
 <a href="https://thewestlakereview.wordpress.com/tag/anarchaos/">The Westlake Review</a> has a lengthy discussion of this work in the context of Westlake's œuvre, describing it as a reworking of Heinlein's 'Coventry', to which the author finds it superior (!).
 
+Franklin Rosemont has a long paragraph on this work in his 2012 'A Bomb-Toting, Long-Haired, Wild-Eyed Fiend: the Image of the Anarchist in Popular Culture' (_Surrealism, Bugs Bunny, and the Blues_ (2025), p78). For Rosemont the novel "shows how thoroughly incomprehension and hatred of anarchism can be set forth without recourse to the old stereotype. [ . . . ] The chief interest of the book lies in the naive clarity with which it reveals the absurd horror to which the authoritarian fear of freedom inevitably leads." He concludes, perceptively, that "The book is a kind of unintentional parable of US foreign policy in the Third World."
+
 _Anarchaos_ is probably the nastiest representation of anarchism in the genre.
