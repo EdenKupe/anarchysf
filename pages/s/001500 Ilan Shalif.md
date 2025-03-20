@@ -1,5 +1,5 @@
 ---
-title: "<a href="http://www.shalif.com/anarchy/glimpses/glimpses.html">Glimpses into the Year 2100</a>"
+title: "Glimpses into the Year 2100"
 format: "book"
 category: "s"
 yearReleased: "--"
