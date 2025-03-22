@@ -205,7 +205,6 @@ permalink: worksforconsideration.html
 | Stewart Home | 'Anarchist' | <a href="http://www.isfdb.org/cgi-bin/title.cgi?1398539">www.isfdb.org/cgi-bin/title.cgi?1398539</a> |
 | Nalo Hopkinson | 'Fisherman' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Nalo Hopkinson | Report from Planet Midnight Plus | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.pmpress.org/content/index.php?topic=authors&amp;page=16">www.pmpress.org/content/index.php?topic=authors&amp;page=16</a>;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.activedistributionshop.org/shop/35-fiction">www.activedistributionshop.org/shop/35-fiction</a> |
-| Michel Houellebecq | Atomized / The Elementary Particles | mentioned in Goodway: 236n |
 | David Humphreys, Joel Barlow, John Trumbull, & Lemuel Hopkins | The Anarchiad: A Poem on the Restoration of Chaos and Substantial Night | online at<a href="http://mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show">mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show</a> |
 | Ian Hunter | 'Anarchy at Christmas' | <a href="http://www.locusmag.com/index/s333.htm">www.locusmag.com/index/s333.htm</a> |
 | Charles John Cutcliffe Hyne (as Weatherby Chesney) | 'The Anarchist Plot', inThe Adventures of an Engineer | . . . "attempt to blow up the Bank of England [ . . . ] All novelties destroyed with the inventors." (Suvin: 71-2);<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=4470885876&amp;ir&amp;xbf=b3MtcWctdWJ6cg__/54562939642614878671&amp;clickid=0TDUL6xmZ0-bT0YRqlWHWW1CUkXxI3RY2VdawM0&amp;cm_mmc=aff-_-ir-_-59145-_-146918&amp;afn_sr=impact&amp;ref=imprad">AbeBooks</a> |
@@ -355,7 +354,6 @@ permalink: worksforconsideration.html
 | Francis W. Porretto | Freedom's Scion | <a href="http://smile.amazon.com/Freedoms-Scion-Francis-W-Porretto/dp/1490557067/ref=sr_1_39?s=books&amp;ie=UTF8&amp;qid=1424778475&amp;sr=1-39&amp;keywords=anarchism+in+science+fiction">Amazon</a> |
 | Aaron B. Powell | Doomsday Diaries, #1 | <a href="http://www.goodreads.com/book/show/15767282-doomsday-diaries-1">www.goodreads.com/book/show/15767282-doomsday-diaries-1</a> |
 | Aaron B. Powell | Doomsday Diaries: The Complete Series | <a href="http://www.goodreads.com/book/show/17279748-doomsday-diaries">www.goodreads.com/book/show/17279748-doomsday-diaries</a> |
-| Terry Pratchett | Feet of Clay | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/FrontPageTempDir/www.andersmonsen.com/50-works-of-fiction-libertarians-should-read">www.andersmonsen.com/50-works-of-fiction-libertarians-should-read</a> |
 | Gary Raab | The White Knight in the City of Pirates | "Portrays a twenty-seventh century anarchistic pirate colony." (Dan Clore) The first chapter is available<a href="http://web.archive.org/web/20071031060733/www.antelope-ebooks.com/SF/WKOS2/city01.html">online</a>. |
 | Hannu Rajaniemi | The Fractal Prince | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Hannu Rajaniemi | The Quantum Thief | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
@@ -398,7 +396,6 @@ permalink: worksforconsideration.html
 | Ekaterina Sedia, ed. | Paper Cities | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Louis Segeral | Les Nouvelles de la Combe | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | Thomas Sewell | Sharper Security | <a href="http://www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security">www.amazon.co.uk/Sharper-Security-Sovereign-Company-Novel/dp/0615730078/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369868637&amp;sr=1-1&amp;keywords=sewell+sharper+security</a> |
-| J.C. Shannon | 'The Dream of Jacques the Anarchist', in Who Shall Condemn? and Other Stories | "Dream of future war similar to Griffith's in which resentful slum anarchist moves amid aircraft and new explosives." (Suvin: 59) |
 | Nisi Shawl | 'Deep End' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Robert Sheckley | The Status Civilization | <a href="http://www.goodreads.com/shelf/show/libertarian-science-fiction">www.goodreads.com/shelf/show/libertarian-science-fiction</a> |
 | Charles Sheffield | Between the Strokes of Night | among books cited by Nick Mamatas inThe BASTARD Chronicles 2015as hard SF overwhelmed by religious allegory |
@@ -500,7 +497,6 @@ permalink: worksforconsideration.html
 | T.H. White | The Book of Merlyn | www.andersmonsen.com/50-works-of-fiction-libertarians-should-read; www.librarything.com/tag/anarchism,+science+fiction |
 | Colson Whitehead | Zone One | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Ysabeau S. Wilce | Flora Segunda | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Neil Wynn Williams | The Electric Theft | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=201481567">AbeBooks</a> |
 | Robert Moore Williams | 'Flight of theDawn Star' | mentioned in a mailing to anarchysf |
 | Tad Williams | Otherland tetralogy | recommended on Facebook 'Anarchists and Science Fiction' page |
 | Connie Willis | 'Even the Queen' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
