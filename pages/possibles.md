@@ -92,7 +92,6 @@ permalink: worksforconsideration.html
 | C.J. Cherryh | Foreigner universe series | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | C.J. Cherryh | Forty Thousand in Gehenna | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | G.K. Chesterton | 'The Conversion of an Anarchist' | <a href="http://www.locusmag.com/index/s137.htm">www.locusmag.com/index/s137.htm</a> |
-| Ted Chiang | Stories of Your Life and Others | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jacob Clifton | 'This is Why We Jump' | <a href="http://www.locusmag.com/Reviews/2013/06/lois-tilton-reviews-short-fiction-early-june-3/">www.locusmag.com/Reviews/2013/06/lois-tilton-reviews-short-fiction-early-june-3/</a> |
 | Daniel A. Coleman | The Anarchist | email suggestion to me |
 | Michael Coney | Hello Summer, Goodbye(akaRAX) | <a href="http://www.librarything.com/work/271046/book/26911732">www.librarything.com/work/271046/book/26911732</a>;<a href="http://www.thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
