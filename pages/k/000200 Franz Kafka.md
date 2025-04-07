@@ -1,10 +1,13 @@
 ---
-title: "-In the Penal Colony' ('In der Strafkolonie', 1919; 1st English translation 1941); The Trial (Der Process / Der Prozeß, 1925; 1st English translation) 1937; The Castle (Das Schloß, 1926; 1st English translation 1930)"
+title: "'Metamorphosis' ('Die Verwandlung', 1915; 1st English translation 1937); 'In the Penal Colony' ('In der Strafkolonie', 1919; 1st English translation 1941); The Trial (Der Process / Der Prozeß, 1925; 1st English translation) 1937; The Castle (Das Schloß, 1926; 1st English translation 1930)"
 format: "book"
 category: "k"
-yearReleased: "1926"
+yearReleased: "1915"
 author: "Franz Kafka"
 ---
+'Metamorphosis' describes a worker who wakes up to find he's become an insect. In 2025 _Freedom News_ reprinted an article by the director of a Greek dramatisation of this famous fable, on <a href="https://freedomnews.org.uk/2025/04/06/kafka-in-the-21st-century/">Kafka in the 21st Century</a>. Tasos Sagris concludes "A hundred years after Kafka's death, our performance has shown that the great Czech author remains more 
+relevant than ever. As the world becomes increasingly Kafkaesque, as power structures grow stronger, individuals search for ways to escape through the cracks of the world like frightened cockroaches. And yet, at the same time, humanity continues to carry within it the possibility of radical transformation — the power of total liberation."
+
 'In the Penal Colony' features a macabre execution machine which incises the nature of the crime into the victim's body. Michael Löwy, in his '[Franz Kafka and Libertarian Socialism](https://theanarchistlibrary.org/library/michael-lowy-franz-kafka-and-libertarian-socialism)', finds that "There are few texts in universal literature which present authority with such an unjust and murderous face."
 
 *The Trial*—Kafka's best-known novel—isn't obviously science fiction, but Kafka's influence is sufficiently pervasive that John Clute has a long entry on him at [SFE](http://www.sf-encyclopedia.com/entry/kafka_franz), concluding that "His work is a Baedeker to where we live now."
