@@ -22,6 +22,8 @@ W.D. James, in a November 2023 <a href="https://www.anarchistfederation.net/will
 
 In October 2024, writing in _Graswurzelrevolution_, Maurice Schuhmann pronounced that "The genre of 'anarchistic science fiction' begins with this novel." ["Mit diesem Roman beginnt letztendlich das Genre der „anarchistischen Science Fiction“."]
 
+As a corrective, it should be noted that Michael Holzman, in his '<a href="https://morrisarchive.lib.uiowa.edu/items/show/981">Anarchism and Utopia: William Morris's <em>News from Nowhere</em></a>, has concluded that "the episodes and speeches of <em>News from Nowhere </em>were in themselves political acts, a last-ditch effort against the Anarchists who were seizing control of Morris's Socialist League, an apologia for a vision of the world as it might be, a plan for action that was not followed."
+
 With _The Dispossessed_, _News from Nowhere_ ranks as one of the two essential texts in the context of this guide.
 
 In the  lightweight satirical playlet _The Tables Turned_, "the sleeper who awakes in a libertarian-socialist society in Part II is the corrupt judge who presides over the farcical trial of socialists and anarchists in Part I." (The pre-revolution  Part 1 is much the longer of the two parts.) "There, he has to face the Council of the Commune (the general assembly of the local population, or folk-mote), who refuse to waste chains by shackling him, or to take care of him in a prison (they have none, anyway), but instead teach him to do useful work farming so that he might become a self-employed individual like everyone else." (Dan Clore)
