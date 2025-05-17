@@ -1,8 +1,8 @@
 ---
-title: "'The Chemistry of Anarchy' in The Face and the Mask"
+title: "'The Chemistry of Anarchy'"
 format: "book"
 category: "b"
-yearReleased: "1899"
+yearReleased: "1894"
 author: "Robert Barr"
 ---
 Feeble story of cowardly anarchists.
