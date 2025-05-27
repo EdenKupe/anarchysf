@@ -24,3 +24,6 @@ For AutumnLeavesCascade, "That whole film  trilogy contains strong anti-anarchis
 jamieandhisego concludes the Reddit discussion with his own two word answer: "Fuck no." 
 
 Another Reddit <a href="https://www.reddit.com/r/Anarchism/comments/ww7wo/my_anarchist_perspective_of_the_dark_knight_rises/"> discussion</a>, entitled 'My Anarchist Perspective of the Dark  Knight Rises', begins with an original post from mattkips, which  rails against the film for its portrayal of anarchists, but which  misfires because the film never actually identifies anyone as  anarchists. The lengthy discussion it provoked bears a read,  nevertheless. 
+
+_Sight and Sound_s 2021 <a href="https://www.bfi.org.uk/sight-and-sound/features/anarchist-cinema-history">Against the rules: anarchist cinema then and now</a> noted that the film included "a grotesque parody of an anarchist-inspired movement".
+
