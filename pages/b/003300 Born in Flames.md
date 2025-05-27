@@ -19,6 +19,6 @@ Lizzie Borden, when asked if she was  comfortable with being described as an ana
 
 James Newton, in his 2019 _The Anarchist Cinema_, notes the film's "intelligent dissection of anarchist and feminist politics, and its exploration of strategies and methods for resistance and change (including armed resistance and propaganda by the deed." (p101)
 
-Included in the CIRA filmography (see bibliography).
+Included in the CIRA filmography (see bibliography). Also included in _Sight and Sound_'s 2021 <a href="https://www.bfi.org.uk/sight-and-sound/features/anarchist-cinema-history">Against the rules: anarchist cinema then and now</a>.
 
 
