@@ -6,7 +6,8 @@ yearReleased: "2012"
 author: "Terry Bisson"
 ---
 
-<em>Fire on the Mountain</em> is socialist rather than anarchist, but is an astonishingly convincing alternate history predicated on John Brown's success in the raid at Harper's Ferry in 1859. Of very real interest. It has recently been reviewed in the Winter 2019 <em>Fifth Estate</em> by RB, who finds fault with Bisson's understanding of the true history of the raid, and dislikes what he sees as "Bisson's utopia: a technocratic mega-state that valorizes total domination of nature."
+<em>Fire on the Mountain</em> is socialist rather than anarchist, but is an astonishingly convincing alternate history predicated on John Brown's success in the raid at Harper's Ferry in 1859. Of very real interest. It has recently been reviewed in the Winter 2019 <em>Fifth Estate</em> by RB, who finds fault with Bisson's understanding of the true history of the raid, and dislikes what he sees as "Bisson's utopia: a technocratic mega-state that valorizes total domination of nature." In 2025 the Anarchist Federation reprinted an 
+<a href="https://www.anarchistfederation.net/black-resistance-imperfect-utopias-and-the-american-novel-searching-for-meaning-in-terry-bissons-fire-on-the-mountain-in-an-era-of-political-despair/">essay</a> by Luke McGowen-Arnold, centred on this novel, from the _Chicago Review of Books_.
 
 <em>TVA Baby</em> was recommended in Zeke  Teflon's <a href="https://seesharppress.wordpress.com/2014/12/15/review-tva-baby-by-terry-bisson/"> review</a>: "If you enjoy concise writing and mordant humor, you’ll enjoy <em>TVA Baby</em>."
 
