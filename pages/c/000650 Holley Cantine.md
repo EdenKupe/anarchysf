@@ -1,5 +1,5 @@
 ---
-title: "'<a href="https://theanarchistlibrary.org/library/holley-cantine-double-double-toil-and-trouble">Double, Double, Toil and Trouble</a>'"
+title: "'Double, Double, Toil and Trouble'"
 format: "book"
 category: "c"
 yearReleased: "1960"
