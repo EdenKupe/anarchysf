@@ -5,7 +5,6 @@ category: "d"
 yearReleased: "1981"
 author: "Philip K. Dick"
 ---
-
 In 'The Last of the Masters' Dick took anarchism itself for its explicit theme. Two hundred years after the triumph of the Anarchist League by overthrowing the world's governments, a pocket state is discovered, ruled by a still-surviving government robot. An Anarchist League agent destroys the robot. The League itself is a voluntary club of unorganised individuals whose task it is to patrol the world scotching any attempts to restore government. It is made clear at the end of the story that, while there are disadvantages to global anarchism, they are more than outweighed by the effective abolition of war that has followed from its adoption. The tale is included in Dana's *[AnarchoSF V.*1](file:///C:\7%20Website\anarchysf\d.htm#Dana)*. *For [Margaret Killjoy](http://www.anarchogeekreview.com/books/the-last-of-the-masters-by-philip-k-dick) "This story, by my reading, is neither libel nor advocacy, just a thought experiment by someone only peripherally versed in anarchism. Which frankly doesn’t make it feel all that valuable to the conversation."
 
 Dick's works constituted for Vittorio Curtoni a "violent fresco of social schizophrenia" (25). All his works show a high degree of humanity and identification with the underdog.
