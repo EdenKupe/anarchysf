@@ -14,4 +14,4 @@ A forking timeline has resulted in alternate versions in which the regular _Ente
 Fish is described as an "IWW member and anarchist activist" in the 2014 _Bottled Wasp Pocket Diary_. The novel demonstrates Fish's beliefs very effectively, and there are occasional nods to anarchist history, for example with two minor characters named as 'Alex Goldman' and 'Emma Bergman', and Kirk's alternate having a copy of Bakunin's _God and the State_.
 
 Franklin Rosemont has a paragraph on Leslie Fish in his 1988 'A Short Treatise on Wobbly Cartoons', drawing attention to her role as an IWW cartoonist. He also records that she "has played guitar and sung in an IWW band, The Dehorn Crew, whose albums include the Star Trek-based _Wobblies in Space_ [ . . . ] (_Surrealism, Bugs Bunny, and the Blues_ (2025), p188).
- 
+
