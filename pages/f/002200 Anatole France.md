@@ -15,4 +15,4 @@ author: "Anatole France"
 (Bantam Classic edn: 37)
 
 The last book concerns the future destruction of civilization, initiated by anarchist bombers; although the author seems to have some sympathy for this, the book concludes with the cyclical return of the triumphant State. Unusually, we have a record of the views of Bartolomeo Vanzetti on this work: for him  "France masterly slaps, in this book, the pretentions, proudness, hypocracy, stupidity and ferocity of the humane, and shows the uselessness of religions, and the venom of the clergies." (Frankfurter & Jackson, eds: 144)
- 
+
