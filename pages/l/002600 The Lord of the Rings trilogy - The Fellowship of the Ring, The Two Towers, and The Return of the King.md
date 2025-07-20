@@ -7,4 +7,3 @@ author: "Peter Jackson"
 ---
 Not sf, but nevertheless discussed in Ilya Somin's '<a href="http://lfs.org/newsletter/029/04/Somin.shtml">Libertarianism  and science fiction</a>', where the series is found to have "very strong  libertarian elements."
  
- 
