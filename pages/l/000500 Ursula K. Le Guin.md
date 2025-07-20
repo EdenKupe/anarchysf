@@ -5,7 +5,6 @@ category: "l"
 yearReleased: "2011"
 author: "Ursula K. Le Guin"
 ---
-
 In a 2008 interview Ursula Le Guin stated that she didn't consider herself an anarchist, because "I entirely lack the activist element". But when asked if she minded that a lot of anarchists claimed her, in approximately the same way they claimed Tolstoy, her response was "Of course I don't mind! I am touched and feel unworthy." (strangers, 2008; and republished in Killjoy's _Mythmakers & Lawbreakers. Anarchist writers on fiction_) Asked, in 2011, if she would describe herself as an anarchist (politically), her reply was "Politically, no; I vote, I'm a Democrat. But I find pacificist anarchist thought fascinating, stimulating, endlessly fruitful." (<a href="http://www.amazon.co.uk/reader/1604864036?_encoding=UTF8&amp;query=lovely art#reader_1604864036">'A Lovely Art'</a>, p91) Jamie Heckert, writing in _Fifth Estate_ in 2010, reflected:
 
 "In recent interviews, you suggested that perhaps you don't qualify for the label anarchist because you are middle-class or because what you do isn't activism. I invite you to reconsider. Who needs activism when you have wu wei? And why not be a middle-class anarchist? This is no contradiction in my book—and your own books have never shied away from life's apparent contradictions. They are embraced, queered.
