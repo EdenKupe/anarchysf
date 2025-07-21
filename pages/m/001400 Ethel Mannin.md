@@ -1,5 +1,5 @@
 ---
-title: "<a href="https://archive.org/details/in.ernet.dli.2015.213271">Bread and Roses. An Utopian Survey and Blue-Print</a>"
+title: "Bread and Roses. An Utopian Survey and Blue-Print"
 format: "book"
 category: "m"
 yearReleased: "1944"
@@ -10,7 +10,6 @@ Mannin was best known as a writer of popular novels, but she was also an  anarch
 "And that Utopia must be the stateless society of the anarchist ideal, a free and  ungoverned society living according to the natural law of mutual aid, the  present writer is convinced. And that is must be communist-anarchist."
 
 Ron Avery reviewed the book in _War Commentary_ in 1945. Albert Meltzer  sang her praises in the _Cienfuegos Press Anarchist Review_ in 1977: 
-  
 
 "Ask who is the writer who has contributed most in the  English language to the spread of libertarian ideas and you will get some  peculiar answers, probably one of them some obscure Canadian professor whom  nobody reads except as prescribed in the university curriculum [<em>Meltzer is  clearly referring to George Woodcock</em>]. You might well get the same answer  from Ethel Mannin, but for my money it is she who deserves the maximum credit,  and seems to have received none that I know of. She was writing on sex and  women's liberation fifty years ago and has introduced anarchist ideas in  numerous works of fact and fiction. 
 
