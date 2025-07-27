@@ -1,6 +1,5 @@
 ---
-title: "<a href="https://www.theguardian.com/culture/ng-interactive/2017/feb/20/intelligence-explosion-stop-robot-evil-drama-video">
-The Intelligence Explosion: How to Stop a Robot from Turning Evil</a"
+title: "The Intelligence Explosion: How to Stop a Robot from Turning Evil"
 format: "film"
 category: "i"
 yearReleased: "2017"
