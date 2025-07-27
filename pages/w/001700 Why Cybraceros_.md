@@ -1,5 +1,5 @@
 ---
-title: "<a href="https://vimeo.com/46513267">Why Cybraceros?</a>"
+title: "Why Cybraceros?"
 format: "film"
 category: "w"
 yearReleased: "2005"
