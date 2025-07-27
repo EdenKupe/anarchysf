@@ -1,5 +1,5 @@
 ---
-title: "<a href="https://www.youtube.com/watch?v=EUS1m5MSt9k">Government Explained</a>"
+title: "Government Explained"
 format: "book"
 category: "w"
 yearReleased: "2012"
