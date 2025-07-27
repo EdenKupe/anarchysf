@@ -1,5 +1,5 @@
 ---
-title: "Star Wars:     Episode VII – The Force Awakens"
+title: "Star Wars: Episode VII – The Force Awakens"
 format: "film"
 category: "s"
 yearReleased: "2015"
