@@ -1,5 +1,5 @@
 ---
-title: "Star Trek: Discovery"
+title: "Star Trek - Discovery"
 format: "TV"
 category: "s"
 yearReleased: "2017, ongoing"
