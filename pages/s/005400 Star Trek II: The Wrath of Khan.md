@@ -1,5 +1,5 @@
 ---
-title: "Star Trek II: The Wrath of Khan"
+title: "Star Trek II - The Wrath of Khan"
 format: "film"
 category: "s"
 yearReleased: "1982"
