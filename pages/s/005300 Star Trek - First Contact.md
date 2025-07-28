@@ -1,5 +1,5 @@
 ---
-title: "Star Trek - First Contact"
+title: "Star Trek: First Contact"
 format: "film"
 category: "s"
 yearReleased: "1996"
