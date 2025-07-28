@@ -1,5 +1,5 @@
 ---
-title: "Star Wars: Episode V – The Empire Strikes Back (formerly known as The Empire Strikes Back)"
+title: "Star Wars - Episode V – The Empire Strikes Back (formerly known as The Empire Strikes Back)"
 format: "film"
 category: "s"
 yearReleased: "--"
