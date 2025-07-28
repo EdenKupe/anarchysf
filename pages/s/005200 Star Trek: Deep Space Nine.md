@@ -1,5 +1,5 @@
 ---
-title: "Star Trek: Deep Space Nine"
+title: "Star Trek - Deep Space Nine"
 format: "TV"
 category: "s"
 yearReleased: "1993/1999"
