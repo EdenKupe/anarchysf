@@ -1,5 +1,5 @@
 ---
-title: "Star Trek: Picard"
+title: "Star Trek - Picard"
 format: "TV"
 category: "s"
 yearReleased: "2020/2023"
