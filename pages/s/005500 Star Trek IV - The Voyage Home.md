@@ -1,5 +1,5 @@
 ---
-title: "Star Trek IV - The Voyage Home"
+title: "Star Trek IV: The Voyage Home"
 format: "film"
 category: "s"
 yearReleased: "1986"
