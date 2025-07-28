@@ -1,5 +1,5 @@
 ---
-title: "Star Wars - Episode II – Attack of the Clones"
+title: "Star Wars: Episode II – Attack of the Clones"
 format: "film"
 category: "s"
 yearReleased: "2002"
