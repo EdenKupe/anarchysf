@@ -1,17 +1,11 @@
-#hometitle {
-  display: flex;
-}
-
 #homehero {
-  grid-template-columns: 1fr 4fr 1fr;
-  grid-column: 1 / span 2;
   margin-top: 70px;
 }
 
 #pagecontent {
-  grid-column: 2 / span 2;
+  padding-right: 0;
 }
 
-#astronaut {
-  grid-column: 1 / span 1;
+#hometitle a {
+  margin-right: 10px;
 }

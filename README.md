@@ -2,7 +2,7 @@
 
 AnarchySF is an online archive of the intersection between anarchy and science fiction. This archive is an open-source repository of anarchist or anarchy-adjacent science fiction. Featured on the site are books, movies, and other media which are either anarchist in their politics or of interest to anarchists.
 
-This archive was first collected and organized by [Ben Beck](http://benbeck.co.uk), who gathered and maintained it for the better part of three decades (!) As of 2019, it was redesigned and re-built by Eden Kupermintz and Yanai Sened as a collaborative effort.
+This archive was first collected and organized by [Ben Beck](http://benbeck.co.uk), who gathered and maintained it for the better part of four decades (!) As of 2019, it was redesigned and re-built by Eden Kupermintz and Yanai Sened as a collaborative effort.
 
 ## Contributing
 
@@ -13,6 +13,18 @@ We welcome any and all contributions to the site and especially appreciate fixes
 * For substantial fixes to the content (re-writes, corrections beyond one word, rephrasing), please open a Pull Request directly to master editing the relevant Markdown file. Please leave a summary in the PR of what you changed; we're doing this in our free time and every little bit helps!
 
 * For new additions, please also submit detailed PRs. The sidebar and homepage will automatically update once you've added your Markdown file, no additional code is needed. **Note: this will only work properly if your front-matter is correct. See below for specifications**.
+
+## Running the Site Locally
+
+If you want to build a local copy of the site, you have two approaches avaiable to you:
+
+0) Run both `bundle install` and `yarn install` (you can use `npm install` as well, if needed)
+1) Clone the repo and simply use Jekyll's built in `server` capabilities with `bundle exec jekyll serve --incremental`
+2) Clone the repo and install prerequisites with `npm install`. You can then use `gulp default` to build the site with gulpJS, which gives you hot reloading.
+
+## A Note on CSS
+
+AnarchySF uses the brilliant Tailwind CSS. If you'd like to make changes to the site's design, please make all changes to the `site.css` file. This gets compiled alongside Tailwind's default classes, so you can use their utilities.
 
 ## Site Structure
 
@@ -34,12 +46,7 @@ The Liquid code which generates the homepage and the main sidebar relies on the 
 
 * `author:` the name of the author, first name and then last name.
 
-## A Note on Running the Site Locally
 
-If you want to build a local copy of the site, you have two approaches avaiable to you:
-
-1) Clone the repo and simply use Jekyll's built in `server` capabilities with `bundle exec jekyll serve --incremental`
-2) Clone the repo and install prerequisites with `npm install`. You can then use `gulp default` to build the site with gulpJS, which gives you hot reloading.
 
 ## Code of Conduct
 

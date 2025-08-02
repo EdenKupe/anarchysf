@@ -1,9 +1,9 @@
 ---
-title: "The Final Programme"
+title: "The Final Programme; aka The Last Days of Man on Earth"
 format: "film"
 category: "f"
 yearReleased: "1973"
-author: "Robert Fuest; aka The Last Days of Man on Earth"
+author: "Robert Fuest"
 ---
-Based on the novel of the same name by the prolific  anarchist SF writer Michael Moorcock (book one of The Cornelius Chronicles),  the film is OTT in the way to be expected from the director of The Abominable  Dr Phibes and many episodes of The Avengers.
+Based on the novel of the same name by the prolific  anarchist SF writer Michael Moorcock (book one of <em>The Cornelius Chronicles</em>),  the film is OTT in the way to be expected from the director of <em>The Abominable Dr Phibes</em> and many episodes of <em>The Avengers</em>.
  

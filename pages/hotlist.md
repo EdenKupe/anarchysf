@@ -24,7 +24,7 @@ While _The Dispossessed_ is recommended below, I feel like the _The Eye of the H
 
 Over the not-too-long length of the book, these two groups come into collision. In the background, lending the book its "ethereal" quality, is the planet itself and its wilderness. Like in many UKL stories, nature plays a big role in this book. As the two groups of humans clash, questions about how empty the planet really is hover in the background, reminding us of the native and the unknown. The book also raises questions of pacifism's limit, how organizing works, and what happens when anarchist ideas are tested in the field.
 
-#### M.John Harrison - The Centauri Device
+#### M. John Harrison - The Centauri Device
 
 The degree to which M. John Harrison is underread today is criminal. He has one of the weirdest and most original minds around, whether he's writing bleak sci-fantasy (_Viriconium_), deconstructed and nightmarishly nihilistic space-opera (_Empty Space Trilogy_) or an anarchist space-opera. The latter is what I would like to recommend here, since it touches upon anarchy more than his other books listed here. _The Centauri Device_ bears immediate comparison to Alfred Bester's masterpiece, _The Stars My Destination_; a loner takes on the entire universe and its political system, battling it out against governments and corporations.
 
@@ -42,7 +42,7 @@ The main thing that is of interest to anarchists in this book is the relationshi
 
 #### Jack Womack - Random Acts of Senseless Violence
 
-One of sci-fi's best kept secrets, _Random Acts of Senseless Violence_ depicts the utter unravelling of American society. After a string of presidents are assassinated, the very fabric of society begins to become undone; the ecnonomic situation is dire and the hold of law on the country is loosening. Into this world is thrust Lola Hart, the daguther of a well-to-do but by no means rich familty from Manhattan. Since the story is told from her perspective, with Womack cleverly writing in the language of a twelve-year-old child, we see a very thin slice of the crisis that is unfolding.
+One of sci-fi's best kept secrets, _Random Acts of Senseless Violence_ depicts the utter unravelling of American society. After a string of presidents are assassinated, the very fabric of society begins to become undone; the ecnonomic situation is dire and the hold of law on the country is loosening. Into this world is thrust Lola Hart, the daughter of a well-to-do but by no means rich family from Manhattan. Since the story is told from her perspective, with Womack cleverly writing in the language of a twelve-year-old child, we see a very thin slice of the crisis that is unfolding.
 
 Quickly however, the family begins to lose its stability. As a result, Lola is thrust into a new school, new neighborhood and, finally, into the violence of the world as the social contract starts to unravel. Like the famous _Flowers for Algernon_ (by Daniel Keyes), the language of Lola evolves alongside her psychology. The novel uses these tools to expertly capture what happens when laws breaks down in a capitalist society and how the basics of what we call life fall prey to greed and violence. The absence of a better solution is deafening and should serve as a good reminder to any anarchist what is at stake if we cannot formulate an alternative to the way things are organized today.
 
@@ -58,19 +58,25 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Iain M. Banks: _Culture_ series (1987–2012)
 
+* Gautam Bhatia: _The Sentence_ (2024)
+
 * Gene Brewer: _K-PAX The Trilogy_  (2004)
 
 * Steve Cullen: _The Last Capitalist: A Dream of a New Utopia_  (1996)
 
 * Dennis Danvers: _The Watch_ (2002)
 
-* Joseph Déjacque: _L_ (1858–61)
+* Joseph Déjacque: _L'Humanisphère_ (1858–61)
 
 * Philip K. Dick: 'The Last of the Masters' (1954)
 
 * L. Timmel Duchamp: _The Marq'ssan Cycle_  (2005–7)
 
+* Leslie Fish: _The Weight_ (1988)
+
 * Mike Gilliland: _The Free_ (2nd edn 2011)
+
+* D.D. Johnston: _Disnaeland_ (2022)
 
 * Ernest C. Large: _Dawn in Andromeda_ (1956)
 
@@ -86,6 +92,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Robert Nichols: _Daily Lives in Nghsi-Altai_ (1977–9)
 
+* M.E. O'Brien and Eman Abdelhadi: _Everything for Everyone. An Oral History of the New York Commune, 2052–2072_ (2022)
+
 * Henry Olerich: _A Cityless and Countryless World. An Outline of Practical Co-operative Individualism_ (1893)
 
 * George Orwell: _Nineteen Eighty-Four_ (1949)
@@ -94,6 +102,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 * Robert Sheckley: 'Skulking Permit'(1954)
 
+* Peter Lamborn Wilson: 'Visit Port Watson!' (1985)
+
 * Robert Anton Wilson and Robert Shea: _Illuminatus!_ (1975)
 
 * Yevgeny Zamyatin: _We_ (1920)
@@ -101,11 +111,11 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 
 ### For an Overview of Anarchy and Science Fiction
 
-* Marie Louise Berneri: Journey Through Utopia (1950)
+* Marie Louise Berneri: _Journey Through Utopia_ (2019; first published 1950)
 
-* Margaret Killjoy, ed.:  Mythmakers & Lawbreakers. Anarchist writers on fiction (2009)
+* Margaret Killjoy, ed.:  _Mythmakers & Lawbreakers. Anarchist writers on fiction_ (2009)
 
-* Max Nettlau: Esbozo de Historia de las Utopías (1934)
+* Max Nettlau: <a href="https://materialesfopep.files.wordpress.com/2015/05/max-nettlau-esbozo-de-historia-de-las-utopc3adas.pdf">_Esbozo de Historia de las Utopías_</a> (1934)
 
 
 ### Recommended Viewing
@@ -113,6 +123,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 * 2081 (2009)
 
 * La Belle Verte (1996)
+
+* Black Mirror (2011/2013, 2014, 2016→)
 
 * Born in Flames (1983)
 
@@ -141,6 +153,8 @@ This list was originally written by [Ben Beck](benbeck.co.uk), the original arch
 * The Prisoner (1967/1968)
 
 * Punishment Park (1970)
+
+* Red Dwarf (1988→)
 
 * A Scanner Darkly (2006)
 

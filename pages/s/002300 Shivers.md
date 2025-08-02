@@ -5,5 +5,7 @@ category: "s"
 yearReleased: "1975"
 author: "David Cronenberg"
 ---
-Described in <a href="http://obsolete-press.com/wp-content/uploads/2017/02/obso10finalwatermarksample.pdf"> <i>Obsolete</i> #10</a>, in 2017, as a "masterpiece, in which a parasite runs  rampant in a luxury high-rise apartment building, creating a population of  sex-crazed zombies." The reviewer rightly compares it with Ben Wheatley's 2015 High-Rise, which reflects its "bizarre excellence."
- 
+Described in <a href="http://obsolete-press.com/wp-content/uploads/2017/02/obso10finalwatermarksample.pdf"> _Obsolete_ #10</a>, in 2017, as a "masterpiece, in which a parasite runs rampant in a luxury high-rise apartment building, creating a population of sex-crazed zombies." The reviewer rightly compares it with Ben Wheatley's 2015 _High-Rise_, which reflects its "bizarre excellence."
+
+Seen as "decidedly anarchist" in David Christopher's 2014 _Anarchist Studies_ article 'Early Cronenberg and the Anarchist-Apocalypse'.
+
