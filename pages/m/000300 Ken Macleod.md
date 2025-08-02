@@ -1,5 +1,5 @@
 ---
-title: "The Star Fraction (1996); The Stone Canal (1997); The Cassini Division (1999); The Sky Road (1999); Cosmonaut Keep (2000); Dark Light (2001);  Newton's Wake (2004);  Learning the World (2005); The Night Sessions (2008); Intrusion (2012); The Human Front Plus (2013); The Corporation Wars: Dissidence"; The Corporation Wars: Insurgence (2016)"
+title: "The Star Fraction (1996); The Stone Canal (1997); The Cassini Division (1999); The Sky Road (1999); Cosmonaut Keep (2000); Dark Light (2001);  Newton's Wake (2004);  Learning the World (2005); The Night Sessions (2008); Intrusion (2012); The Human Front Plus (2013); The Corporation Wars: Dissidence; The Corporation Wars: Insurgence (2016)"
 format: "book"
 category: "m"
 yearReleased: "2016"

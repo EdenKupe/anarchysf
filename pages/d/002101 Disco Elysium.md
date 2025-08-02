@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Disco Elysium"
 format: "other"
 category: "d"
 yearReleased: "2019"
 author: "Robert Kurvitz"
 ---
-Created by Estonian studio Za/um, this is a dialogue-heavy video game set in a fictional world.
+Created by Estonian studio Zaum, this is a dialogue-heavy video game set in a fictional world.
 The game features a city recovering from a failed communist revolution that was undermined by incompetence but also thwarted by foreign invaders. 
 It presents a critical and comical depiction of several ideologies, including Communism, Liberalism, Centrism and Fascism.
 The city depicted is managed in a rather anarchist way, with government involvement being minor, and most things in the town being run by the union or by individuals.
