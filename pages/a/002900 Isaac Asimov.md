@@ -1,5 +1,5 @@
 ---
-title: "Foundation trilogy (1952–1953); The Caves of Steel (1954); 'The Dead Past' (1956)"
+title: "Foundation trilogy (1952–1953); The Caves of Steel (1954); 'The Dead Past' (1956); The Gods Themselves (1972)"
 format: "book"
 category: "a"
 yearReleased: "1956"
@@ -16,3 +16,6 @@ _The Caves of Steel_, Asimov's first robot novel, is discussed over a couple of 
  . . . "you all just took it for granted that the government was stupidly  bureaucratic, vicious, tyrannical, given to suppressing research for the hell of  it. It never occurred to any of you that we were trying to protect mankind as  best we could." (<em>The Best of Isaac Asimov</em>: 246)
 
 All  in all it is a strong statist, and specifically anti-anarchist, parable.
+
+_The Gods Themselves_ is described by <a href="https://sf-encyclopedia.com/entry/asimov_isaac">SFE</a> as Asimov's finest single creation, a complex tale involving potentially catastrophic energy transfers between alternate universes [ . . . ] and [ . . . ] intriguing alien beings." In a post to the Facebook Anarchist Film Group in 2025 Dave Downes wrote that "In The Gods Themselves, Asimov presents a society that operates without a formal government or system of control, relying instead on a network of interconnected minds and a strong sense of community. This provides a fascinating example of a society that embraces anarchist principles".
+
