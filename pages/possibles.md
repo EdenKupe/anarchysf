@@ -119,7 +119,6 @@ permalink: worksforconsideration.html
 | Jacques Doillon, Alain Resnais, & Jean Rouch | The Year 01 | <a href="https://en.wikipedia.org/wiki/List_of_films_dealing_with_anarchism">en.wikipedia.org/wiki/List_of_films_dealing_with_anarchism</a>;<a href="https://translate.google.com/translate?hl=en&amp;sl=da&amp;tl=en&amp;u=https%3A%2F%2Fsortefane.wordpress.com%2Fr%2Fanarkisme-og-film%2F">translate.google.com/translate?hl=en&amp;sl=da&amp;tl=en&amp;u=https%3A%2F%2Fsortefane.wordpress.com%2Fr%2Fanarkisme-og-film%2F</a> |
 | Harold Donirz | 'Visitor from the 20th ?Century' | Winston's example of an SF story in which the subject of government isn't ever brought up |
 | N. Harold Donley | Outworld | suggested on the Facebook<a href="https://www.facebook.com/groups/anarchismandsciencefiction/?fref=ts">Anarchism and Science Fiction</a>forum |
-| Ignatius Donnelly | Caesar's Column | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=13030973112">AbeBooks</a> |
 | Sébastien Doubinsky | Absinth | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=9447966297">AbeBooks</a>; email from author. author describes himself explicitly as an anarchist (<a href="http://sebdoubinsky.blogspot.dk/2015/06/anarchism-and-utopia_96.html">author's blog</a>) |
 | Sébastien Doubinsky | The Babylonian trilogy | recommended by the author (email from author); has introduction by Michael Moorcock. author describes himself explicitly as an anarchist (<a href="http://sebdoubinsky.blogspot.dk/2015/06/anarchism-and-utopia_96.html">author's blog</a>) |
 | Sébastien Doubinsky | Le Feu au Royaume | recommended by the author (email from author). author describes himself explicitly as an anarchist (<a href="http://sebdoubinsky.blogspot.dk/2015/06/anarchism-and-utopia_96.html">author's blog</a>) |
@@ -308,7 +307,6 @@ permalink: worksforconsideration.html
 | Lyda Morehouse | Archangel Protocol | <a href="http://www.librarything.com/work/261793/book/26912036">www.librarything.com/work/261793/book/26912036</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Christopher Morgan | Anarchist in the Rose Garden | <a href="http://www.infoshop.org/inews/article.php?story=20070323160132363">www.infoshop.org/inews/article.php?story=20070323160132363</a> |
 | Edward R. Morris | Fathers and Sons: Blackguard, Book One | included in David Agranoff's list of "<a href="included%20in%20David%20Agranoff's%20list%20of%20%22anarchist-themed-sci-fi%22">anarchist-themed-sci-fi</a>" |
-| James Morrow | City of Truth | <a href="https://seesharppress.wordpress.com/page/12/">Teflon</a>;<a href="https://riproaringreviews.wordpress.com/">riproaringreviews.wordpress.com/</a> |
 | Walter Mosley | 'Archibald Lawless, Anarchist at Large: Walking the Line' | <a href="http://www.locusmag.com/index/yr2005/d50.htm">www.locusmag.com/index/yr2005/d50.htm</a> |
 | Jim Munroe | Everyone in Silico | <a href="http://www.librarything.com/work/230134/book/26911600">www.librarything.com/work/230134/book/26911600</a>; mentioned in a mailing to anarchysf;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jim Munroe | Flyboy Action Figure Comes With Gasmask | mentioned in a mailing to anarchysf |
@@ -386,7 +384,7 @@ permalink: worksforconsideration.html
 | Ian Sanderson | The Archers Anarchists | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
 | C.J. Sansom | Dominion | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
 | C.J. Sansom | Lamentation | <a href="https://seesharppress.wordpress.com/">Teflon</a> |
-| John Scalzi | Old Man's Warseries | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
+| John Scalzi | Old Man's War series | <a href="http://ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks">ask.metafilter.com/256904/No-More-Culture-Books-left-what-other-SF-is-like-Iain-Banks</a> |
 | Lorraine Schein | 'Angel of Anarchy' and other writings | recommended by Lorraine Schein in emails to me |
 | Lorraine Schein | The Raw Brunettes | recommended by Lorraine Schein in emails to me |
 | Lorraine Schein | 'The Anarchist Speaks' | <a href="http://www.locusmag.com/index/yr2003/t72.htm">www.locusmag.com/index/yr2003/t72.htm</a> |
@@ -453,7 +451,6 @@ permalink: worksforconsideration.html
 | William Tenn | 'Eastward Ho!' | <a href="http://www.libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a> |
 | William Tenn | 'The Masculinist Revolt' | <a href="http://www.libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a> |
 | Sheri S. Tepper | The Family Tree | <a href="http://www.goodreads.com/book/show/64701.The_Family_Tree">www.goodreads.com/book/show/64701.The_Family_Tree</a> |
-| Sheri S. Tepper | Six Moon Dance | mentioned in a mailing to anarchysf |
 | Brian Thompson | The Anarchists | <a href="http://www.amazon.co.uk/Anarchists-Brian-Thompson-ebook/dp/B007IUJJFM/ref=sr_1_1?ie=UTF8&amp;qid=1408894483&amp;sr=8-1&amp;keywords=brian+thompson+the+anarchists">Amazon</a>;<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=10516495209">AbeBooks</a> |
 | Alexei Tolstoy | Aelita | mentioned in a mailing to anarchysf |
 | James Treadwell | Anarchy | <a href="http://www.sf-encyclopedia.com/entry/treadwell_james">SFE</a> |
