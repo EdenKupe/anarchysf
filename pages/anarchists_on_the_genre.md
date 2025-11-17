@@ -207,7 +207,7 @@ L'anarchia √® un'utopia "reale". Proprio in questo contrasto sta la sua vitalit√
 
 "anarchist science fiction can be a most effective device for bringing the vision of freedom to concrete life. Those fans, critics, editors and writers to whom the ideal of freedom is congenial can, by each working a little harder at his or her own thing, make more room in science fiction for anarchist ideas."
 
-(_'Worlds without Government',_ 1980)
+(_'Worlds without Government',_ 1980, reprinted in _Every Day is a GOOD Day_, 2025)
 
 ## Leona
 
