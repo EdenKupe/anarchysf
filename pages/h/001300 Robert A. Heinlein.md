@@ -31,7 +31,7 @@ In _Farnham's Freehold_ a nuclear attack  propels a US family into a future soci
 
 _The Moon is a Harsh Mistress_ is one of Heinlein's more acceptable books, and one to which a version of anarchism is central—a blend of individualist anarchism and Jeffersonian democracy that Heinlein calls 'rational anarchism'. The story concerns the successful lunar war of independence, and owes much to the historical precedent of the American revolution. For Robert Shea,
 
- ". . . the picture of an anarchist society on the  moon in _The Moon is a Harsh Mistress_ is . . . believable. This is one  sort of anarchism, at any rate . . . This Wild West Anarchism wouldn't  appeal to all anarchists, but it does give us a chance to experience one way  that a society without a government might work. Many anarchists like it so much  they suggest it to non-anarchists as introductory reading." (Shea 1980:0)
+ ". . . the picture of an anarchist society on the  moon in _The Moon is a Harsh Mistress_ is . . . believable. This is one  sort of anarchism, at any rate . . . This Wild West Anarchism wouldn't  appeal to all anarchists, but it does give us a chance to experience one way  that a society without a government might work. Many anarchists like it so much  they suggest it to non-anarchists as introductory reading." (Shea 1980:0; Shea 2025:78-79)
 
 Like most revolutions, though, the lunar one only results in a substitution at the top.
 
