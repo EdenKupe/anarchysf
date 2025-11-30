@@ -5,7 +5,7 @@ category: "r"
 yearReleased: "1978"
 author: "Joanna Russ"
 ---
-'When it Changed' is included  in the Think Galactic <a href="http://thinkgalactic.org/reading-lists/by-author/">reading list</a>.
+Tom Moylan has a useful discussion of 'When it Changed' in his 2000 _Scraps of the Untainted Sky_, noting that "With its mixture of sharp critique and grim humor, Russ's story is a strong example of the sort of sf that can be socially and politically insightful and incite-ful even as it is an elegant fictive exposition of the learning curve that sf privileges."
 
 _The Female Man_ depicts three parallel versions of the female experience and what it might be, from a radical feminist stance. Whileaway, which is apparently Russ's utopia, is decentralised, and perhaps without government as such, but the verdict of the _Open Road_ critics was that  "The book's feminism is apparently not consistent with an anti-authoritarian structure" (13).
 
