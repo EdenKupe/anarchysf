@@ -400,7 +400,6 @@ permalink: worksforconsideration.html
 | John Shirley | Everything is Broken | <a href="http://www.locusmag.com/Perspectives/2013/01/david-brin-our-favorite-cliche-a-world-filled-with-idiots-orwhy-films-and-novels-routinely-depict-society-and-its-citizens-as-fools/">www.locusmag.com/Perspectives/2013/01/david-brin-our-favorite-cliche-a-world-filled-with-idiots-orwhy-films-and-novels-routinely-depict-society-and-its-citizens-as-fools/</a> |
 | Gary G. Shriver | Cynia:An Original Utopia(1965 unpublished MA thesis, University of Wyoming) | individualist anarchist eutopia (Sargent: 141) |
 | Neal Shusterman | Unwind | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Robert Silverberg | Invaders from Earth | <a href="https://libcom.org/files/Rad%20America%20V3%20I4.pdf">libcom.org/files/Rad%20America%20V3%20I4.pdf</a>: "an effective indictment of imperialism and its paid apologists" |
 | Helen Simpson | The Woman on the Beast: Viewed from Three Angles | <a href="http://www.sf-encyclopedia.com/entry/simpson_helen">SFE</a>: "a woman anarchist with apocalyptic intentions becomes ruler of the world" |
 | Johanna Sinisalo | Troll | <a href="http://www.librarything.com/work/53393/book/26911701">www.librarything.com/work/53393/book/26911701</a>;<a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Jane Smiley | A Thousand Acres | mentioned in a mailing to anarchysf |
