@@ -1,5 +1,5 @@
 ---
-title: "The Last of the Masters' (1954); Solar Lottery (1955); Eye in the Sky (1957); Galactic Pot-Healer (1959); Time Out of Joint (1959); The Man in the High Castle (1962); Clans of the Alphane Moon (1964); The Penultimate Truth (1964); The Simulacra (1964); The Three Stigmata of Palmer Eldritch (1965); The Crack in Space (1966); Counter-Clock World (1967); The Zap Gun (1967); Do Androids Dream of Electric Sheep? (1968); Ubik (1969); 'The Electric Ant (1969); Flow My Tears, the Policeman Said (1974); A Scanner Darkly (1977); Valis (1981)"
+title: "The Last of the Masters' (1954); Solar Lottery (1955); Eye in the Sky (1957); Galactic Pot-Healer (1959); Time Out of Joint (1959); The Man in the High Castle (1962); Clans of the Alphane Moon (1964); The Penultimate Truth (1964); The Simulacra (1964); The Three Stigmata of Palmer Eldritch (1965); The Crack in Space (1966); Counter-Clock World (1967); The Zap Gun (1967); Do Androids Dream of Electric Sheep? (1968); Ubik (1969); 'The Electric Ant (1969); We Can Build You (1972); Flow My Tears, the Policeman Said (1974); A Scanner Darkly (1977); Valis (1981)"
 format: "book"
 category: "d"
 yearReleased: "1981"
@@ -32,6 +32,8 @@ In *Counter-Clock World* a black religious leader, round whom much of the book r
 *Do Androids Dream of Electric Sheep?*—famously adapted as the film _Blade Runner_—was singled out for mention by Walker Lane, of the *Fifth Estate* collective, for a [Summer 2012 anarchist reading list.](http://www.fifthestate.org/archive/387-summer-2012/anarchist-reading-list-fifth-estate-staff/)
 
 'The Electric Ant' is the subject of a one-page discussion in Jesse Cohn's 2024 _Hot Equations_.
+
+_We Can Build You_ is another of Dick's lesser works. Its inclusion here is really only for the surprising reference, in Ch. 9, to Grey Walter, who of course was the father of well-known British anarchist Nicolas Walter.
 
 In *The Penultimate Truth* members of the elite program an android politician which/who keeps the underground masses properly stirred up and misinformed. ([Riggenbach](http://mises.org/daily/5089)) For [Lampe](http://tashqueedagg.wordpress.com/2013/04/22/615/) a clear moral is that "It does not matter if power if justifiable on some level. It is nonetheless, sociopathic."
 
