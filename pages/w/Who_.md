@@ -1,0 +1,13 @@
+---
+date: git Last Modified
+layout: libdoc_page.liquid
+permalink: jack-gold-aka-roboman/index.html
+tags:
+- W
+- film
+title: "Jack Gold; aka Roboman - Who?"
+---
+
+Adapted from the Algis Budrys novel. An American scientist—severely injured in a  car accident—is captured by East German military, and has to have his skull  replaced in its entirety, so that he seems like a cyborg. Back in the States,  where he's needed for a crucial project, the story hinges on whether or not he  can be accepted as who he claims to be.
+  
+ Noted by <a href="http://reason.com/archives/1975/01/01/science-fiction-sf-on-the-scre"> Pierce</a> as an example of a film so bad it disappeared without trace—though  really it's watchable (if you can find it), and better than some.
