@@ -110,7 +110,6 @@ permalink: worksforconsideration.html
 | Adrián del Valle | Cuentos Inverosímiles | collection of stories published in Cuba by a Catalan anarchist, including 'Vitalis', 'Cerebralis' and 'Un Rayo de Sol' (Cohn: 166) |
 | Pierre-Emmanuel Dessevres | Le Vol des faucons | reference in<a href="http://www.monde-libertaire.fr/ecologie/16317-la-pollution-tue-en-afrique">Le Monde Libertaire</a> |
 | François Dibot | Les Sources de Sheeba | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Philip K. Dick | The Unteleported Man / Lies, Inc. | included in Evan Lampe's<a href="http://tashqueedagg.wordpress.com/2013/04/15/philip-k-dick-the-unteleported-manlies-inc-19641984-malthus-turner-and-the-frontier/">blog</a> |
 | Philip K. Dick | We Can Rebuild You | The BASTARD Chronicles 2015 |
 | Gordon R. Dickson | The R-Master | mentioned in a mailing to anarchysf |
 | Thomas M. Disch | The Priest | mentioned in a mailing to anarchysf |
