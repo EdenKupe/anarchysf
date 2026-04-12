@@ -1,8 +1,8 @@
 ---
-title: "The Last of the Masters' (1954); Solar Lottery (1955); Eye in the Sky (1957); Galactic Pot-Healer (1959); Time Out of Joint (1959); The Man in the High Castle (1962); Clans of the Alphane Moon (1964); The Penultimate Truth (1964); The Simulacra (1964); The Three Stigmata of Palmer Eldritch (1965); The Crack in Space (1966); Counter-Clock World (1967); The Zap Gun (1967); Do Androids Dream of Electric Sheep? (1968); Ubik (1969); 'The Electric Ant (1969); We Can Build You (1972); Flow My Tears, the Policeman Said (1974); A Scanner Darkly (1977); Valis (1981)"
+title: "The Last of the Masters' (1954); Solar Lottery (1955); Eye in the Sky (1957); Galactic Pot-Healer (1959); Time Out of Joint (1959); The Man in the High Castle (1962); Clans of the Alphane Moon (1964); The Penultimate Truth (1964); The Simulacra (1964); The Three Stigmata of Palmer Eldritch (1965); The Crack in Space (1966); Counter-Clock World (1967); The Zap Gun (1967); Do Androids Dream of Electric Sheep? (1968); Ubik (1969); 'The Electric Ant (1969); We Can Build You (1972); Flow My Tears, the Policeman Said (1974); A Scanner Darkly (1977); Valis (1981); Lies, Inc. (2004)"
 format: "book"
 category: "d"
-yearReleased: "1981"
+yearReleased: "2004"
 author: "Philip K. Dick"
 ---
 In 'The Last of the Masters' Dick took anarchism itself for its explicit theme. Two hundred years after the triumph of the Anarchist League by overthrowing the world's governments, a pocket state is discovered, ruled by a still-surviving government robot. An Anarchist League agent destroys the robot. The League itself is a voluntary club of unorganised individuals whose task it is to patrol the world scotching any attempts to restore government. It is made clear at the end of the story that, while there are disadvantages to global anarchism, they are more than outweighed by the effective abolition of war that has followed from its adoption. The tale is included in Dana's *[AnarchoSF V.*1](file:///C:\7%20Website\anarchysf\d.htm#Dana)*. *For [Margaret Killjoy](http://www.anarchogeekreview.com/books/the-last-of-the-masters-by-philip-k-dick) "This story, by my reading, is neither libel nor advocacy, just a thought experiment by someone only peripherally versed in anarchism. Which frankly doesn’t make it feel all that valuable to the conversation."
@@ -38,5 +38,7 @@ _We Can Build You_ is another of Dick's lesser works. Its inclusion here is real
 In *The Penultimate Truth* members of the elite program an android politician which/who keeps the underground masses properly stirred up and misinformed. ([Riggenbach](http://mises.org/daily/5089)) For [Lampe](http://tashqueedagg.wordpress.com/2013/04/22/615/) a clear moral is that "It does not matter if power if justifiable on some level. It is nonetheless, sociopathic."
 
 A proponent of governmental decentralisation and opponent of organised religion, it is perhaps unfortunate that some of Dick's later, delusional, work has had a posthumous influence in the emergence of anarcho-gnostics. Among these later works is *Valis*, briefly mentioned in a quotation in *The BASTARD Chronicles 2015*, which also quotes from _Radio Free Albemuth_.
+
+_Lies, Inc._ is disappointing, but is noted by <a href="https://tashqueedagg.wordpress.com/category/philip-k-dick-2/page/2/">Lampe</a> for its counter-Malthusianism: "The biggest lie in _Lies, Inc._ is the lie that there are too many people."
 
 Lampe has individual [blog](http://tashqueedagg.wordpress.com/index/) entries for each of 30 Dick novels, including one not sf.
