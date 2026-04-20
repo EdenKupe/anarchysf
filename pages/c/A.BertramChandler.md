@@ -1,0 +1,13 @@
+---
+date: git Last Modified
+layout: libdoc_page.liquid
+permalink: a-bertram-chandler/index.html
+tags:
+- C
+- book
+title: "A. Bertram Chandler - The Anarch Lords"
+---
+
+A space opera concerning a planet named Liberia, which had been settled by anarchists. The extent to which the colony had stuck to anarchist principles had varied much over the years. There is now an Original Anarchist Party, which favours a return to basic principles. These, however, are opposed by the entrenched anarchist establishment,  "the cream of Liberian society, the black-and-scarlet-clad Anarchist grandees and their ladies" (50, DAW edition). Bakunin has become a demi-god,  'Holy Bakunin' is used as an interjection (139), and the central figure even  wonders if anarchists pray to him!
+ 
+Not only does Chandler's knowledge of anarchism tend towards zero, the novel is forgettable third-rate sf.
