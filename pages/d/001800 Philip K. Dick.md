@@ -37,7 +37,7 @@ _We Can Build You_ is another of Dick's lesser works. Its inclusion here is real
 
 In *The Penultimate Truth* members of the elite program an android politician which/who keeps the underground masses properly stirred up and misinformed. ([Riggenbach](http://mises.org/daily/5089)) For [Lampe](http://tashqueedagg.wordpress.com/2013/04/22/615/) a clear moral is that "It does not matter if power if justifiable on some level. It is nonetheless, sociopathic."
 
-A proponent of governmental decentralisation and opponent of organised religion, it is perhaps unfortunate that some of Dick's later, delusional, work has had a posthumous influence in the emergence of anarcho-gnostics. Among these later works is *Valis*, briefly mentioned in a quotation in *The BASTARD Chronicles 2015*, which also quotes from _Radio Free Albemuth_.
+A proponent of governmental decentralisation and opponent of organised religion, it is perhaps unfortunate that some of Dick's later, delusional, work has had a posthumous influence in the emergence of anarcho-gnostics. Among these later works is *Valis*, briefly mentioned in a quotation in *The BASTARD Chronicles 2015*, which also quotes from _Radio Free Albemuth_. _Valis_ also receives a mention in issue #11 of the _Anarchist Review of Books_.
 
 _Lies, Inc._ is disappointing, but is noted by <a href="https://tashqueedagg.wordpress.com/category/philip-k-dick-2/page/2/">Lampe</a> for its counter-Malthusianism: "The biggest lie in _Lies, Inc._ is the lie that there are too many people."
 
