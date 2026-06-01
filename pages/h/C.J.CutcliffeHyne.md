@@ -1,0 +1,11 @@
+---
+date: git Last Modified
+layout: libdoc_page.liquid
+permalink: edward-hyams/index.html
+tags:
+- H
+- book
+title: "Edward Hyams - The Recipe for Diamonds"
+---
+
+Primarily adventure and chase rather than SF, the novel is premised on the discovery of the eponymous recipe by the mediæval philosopher and supposed alchemist Ramon Llull ('Lully', in this work). One of those engaged in the chase is indeed an anarchist who is perhaps slightly less of a caricature than some in novels of this period. Rather than bombs, his interest is in manufacturing diamonds in such quantity that they would be wholly devalued, undermining the world economy and eliminating governments.

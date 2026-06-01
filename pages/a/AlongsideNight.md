@@ -8,6 +8,6 @@ tags:
 title: "J. Neil Schulman - Alongside Night"
 ---
 
-Film version of the <a href="s.htm#schulman">novel</a>, directed by the author.
+Film version of Schulman's novel, directed by the author.
   
  Distinctly poor, and really only for the agorist converted.

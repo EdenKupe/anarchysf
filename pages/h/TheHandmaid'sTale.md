@@ -1,13 +1,11 @@
 ---
 date: git Last Modified
 layout: libdoc_page.liquid
-permalink: volker-schlondorff/index.html
+permalink: bruce-miller/index.html
 tags:
 - H
-- film
-title: "Volker Schlöndorff - The Handmaid's Tale"
+- TV
+title: "Bruce Miller - The Handmaid's Tale (TV series)"
 ---
 
-Margaret Atwood's dystopia, adapted for the screen. In a  patriarchal theocracy, the tiny minority of fertile women are in effect enslaved  as breeders. After a failed escape, the story follows one woman up to the point  of her next escape, the degree of success of which is left uncertain.
- 
-Recommended in Osborne's <a href="biblio.htm#Osborne"> Guide</a>. For <a href="http://libertarianmovies.net/H/The-Handmaid-s-Tale-1990-.html"> Libertarian Movies</a>, "This film will especially speak to feminist  libertarians, but this nightmare of an ultimate church-state is one that all  libertarians can appreciate!" Also recommended by two posters on the <a href="https://www.reddit.com/r/Anarchism/comments/1953qj/have_you_any_movie_recommendations_containing/"> page</a> looking for movie recommendations on Reddit.com/r/Anarchism, though  both preferred the original novel.
+Based on the dystopian Atwood novel, the series has been well received, though inevitably the first series was the most successful. In a 2019 <a href="https://freedomnews.org.uk/cinema-and-ideology-dystopia-at-the-end-of-capitalism/">Freedom News</a> article (translated from prior publication in <em>Revista Torpedo</em>) Teresa Cabrera Sánchez and Hugo Cuevas Soria describe the depicted society of Gilead as "presented as an eco-fascist alternative society of the most frightening kind."

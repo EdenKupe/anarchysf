@@ -8,4 +8,5 @@ tags:
 title: "Nicola Griffith - Ammonite"
 ---
 
-Included in the <a href="http://thinkgalactic.org/reading-lists/by-author/"> Think Galactic</a> reading list.
+Featured in <a href="https://podcasters.spotify.com/pod/show/anarchysf/episodes/Acknowledging-the-Complexities-of-Humanity-with-Ammonite-e24fgb9/a-a9sfpp6">
+this episode</a> of the anarchySF podcast.

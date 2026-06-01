@@ -10,5 +10,5 @@ title: "Roger Corman - Gas-s-s-s,  or It Became Necessary to Destroy the World i
 ---
 
 Feeble countercultural light comedy, set in a world where  everyone over the age of 25 has been killed by a leak of poison gas.
- 
-Included in the Red  Planets filmography.
+
+Included in the _Red Planets_ filmography (see Bould, in bibliography).

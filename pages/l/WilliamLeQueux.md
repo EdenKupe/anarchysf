@@ -8,4 +8,4 @@ tags:
 title: "William Le Queux - The Invasion of 1910"
 ---
 
-This reactionary and militaristic future-war story, a  well-known example of the kind, was referred to in Pilgrim's 1966 review, but  without comment. It is similar in tone and style to a more modern example,  Hackett's The Third World War.
+This reactionary and militaristic future-war story, a  well-known example of the kind, was referred to in Pilgrim's 1966 review, but  without comment. It is similar in tone and style to a more modern example,  Hackett's _The Third World War_.

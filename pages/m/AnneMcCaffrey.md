@@ -8,4 +8,4 @@ tags:
 title: "Anne McCaffrey - To Ride Pegasus"
 ---
 
-Freedom's inadequate 1975 review missed the book's  central law-and-order message. (Brent 1975)
+_Freedom_'s inadequate 1975 review missed the book's  central law-and-order message. (Brent 1975)

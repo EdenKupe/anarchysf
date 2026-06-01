@@ -1,23 +1,32 @@
 ---
 date: git Last Modified
 layout: libdoc_page.liquid
-permalink: hans-widmer/index.html
+permalink: p-m-hans-widmer/index.html
 tags:
 - M
 - book
-title: "Hans Widmer - bolo'bolo"
+title: "p.m. (Hans Widmer) - bolo'bolo (1983); Akiba"
 ---
 
-This is an interesting speculative utopia, more an  extended essay than a work of fiction—but certainly worth reading in this  context. Killjoy  says it is "considered one of the primary anarchist utopia novels", and in  2013 the same critic wrote that "P.M.'s society is perhaps the one I'm most  drawn to" . . .
+_bolo'bolo_ is an interesting speculative utopia, more an  extended essay than a work of fiction—but certainly worth reading in this  context. Killjoy  says it is "considered one of the primary anarchist utopia novels", and in  2013 the same critic wrote that "P.M.'s society is perhaps the one I'm most  drawn to" . . .
 
 Dan Clore describes it as "A full-length  attempt to design a libertarian socialist society with enough respect for the  diversity of humanity's desires that a community of cyberpunks who live online  might be placed next to a community made up of bands of hunter-gatherers.  Frequently whimsical but well thought-out; sometimes verges into semi-fictional  form."
 
+Peter Seyferth, in his 2009 'Anarchism and Utopia,' noted that "this little book is rather a skeleton of a (fallible and open-ended) blueprint than a traditional or critical utopia."
+
 For Uri Gordon this  "anarchist-inspired vision of an alternative society" makes the point  that "the diverse and inherently un-enforceable nature of the anarchist  project leaves it necessarily open to change and challenge from within."  (Gordon 2009: 268)
 
-Recommended by <a href="http://www.infoshop.org/pdfs/AnarchyWorks.pdf">Gelderloos</a>.  Used as the basis for a workshop on utopia at the BASTARD conference,  and touched on by Mamatas in The BASTARD Chronicles 2015.
+Recommended by <a href="http://www.infoshop.org/pdfs/AnarchyWorks.pdf">Gelderloos</a>.  Used as the basis for a workshop on utopia at the BASTARD conference,  and touched on by Mamatas in _The BASTARD Chronicles 2015_.
 
-Most recently (2019), bolo'bolo has been discussed at some length (ten pages) by Ruth Kinna. She treats it as among the "most influential modern anarchist utopias," noting that it is one of those "imagined as fleeting possibilities rather than enduring alternatives." (214) This is the fundamental difference distinguishing it from Kropotkin's utopianism, with which in her view it "resonates." (2220).
+Most recently (2019), _bolo'bolo_ has been discussed at some length (ten pages) by Ruth Kinna (see bibliography). She treats it as among the "most influential modern anarchist utopias," noting that it is one of those "imagined as fleeting possibilities rather than enduring alternatives." (214) This is the fundamental difference distinguishing it from Kropotkin's utopianism, with which in her view it "resonates." (220).  In the same year Kinna also included this work in her '<a href="https://theanarchistlibrary.org/library/ruth-kinna-annotated-bibliography-on-anarchism">Annotated Bibliography on Anarchism</a>', where she described it as "An extraordinary picture of a utopian world offering community and autonomy."
 
-p.m. has written articles for  Fifth Estate, e.g. 'The next mutiny on the Bounty', in the  Spring/Summer issue of 2005.
+p.m. has written articles for _Fifth Estate_, e.g. 'The next mutiny on the Bounty', in the  Spring/Summer issue of 2005.
 
-See also Cohn 224-5, 230-1.
+See also Cohn 224-5, 230-1. 
+
+<a href="https://www.triple-c.at/index.php/tripleC/article/download/1143/1323">Christian Fuchs</a>, in 2020, devoted ten pages to this author's work, concluding, of this novel, that "There are limits of P.M.'s vision in respect to the use of communication technologies, computers, and robots, where the book is not visionary and not utopian enough and is in danger of idealising local, rural life that is based on hard physical labour and has low levels of productivity", but that overall it is an important contribution to discussions about post-capitalism, showing that alternatives to capitalism are feasible.
+
+See also Martin d'Idler's 2007 '<a href="https://www.rosalux.de/fileadmin/rls_uploads/pdfs/Utopie_kreativ/205/205DIdler.pdf">»bolo'bolo«(1983) von P. M. Der Entwurf eines globalen Anarchismus als neuer Klassiker der 
+politischen Utopie.</a>'
+
+_Akiba_ is definitely also of interest, but in a very different way. Akiba itself is presented as an urban eco-commune, seeking to change the world by example. But the novel speculates at length about theories of this entire world as a gigantic computer simulation, and has its protagonists venture forth into an eternal life in an infinite multiverse, which is in its own way utopian, but in a way that essentially depends on fantasy, and is quite unrealisable. In 2009 the novel was <a href="https://www.fifthestate.org/archive/380-spring-2009/bizarre-gnostic-science-fiction-author-bolobolo/">reviewed</a> by Dave Meesters in _Fifth Estate_ #380, welcoming "its sheer imaginative power."

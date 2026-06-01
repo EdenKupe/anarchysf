@@ -8,4 +8,4 @@ tags:
 title: "Merian C. Cooper and Ernest B. Schoedsack - King  Kong"
 ---
 
-Included in Bould's  Red Planets filmography as a "Powerful—if accidental—fantasy of colonial  revolt."
+Included in Bould's  _Red Planets_ filmography as a "Powerful—if accidental—fantasy of colonial  revolt."

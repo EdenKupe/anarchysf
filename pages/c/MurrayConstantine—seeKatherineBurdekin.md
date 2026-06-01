@@ -8,4 +8,4 @@ tags:
 title: "VariousMurray Constantine (see Katherine Burdekin)"
 ---
 
-See [Katherine Burdekin](#katherine-burdekin-writing-as-murray-constantine-swastika-night).
+See entry for Katherine Burdekin.

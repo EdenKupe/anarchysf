@@ -9,4 +9,4 @@ title: "Phoebe Wagner and Brontë Christopher Wieland, eds - Sunvault. Stories o
   Solarpunk and Eco-Speculation"
 ---
 
-An attractive solarpunk anthology, predictably  well-received by Facebook's Solarpunk Anarchist.
+An attractive solarpunk anthology, predictably well-received by Facebook's Solarpunk Anarchist.

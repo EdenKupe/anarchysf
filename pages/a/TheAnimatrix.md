@@ -9,4 +9,4 @@ title: "\"Koji Morimoto, Shinichiro Watanabe, \t\t\tMahiro Maeda, Peter Chung, A
   Jones, Yoshiaki Kawajiri, and \t\t\tTakeshi Koike - The Animatrix\""
 ---
 
-American-Japanese anime anthology loosely based on the  Matrix trilogy: a compilation of nine short films, including the back story  of the original war between man and machines which led to the creation of the  Matrix. Surprisingly successful, and more interesting than the final two of the Matrix trilogy.
+American-Japanese anime anthology loosely based on the  <em>Matrix </em>trilogy: a compilation of nine short films, including the back story  of the original war between man and machines which led to the creation of the  Matrix. Surprisingly successful, and more interesting than the final two of the <em>Matrix</em> trilogy.

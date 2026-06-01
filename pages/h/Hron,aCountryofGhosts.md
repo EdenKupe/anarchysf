@@ -1,0 +1,11 @@
+---
+date: git Last Modified
+layout: libdoc_page.liquid
+permalink: dani-tardif/index.html
+tags:
+- H
+- film
+title: "Dani Tardif - Hron, a Country of Ghosts"
+---
+
+Canadian-made, French language film adaptation of Margaret Killjoy's _A Country of Ghosts._ The Vimeo <a href="https://vimeo.com/ondemand/hronacountryofghosts/757252891">hosting page</a> describes it as "a queer heterotopian science-fiction movie about war, but more so a story about love." The blurb goes on to say that it was made by a collective, who "have been trying to minimize traditional hierarchies of the cinema industry by working with committee and consent-based decision making strategies."

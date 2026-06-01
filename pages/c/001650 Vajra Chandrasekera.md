@@ -1,5 +1,5 @@
 ---
-title: "The Saint of Bright Doors" (2023); "Rakesfall (2024)"
+title: "The Saint of Bright Doors (2023); Rakesfall (2024)"
 format: "book"
 category: "c"
 yearReleased: "2024"

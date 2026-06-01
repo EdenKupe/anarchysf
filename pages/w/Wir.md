@@ -8,4 +8,4 @@ tags:
 title: "Vojtěch Jasný - Wir"
 ---
 
-A good adaptation of Zamyatin's We,  made for German TV.
+A good adaptation of Zamyatin's _We_,  made for German TV.

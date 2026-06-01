@@ -8,4 +8,4 @@ tags:
 title: "John Carnell, ed. - New Writings in SF–1"
 ---
 
-The first of a long series of original anthologies, it was  briefly reviewed in Freedom in 1965, where it was described as "a well  balanced collection" (anon. 1965). It is actually mediocre sf.
+The first of a long series of original anthologies, it was  briefly reviewed in <em>Freedom</em> in 1965, where it was described as "a well  balanced collection" (anon. 1965). It is actually mediocre sf.

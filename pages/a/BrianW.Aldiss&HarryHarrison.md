@@ -8,4 +8,4 @@ tags:
 title: "Brian W. Aldiss & Harry Harrison - The Penguin Omnibus of Science  Fiction"
 ---
 
-Remarked on favourably by <a href="biblio.htm#P.">D.P.</a> in 1986.
+Remarked on favourably by D.P. (see bibliography) in 1986.

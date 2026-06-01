@@ -8,6 +8,6 @@ tags:
 title: "Alain Bourret - The Glass Fortress"
 ---
 
-Disappointing French short, rather freely adapted from  Zamyatin's We, and stylistically derivative of La Jetée.
- 
+Disappointing French short, rather freely adapted from  Zamyatin's _We_, and stylistically derivative of _La Jetée_.
+
 Noted on Facebook Anarchists and Science Fiction in  January 2017.

@@ -8,4 +8,4 @@ tags:
 title: "Gary Ives - 'This is BioMorph'"
 ---
 
-Short short about cyborgs, published in Fifth Estate #398, Summer 2017.
+Short short about cyborgs, published in _Fifth Estate_ #398, Summer 2017.

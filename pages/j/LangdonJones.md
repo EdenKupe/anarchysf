@@ -8,4 +8,4 @@ tags:
 title: "Langdon Jones - The Eye of the Lens"
 ---
 
-Jones's collection of late sixties stories,  mostly from New Worlds, presents some interesting examples of the sort of  speculative fiction associated with the magazine. Moorcock described the book as  "superb", in the Appendix to his 1983 Retreat from Liberty (90).
+Jones's collection of late sixties stories,  mostly from _New Worlds_, presents some interesting examples of the sort of  speculative fiction associated with the magazine. Moorcock described the book as  "superb", in the Appendix to his 1983 _Retreat from Liberty_ (90).

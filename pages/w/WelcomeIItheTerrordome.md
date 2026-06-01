@@ -9,5 +9,5 @@ title: "Ngozi Onwurah - Welcome II the Terrordome"
 ---
 
 Racial conflict and human drama in a future  black British mega-ghetto.
- 
-Included in the <a href="biblio.htm#Red Planets" style="font-style: italic">Red  Planets</a> filmography.
+
+Included in Bould's _Red  Planets_ filmography.

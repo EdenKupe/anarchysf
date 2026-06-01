@@ -8,4 +8,4 @@ tags:
 title: "Dave Thorpe - Doc Chaos: The Chernobyl Effect"
 ---
 
-Described as an allegorical satire on the nuclear age, this was published by the anarchist Hooligan Press, and favourably reviewed in Freedom. (D.R. 1988)
+Described as an allegorical satire on the nuclear age, this was published by the anarchist Hooligan Press, and favourably reviewed in _Freedom_. (D.R. 1988)

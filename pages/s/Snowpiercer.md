@@ -1,15 +1,12 @@
 ---
 date: git Last Modified
 layout: libdoc_page.liquid
-permalink: bong-joon-ho/index.html
+permalink: josh-friedman-and-graeme-manson/index.html
 tags:
 - S
-- film
-title: "Bong Joon-ho - Snowpiercer"
+- TV
+title: "Josh Friedman and Graeme Manson - Snowpiercer"
 ---
 
-Set aboard the globe-spanning Snowpiercer  train which holds the last remnants of humanity after an attempt at  engineering an end to climate change has reversed the warming too  far and created a new ice age. The train is stratified on class  lines, front to back, and the under-class tail-section passengers  rebel against the privileged few at the front of the train.
- 
-Eoin O'Connor, writing on the Facebook  Anarchism and Science Fiction Forum in 2015, summed it up as  "Probably the most expensive film made recently which is pretty  explicitly anti-capitalist (confirmed by the film's director),  concerning class struggle, environmental collapse, and the  ideological manipulation of the lower orders by the ruling elite."
- 
-Recommended at '<a href="https://liberty.me/discuss/t/good-movies-for-libertarians-and-anarchists/">Good  movies for libertarians and anarchists</a>', where for one  contributor "The whole movie is one giant metaphor for the  Leviathan." Also noted by <a href="https://newrepublic.com/article/123217/new-utopians">Jeet  Heer</a>.
+Ongoing series based on the 2013 film. Perhaps surprisingly, Eden Kupermintz, in a February 2021 anarchySF <a href="https://anchor.fm/anarchysf/episodes/Elysium--design-fiction-and-fake-scarcity-eqfgul">
+podcast</a>, judged the series even better than the film.

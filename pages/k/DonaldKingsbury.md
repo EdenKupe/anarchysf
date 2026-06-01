@@ -5,7 +5,7 @@ permalink: donald-kingsbury/index.html
 tags:
 - K
 - book
-title: "Donald Kingsbury - Psychohistorical Crisis"
+title: "Donald Kingsbury - Courtship Rite (1982); Psychohistorical Crisis (2001)"
 ---
 
-Winner of the 2002 Prometheus Award.
+The latter novel won the 2002 Prometheus Award; the former the 2016 Prometheus Hall of Fame Award.

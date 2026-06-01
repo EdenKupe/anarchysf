@@ -1,0 +1,11 @@
+---
+date: git Last Modified
+layout: libdoc_page.liquid
+permalink: suzanne-collins/index.html
+tags:
+- C
+- book
+title: "Suzanne Collins - The Hunger Games"
+---
+
+Dystopian action, very readable. Included in the <a href="http://thinkgalactic.org/reading-lists/by-author/">Think Galactic</a>  reading list. The only book of the trilogy read by Margaret <a href="http://www.anarchogeekreview.com/movies/the-hunger-games-mockingjay-part-1-2014"> Killjoy</a> before reviewing the third part of the film series.

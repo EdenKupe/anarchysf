@@ -8,4 +8,4 @@ tags:
 title: "William M. Sloane - Stories for Tomorrow"
 ---
 
-Referred to in Pilgrim's 1963 Anarchy article, it's a good anthology for  the period.
+Referred to in Pilgrim's 1963 _Anarchy_ article, it's a good anthology for  the period.
