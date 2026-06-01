@@ -5,5 +5,5 @@ category: "c"
 yearReleased: "2008"
 author: "Suzanne Collins"
 ---
-Dystopian action, very readable. Included in the <a href="http://thinkgalactic.org/reading-lists/by-author/">Think Galactic</a>  reading list. The only book of the trilogy read by Margaret <a href="http://www.anarchogeekreview.com/movies/the-hunger-games-mockingjay-part-1-2014"> Killjoy</a> before reviewing the third part of the film series.
+Dystopian action, very readable. The series—both book and film—were described by Malik Muhammad in a 2025 <a href="https://www.anarchistfederation.net/top-3-summer-reading-recommendations/">blog post</a> copied to anarchistfederation.net as "my absolute FAVORITE."
  

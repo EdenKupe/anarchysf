@@ -11,7 +11,8 @@ Listed among Brian Bergen-Aurand's <a href="http://www.tasteofcinema.com/2015/20
 
 Included by Glenn in his essay 'Film as  Subversion', in the 2015 _BASTARD_ Chronicles, as a  subversive drama. Glenn says "One of the most incendiary films  produced during the Vietnam period, this film was effectively banned  in the USA after opening for four days in an obscure Manhattan  theater. It has never played in a major US cinema house nor has ever  appeared on National TV."
 
-Listed as a dystopian film at Black Flag Blog's <a href="https://translate.google.com/translate?hl=en&amp;sl=da&amp;tl=en&amp;u=https://sortefane.wordpress.com/r/anarkisme-og-film/"> Anarchism and film</a>.
+Listed as a dystopian film at Black Flag Blog's <a href="https://translate.google.com/translate?hl=en&amp;sl=da&amp;tl=en&amp;u=https://sortefane.wordpress.com/r/anarkisme-og-film/"> Anarchism and film</a>. Described on
+<a href="https://www.youtube.com/watch?v=GGU9l9HsoBw">Moviedrome Redux</a> as "The most anarchic film ever made."
 
 On a personal note, as a British exchange  student in the US in 1970, I found this an astonishingly truthful  reflection of my recollections of that period, after Kent State and  the invasion of Cambodia.
  

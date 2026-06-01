@@ -1,5 +1,5 @@
 ---
-title: "Player Piano (1952); The Sirens of Titan  (1959); 'Harrison Bergeron' (1961); Cat's Cradle (1963); Slaughterhouse-Five  (1969); Slapstick, or Lonesome No  More! (1976); Jailbird (1980); Galápagos (1985)"
+title: "Player Piano (1952); The Sirens of Titan  (1959); 'Harrison Bergeron' (1961); Cat's Cradle (1963); Slaughterhouse-Five  (1969); Slapstick, or Lonesome No  More! (1976); Jailbird (1980); Deadeye Dick (1982); Galápagos (1985)"
 format: "book"
 category: "v"
 yearReleased: "1985"
@@ -18,6 +18,8 @@ _Slaughterhouse-Five_ is discussed in part of the anarchySF <a href="https://anc
 podcast</a> on Vonnegut: Kupermintz considers it "extremely good", a "Nobel-level" book. It's included in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
 
 The podcast also cites _Galápagos_, in which Sened comments that the author's foregrounding of meaninglessness becomes "a little bit annoying".
+
+In _Deadeye Dick_ a mid-western city is destroyed by a neutron bomb, ostensibly by accident. As discussed by <a href="https://www.counterpunch.org/2019/12/27/kurt-vonnegut-anarchist-and-social-critic/">Gaither Stewart</a>, Vonnegut speculates that the city will be repopulated by Haitian workers, essentially imported as slaves: "The point is that Vonnegut’s technological society needs the workers but it cares even less for non-Americans than for its own citizens."
 
 _Slapstick_ and _Jailbird_  are the only Vonnegut novels (tagged as sf) held by <a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>,  the Centre International de Recherches sur l'Anarchisme. _Jailbird_ is  also listed in Libcom.org's reading guide to <a href="https://libcom.org/library/working-class-literature-reading-guide"> working class literature</a>.
 

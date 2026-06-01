@@ -5,7 +5,7 @@ category: "r"
 yearReleased: "1957"
 author: "Ayn Rand"
 ---
-Rand was far from being an anarchist  (she once describe anarchy, as a political concept, as "a naive floating  abstraction"), but her immense influence on the libertarian right and the anarcho-capitalists can't be denied. (Rand 1963) Murray Rothbard, a leading influence  on the development of anarcho-capitalism, asserted in his 1973 work _For a New  Liberty_ that "her philosophical influence remains prodigious on the great  bulk of libertarian youth" (15).
+Rand was far from being an anarchist  (she once describe anarchy, as a political concept, as "a naive floating  abstraction"), but her immense influence on the libertarian right and the anarcho-capitalists can't be denied. (Rand 1963) Murray Rothbard, a leading influence  on the development of anarcho-capitalism, asserted in his 1973 work _For a New  Liberty_ that "her philosophical influence remains prodigious on the great  bulk of libertarian youth" (15). Robert Shea was among those influenced, noting that "Rand's ideas were fundamental to the creation of the Libertarian Party and drew many people to the small 'l' libertarian movement. Her influence made itself felt as well among anarchists, as distinguished from libertarians, though she herself denounced anarchists (_Every Day is a GOOD Day_: 191).
 
 _Anthem_ is a dystopia set after a future war, in which the only crime punishable by death is the speaking of the word 'I'; inevitably the hero rebels, and comes to regard the very word as a god. In its exaltation of egoism, and to some extent in its style, it is reminiscent of Stirner's _The Ego and His Own_.  It tied for the 1987 Libertarian Futurist Society Hall of Fame Award.
 
