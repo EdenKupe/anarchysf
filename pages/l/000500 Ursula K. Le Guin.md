@@ -15,7 +15,7 @@ Reviewing Le Guin's science fictional oeuvre as a whole, Max Haiven's exceptiona
 
 _Rocannon's World_ is among the works discussed by Haiven; he find that it "demonstrates many anarchistic themes", among which he includes critical anthropology and a humanism of possibility.
 
-For George Woodcock _The Left Hand of Darkness_ was Le Guin's "strangest and most successful novel". (Woodcock 1976) Jeff Shantz, in his 2011 _Against All Authority. Anarchism and the Literary Imagination_, devotes four pages to this work in his chapter on 'Novel utopias.'
+For George Woodcock _The Left Hand of Darkness_ was Le Guin's "strangest and most successful novel". (Woodcock 1976) Jeff Shantz, in his 2011 _Against All Authority. Anarchism and the Literary Imagination_, devotes four pages to this work in his chapter on 'Novel utopias.' Carne Ross, in his 2026 _There We Are Human Again_, quotes from the novel.
 
 For Oshee Eagleheart in 2010 'Vaster than Empires and More Slow' "accurately and hilariously portrays the interactions within groups of 'crazy' characters who dare to explore the far reaches of the social universe in search of workable ways of living."
 
