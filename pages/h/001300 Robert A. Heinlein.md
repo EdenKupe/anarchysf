@@ -1,5 +1,5 @@
 ---
-title: "'Requiem' (1940);  The Day After Tomorrow  (1941),  Methuselah's Children   (1941/1958);   'Waldo' (1942); Red Planet   (1949); The Puppet  Masters   (1951); Revolt in 2100  (1953);  Double Star  (1956); Citizen of the Galaxy (1957); Starship Troopers (1959); Stranger in a Strange Land   (1961); Farnham's Freehold (1964);  'Free Men' (1966, probably written c. 1948); The Moon is a Harsh Mistress  (1966);  Time Enough for Love (1973); Friday (1982); For Us, the Living (2004; written 1939)"
+title: "'Requiem' (1940);  The Day After Tomorrow  (1941),  Methuselah's Children   (1941/1958);   'Waldo' (1942); Red Planet   (1949); The Puppet  Masters   (1951); Revolt in 2100  (1953); Tunnel in the Sky (1955);  Double Star  (1956); Citizen of the Galaxy (1957); Starship Troopers (1959); Stranger in a Strange Land   (1961); Farnham's Freehold (1964);  'Free Men' (1966, probably written c. 1948); The Moon is a Harsh Mistress  (1966);  Time Enough for Love (1973); Friday (1982); For Us, the Living (2004; written 1939)"
 format: "book"
 category: "h"
 yearReleased: "2004"
@@ -14,6 +14,8 @@ _Red Planet_ won the Libertarian  Futurist Society Hall of Fame Award in 1996, a
 Alex Comfort was thinking specifically of  _The Puppet Masters_ when he mused, in 1961, that "it is hard to tell whether  some of the fantasies of science fiction are paranoiac or merely satirical".
 
 For M. Eagle, writing in _Freedom_ in  1969, Heinlein's _Revolt in 2100_ "describes the overthrow of a  theocratic dictatorship in the USA and its replacement by the Covenant, by which all citizens can do anything they wish providing no harm is done to others. A  social contract indeed!"
+
+Margaret Killjoy, in her <a href="https://substack.com/home/post/p-203267349">substack</a> in 2026, noted, of _Tunnel in the Sky_, that it was probably her favourite Heinlein work: "It’s a libertarian but empathic story. One that serves as apologia for colonization but is still woven through with an interesting sort of kindness and was consciously intended to teach 'woke' lessons to 1950s boys reading pulp sci-fi."
 
 _Double Star_ is included in Evan  Lampe's <a href="http://tashqueedagg.wordpress.com/2013/01/28/robert-a-heinlein-double-star-franchise-politics-and-the-virtues-of-empire/"> blog</a>. Easterbrook describes it as "Heinlein's first foray into explicitly  libertarian thought" (p555).
 
