@@ -1,5 +1,5 @@
 ---
-title: "The Sentence"
+title: "The Sentence; to be republished in 2027 as The Fifth Inflection"
 format: "book"
 category: "b"
 yearReleased: "2024"
@@ -13,3 +13,4 @@ The book has a valuable and informative appendix, in which Bhatia outlines his i
 
 And in case anyone doubted the author's political sympathies, the conclusion of his Acknowledgements reads "And to all the anarchists—some remembered, many forgotten—who've struggled to 'build the new in the ruins of the old' and left us a language and a legacy that we can now draw upon in our stories: thank you."
 
+Since 2021 Bhatia has been the co-ordinating editor of <a href="https://strangehorizons.com/">_Strange Horizons_</a>, a weekly online magazine of speculative fiction. In June 2026 he published an interesting piece <a href="https://stone-soup.ghost.io/guest-feature-on-editing-an-anarchist-sff-magazine/">On Editing an Anarchist SFF Magazine</a>, which he says he likes to think of as "the kind of zine that the inhabitants of Le Guin's Anarres would have published." The publication collective has an explicitly anarchist structure (though simply described as 'flat', for the benefit of those who might balk at the precise word), and Bhatia says "we hope that in our own small way, we are fulfilling Le Guin's demand of us, and prefiguring a better world."
