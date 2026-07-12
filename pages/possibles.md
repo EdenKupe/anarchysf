@@ -9,7 +9,6 @@ permalink: worksforconsideration.html
 | Shale Aaron | Virtual Death | <a href="http://www.librarything.com/work/749026/book/26911595">www.librarything.com/work/749026/book/26911595</a>; <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author</a> |
 | Dafydd Ab Hugh |  | <a href="http://articles.latimes.com/1989-07-03/entertainment/ca-2383_1_science-fiction-fans">articles.latimes.com/1989-07-03/entertainment/ca-2383_1_science-fiction-fans</a> |
 | Edward Abbey | Good News | <a href="http://www.goodreads.com/book/show/3636146-good-news">www.goodreads.com/book/show/3636146-good-news</a> |
-| Kathy Acker | Pussy, King of the Pirates | relationship with anarchism discussed in Diana Fare's 2002 PhD thesis 'The Edges of the Unsaid: Transgressive Practices in the Fiction of Kathy Acker', downloadable from <a href="http://ethos.bl.uk/OrderDetails.do?did=1&amp;uin=uk.bl.ethos.247621">EThOS</a> |
 | Russell Ackerman | Broken | <a href="https://www.facebook.com/pages/Anarchists-and-Science-Fiction/1454355641446975?fref=ts">www.facebook.com/pages/Anarchists-and-Science-Fiction/1454355641446975?fref=ts</a> |
 | John Joseph Adams | Seeds of Change | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | Paul Adam | Lettres de Malaisie | <a href="http://www.sf-encyclopedia.com/entry/adam_paul">SFE</a>: describes a totalitarian dystopia; author "espoused strongly argued anarchist views", but mostly through historical novels |
@@ -110,7 +109,6 @@ permalink: worksforconsideration.html
 | Adrián del Valle | Cuentos Inverosímiles | collection of stories published in Cuba by a Catalan anarchist, including 'Vitalis', 'Cerebralis' and 'Un Rayo de Sol' (Cohn: 166) |
 | Pierre-Emmanuel Dessevres | Le Vol des faucons | reference in<a href="http://www.monde-libertaire.fr/ecologie/16317-la-pollution-tue-en-afrique">Le Monde Libertaire</a> |
 | François Dibot | Les Sources de Sheeba | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Philip K. Dick | We Can Rebuild You | The BASTARD Chronicles 2015 |
 | Gordon R. Dickson | The R-Master | mentioned in a mailing to anarchysf |
 | Thomas M. Disch | The Priest | mentioned in a mailing to anarchysf |
 | Anna Bowman Dodd | The Republic of the Future | Pfaelzer |
@@ -199,7 +197,6 @@ permalink: worksforconsideration.html
 | James P. Hogan | Mirror Maze | <a href="https://www.goodreads.com/genres/libertarian-science-fiction">www.goodreads.com/genres/libertarian-science-fiction</a> |
 | Stewart Home | 'Anarchist' | <a href="http://www.isfdb.org/cgi-bin/title.cgi?1398539">www.isfdb.org/cgi-bin/title.cgi?1398539</a> |
 | Nalo Hopkinson | 'Fisherman' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
-| Nalo Hopkinson | Report from Planet Midnight Plus | <a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.pmpress.org/content/index.php?topic=authors&amp;page=16">www.pmpress.org/content/index.php?topic=authors&amp;page=16</a>;<a href="../../Users/Ben/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/www.activedistributionshop.org/shop/35-fiction">www.activedistributionshop.org/shop/35-fiction</a> |
 | David Humphreys, Joel Barlow, John Trumbull, & Lemuel Hopkins | The Anarchiad: A Poem on the Restoration of Chaos and Substantial Night | online at<a href="http://mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show">mith.umd.edu//eada/html/display.php?docs=barlow_anarchiad.xml&amp;action=show</a> |
 | Ian Hunter | 'Anarchy at Christmas' | <a href="http://www.locusmag.com/index/s333.htm">www.locusmag.com/index/s333.htm</a> |
 | Charles John Cutcliffe Hyne (as Weatherby Chesney) | 'The Anarchist Plot', inThe Adventures of an Engineer | . . . "attempt to blow up the Bank of England [ . . . ] All novelties destroyed with the inventors." (Suvin: 71-2);<a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=4470885876&amp;ir&amp;xbf=b3MtcWctdWJ6cg__/54562939642614878671&amp;clickid=0TDUL6xmZ0-bT0YRqlWHWW1CUkXxI3RY2VdawM0&amp;cm_mmc=aff-_-ir-_-59145-_-146918&amp;afn_sr=impact&amp;ref=imprad">AbeBooks</a> |
