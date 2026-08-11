@@ -1,5 +1,5 @@
 ---
-title: "Foundation trilogy (1952–1953); The Caves of Steel (1954); 'The Dead Past' (1956); The Gods Themselves (1972)"
+title: "I, Robot (1950); Foundation trilogy (1952–1953); The Caves of Steel (1954); 'The Dead Past' (1956); The Gods Themselves (1972)"
 format: "book"
 category: "a"
 yearReleased: "1956"
@@ -9,7 +9,7 @@ Anarchist opinions on the <em>Foundation</em> trilogy have  been divided: Pilgri
 
 "Even if the Empire were admitted to be a bad thing (an  admission I do not make), the state of anarchy which would follow its fall would  be worse. It is that state of anarchy which my project is pledged to fight." (<em>Foundation</em>:  27, Panther edn)
 
-_The Caves of Steel_, Asimov's first robot novel, is discussed over a couple of pages in Cohn's 2024 _Hot Equations_.
+_The Caves of Steel_, Asimov's first robot novel, is discussed over a couple of pages in Cohn's 2024 _Hot Equations_. The famous Laws of Robotics—referenced in Alan N. Shapiro's <a href="https://www.alan-shapiro.com/technological-anarchism-by-alan-n-shapiro/">Technological Anarchism</a>—had earlier been introduced in _I, Robot_.
 
 'The Dead Past' is Asimov's most notable treatment of  'intellectual anarchy'; it involves a discussion of the ethics of suppressing a  'chronoscope', a device for viewing the past, and the political control of  research. The reader is initially encouraged to side with Potterley and Foster,  both repeatedly described as "intellectual anarchists", against the government;  but Asimov finally sides with Araman, for the government—
 
