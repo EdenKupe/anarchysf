@@ -15,3 +15,4 @@ Fish is described as an "IWW member and anarchist activist" in the 2014 _Bottled
 
 Franklin Rosemont has a paragraph on Leslie Fish in his 1988 'A Short Treatise on Wobbly Cartoons', drawing attention to her role as an IWW cartoonist. He also records that she "has played guitar and sung in an IWW band, The Dehorn Crew, whose albums include the Star Trek-based _Wobblies in Space_ [ . . . ] (_Surrealism, Bugs Bunny, and the Blues_ (2025), p188).
 
+See also <a href="https://daviddfriedman.substack.com/p/leslie-fish">David Friedman</a> on Substack in 2026.
