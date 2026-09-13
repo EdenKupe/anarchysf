@@ -6,7 +6,7 @@ This archive was first collected and organized by [Ben Beck](http://benbeck.co.u
 
 ## Contributing
 
-We welcome any and all contributions to the site and especially appreciate fixes to existing entries or additions of new entries.
+We welcome any and all contributions to the site and especially appreciate fixes to existing entries or additions of new entries. New entries on videogames will be particularly welcome, as this is a significant weakness of the site - if this is your interest, your best bet is to check out the companion AnarchySF podcasts, which have given much more coverage to gaming.
 
 * For mistakes like typos, dead links, bad images and the such, please **Open an Issue for this repository**.
 
