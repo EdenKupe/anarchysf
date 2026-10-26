@@ -14,3 +14,5 @@ Berneri has sixteen pages on Cabet's utopia,  which she finds particularly uncon
 "Etienne Cabet belonged to that type of social reformer whose love of humanity is  as boundless as their faith in their own power to work out its salvation." (219)
 
 "Though there are no rich and no poor in Icaria, no professional politicians and  soldiers, no policemen and no prisons, we feel strangely uncomfortable at  finding that it has so many features in common with the totalitarian régimes of  the twentieth century. [ . . . ] The love of uniformity, centralisation and  state-control is to be found in most utopias, but in _Voyage to Icaria_ it  is carried to such extremes as to make it resemble, in many parts, the satirical  utopias of our century." (235)
+
+Nick Heath's 2022 _The Idea_ has two pages on Cabet and Cabetism. He says _Voyage to Icaria_ "is not particularly original, but it became the required reading of every French radical (and beyond)." It is, he says, "a grim vision of communism." (38)
