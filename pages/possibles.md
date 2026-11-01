@@ -352,7 +352,6 @@ permalink: worksforconsideration.html
 | Vernor Vinge | 'The Blabber' | <a href="http://www.sfwa.org/2014/05/vernor-vinge-receive-special-prometheus-award/">www.sfwa.org/2014/05/vernor-vinge-receive-special-prometheus-award/</a> |
 | Vernor Vinge | Rainbows End | <a href="http://www.sfwa.org/2014/05/vernor-vinge-receive-special-prometheus-award/">www.sfwa.org/2014/05/vernor-vinge-receive-special-prometheus-award/</a> |
 | Ivon Volkart | Sajberfeministicka fantazija o uzitku kiborga | tagged as SF in the<a href="http://www.cira.ch/catalogue/index.php?lvl=categ_see&amp;id=346&amp;main=">CIRA</a>catalogue |
-| Élisabeth Vonarburg | In the Mothers' Land(also published asMaerlande Chronicles) | <a href="http://anarchy101.org/4872/what-is-your-favorite-anarchist-novel">anarchy101.org/4872/what-is-your-favorite-anarchist-novel</a> |
 | Susan Waggoner | Neptune's Tears | <a href="http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=10516413192">AbeBooks</a> |
 | Howard Waldrop | 'Heirs of the Perisphere' | <a href="http://thinkgalactic.org/reading-lists/by-author/">thinkgalactic.org/reading-lists/by-author/</a> |
 | A.H. Walker | The Electric Veil | <a href="http://www.amazon.co.uk/Electric-Veil-H-Walker/dp/1496141741/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1412333298&amp;sr=1-1&amp;keywords=anarchism">Amazon</a> |
